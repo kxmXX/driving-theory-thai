@@ -12,7 +12,7 @@
       "30 meters"
     ],
     "correct": 0,
-    "explanation_en": "A) Far enough to allow you to stop safely in an emergency. is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel about 17 meters per second. Increase to 4 seconds in rain.",
+    "explanation_en": "A) Far enough to allow you to stop safely in an emergency. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
     "image": null,
     "options_th": [
       "ไกลพอที่จะให้คุณหยุดได้อย่างปลอดภัยในกรณีฉุกเฉิน",
@@ -38,7 +38,7 @@
       "Passing on the left when the vehicle you are passing is waiting to make a right turn."
     ],
     "correct": 0,
-    "explanation_en": "A) Driving when your ability to operate a vehicle is impaired. is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel about 17 meters per second. Increase to 4 seconds in rain.",
+    "explanation_en": "A) Driving when your ability to operate a vehicle is impaired. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
     "image": null,
     "options_th": [
       "ขับขี่เมื่อความสามารถในการควบคุมยานพาหนะบกพร่อง",
@@ -64,7 +64,7 @@
       "To pass on the left when the vehicle in front of you is turning right."
     ],
     "correct": 1,
-    "explanation_en": "B) To use the bus lane as a passing lane. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. Only overtake on the left when the vehicle ahead is turning right and it is safe.",
+    "explanation_en": "B) To use the bus lane as a passing lane. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
     "image": null,
     "options_th": [
       "เมื่อมีน้ำท่วม",
@@ -74,7 +74,7 @@
     ],
     "explanation_th": "การใช้ช่องทางเดินรถประจำทางเป็นช่องทางแซง คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "3": "Overtaking on the right is illegal on single-lane roads."
+      "3": "Overtaking on the right is illegal on single-lane roads in Thailand."
     }
   },
   {
@@ -90,7 +90,7 @@
       "You may allow someone else to use your driver license."
     ],
     "correct": 2,
-    "explanation_en": "C) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel about 17 meters per second. Increase to 4 seconds in rain.",
+    "explanation_en": "C) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
     "image": null,
     "options_th": [
       "คุณอาจแสดงป้ายทะเบียนที่คุณทำขึ้นเอง",
@@ -113,7 +113,7 @@
       "When making a turn, you should give a signal at least 60 meters before turning."
     ],
     "correct": 0,
-    "explanation_en": "A) Slow-moving vehicles must use the left lane. is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel about 17 meters per second. Increase to 4 seconds in rain.",
+    "explanation_en": "A) Slow-moving vehicles must use the left lane. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย",
@@ -136,7 +136,7 @@
       "You may transport loads that extend no more than 2.5 meters from the front of your vehicle."
     ],
     "correct": 1,
-    "explanation_en": "B) You may transport loads that extend no more than 2.5 meters from the rear of your vehicle. is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel about 17 meters per second. Increase to 4 seconds in rain.",
+    "explanation_en": "B) You may transport loads that extend no more than 2.5 meters from the rear of your vehicle. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
     "image": null,
     "options_th": [
       "คุณอาจขนส่งสิ่งของที่ยื่นออกมาด้านละ 1 เมตรจากแต่ละด้านของยานพาหนะของคุณ",
@@ -159,7 +159,7 @@
       "When there is flooding"
     ],
     "correct": 0,
-    "explanation_en": "A) To use the bus land as a passing lane is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. Only overtake on the left when the vehicle ahead is turning right and it is safe.",
+    "explanation_en": "A) To use the bus land as a passing lane is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
     "image": null,
     "options_th": [
       "การใช้ช่องทางเดินรถประจำทางเป็นช่องทางแซง",
@@ -169,7 +169,7 @@
     ],
     "explanation_th": "การใช้ช่องทางเดินรถประจำทางเป็นช่องทางแซง คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "1": "Overtaking on the right is illegal on single-lane roads."
+      "1": "Overtaking on the right is illegal on single-lane roads in Thailand."
     }
   },
   {
@@ -185,7 +185,7 @@
       "A vehicle displaying dealer's plates."
     ],
     "correct": 1,
-    "explanation_en": "B) A vehicle without a front windshield. is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel about 17 meters per second. Increase to 4 seconds in rain.",
+    "explanation_en": "B) A vehicle without a front windshield. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่มีแตรดังเกิน 70 เดซิเบล",
@@ -208,7 +208,7 @@
       "You may display license plates that you have had made yourself."
     ],
     "correct": 1,
-    "explanation_en": "B) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel about 17 meters per second. Increase to 4 seconds in rain.",
+    "explanation_en": "B) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
     "image": null,
     "options_th": [
       "คุณอาจอนุญาตให้ผู้ขับขี่ที่ไม่มีใบอนุญาตใช้ยานพาหนะของคุณได้",
@@ -231,7 +231,7 @@
       "Not exceeding 35 centimeters"
     ],
     "correct": 1,
-    "explanation_en": "B) Not exceeding 25 centimeters is correct. Thai parking regulations specify exact minimum distances from crossings, intersections, and obstacles. Violating them endangers others.",
+    "explanation_en": "B) Not exceeding 25 centimeters is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
     "image": null,
     "options_th": [
       "ไม่เกิน 20 เซนติเมตร",
@@ -254,7 +254,7 @@
       "Cars purchased from general car dealers."
     ],
     "correct": 0,
-    "explanation_en": "A) The car must have the correct fittings and passed a vehicle inspection. is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel about 17 meters per second. Increase to 4 seconds in rain.",
+    "explanation_en": "A) The car must have the correct fittings and passed a vehicle inspection. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
     "image": null,
     "options_th": [
       "รถยนต์ต้องมีอุปกรณ์ติดตั้งที่ถูกต้องและผ่านการตรวจสอบยานพาหนะ",
@@ -277,7 +277,7 @@
       "No less than 20 meters"
     ],
     "correct": 0,
-    "explanation_en": "A) Far enough to allow you to stop safely in an emergency is correct. The two-second rule is the minimum safe following distance. At 60 km/h you travel 17 meters per second, so you need at least 30 meters to react and stop safely.",
+    "explanation_en": "A) Enough to be able to stop the car safely if necessary is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "เพียงพอที่จะสามารถหยุดรถได้อย่างปลอดภัยหากจำเป็น",
@@ -300,7 +300,7 @@
       "Drive slower than normal or not faster than the sight."
     ],
     "correct": 3,
-    "explanation_en": "D) Drive slower than normal or not faster than the sight. is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel about 17 meters per second. Increase to 4 seconds in rain.",
+    "explanation_en": "D) Drive slower than normal or not faster than the sight. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
     "image": null,
     "options_th": [
       "เปิดไฟสูงตลอดเวลาขณะขับขี่",

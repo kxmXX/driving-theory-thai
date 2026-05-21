@@ -40,7 +40,7 @@ export default function HomePage() {
                 </svg>
               </div>
               <div>
-                <h1 className="font-heading text-base font-bold leading-tight sm:text-lg">
+                <h1 className="font-heading text-base font-semibold leading-tight sm:text-lg">
                   {t("title")}
                 </h1>
                 <p className="text-[10px] uppercase tracking-widest text-white/60">Department of Land Transport</p>
@@ -84,7 +84,7 @@ export default function HomePage() {
               </svg>
             </div>
             <div className="flex-1">
-              <h2 className="font-heading text-sm font-bold text-gov-dark dark:text-white">{t("examMode")}</h2>
+              <h2 className="font-heading text-sm font-semibold text-gov-dark dark:text-white">{t("examMode")}</h2>
               <p className="text-[11px] text-muted leading-tight">{t("examDesc")}</p>
             </div>
             <svg className="h-5 w-5 text-neutral-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -102,7 +102,7 @@ export default function HomePage() {
               </svg>
             </div>
             <div className="flex-1">
-              <h2 className="font-heading text-sm font-bold text-gov-dark dark:text-white">{t("practice")}</h2>
+              <h2 className="font-heading text-sm font-semibold text-gov-dark dark:text-white">{t("practice")}</h2>
               <p className="text-[11px] text-muted leading-tight">{t("practiceDesc")}</p>
             </div>
             <svg className="h-5 w-5 text-neutral-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -120,7 +120,7 @@ export default function HomePage() {
               </svg>
             </div>
             <div className="flex-1">
-              <h2 className="font-heading text-sm font-bold text-gov-dark dark:text-white">{t("reviewMistakes")}</h2>
+              <h2 className="font-heading text-sm font-semibold text-gov-dark dark:text-white">{t("reviewMistakes")}</h2>
               <p className="text-[11px] text-muted leading-tight">{t("reviewDesc")}</p>
             </div>
             <svg className="h-5 w-5 text-neutral-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -138,7 +138,7 @@ export default function HomePage() {
               </svg>
             </div>
             <div className="flex-1">
-              <h2 className="font-heading text-sm font-bold text-gov-dark dark:text-white">{t("flashcards")}</h2>
+              <h2 className="font-heading text-sm font-semibold text-gov-dark dark:text-white">{t("flashcards")}</h2>
               <p className="text-[11px] text-muted leading-tight">{t("flashcardsDesc")}</p>
             </div>
             <svg className="h-5 w-5 text-neutral-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -156,7 +156,7 @@ export default function HomePage() {
               </svg>
             </div>
             <div className="flex-1">
-              <h2 className="font-heading text-sm font-bold text-gov-dark dark:text-white">{t("statistics")}</h2>
+              <h2 className="font-heading text-sm font-semibold text-gov-dark dark:text-white">{t("statistics")}</h2>
               <p className="text-[11px] text-muted leading-tight">{t("statsDesc")}</p>
             </div>
             <svg className="h-5 w-5 text-neutral-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -174,7 +174,7 @@ export default function HomePage() {
               </svg>
             </div>
             <div className="flex-1">
-              <h2 className="font-heading text-sm font-bold text-gov-dark dark:text-white">{t("studyGuide")}</h2>
+              <h2 className="font-heading text-sm font-semibold text-gov-dark dark:text-white">{t("studyGuide")}</h2>
               <p className="text-[11px] text-muted leading-tight">{t("studyDesc")}</p>
             </div>
             <svg className="h-5 w-5 text-neutral-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>

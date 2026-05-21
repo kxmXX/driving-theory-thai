@@ -70,6 +70,9 @@ const translations: Record<Language, Record<string, string>> = {
     ready: "Ready for the exam!",
     coverage: "Coverage",
     streak: "Streak",
+    reviewNow: "Review Now",
+    knewIt: "Knew it",
+    didntKnow: "Didn't know",
   },
   th: {
     title: "ข้อสอบใบขับขี่ไทย",
@@ -130,6 +133,9 @@ const translations: Record<Language, Record<string, string>> = {
     ready: "พร้อมสอบแล้ว!",
     coverage: "การครอบคลุม",
     streak: "สตรีค",
+    reviewNow: "ทบทวนทันที",
+    knewIt: "รู้แล้ว",
+    didntKnow: "ยังไม่รู้",
   },
   fr: {
     title: "Code de la Route Thaïlande",
@@ -190,6 +196,9 @@ const translations: Record<Language, Record<string, string>> = {
     ready: "Prêt pour l'examen!",
     coverage: "Couverture",
     streak: "Série",
+    reviewNow: "Réviser",
+    knewIt: "Je le savais",
+    didntKnow: "Je ne savais pas",
   },
 };
 

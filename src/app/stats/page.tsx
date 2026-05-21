@@ -126,16 +126,19 @@ export default function StatsPage() {
 
       {/* Weak Points */}
       {session.weakPoints.length > 0 && (
-        <div className="card p-4 mb-4">
-          <h2 className="font-heading font-semibold mb-3 text-red-600">Weak Points</h2>
-          <p className="text-sm text-muted mb-2">
+        <div className="card p-5 mb-4 text-center">
+          <h2 className="font-heading font-semibold mb-1 text-red-600">{t("weakPoints")}</h2>
+          <p className="text-sm text-muted mb-4">
             {session.weakPoints.length} questions missed 2+ times
           </p>
           <Link
             href="/review/"
-            className="touch-target inline-block rounded-xl bg-red-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-red-700"
+            className="touch-target inline-flex items-center gap-2 rounded-xl bg-red-600 px-6 py-3 text-sm font-semibold text-white transition hover:bg-red-700 shadow-sm"
           >
-            Review Now
+            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+            </svg>
+            {t("reviewNow")}
           </Link>
         </div>
       )}

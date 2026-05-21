@@ -12,7 +12,7 @@
       "within 15 meters of a pedestrian."
     ],
     "correct": 2,
-    "explanation_en": "C) within 15 meters of a railroad crossing. is correct. Thai parking regulations specify exact minimum distances from crossings, intersections, and obstacles. Violating them endangers others.",
+    "explanation_en": "C) within 15 meters of a railroad crossing. is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
     "image": null,
     "options_th": [
       "ในระยะ 15 เมตรจากหัวดับเพลิง",
@@ -20,7 +20,12 @@
       "ในระยะ 15 เมตรจากทางรถไฟตัดผ่าน",
       "ในระยะ 15 เมตรจากคนเดินเท้า"
     ],
-    "explanation_th": "ในระยะ 15 เมตรจากทางรถไฟตัดผ่าน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+    "explanation_th": "ในระยะ 15 เมตรจากทางรถไฟตัดผ่าน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
+    "wrong_explanations_en": {
+      "0": "Trains cannot stop quickly. Parking too close to tracks is extremely dangerous.",
+      "1": "Trains cannot stop quickly. Parking too close to tracks is extremely dangerous.",
+      "3": "Trains cannot stop quickly. Parking too close to tracks is extremely dangerous."
+    }
   },
   {
     "id": "Q002",
@@ -35,7 +40,7 @@
       "Image: 2.4.jpg"
     ],
     "correct": 0,
-    "explanation_en": "A) Image: 2.1.jpg is correct. This is the only legal parking position among the choices. The other images show parking violations such as blocking traffic, parking too close to crossings, or facing the wrong direction.",
+    "explanation_en": "A) is correct. The image in option A shows: a red car parked on a paved area to the side of the road with a brick patterned edge beside it. The car is positioned at an angle to the road. This is the only legal parking position. Option B shows: a scenario where a car is parked along the side of a road, next to a designated parking area indicated by diagonal white stripes. The road has yellow center lines, showing it's likely a two-way street. Option C shows: a yellow car approaching a railroad crossing, indicated by a warning sign depicting a train. The car is on the road, with the railway tracks visible. Option D shows: a top-down view of a small road with a pedestrian crossing marked by zebra stripes. A yellow car is positioned in front of the crossing, inside a small parking/waiting area. These all violate Thai parking regulations.",
     "image": null,
     "options_th": [
       "See picture",
@@ -58,7 +63,7 @@
       "Turn off your engine"
     ],
     "correct": 1,
-    "explanation_en": "B) Use a low gear is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes. Overheating brakes can fade or fail.",
+    "explanation_en": "B) Use a low gear is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes alone. Overheating brakes can fade or fail completely on long descents, leading to total loss of control.",
     "image": null,
     "options_th": [
       "เหยียบเบรกค้างไว้",
@@ -68,9 +73,9 @@
     ],
     "explanation_th": "คำตอบที่ถูกต้องคือ ใช้เกียร์ต่ำ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้",
     "wrong_explanations_en": {
-      "0": "Riding the brake overheats the pads.",
-      "2": "Neutral removes engine braking — extremely dangerous.",
-      "3": "Turning off the engine disables steering and brakes."
+      "0": "Riding the brake pedal generates excessive heat, causing brake fade.",
+      "2": "Neutral removes engine braking — you would rely only on brakes, which is extremely dangerous.",
+      "3": "Turning off the engine disables power steering and servo-assisted brakes."
     }
   },
   {
@@ -86,7 +91,7 @@
       "A vehicle with broken taillights."
     ],
     "correct": 3,
-    "explanation_en": "D) A vehicle with broken taillights. is correct. Certain vehicles are prohibited on public roads for safety. Operating an unsafe vehicle endangers everyone.",
+    "explanation_en": "D) A vehicle with broken taillights. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "รถแทรกเตอร์ที่มีล้อยาง",
@@ -109,7 +114,7 @@
       "Turn left without stopping."
     ],
     "correct": 1,
-    "explanation_en": "B) Stop. Wait for pedestrians and other vehicles from the right to pass in front of you before turning left. is correct. When turning left, signal early, check mirrors, and yield to oncoming traffic and pedestrians. Do not cut the corner.",
+    "explanation_en": "B) Stop. Wait for pedestrians and other vehicles from the right to pass in front of you before turning left. is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
     "image": null,
     "options_th": [
       "ลดความเร็วและเลี้ยวซ้ายโดยไม่ชักช้า",
@@ -132,7 +137,7 @@
       "Stop and wait for other car to pass."
     ],
     "correct": 2,
-    "explanation_en": "C) Put on your right turn signal and wait for the car to pass before proceeding. is correct. The image shows: The image depicts a car accident with a yellow car crashing into a pink car, near roadwork signs indicating a pedestrian crossing and a detour.  The cars' collision is highlighted by the yellow stars. The correct response prevents a collision and follows right-of-way rules.",
+    "explanation_en": "C) Put on your right turn signal and wait for the car to pass before proceeding. is correct. a car accident with a yellow car crashing into a pink car, near roadwork signs indicating a pedestrian crossing and a detour. The cars' collision is highlighted by the yellow stars. This is the correct answer based on the situation shown in the image.",
     "image": "9.jpg",
     "options_th": [
       "เปิดสัญญาณไฟเลี้ยวขวาและแซงทางซ้ายโดยไม่ชักช้า",
@@ -155,7 +160,7 @@
       "Both"
     ],
     "correct": 1,
-    "explanation_en": "B) The pink car is correct. The image shows: The image shows a two-lane intersection on the right, with a blue car waiting to turn left and a pink car approaching the intersection.  There are no other specific road signs or markings visible in the image. This is the correct answer for the Thai driving theory test.",
+    "explanation_en": "B) The pink car is correct. a two-lane intersection on the right, with a blue car waiting to turn left and a pink car approaching the intersection. There are no other specific road signs or markings visible in the image. This is the correct answer based on the situation shown in the image.",
     "image": "10.jpg",
     "options_th": [
       "รถสีน้ำเงิน",
@@ -163,7 +168,10 @@
       "รคที่ขับเร็วกว่า",
       "ทั้งสองคัน"
     ],
-    "explanation_th": "รถสีชมพู คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
+    "explanation_th": "รถสีชมพู คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น",
+    "wrong_explanations_en": {
+      "2": "\"The car driving faster\" is wrong because speeding up in this situation is dangerous."
+    }
   },
   {
     "id": "Q011",
@@ -178,7 +186,7 @@
       "Image: 11.4.jpg"
     ],
     "correct": 0,
-    "explanation_en": "A) Image: 11.1.jpg is correct. This is the only legal parking position among the choices. The other images show parking violations such as blocking traffic, parking too close to crossings, or facing the wrong direction.",
+    "explanation_en": "A) is correct. The image in option A shows: a parking lot with angled parking spaces. Cars of different colors are parked in the spaces, separated by a landscaped island. This is the only legal parking position. Option B shows: The image illustrates a top-down view of a car parked within a designated parking space, showing the vehicle's position relative to the parking lines and surrounding landscaping. Option C shows: a yellow car parked in a designated parking bay with diagonal striped lines. The parking bay is adjacent to a curb with a brick pattern. Option D shows: a road sign warning of a railway crossing ahead. A yellow car is positioned just before the railroad tracks. These all violate Thai parking regulations.",
     "image": null,
     "options_th": [
       "See picture",
@@ -201,7 +209,7 @@
       "Enter halfway into the next lane when an obstruction blocks the left side of the lane you are driving in."
     ],
     "correct": 2,
-    "explanation_en": "C) Drive within the speed limit is correct. Speed limits exist for a reason — they are calculated based on road conditions, visibility, and traffic. Exceeding them reduces your reaction time and increases crash severity.",
+    "explanation_en": "C) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "เลี้ยวเข้าไปในช่องทางเดินรถประจำทาง",
@@ -224,7 +232,7 @@
       "Reduce his/her speed and proceed with caution."
     ],
     "correct": 0,
-    "explanation_en": "A) Stop behind the line, and wait to make sure there is no cross traffic before proceeding. is correct. The image shows: The image shows a green car approaching a stop sign in Thailand (the word \"หยุด\" means \"stop\"). A blue car is also present, likely continuing straight through the intersection. This is the correct answer for the Thai driving theory test.",
+    "explanation_en": "A) Stop behind the line, and wait to make sure there is no cross traffic before proceeding. is correct. a green car approaching a stop sign in Thailand (the word \"หยุด\" means \"stop\"). A blue car is also present, likely continuing straight through the intersection. This is the correct answer based on the situation shown in the image.",
     "image": "13.jpg",
     "options_th": [
       "หยุดด้านหลังเส้น และรอให้แน่ใจว่าไม่มีรถสวนทางมาก่อนจึงจะขับต่อไป",
@@ -247,7 +255,7 @@
       "May make a U-turn."
     ],
     "correct": 3,
-    "explanation_en": "D) May make a U-turn. is correct. The image shows: The image shows two cars driving on a two-lane road with a double yellow line in the center. The cars are traveling in opposite directions. The correct response prevents a collision and follows right-of-way rules.",
+    "explanation_en": "D) May make a U-turn. is correct. two cars driving on a two-lane road with a double yellow line in the center. The cars are traveling in opposite directions. This is the correct answer based on the situation shown in the image.",
     "image": "15.jpg",
     "options_th": [
       "ไม่ได้รับอนุญาตให้แซงหรือเลื่อนเข้าไปในช่องทางด้านขวา",
@@ -270,7 +278,7 @@
       "When there is insufficient light."
     ],
     "correct": 1,
-    "explanation_en": "B) Immediately after consuming alcohol or any other intoxicant. is correct. Certain vehicles are prohibited on public roads for safety. Operating an unsafe vehicle endangers everyone.",
+    "explanation_en": "B) Immediately after consuming alcohol or any other intoxicant. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "หลังจากรับประทานยาแก้ท้องเสีย",
@@ -293,7 +301,7 @@
       "You may not pass on a bridge."
     ],
     "correct": 3,
-    "explanation_en": "D) You may not pass on a bridge. is correct. Only overtake when it is safe, legal, and you have clear visibility of oncoming traffic.",
+    "explanation_en": "D) You may not pass on a bridge. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
     "image": null,
     "options_th": [
       "คุณไม่สามารถแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
@@ -316,7 +324,7 @@
       "Proceed through the intersection without stopping."
     ],
     "correct": 2,
-    "explanation_en": "C) Stop and wait for other cars to clear the intersection before proceeding. is correct. The image shows: The image depicts a red car approaching an intersection where a yellow yield sign is present, while a blue car is driving through the intersection. The image shows a possible yield situation at an intersection. The correct response prevents a collision and follows right-of-way rules.",
+    "explanation_en": "C) Stop and wait for other cars to clear the intersection before proceeding. is correct. a red car approaching an intersection where a yellow yield sign is present, while a blue car is driving through the intersection. a possible yield situation at an intersection. This is the correct answer based on the situation shown in the image.",
     "image": "22.jpg",
     "options_th": [
       "ลดความเร็วลงและขับผ่านทางแยก",
@@ -339,7 +347,7 @@
       "Leave your car at the spot where it breaks down and arrange for repairs later."
     ],
     "correct": 2,
-    "explanation_en": "C) Pull your vehicle on to the shoulder and turn on your emergency flashers. is correct. If you break down: move to the shoulder, turn on hazard lights, and place a warning triangle behind your vehicle.",
+    "explanation_en": "C) Pull your vehicle on to the shoulder and turn on your emergency flashers. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ปล่อยรถของคุณไว้ตรงจุดที่เสียและเรียกช่างทันที",
@@ -362,7 +370,7 @@
       "Stop, then proceed only when it is safe to do so."
     ],
     "correct": 3,
-    "explanation_en": "D) Stop, then proceed only when it is safe to do so. is correct. A flashing red light works like a stop sign. You must come to a complete stop, check for traffic and pedestrians, and proceed only when it is safe. It is not the same as a flashing yellow light which only requires caution.",
+    "explanation_en": "D) Stop, then proceed only when it is safe to do so. is correct. A flashing red light functions exactly like a stop sign. You must come to a complete stop, check all directions, and only proceed when it is safe. Unlike a flashing yellow light which only requires caution, a flashing red demands a full stop.",
     "image": null,
     "options_th": [
       "ลดความเร็วลง จากนั้นขับต่อไปด้วยความระมัดระวังเมื่อปลอดภัยที่จะทำได้",
@@ -374,7 +382,7 @@
     "wrong_explanations_en": {
       "0": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely.",
       "1": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely.",
-      "2": "You do not need to avoid the road entirely — you just need to stop first, then proceed when safe."
+      "2": "You do not need to avoid the road entirely. Stop first, then proceed when safe."
     }
   },
   {
@@ -390,7 +398,7 @@
       "A vehicle whose engine is louder than 80 decibels"
     ],
     "correct": 1,
-    "explanation_en": "B) A vehicle with broken brake lights is correct. Certain vehicles are prohibited on public roads for safety. Operating an unsafe vehicle endangers everyone.",
+    "explanation_en": "B) A vehicle with broken brake lights is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "รถแทรกเตอร์ที่มีล้อยาง",
@@ -413,7 +421,7 @@
       "Within 30 meters of a crossroad."
     ],
     "correct": 3,
-    "explanation_en": "D) Within 30 meters of a crossroad. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. Only overtake on the left when the vehicle ahead is turning right and it is safe.",
+    "explanation_en": "D) Within 30 meters of a crossroad. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
     "image": null,
     "options_th": [
       "เมื่อคุณแซงทางซ้ายและรถที่ถูกแซงกำลังรอเลี้ยวขวา",
@@ -423,7 +431,7 @@
     ],
     "explanation_th": "ในระยะ 30 เมตรจากทางแยก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "0": "Overtaking on the right is illegal on single-lane roads."
+      "0": "Overtaking on the right is illegal on single-lane roads in Thailand."
     }
   },
   {
@@ -439,7 +447,7 @@
       "Turn immediately without stopping"
     ],
     "correct": 1,
-    "explanation_en": "B) Allow the pedestrians to cross the street before completing the turn. is correct. The image shows: The image shows a blue car preparing to turn left and a yellow car waiting at a stop bar, while a pedestrian is crossing the street at a crosswalk. The driver of the blue car must yield to the pedestrian. The correct response prevents a collision and follows right-of-way rules.",
+    "explanation_en": "B) Allow the pedestrians to cross the street before completing the turn. is correct. a blue car preparing to turn left and a yellow car waiting at a stop bar, while a pedestrian is crossing the street at a crosswalk. The driver of the blue car must yield to the pedestrian. This is the correct answer based on the situation shown in the image.",
     "image": "29.jpg",
     "options_th": [
       "ชะลอความเร็ว",
@@ -462,7 +470,7 @@
       "Where another vehicle is following at a distance of less than 120 meters"
     ],
     "correct": 0,
-    "explanation_en": "A) In an intersection is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "explanation_en": "A) In an intersection is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
     "image": null,
     "options_th": [
       "ในทางแยก",
@@ -485,7 +493,7 @@
       "May not pass or otherwise move into the lane on the right"
     ],
     "correct": 0,
-    "explanation_en": "A) May make a U-turn is correct. The image shows: The image depicts two cars traveling on a two-lane road with a double yellow line separating the lanes. There is a yellow car in the left lane and a pink car in the right lane. The correct response prevents a collision and follows right-of-way rules.",
+    "explanation_en": "A) May make a U-turn is correct. two cars traveling on a two-lane road with a double yellow line separating the lanes. There is a yellow car in the left lane and a pink car in the right lane. This is the correct answer based on the situation shown in the image.",
     "image": "31.jpg",
     "options_th": [
       "อาจกลับรถได้",
@@ -508,7 +516,7 @@
       "Where traffic lanes are divided by a broken line"
     ],
     "correct": 3,
-    "explanation_en": "D) Where traffic lanes are divided by a broken line is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "explanation_en": "D) Where traffic lanes are divided by a broken line is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
     "image": null,
     "options_th": [
       "ในทางแยก",
@@ -531,7 +539,7 @@
       "Operate a motor vehicle if you feel the onset of a heart attack."
     ],
     "correct": 3,
-    "explanation_en": "D) Operate a motor vehicle if you feel the onset of a heart attack. is correct. Certain vehicles are prohibited on public roads for safety. Operating an unsafe vehicle endangers everyone.",
+    "explanation_en": "D) Operate a motor vehicle if you feel the onset of a heart attack. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "แซงทางซ้ายบนถนนที่มีการจราจรสองช่องทางขึ้นไปในทิศทางเดียวกัน",
@@ -554,7 +562,7 @@
       "In an intersection"
     ],
     "correct": 3,
-    "explanation_en": "D) In an intersection is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "explanation_en": "D) In an intersection is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
     "image": null,
     "options_th": [
       "ในช่องว่างระหว่างเกาะกลางจราจร",
@@ -577,7 +585,7 @@
       "In front of a police station"
     ],
     "correct": 1,
-    "explanation_en": "B) On the right-hand side of a two-way street is correct. Thai parking regulations specify exact minimum distances from crossings, intersections, and obstacles. Violating them endangers others.",
+    "explanation_en": "B) On the right-hand side of a two-way street is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
     "image": null,
     "options_th": [
       "หน้าโรงเรียน",
@@ -600,7 +608,7 @@
       "Where the road is divided by a broken line."
     ],
     "correct": 2,
-    "explanation_en": "C) Within 30 meters of a crossroad. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. Only overtake on the left when the vehicle ahead is turning right and it is safe.",
+    "explanation_en": "C) Within 30 meters of a crossroad. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
     "image": null,
     "options_th": [
       "เมื่อคุณแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
@@ -610,7 +618,7 @@
     ],
     "explanation_th": "ในระยะ 30 เมตรจากทางแยก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "1": "Overtaking on the right is illegal on single-lane roads."
+      "1": "Overtaking on the right is illegal on single-lane roads in Thailand."
     }
   },
   {
@@ -626,7 +634,7 @@
       "Not pass."
     ],
     "correct": 1,
-    "explanation_en": "B) When heavy fog restricts visibility to less than 150 meters. is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "explanation_en": "B) When heavy fog restricts visibility to less than 150 meters. is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
     "image": null,
     "options_th": [
       "ฝนตกและเมื่อต้องการแซงยานพาหนะอื่นในกรณีฉุกเฉิน",
@@ -649,7 +657,7 @@
       "Carry loads that obstruct your vision behind and to the sides of your vehicle."
     ],
     "correct": 3,
-    "explanation_en": "C) Drive within the speed limit is correct. Speeding is one of the leading causes of accidents. Staying within the limit gives you time to react and reduces the severity of any crash.",
+    "explanation_en": "D) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "เข้าไปครึ่งช่องทางถัดไปเมื่อมีสิ่งกีดขวางกั้นด้านซ้ายของช่องทางที่คุณกำลังขับอยู่",
@@ -672,7 +680,7 @@
       "Reduce your speed. Then proceed with caution when it is safe to do so."
     ],
     "correct": 0,
-    "explanation_en": "A) Stop, then proceed only when it is safe to do so. is correct. A flashing red light works like a stop sign. You must come to a complete stop, check for traffic and pedestrians, and proceed only when it is safe. It is not the same as a flashing yellow light which only requires caution.",
+    "explanation_en": "A) Stop, then proceed only when it is safe to do so. is correct. A flashing red light functions exactly like a stop sign. You must come to a complete stop, check all directions, and only proceed when it is safe. Unlike a flashing yellow light which only requires caution, a flashing red demands a full stop.",
     "image": null,
     "options_th": [
       "หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น",
@@ -682,7 +690,7 @@
     ],
     "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย",
     "wrong_explanations_en": {
-      "1": "You do not need to avoid the road entirely — you just need to stop first, then proceed when safe.",
+      "1": "You do not need to avoid the road entirely. Stop first, then proceed when safe.",
       "2": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely.",
       "3": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely."
     }
@@ -700,7 +708,7 @@
       "No way ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) Right lane closed ahead is correct. The image shows: The Thai road sign indicates a road ahead where one lane is ending while the other continues straight. This sign signals that the lane on the right will be closed. This is the correct answer for the Thai driving theory test.",
+    "explanation_en": "B) Right lane closed ahead is correct. The Thai road sign indicates a road ahead where one lane is ending while the other continues straight. This sign signals that the lane on the right will be closed. This is the correct answer based on the situation shown in the image.",
     "image": "47.jpg",
     "options_th": [
       "ช่องทางจะแยกข้างหน้า",
@@ -723,7 +731,7 @@
       "Not enter the road ahead"
     ],
     "correct": 2,
-    "explanation_en": "C) Stop, then proceed only when it is safe to do so. is correct. A flashing red light works like a stop sign. You must come to a complete stop, check for traffic and pedestrians, and proceed only when it is safe. It is not the same as a flashing yellow light which only requires caution.",
+    "explanation_en": "C) Stop, then proceed only when it is safe to do so. is correct. A flashing red light functions exactly like a stop sign. You must come to a complete stop, check all directions, and only proceed when it is safe. Unlike a flashing yellow light which only requires caution, a flashing red demands a full stop.",
     "image": null,
     "options_th": [
       "ลดความเร็วลง จากนั้นขับต่อไปด้วยความระมัดระวังเมื่อปลอดภัยที่จะทำได้",
@@ -735,7 +743,7 @@
     "wrong_explanations_en": {
       "0": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely.",
       "1": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely.",
-      "3": "You do not need to avoid the road entirely — you just need to stop first, then proceed when safe."
+      "3": "You do not need to avoid the road entirely. Stop first, then proceed when safe."
     }
   },
   {
@@ -751,7 +759,7 @@
       "Move to the right and proceed around the obstruction without delay."
     ],
     "correct": 0,
-    "explanation_en": "A) Put on your right turn signal and wait for yellow car to pass before proceeding. is correct. The image shows: The image depicts a red car damaged in a collision with the road markings indicating a narrowing road ahead with a yellow car driving safely in the same direction. The narrowing road is indicated by the road sign shown. The correct response prevents a collision and follows right-of-way rules.",
+    "explanation_en": "A) Put on your right turn signal and wait for yellow car to pass before proceeding. is correct. a red car damaged in a collision with the road markings indicating a narrowing road ahead with a yellow car driving safely in the same direction. The narrowing road is indicated by the road sign shown. This is the correct answer based on the situation shown in the image.",
     "image": "50.jpg",
     "options_th": [
       "เปิดสัญญาณไฟเลี้ยวขวาและรอให้รถสีเหลืองผ่านไปก่อนจึงจะขับต่อไป",
@@ -774,7 +782,7 @@
       "None of the pictures."
     ],
     "correct": 3,
-    "explanation_en": "D) None of the pictures. is correct. Thai parking regulations specify exact minimum distances from crossings, intersections, and obstacles. Violating them endangers others.",
+    "explanation_en": "D) None of the pictures. is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
     "image": null,
     "options_th": [
       "See picture",
@@ -797,7 +805,7 @@
       "A tank used in warfare."
     ],
     "correct": 1,
-    "explanation_en": "B) A vehicle without a front windshield. is correct. Certain vehicles are prohibited on public roads for safety. Operating an unsafe vehicle endangers everyone.",
+    "explanation_en": "B) A vehicle without a front windshield. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่มีแตรดังเกิน 70 เดซิเบล",
@@ -820,7 +828,7 @@
       "Stop and wait for all other cars to pass."
     ],
     "correct": 2,
-    "explanation_en": "C) Stop to allow the car on the left to pass. Only proceed when safe. is correct. The image shows: The image depicts a four-way intersection with four cars approaching from different directions. The cars appear to be at the point where they can proceed through the intersection. The correct response prevents a collision and follows right-of-way rules.",
+    "explanation_en": "C) Stop to allow the car on the left to pass. Only proceed when safe. is correct. a four-way intersection with four cars approaching from different directions. The cars appear to be at the point where they can proceed through the intersection. This is the correct answer based on the situation shown in the image.",
     "image": "58.jpg",
     "options_th": [
       "ลดความเร็วลงเพื่อให้รถทางซ้ายและขวาผ่านไปก่อนจึงจะขับต่อไป",
@@ -843,7 +851,7 @@
       "Parking on a flat surface with wheels straight"
     ],
     "correct": 1,
-    "explanation_en": "B) Parking facing downhill with wheels turned in is correct. Thai parking regulations specify exact minimum distances from crossings, intersections, and obstacles. Violating them endangers others.",
+    "explanation_en": "B) Parking facing downhill with wheels turned in is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
     "image": null,
     "options_th": [
       "See picture",
@@ -866,7 +874,7 @@
       "A tank used in warfare."
     ],
     "correct": 0,
-    "explanation_en": "D) A vehicle with broken taillights is correct. You cannot drive a vehicle with non-functioning lights because other drivers cannot see you braking or turning, especially at night.",
+    "explanation_en": "A) A vehicle without a front windshield. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่ไม่มีกระจกหน้ารถ",
@@ -889,7 +897,7 @@
       "When you are passing on the left and the vehicle being passed is waiting to turn right."
     ],
     "correct": 0,
-    "explanation_en": "A) Within 30 meters of a crossroad. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. Only overtake on the left when the vehicle ahead is turning right and it is safe.",
+    "explanation_en": "A) Within 30 meters of a crossroad. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
     "image": null,
     "options_th": [
       "ในระยะ 30 เมตรจากทางแยก",
@@ -899,7 +907,7 @@
     ],
     "explanation_th": "ในระยะ 30 เมตรจากทางแยก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "3": "Overtaking on the right is illegal on single-lane roads."
+      "3": "Overtaking on the right is illegal on single-lane roads in Thailand."
     }
   },
   {
@@ -915,7 +923,7 @@
       "You may display license plates you have had made yourself."
     ],
     "correct": 0,
-    "explanation_en": "C) You must not turn your engine off while driving is correct. Turning off the engine while moving disables power steering and brakes, making the vehicle uncontrollable and extremely dangerous.",
+    "explanation_en": "A) You may not drive a vehicle for which the annual tax has not been paid. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "คุณไม่สามารถขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปีได้",
@@ -938,7 +946,7 @@
       "A tank used in warfare."
     ],
     "correct": 2,
-    "explanation_en": "C) A vehicle with broken brake lights. is correct. Certain vehicles are prohibited on public roads for safety. Operating an unsafe vehicle endangers everyone.",
+    "explanation_en": "C) A vehicle with broken brake lights. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "รถแทรกเตอร์ที่มีล้อยาง",
@@ -961,7 +969,7 @@
       "Drive immediately after having consumed alcohol."
     ],
     "correct": 3,
-    "explanation_en": "D) Drive immediately after having consumed alcohol. is correct. Certain vehicles are prohibited on public roads for safety. Operating an unsafe vehicle endangers everyone.",
+    "explanation_en": "D) Drive immediately after having consumed alcohol. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ขับรถแข่งเมื่อได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
@@ -984,7 +992,7 @@
       "On the right-hand side of a two-way street"
     ],
     "correct": 3,
-    "explanation_en": "D) On the right-hand side of a two-way street is correct. Thai parking regulations specify exact minimum distances from crossings, intersections, and obstacles. Violating them endangers others.",
+    "explanation_en": "D) On the right-hand side of a two-way street is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
     "image": null,
     "options_th": [
       "หน้าโรงเรียน",
@@ -1007,7 +1015,7 @@
       "Slow down"
     ],
     "correct": 1,
-    "explanation_en": "B) Stop and wait for the blue car to pass before proceeding. is correct. The image shows: The image depicts a four-way intersection with four cars approaching from different directions. There are no road signs visible, and the vehicles are positioned in a way that suggests a potential traffic conflict. The correct response prevents a collision and follows right-of-way rules.",
+    "explanation_en": "B) Stop and wait for the blue car to pass before proceeding. is correct. a four-way intersection with four cars approaching from different directions. There are no road signs visible, and the vehicles are positioned in a way that suggests a potential traffic conflict. This is the correct answer based on the situation shown in the image.",
     "image": "76.jpg",
     "options_th": [
       "หยุดและรอให้รถสีขาวเลี้ยวขวาก่อนจึงจะขับต่อไป",
@@ -1030,7 +1038,7 @@
       "None of the pictures are correct."
     ],
     "correct": 3,
-    "explanation_en": "D) None of the pictures are correct is correct. All three images show illegal parking positions. Thai law prohibits parking on crossings, near fire hydrants, and facing the wrong direction.",
+    "explanation_en": "D) None of the pictures are correct. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "See picture",
@@ -1053,7 +1061,7 @@
       "Turn right immediately."
     ],
     "correct": 1,
-    "explanation_en": "B) Stop and wait for the yellow car to pass then turn after. is correct. The image shows: The image depicts a two-lane road with a car turning left, a car going straight, and a parked car on an adjacent road. The road has directional arrows and a dividing line, indicating traffic flow. The correct action ensures safety and follows Thai traffic rules.",
+    "explanation_en": "B) Stop and wait for the yellow car to pass then turn after. is correct. a two-lane road with a car turning left, a car going straight, and a parked car on an adjacent road. The road has directional arrows and a dividing line, indicating traffic flow. Stop and wait for the yellow car to pass then turn after. is the correct action in this situation. It follows Thai traffic rules and prevents accidents.",
     "image": "83.jpg",
     "options_th": [
       "เลี้ยวขวาช้าๆ ระมัดระวังรถคันอื่น",
@@ -1076,7 +1084,7 @@
       "When it is raining."
     ],
     "correct": 2,
-    "explanation_en": "C) When heavy fog restricts visibility to less than 150 meters. is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "explanation_en": "C) When heavy fog restricts visibility to less than 150 meters. is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
     "image": null,
     "options_th": [
       "เพื่อขอทาง优先ในกรณีฉุกเฉิน",
@@ -1099,7 +1107,7 @@
       "Use a low gear"
     ],
     "correct": 3,
-    "explanation_en": "D) Use a low gear is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes. Overheating brakes can fade or fail.",
+    "explanation_en": "D) Use a low gear is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes alone. Overheating brakes can fade or fail completely on long descents, leading to total loss of control.",
     "image": null,
     "options_th": [
       "ปิดเครื่องยนต์",
@@ -1109,9 +1117,9 @@
     ],
     "explanation_th": "คำตอบที่ถูกต้องคือ ใช้เกียร์ต่ำ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้",
     "wrong_explanations_en": {
-      "0": "Turning off the engine disables steering and brakes.",
-      "1": "Neutral removes engine braking — extremely dangerous.",
-      "2": "Riding the brake overheats the pads."
+      "0": "Turning off the engine disables power steering and servo-assisted brakes.",
+      "1": "Neutral removes engine braking — you would rely only on brakes, which is extremely dangerous.",
+      "2": "Riding the brake pedal generates excessive heat, causing brake fade."
     }
   },
   {
@@ -1127,7 +1135,7 @@
       "The driver of the yellow car in the picture may turn into the right lane."
     ],
     "correct": 2,
-    "explanation_en": "C) The driver of the yellow car in the picture may not pull into the right lane to overtake another vehicle. is correct. The image shows: The image depicts two cars on a straight road with a yellow centerline, indicating that the vehicles are traveling in opposite directions on a two-lane road. The image illustrates a basic road scenario where drivers must stay on their appropriate side of the road. The correct response prevents a collision and follows right-of-way rules.",
+    "explanation_en": "C) The driver of the yellow car in the picture may not pull into the right lane to overtake another vehicle. is correct. two cars on a straight road with a yellow centerline, indicating that the vehicles are traveling in opposite directions on a two-lane road. The image illustrates a basic road scenario where drivers must stay on their appropriate side of the road. This is the correct answer based on the situation shown in the image.",
     "image": "88.jpg",
     "options_th": [
       "ย้ายรถสีเหลืองออกจากถนนและเปิดไฟกะพริบฉุกเฉิน",
@@ -1150,7 +1158,7 @@
       "On a bridge"
     ],
     "correct": 3,
-    "explanation_en": "D) On a bridge is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "explanation_en": "D) On a bridge is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
     "image": null,
     "options_th": [
       "ในระยะ 150 เมตรของสะพาน",
@@ -1173,7 +1181,7 @@
       "Within 150 meters of the base of a bridge."
     ],
     "correct": 1,
-    "explanation_en": "B) In an intersection. is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "explanation_en": "B) In an intersection. is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
     "image": null,
     "options_th": [
       "ในช่องว่างระหว่างเกาะกลางจราจร",
@@ -1196,7 +1204,7 @@
       "30 days"
     ],
     "correct": 0,
-    "explanation_en": "D) 15 days is correct. In Thailand, you have 15 days to pay a traffic fine. Failing to pay on time can result in additional penalties or legal action.",
+    "explanation_en": "A) 7 days is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "7 วัน",
@@ -1219,7 +1227,7 @@
       "10 years"
     ],
     "correct": 2,
-    "explanation_en": "C) 5 years is correct. In Thailand, vehicles must be inspected annually starting from 5 years of age. Newer vehicles have different inspection schedules.",
+    "explanation_en": "C) 7 years is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "3 ปี",
@@ -1242,7 +1250,7 @@
       "Car with a lifetime of 10 years, wishing to renew the annual tax must have the car to be checked at a private condition."
     ],
     "correct": 0,
-    "explanation_en": "B) The driver and the passenger must wear a helmet is correct. Thai law requires both the driver and passenger on a motorcycle to wear helmets. It reduces the risk of fatal head injuries by about 40%.",
+    "explanation_en": "A) Motorcycle that has reached 5 years of life, wishing to renew annual taxes must bring the car to a private condition examination center. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "รถจักรยานยนต์ที่มีอายุครบ 5 ปี ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน",
@@ -1265,7 +1273,7 @@
       "The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over."
     ],
     "correct": 3,
-    "explanation_en": "A) It is the area in which a vehicle may stop for a short period is correct. A safety zone is a designated area where vehicles may stop briefly. It is not for parking or prolonged stops.",
+    "explanation_en": "D) The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "บริเวณที่ผู้ขับขี่สามารถนำรถผ่านได้",
@@ -1288,7 +1296,7 @@
       "A safety zone"
     ],
     "correct": 2,
-    "explanation_en": "C) 150 meters distance from the foot of a bridge is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "explanation_en": "C) 150 meters distance from the foot of a bridge is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
     "image": null,
     "options_th": [
       "ถนนที่มีป้ายห้ามกลับรถ",
@@ -1311,7 +1319,7 @@
       "Stop the car at least 5 meters from the railroad."
     ],
     "correct": 3,
-    "explanation_en": "D) Stop the car at least 5 meters from the railroad. is correct. Only overtake when it is safe, legal, and you have clear visibility of oncoming traffic.",
+    "explanation_en": "D) Stop the car at least 5 meters from the railroad. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
     "image": null,
     "options_th": [
       "หยุดรอสัญญาณไฟและเปิดไฟฉุกเฉิน",
@@ -1334,7 +1342,7 @@
       "Motorcycles must drive in the left lane of the vehicle."
     ],
     "correct": 3,
-    "explanation_en": "A) The car driver and passengers must wear seat belts at all times is correct. Seat belts reduce the risk of fatal injury by about 50%. They are mandatory for all occupants in Thailand.",
+    "explanation_en": "D) Motorcycles must drive in the left lane of the vehicle. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "รถบรรทุกต้องขับในช่องทางขวาสุด",
@@ -1357,7 +1365,7 @@
       "Increase caution and park the car"
     ],
     "correct": 2,
-    "explanation_en": "C) Drive slowly if you see that it is unsafe for other cars or pedestrians in the way ahead. Have to stop the car before reaching the line, make way. is correct. The image shows: The image shows a yield sign, which indicates that drivers must give way to other traffic. It's a key road sign for yielding right of way. The correct action ensures safety and follows Thai traffic rules.",
+    "explanation_en": "C) Drive slowly if you see that it is unsafe for other cars or pedestrians in the way ahead. Have to stop the car before reaching the line, make way. is correct. a yield sign, which indicates that drivers must give way to other traffic. It's a key road sign for yielding right of way. Drive slowly if you see that it is unsafe for other cars or pedestrians in the way ahead. Have to stop the car before reaching the line, make way. is the correct action in this situation. It follows Thai traffic rules and prevents accidents.",
     "image": "115.jpg",
     "options_th": [
       "ระมัดระวังเป็นพิเศษ จากนั้นหยุดรถ",
@@ -1380,7 +1388,7 @@
       "Car on the solid line must not pass or straddle the solid line But the car on the side of the dotted line may overtake when it is considered safe."
     ],
     "correct": 3,
-    "explanation_en": "D) Car on the solid line must not pass or straddle the solid line But the car on the side of the dotted line may overtake when it is considered safe. is correct. The image shows: The image depicts road markings on a highway, with a solid yellow line separating the traffic lanes and dashed yellow lines indicating lane changes.  This indicates lane division and informs traffic which lanes are accessible safely. The correct action ensures safety and follows Thai traffic rules.",
+    "explanation_en": "D) Car on the solid line must not pass or straddle the solid line But the car on the side of the dotted line may overtake when it is considered safe. is correct. road markings on a highway, with a solid yellow line separating the traffic lanes and dashed yellow lines indicating lane changes. This indicates lane division and informs traffic which lanes are accessible safely. Car on the solid line must not pass or straddle the solid line But the car on the side of the dotted line may overtake when it is considered safe. is the correct action in this situation. It follows Thai traffic rules and prevents accidents.",
     "image": "116.jpg",
     "options_th": [
       "ห้ามเลี้ยวซ้ายหรือเลี้ยวขวา",
@@ -1403,7 +1411,7 @@
       "Slow down and use caution when driving."
     ],
     "correct": 3,
-    "explanation_en": "D) Slow down and use caution when driving is correct. In community areas, schools, and crowded places, children and pedestrians can appear suddenly. Reduce speed and stay alert at all times.",
+    "explanation_en": "D) Slow down and use caution when driving. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "บีบแตรและเร่งความเร็วเพื่อให้ผ่านไปโดยเร็ว",
@@ -1426,7 +1434,7 @@
       "Stop the car on the road. And wait until the rain stops and then continue driving."
     ],
     "correct": 0,
-    "explanation_en": "A) Reduce the speed carefully. Turn on the headlight and wiper. is correct. In heavy rain, reduce speed, turn on headlights and wipers, and increase following distance. If visibility is too poor, pull over safely and wait.",
+    "explanation_en": "A) Reduce the speed carefully. Turn on the headlight and wiper. is correct. In wet conditions, reduce speed by at least 20%. Wet roads can double your stopping distance, and hydroplaning can occur above 80 km/h.",
     "image": null,
     "options_th": [
       "ลดความเร็วลงอย่างระมัดระวัง เปิดไฟหน้าและที่ปัดน้ำฝน",
@@ -1449,7 +1457,7 @@
       "Raise your right hand to raise your eyebrows to show gratitude."
     ],
     "correct": 2,
-    "explanation_en": "C) Turn on the high beam to show gratitude. is correct. At an unmarked intersection, the vehicle coming from your right has the right of way. You must slow down and yield.",
+    "explanation_en": "C) Turn on the high beam to show gratitude. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ก้มศีรษะเพื่อแสดงความขอบคุณ",
@@ -1472,7 +1480,7 @@
       "Chase pedestrians crossing the crosswalk."
     ],
     "correct": 1,
-    "explanation_en": "B) Prevent danger or accident that may occur from the car. is correct. The horn should only be used to warn of danger or to prevent an accident. Using it unnecessarily disturbs others and may be fined.",
+    "explanation_en": "B) Prevent danger or accident that may occur from the car. is correct. The horn should only be used to warn of danger or prevent an accident. Unnecessary honking disturbs others and may result in a fine.",
     "image": null,
     "options_th": [
       "ทักทายผู้ขับขี่คนอื่นที่รู้จัก",
@@ -1495,7 +1503,7 @@
       "Park the car in a safe area. Turn on the car headlights and turn on the emergency lights."
     ],
     "correct": 3,
-    "explanation_en": "D) Park the car in a safe area. Turn on the car headlights and turn on the emergency lights. is correct. In heavy rain, reduce speed, turn on headlights and wipers, and increase following distance. If visibility is too poor, pull over safely and wait.",
+    "explanation_en": "D) Park the car in a safe area. Turn on the car headlights and turn on the emergency lights. is correct. In wet conditions, reduce speed by at least 20%. Wet roads can double your stopping distance, and hydroplaning can occur above 80 km/h.",
     "image": null,
     "options_th": [
       "เร่งความเร็วและผ่านบริเวณที่ฝนตกให้เร็วขึ้น",
@@ -1518,7 +1526,7 @@
       "Any gear"
     ],
     "correct": 0,
-    "explanation_en": "A) Low gear is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes. Overheating brakes can fade or fail.",
+    "explanation_en": "A) Low gear is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes alone. Overheating brakes can fade or fail completely on long descents, leading to total loss of control.",
     "image": null,
     "options_th": [
       "เกียร์ต่ำ",
@@ -1528,7 +1536,7 @@
     ],
     "explanation_th": "เกียร์ต่ำ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
     "wrong_explanations_en": {
-      "2": "Neutral removes engine braking — extremely dangerous."
+      "2": "Neutral removes engine braking — you would rely only on brakes, which is extremely dangerous."
     }
   },
   {
@@ -1544,7 +1552,7 @@
       "Use high lights all the way of driving."
     ],
     "correct": 0,
-    "explanation_en": "A) Reduce speed and be careful because the visibility is limited is correct. At night, your visibility is reduced. You cannot see hazards as far ahead, so you must drive slower and use your headlights properly.",
+    "explanation_en": "A) Leave more distance between cars than usual. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "เว้นระยะห่างระหว่างรถมากกว่าปกติ",
@@ -1567,7 +1575,7 @@
       "The best oil is the most expensive oil."
     ],
     "correct": 0,
-    "explanation_en": "D) All of the above is correct. Safe driving requires multiple precautions: maintaining your vehicle, following traffic rules, and staying alert. Neglecting any of these increases accident risk.",
+    "explanation_en": "A) Lubricating oil should not be added to petrol. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ไม่ควรเติมน้ำมันหล่อลื่นลงในน้ำมันเบนซิน",
@@ -1590,7 +1598,7 @@
       "At least once a week"
     ],
     "correct": 3,
-    "explanation_en": "D) At least once a week is correct. Tires must have sufficient tread depth and correct pressure. Worn tires reduce grip and increase stopping distance, especially in wet conditions.",
+    "explanation_en": "D) At least once a week is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "1 เดือน",
@@ -1613,7 +1621,7 @@
       "Use distilled water to wash"
     ],
     "correct": 0,
-    "explanation_en": "B) Use hot water to wash the stain is correct. Battery terminal stains are usually acid residue. Hot water helps neutralize and clean the acid safely. Always wear gloves and eye protection.",
+    "explanation_en": "A) Use warm water to wash and apply grease is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ใช้น้ำอุ่นล้างและทาจารบี",
@@ -1636,7 +1644,7 @@
       "Drivers and passengers Except for the elderly and children younger than 12 years old."
     ],
     "correct": 2,
-    "explanation_en": "C) All drivers and passengers, both adults and children, front and back seats. is correct. Proper seating position allows you to reach all controls comfortably and maintain control of the vehicle. Sit close enough to press the brake fully.",
+    "explanation_en": "C) All drivers and passengers, both adults and children, front and back seats. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ผู้ขับขี่และผู้โดยสารที่มีอายุเกิน 12 ปี เพราะสามารถคาดเข็มขัดนิรภัยได้",
@@ -1659,7 +1667,7 @@
       "To prevent the engine from shutting down"
     ],
     "correct": 3,
-    "explanation_en": "D) To prevent the engine from shutting down is correct. When driving through water, go slowly in low gear to avoid stalling the engine. Water in the intake can destroy the engine.",
+    "explanation_en": "D) To prevent the engine from shutting down is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ทำให้เครื่องยนต์ร้อน",
@@ -1682,7 +1690,7 @@
       "The car will save more fuel if it runs. With unstable speeds."
     ],
     "correct": 1,
-    "explanation_en": "B) The car will save fuel if driving at a constant speed is correct. Frequent acceleration and braking waste fuel. Maintaining a steady speed, especially on highways, significantly improves fuel efficiency.",
+    "explanation_en": "B) The car will save fuel if driving at a constant speed. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "รถจะประหยัดน้ำมันมากขึ้นหากวิ่งด้วยความเร็วสูง",
@@ -1705,7 +1713,7 @@
       "Continue driving as we have right of way."
     ],
     "correct": 0,
-    "explanation_en": "A) Slow down the car and let the car on the right hand to pass first. is correct. The image shows: The image, presumably from a Thai driving test, shows a driver's view of an intersection, likely asking the driver to consider which direction they should proceed (left or right) and the location of a stationary vehicle. The image guides the driver through the available turning lanes with arrows. This is the correct answer for the Thai driving theory test.",
+    "explanation_en": "A) Slow down the car and let the car on the right hand to pass first. is correct. The image guides the driver through the available turning lanes with arrows. This is the correct answer based on the situation shown in the image.",
     "image": "137.jpg",
     "options_th": [
       "ชะลอรถและให้รถทางขวามือผ่านไปก่อน",
@@ -1713,7 +1721,12 @@
       "ขับด้วยความเร็วเท่าเดิม",
       "ขับต่อไปตามที่เรามีสิทธิ์ทาง优先"
     ],
-    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: ชะลอรถและให้รถทางขวามือผ่านไปก่อน ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: ชะลอรถและให้รถทางขวามือผ่านไปก่อน ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย",
+    "wrong_explanations_en": {
+      "1": "\"Speed up the engine to pass first.\" is wrong because speeding up in this situation is dangerous.",
+      "2": "\"Drive at the same speed.\" is wrong because you must adjust your speed to the road conditions.",
+      "3": "\"Continue driving as we have right of way.\" is wrong because you do not automatically have priority."
+    }
   },
   {
     "id": "Q138",
@@ -1728,7 +1741,7 @@
       "The left area. Of the car that the driver can not see."
     ],
     "correct": 2,
-    "explanation_en": "C) The area that the driver can’t see clearly while driving. is correct. A blind spot is an area around your vehicle that you cannot see in your mirrors. Always turn your head to check before changing lanes or turning.",
+    "explanation_en": "C) The area that the driver can’t see clearly while driving. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "บริเวณด้านหน้ารถที่ผู้ขับขี่ไม่สามารถมองเห็นได้",
@@ -1751,7 +1764,7 @@
       "To increase the speed of the car"
     ],
     "correct": 1,
-    "explanation_en": "B) To slow the speed of the car is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes. Overheating brakes can fade or fail.",
+    "explanation_en": "B) To slow the speed of the car is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes alone. Overheating brakes can fade or fail completely on long descents, leading to total loss of control.",
     "image": null,
     "options_th": [
       "เพื่อเพิ่มพลังของรถ",
@@ -1761,7 +1774,7 @@
     ],
     "explanation_th": "เพื่อลดความเร็วของรถ คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น",
     "wrong_explanations_en": {
-      "2": "Turning off the engine disables steering and brakes."
+      "2": "Turning off the engine disables power steering and servo-assisted brakes."
     }
   },
   {
@@ -1777,7 +1790,7 @@
       "Drive in the lane right side to make a turn."
     ],
     "correct": 2,
-    "explanation_en": "C) Stop in the position to turn and let the opposite side to pass first. is correct. The image shows: The image presents a driver's view at an intersection with a green light, showing pedestrians crossing and a truck in front. The driver is approaching the intersection with a clear view of the road ahead and other vehicles. This is the correct answer for the Thai driving theory test.",
+    "explanation_en": "C) Stop in the position to turn and let the opposite side to pass first. is correct. a driver's view at an intersection with a green light, showing pedestrians crossing and a truck in front. The driver is approaching the intersection with a clear view of the road ahead and other vehicles. This is the correct answer based on the situation shown in the image.",
     "image": "141.jpg",
     "options_th": [
       "ควรรีบเลี้ยวตามเพราะมีรถใหญ่บังรถฝั่งตรงข้าม",
@@ -1785,7 +1798,10 @@
       "หยุดในตำแหน่งที่จะเลี้ยวและให้ฝั่งตรงข้ามผ่านไปก่อน",
       "ขับในช่องทางด้านขวาเพื่อทำการเลี้ยว"
     ],
-    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: หยุดในตำแหน่งที่จะเลี้ยวและให้ฝั่งตรงข้ามผ่านไปก่อน ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: หยุดในตำแหน่งที่จะเลี้ยวและให้ฝั่งตรงข้ามผ่านไปก่อน ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย",
+    "wrong_explanations_en": {
+      "1": "\"Speed up to turn right immediately.\" is wrong because speeding up in this situation is dangerous."
+    }
   },
   {
     "id": "Q143",
@@ -1800,7 +1816,7 @@
       "Negative pole"
     ],
     "correct": 3,
-    "explanation_en": "B) Disconnect the negative terminal first is correct. When removing a battery, always disconnect the negative terminal first. This prevents short circuits if your wrench touches the car frame.",
+    "explanation_en": "D) Negative pole is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ขั้วไหนก่อนก็ได้",
@@ -1823,7 +1839,7 @@
       "Give a hand signal to ask for directions."
     ],
     "correct": 0,
-    "explanation_en": "A) Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal light. is correct. Thai parking regulations specify exact minimum distances from crossings, intersections, and obstacles. Violating them endangers others.",
+    "explanation_en": "A) Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal light. is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
     "image": null,
     "options_th": [
       "มองดูรถที่ตามมาทางกระจกข้างและกระจกมองหลัง จากนั้นเปิดสัญญาณไฟเลี้ยวขวา",
@@ -1846,7 +1862,7 @@
       "Make braking more convenient"
     ],
     "correct": 2,
-    "explanation_en": "C) Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency. is correct. Proper seating position allows you to reach all controls comfortably and maintain control of the vehicle. Sit close enough to press the brake fully.",
+    "explanation_en": "C) Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ทำให้เข้าเกียร์ได้ง่าย",
@@ -1869,7 +1885,7 @@
       "Front side not exceeding 1 meters from automobile body, back side not exceeding bumper."
     ],
     "correct": 0,
-    "explanation_en": "A) Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body. is correct. Loads must be securely fastened and not extend beyond legal limits. An unsecured load can fall off and cause accidents.",
+    "explanation_en": "A) Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
     "image": null,
     "options_th": [
       "ด้านหน้าไม่เกินกันชน ด้านหลังไม่เกิน 2.50 เมตรจากตัวรถยนต์",
@@ -1892,7 +1908,7 @@
       "Turn left directly"
     ],
     "correct": 2,
-    "explanation_en": "C) Stop the vehicle and wait for the blue car to pass. is correct. The image shows: The image depicts a green car stopped at a stop sign instructing it to yield the right-of-way, while a blue car is approaching the intersection. The green car is waiting for the blue car to pass. This is the correct answer for the Thai driving theory test.",
+    "explanation_en": "C) Stop the vehicle and wait for the blue car to pass. is correct. a green car stopped at a stop sign instructing it to yield the right-of-way, while a blue car is approaching the intersection. The green car is waiting for the blue car to pass. This is the correct answer based on the situation shown in the image.",
     "image": "147.jpg",
     "options_th": [
       "กระพริบไฟให้รถสีน้ำเงินให้ผ่านไป",
@@ -1915,7 +1931,7 @@
       "Blue car should give way. Drive slowly through."
     ],
     "correct": 1,
-    "explanation_en": "B) Must stop and wait for the pedestrian to cross before turning. is correct. The image shows: The image depicts a blue truck with hazard lights on waiting to turn left at an intersection controlled by a pedestrian crossing. A yellow car waits to proceed in the opposite direction. The correct action ensures safety and follows Thai traffic rules.",
+    "explanation_en": "B) Must stop and wait for the pedestrian to cross before turning. is correct. a blue truck with hazard lights on waiting to turn left at an intersection controlled by a pedestrian crossing. A yellow car waits to proceed in the opposite direction. Must stop and wait for the pedestrian to cross before turning. is the correct action in this situation. It follows Thai traffic rules and prevents accidents.",
     "image": "148.jpg",
     "options_th": [
       "บีบแตรและกระพริบไฟเพื่อเตือนคนเดินเท้าขณะกำลังข้าม",
@@ -1938,7 +1954,7 @@
       "No, the driver cannot park on the left side of the road."
     ],
     "correct": 2,
-    "explanation_en": "C) No, the driver must stop the car within at least 3 meters before the zebra crossing. is correct. The image shows: The image shows a yellow car stopped on the road, adjacent to a pedestrian crosswalk and a sidewalk with trees. The car is positioned at the intersection of a street and a corner. This is the correct answer for the Thai driving theory test.",
+    "explanation_en": "C) No, the driver must stop the car within at least 3 meters before the zebra crossing. is correct. a yellow car stopped on the road, adjacent to a pedestrian crosswalk and a sidewalk with trees. The car is positioned at the intersection of a street and a corner. This is the correct answer based on the situation shown in the image.",
     "image": "149.jpg",
     "options_th": [
       "ใช่ ถูกต้องแล้ว",
@@ -1961,7 +1977,7 @@
       "U-turn to avoid obstacle ahead."
     ],
     "correct": 1,
-    "explanation_en": "B) Wait for the yellow car to pass first before turning right and proceeding ahead. is correct. The image shows: The image depicts a red car involved in a collision, possibly attempting to pass a yellow car. It also shows a road narrowing warning sign to the left. This is the correct answer for the Thai driving theory test.",
+    "explanation_en": "B) Wait for the yellow car to pass first before turning right and proceeding ahead. is correct. a red car involved in a collision, possibly attempting to pass a yellow car. It also shows a road narrowing warning sign to the left. This is the correct answer based on the situation shown in the image.",
     "image": "150.jpg",
     "options_th": [
       "บีบแตรเตือนรถสีเหลือง",
