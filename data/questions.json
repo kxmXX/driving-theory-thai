@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "Q001",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "You may not park your car...",
+    "question_th": "",
+    "options": [
+      "within 15 meters of a fire hydrant.",
+      "within 15 meters of a traffic light.",
+      "within 15 meters of a railroad crossing.",
+      "within 15 meters of a pedestrian."
+    ],
+    "correct": 2,
+    "explanation_en": "within 15 meters of a railroad crossing. is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q002",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "Which of the pictures below illustrates proper parking?",
+    "question_th": "",
+    "options": [
+      "See picture",
+      "See picture",
+      "See picture",
+      "See picture"
+    ],
+    "correct": 0,
+    "explanation_en": "This road sign indicates 'See picture'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": null
+  },
+  {
+    "id": "Q003",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "When descending a steep grade or hill, you should:",
+    "question_th": "",
+    "options": [
+      "Keep your foot on the brake",
+      "Use a low gear",
+      "Shift to neutral",
+      "Turn off your engine"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is Use a low gear. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q004",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "This sign means",
+    "question_th": "",
+    "options": [
+      "Keep to the right",
+      "All traffic must move to the right",
+      "Right turn allowed",
+      "No left turn"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'All traffic must move to the right'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "4.jpg"
+  },
+  {
+    "id": "Q005",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means",
+    "question_th": "",
+    "options": [
+      "Give way",
+      "Give way ahead",
+      "Stop",
+      "Stop ahead"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'Give way ahead'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "5.jpg"
+  },
+  {
+    "id": "Q006",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which type of vehicle is prohibited to drive on a public roadway?",
+    "question_th": "",
+    "options": [
+      "A tractor with rubber tires.",
+      "A tank used in warfare.",
+      "A vehicle with an 80-decibel engine.",
+      "A vehicle with broken taillights."
+    ],
+    "correct": 3,
+    "explanation_en": "A vehicle with broken taillights. is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q007",
+    "category": "road_signs",
+    "difficulty": 1,
+    "question_en": "When you see a sign reading 'Left Turn on Red,' you should:",
+    "question_th": "",
+    "options": [
+      "Lower your speed and turn left without delay.",
+      "Stop. Wait for pedestrians and other vehicles from the right to pass in front of you before turning left.",
+      "Stop. Wait for a green light before turning left.",
+      "Turn left without stopping."
+    ],
+    "correct": 1,
+    "explanation_en": "This road sign indicates 'Stop. Wait for pedestrians and other vehicles from the right to pass in front of you before turning left.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": null
+  },
+  {
+    "id": "Q008",
+    "category": "speed_limits",
+    "difficulty": 1,
+    "question_en": "How far back from the vehicle in front of you should you drive?",
+    "question_th": "",
+    "options": [
+      "Far enough to allow you to stop safely in an emergency.",
+      "50 meters",
+      "18 meters",
+      "30 meters"
+    ],
+    "correct": 0,
+    "explanation_en": "Far enough to allow you to stop safely in an emergency. is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": null
+  },
+  {
+    "id": "Q009",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "In the situation pictured, you should:",
+    "question_th": "",
+    "options": [
+      "Put on your right turn signal and pass on the left without delay.",
+      "Move to the right and proceed around the obstruction without delay.",
+      "Put on your right turn signal and wait for the car to pass before proceeding.",
+      "Stop and wait for other car to pass."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct meaning of this sign is 'Put on your right turn signal and wait for the car to pass before proceeding.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "9.jpg"
+  },
+  {
+    "id": "Q010",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "Which car has the right of way?",
+    "question_th": "",
+    "options": [
+      "The blue car",
+      "The pink car",
+      "The car driving faster",
+      "Both"
+    ],
+    "correct": 1,
+    "explanation_en": "The pink car is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": "10.jpg"
+  },
+  {
+    "id": "Q011",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Which of the pictures below illustrates proper parking?",
+    "question_th": "",
+    "options": [
+      "See picture",
+      "See picture",
+      "See picture",
+      "See picture"
+    ],
+    "correct": 0,
+    "explanation_en": "This road sign indicates 'See picture'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": null
+  },
+  {
+    "id": "Q012",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "As a driver, you must not:",
+    "question_th": "",
+    "options": [
+      "Make a turn into the bus lane.",
+      "Drive a racing car on a public road with the permission of the relevant traffic authorities.",
+      "Carry loads that obstruct your vision behind and to the sides of your vehicle.",
+      "Enter halfway into the next lane when an obstruction blocks the left side of the lane you are driving in."
+    ],
+    "correct": 2,
+    "explanation_en": "Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q013",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "The driver in Car A should:",
+    "question_th": "",
+    "options": [
+      "Stop behind the line, and wait to make sure there is no cross traffic before proceeding.",
+      "Slow Down",
+      "Proceed immediately without stopping or slowing.",
+      "Reduce his/her speed and proceed with caution."
+    ],
+    "correct": 0,
+    "explanation_en": "This road sign indicates 'Stop behind the line, and wait to make sure there is no cross traffic before proceeding.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": "13.jpg"
+  },
+  {
+    "id": "Q014",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "This sign on the road surface indicates:",
+    "question_th": "",
+    "options": [
+      "No passing within the cross-hatched lines.",
+      "The entrance/exit to a building.",
+      "No vehicles may cross the cross-hatched lines.",
+      "Absolutely no stopping in this area."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct meaning of this sign is 'Absolutely no stopping in this area.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "14.jpg"
+  },
+  {
+    "id": "Q015",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "The driver of the yellow vehicle in the picture:",
+    "question_th": "",
+    "options": [
+      "May not pass or otherwise move into the lane on the right.",
+      "Stop or slow down.",
+      "May not make a right turn.",
+      "May make a U-turn."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is May make a U-turn.. Understanding and following traffic rules is fundamental to safe driving.",
+    "image": "15.jpg"
+  },
+  {
+    "id": "Q016",
+    "category": "alcohol_drugs",
+    "difficulty": 1,
+    "question_en": "When is it prohibited for a motorist to drive?",
+    "question_th": "",
+    "options": [
+      "After taking medicine for diarrhea.",
+      "Immediately after consuming alcohol or any other intoxicant.",
+      "When he/she has a cold or flu.",
+      "When there is insufficient light."
+    ],
+    "correct": 1,
+    "explanation_en": "Immediately after consuming alcohol or any other intoxicant. is correct. Thailand has strict laws regarding alcohol and drugs while driving, with severe penalties for violations including license suspension.",
+    "image": null
+  },
+  {
+    "id": "Q017",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "When you see this sign you should:",
+    "question_th": "",
+    "options": [
+      "Falling rocks, be extra mindful.",
+      "Reduce your speed, crumbling surface.",
+      "Loose road ahead.",
+      "Slippery road ahead, be extra careful."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'Falling rocks, be extra mindful.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "17.jpg"
+  },
+  {
+    "id": "Q018",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "When you see this sign, you should:",
+    "question_th": "",
+    "options": [
+      "Drive carefully, winding road.",
+      "Watch for vehicles cutting in front.",
+      "Reduce your speed. The road may be slippery.",
+      "Stop immediately."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct meaning of this sign is 'Reduce your speed. The road may be slippery.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "18.jpg"
+  },
+  {
+    "id": "Q019",
+    "category": "documents",
+    "difficulty": 1,
+    "question_en": "Which of the following is NOT permitted?",
+    "question_th": "",
+    "options": [
+      "Driving when your ability to operate a vehicle is impaired.",
+      "Driving in dim or dark conditions with the headlights on, giving visibility of 150 meters.",
+      "Driving a racing car on a public road with the permission of the relevant traffic authorities.",
+      "Passing on the left when the vehicle you are passing is waiting to make a right turn."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is Driving when your ability to operate a vehicle is impaired.. Understanding document requirements is essential for all drivers in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q020",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which of these statements is true about passing?",
+    "question_th": "",
+    "options": [
+      "You may not pass on the left on a road with two or more lanes moving in the same direction.",
+      "You may not pass within 150 meters of an intersection.",
+      "You may not pass when there is an obstruction in the left lane.",
+      "You may not pass on a bridge."
+    ],
+    "correct": 3,
+    "explanation_en": "You may not pass on a bridge. is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q021",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "What does this sign mean ?",
+    "question_th": "",
+    "options": [
+      "Road separation, keep left",
+      "Two way traffic",
+      "Traffic island ahead",
+      "End of double road, merging of lanes ahead"
+    ],
+    "correct": 2,
+    "explanation_en": "The correct meaning of this sign is 'Traffic island ahead'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "21.jpg"
+  },
+  {
+    "id": "Q022",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "In the picture on the right, the driver must:",
+    "question_th": "",
+    "options": [
+      "Reduce his/her speed and proceed through the intersection.",
+      "Slow Down",
+      "Stop and wait for other cars to clear the intersection before proceeding.",
+      "Proceed through the intersection without stopping."
+    ],
+    "correct": 2,
+    "explanation_en": "This road sign indicates 'Stop and wait for other cars to clear the intersection before proceeding.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": "22.jpg"
+  },
+  {
+    "id": "Q023",
+    "category": "emergency",
+    "difficulty": 1,
+    "question_en": "If you experience a breakdown, you should:",
+    "question_th": "",
+    "options": [
+      "Leave your car at the spot where it breaks down and call a mechanic immediately.",
+      "Leave your car at the spot where it breaks down and arrange to have it towed immediately.",
+      "Pull your vehicle on to the shoulder and turn on your emergency flashers.",
+      "Leave your car at the spot where it breaks down and arrange for repairs later."
+    ],
+    "correct": 2,
+    "explanation_en": "Pull your vehicle on to the shoulder and turn on your emergency flashers. is the correct emergency procedure. Knowing how to respond in emergencies can save lives and prevent further accidents.",
+    "image": null
+  },
+  {
+    "id": "Q024",
+    "category": "speed_limits",
+    "difficulty": 1,
+    "question_en": "When you see a flashing red light, you should:",
+    "question_th": "",
+    "options": [
+      "Reduce your speed. Then proceed with caution when it is safe to do so.",
+      "Proceed with caution.",
+      "Not enter the road ahead.",
+      "Stop, then proceed only when it is safe to do so."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct speed regulation is: Stop, then proceed only when it is safe to do so.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q025",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "You may turn left",
+      "No left turn",
+      "Left curve ahead",
+      "Pass the obstacle ahead on the left"
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'You may turn left'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "25.jpg"
+  },
+  {
+    "id": "Q026",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "In which of the following circumstances is it forbidden to pass?",
+    "question_th": "",
+    "options": [
+      "When there is flooding.",
+      "To use the bus lane as a passing lane.",
+      "In front of a hospital.",
+      "To pass on the left when the vehicle in front of you is turning right."
+    ],
+    "correct": 1,
+    "explanation_en": "To use the bus lane as a passing lane. is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q027",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which type of vehicle is it prohibited to use on a public road?",
+    "question_th": "",
+    "options": [
+      "A tractor with rubber tires",
+      "A vehicle with broken brake lights",
+      "A tank used in warfare",
+      "A vehicle whose engine is louder than 80 decibels"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is A vehicle with broken brake lights. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q028",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "When is it prohibited to pass?",
+    "question_th": "",
+    "options": [
+      "When you are passing on the left and the vehicle being passed is waiting to turn right.",
+      "Where the road is divided by a broken line.",
+      "When you are passing on the left on a road with two or more lanes moving in the same direction.",
+      "Within 30 meters of a crossroad."
+    ],
+    "correct": 3,
+    "explanation_en": "Within 30 meters of a crossroad. is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q029",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "The driver intending to make a right turn in the picture should:",
+    "question_th": "",
+    "options": [
+      "Slow down",
+      "Allow the pedestrians to cross the street before completing the turn.",
+      "Begin turning then slow down to allow the pedestrians to cross the street.",
+      "Turn immediately without stopping"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is Allow the pedestrians to cross the street before completing the turn.. Understanding and following traffic rules is fundamental to safe driving.",
+    "image": "29.jpg"
+  },
+  {
+    "id": "Q030",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Where is it prohibited to make a U-turn?",
+    "question_th": "",
+    "options": [
+      "In an intersection",
+      "Within 150 meters of a bridge",
+      "In front of a hospital",
+      "Where another vehicle is following at a distance of less than 120 meters"
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'In an intersection'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": null
+  },
+  {
+    "id": "Q031",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "The driver of the vehicle in the picture.",
+    "question_th": "",
+    "options": [
+      "May make a U-turn",
+      "Stop or slow down",
+      "May not make a right turn",
+      "May not pass or otherwise move into the lane on the right"
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is May make a U-turn. Understanding and following traffic rules is fundamental to safe driving.",
+    "image": "31.jpg"
+  },
+  {
+    "id": "Q032",
+    "category": "documents",
+    "difficulty": 1,
+    "question_en": "Where is it permitted to make a U-turn?",
+    "question_th": "",
+    "options": [
+      "In an intersection",
+      "In a pedestrian crossing",
+      "On a bridge",
+      "Where traffic lanes are divided by a broken line"
+    ],
+    "correct": 3,
+    "explanation_en": "Where traffic lanes are divided by a broken line is the correct legal requirement. Proper documentation ensures accountability and compliance with Thai traffic laws.",
+    "image": null
+  },
+  {
+    "id": "Q033",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "It is prohibited to:",
+    "question_th": "",
+    "options": [
+      "Pass on the left on a road with two or more lanes of traffic moving in the same direction.",
+      "Drive when there is insufficient light.",
+      "Drive a racing car on a public road with the permission of the relevant traffic authorities.",
+      "Operate a motor vehicle if you feel the onset of a heart attack."
+    ],
+    "correct": 3,
+    "explanation_en": "Operate a motor vehicle if you feel the onset of a heart attack. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q034",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Stop. Give larger vehicles the right of way.",
+      "Stop to allow cross traffic or traffic on the main road to pass before proceeding.",
+      "Reduce your speed and give other vehicles the right of way.",
+      "Stop. Give smaller vehicles the right of way."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'Stop to allow cross traffic or traffic on the main road to pass before proceeding.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "34.jpg"
+  },
+  {
+    "id": "Q035",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Where is it prohibited to make a U-turn?",
+    "question_th": "",
+    "options": [
+      "In the spaces between traffic islands",
+      "Where another vehicle is following at a distance of less than 150 meters",
+      "Within 150 meters of the base of a bridge",
+      "In an intersection"
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is In an intersection. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q036",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "You must not park:",
+    "question_th": "",
+    "options": [
+      "In front of a school",
+      "On the right-hand side of a two-way street",
+      "On a grade",
+      "In front of a police station"
+    ],
+    "correct": 1,
+    "explanation_en": "On the right-hand side of a two-way street is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q037",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Cars may enter the road ahead",
+      "Cars may not enter the road ahead",
+      "Road ahead closed to all traffic",
+      "Parking for cars only"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'Cars may not enter the road ahead'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "37.jpg"
+  },
+  {
+    "id": "Q038",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "When is it prohibited to pass?",
+    "question_th": "",
+    "options": [
+      "When you are passing on the left on a road with two or more lanes moving in the same direction.",
+      "When you are passing on the left and the vehicle being passed is waiting to turn right.",
+      "Within 30 meters of a crossroad.",
+      "Where the road is divided by a broken line."
+    ],
+    "correct": 2,
+    "explanation_en": "Within 30 meters of a crossroad. is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q039",
+    "category": "documents",
+    "difficulty": 1,
+    "question_en": "Which of the following statements is true?",
+    "question_th": "",
+    "options": [
+      "You may display license plates that you have had made yourself.",
+      "You may allow unlicensed drivers to use your vehicle.",
+      "It is prohibited to drive a vehicle for which the annual tax has not been paid.",
+      "You may allow someone else to use your driver license."
+    ],
+    "correct": 2,
+    "explanation_en": "It is prohibited to drive a vehicle for which the annual tax has not been paid. is the correct legal requirement. Proper documentation ensures accountability and compliance with Thai traffic laws.",
+    "image": null
+  },
+  {
+    "id": "Q040",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "What does this sign mean?",
+    "question_th": "",
+    "options": [
+      "Cannot pass for vehicles exceeding 2.5 meters in height.",
+      "Cannot pass for vehicles less than 2.5 meters in height.",
+      "Cannot pass for vehicles exceeding 2.5 meters in width.",
+      "Cannot pass for vehicles less than 2.5 meters in width."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'Cannot pass for vehicles exceeding 2.5 meters in height.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "40.jpg"
+  },
+  {
+    "id": "Q041",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "What does this sign mean?",
+    "question_th": "",
+    "options": [
+      "Cannot pass for vehicles exceeding 2.5 meters in height.",
+      "Cannot pass for vehicles less than 2.5 meters in height.",
+      "Cannot pass for vehicles exceeding 2.5 meters in width.",
+      "Cannot pass for vehicles less than 2.5 meters in width."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct meaning of this sign is 'Cannot pass for vehicles exceeding 2.5 meters in width.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "41.jpg"
+  },
+  {
+    "id": "Q042",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Bridge ahead",
+      "Road narrows ahead",
+      "Parallel road ahead",
+      "Tunnel ahead"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'Road narrows ahead'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "42.jpg"
+  },
+  {
+    "id": "Q043",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "You are required to turn on your headlights:",
+    "question_th": "",
+    "options": [
+      "When it rains and when seeking to overtake other vehicles in an emergency.",
+      "When heavy fog restricts visibility to less than 150 meters.",
+      "When you intend to make a right turn.",
+      "Not pass."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is When heavy fog restricts visibility to less than 150 meters.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q044",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "As a driver, you must not:",
+    "question_th": "",
+    "options": [
+      "Enter halfway into the next lane when an obstruction blocks the left side of the lane you are driving in.",
+      "Make a turn into the bus lane.",
+      "Drive a racing car on a public road with the permission of the relevant traffic authorities.",
+      "Carry loads that obstruct your vision behind and to the sides of your vehicle."
+    ],
+    "correct": 3,
+    "explanation_en": "Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q045",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "When you see this sign, you should:",
+    "question_th": "",
+    "options": [
+      "Reduce your speed and check for oncoming traffic before crossing. One-land bridge ahead.",
+      "Use low gear. High bridge.",
+      "Reduce your speed and proceed across the bridge.",
+      "Reduce your speed and use the detour. Bridge out."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'Reduce your speed and check for oncoming traffic before crossing. One-land bridge ahead.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "45.jpg"
+  },
+  {
+    "id": "Q046",
+    "category": "speed_limits",
+    "difficulty": 1,
+    "question_en": "When you see a flashing red light, you should:",
+    "question_th": "",
+    "options": [
+      "Stop, then proceed only when it is safe to do so.",
+      "Not enter the road ahead.",
+      "Proceed with caution.",
+      "Reduce your speed. Then proceed with caution when it is safe to do so."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct speed regulation is: Stop, then proceed only when it is safe to do so.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q047",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "What does the sign mean?",
+    "question_th": "",
+    "options": [
+      "Lanes will split ahead",
+      "Right lane closed ahead",
+      "Left lanes will merge",
+      "No way ahead"
+    ],
+    "correct": 1,
+    "explanation_en": "This road sign indicates 'Right lane closed ahead'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": "47.jpg"
+  },
+  {
+    "id": "Q048",
+    "category": "speed_limits",
+    "difficulty": 1,
+    "question_en": "When you see a flashing red light, you should:",
+    "question_th": "",
+    "options": [
+      "Reduce your speed. Then proceed with caution when it is safe to do so.",
+      "Proceed with caution",
+      "Stop, then proceed only when it is safe to do so.",
+      "Not enter the road ahead"
+    ],
+    "correct": 2,
+    "explanation_en": "The correct speed regulation is: Stop, then proceed only when it is safe to do so.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q049",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "No taxis",
+      "No parking against curb",
+      "The road ahead is closed to all traffic",
+      "No noise"
+    ],
+    "correct": 3,
+    "explanation_en": "The correct meaning of this sign is 'No noise'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "49.jpg"
+  },
+  {
+    "id": "Q050",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "In the situation pictured below, you should:",
+    "question_th": "",
+    "options": [
+      "Put on your right turn signal and wait for yellow car to pass before proceeding.",
+      "Stop and wait for other car to pass.",
+      "Put on your right turn signal and pass on the left without delay.",
+      "Move to the right and proceed around the obstruction without delay."
+    ],
+    "correct": 0,
+    "explanation_en": "This road sign indicates 'Put on your right turn signal and wait for yellow car to pass before proceeding.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": "50.jpg"
+  },
+  {
+    "id": "Q051",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Which of the pictures below illustrates proper parking?",
+    "question_th": "",
+    "options": [
+      "See picture",
+      "See picture",
+      "See picture",
+      "None of the pictures."
+    ],
+    "correct": 3,
+    "explanation_en": "This road sign indicates 'None of the pictures.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": null
+  },
+  {
+    "id": "Q052",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Road finishing ahead",
+      "End of controlled area",
+      "No cars or motorbikes in this area",
+      "Dead end"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'End of controlled area'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "52.jpg"
+  },
+  {
+    "id": "Q053",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "The dividing line in the middle of the road pictured indicates",
+    "question_th": "",
+    "options": [
+      "This is a dual lane road.",
+      "Drivers can freely switch lanes.",
+      "Cars may not pull into the right lane to overtake another vehicle.",
+      "Drivers may make U-turns."
+    ],
+    "correct": 2,
+    "explanation_en": "Cars may not pull into the right lane to overtake another vehicle. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": "53.jpg"
+  },
+  {
+    "id": "Q054",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "School zone. Watch for children",
+      "Pedestrian bridge ahead",
+      "No outlet",
+      "Pedestrian crossing"
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'School zone. Watch for children'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "54.jpg"
+  },
+  {
+    "id": "Q055",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "The minimum speed limit is 30 kilometers per hour.",
+      "Vehicles weighing more than 30 tons are prohibited.",
+      "The maximum speed limit is 30 kilometers per hour.",
+      "Vehicles carrying loads weighing more than 30 tons are prohibited."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'The minimum speed limit is 30 kilometers per hour.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "55.jpg"
+  },
+  {
+    "id": "Q056",
+    "category": "road_signs",
+    "difficulty": 1,
+    "question_en": "This sign on the road surface indicates:",
+    "question_th": "",
+    "options": [
+      "The entrance/exit to a building.",
+      "Absolutely no stopping in this area..",
+      "No vehicles may cross the cross-hatched lines.",
+      "No passing within the cross-hatched lines."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'Absolutely no stopping in this area..'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "56.jpg"
+  },
+  {
+    "id": "Q057",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "Which type of vehicle is it prohibited to use on a public road?:",
+    "question_th": "",
+    "options": [
+      "A vehicle with a horn louder than 70 decibels.",
+      "A vehicle without a front windshield.",
+      "A vehicle displaying dealer's plates.",
+      "A tank used in warfare."
+    ],
+    "correct": 1,
+    "explanation_en": "A vehicle without a front windshield. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q058",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "In the picture, the driver of the red car should:",
+    "question_th": "",
+    "options": [
+      "Reduce his/her speed to allow the cars on the left and right to pass before proceeding.",
+      "Stop to allow the car on the right to pass. Only proceed when safe.",
+      "Stop to allow the car on the left to pass. Only proceed when safe.",
+      "Stop and wait for all other cars to pass."
+    ],
+    "correct": 2,
+    "explanation_en": "Stop to allow the car on the left to pass. Only proceed when safe. is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": "58.jpg"
+  },
+  {
+    "id": "Q059",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Right turn permitted",
+      "Left turn permitted",
+      "No right turn",
+      "Sharp curve ahead"
+    ],
+    "correct": 2,
+    "explanation_en": "The correct meaning of this sign is 'No right turn'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "59.jpg"
+  },
+  {
+    "id": "Q060",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Which of the following statements is true?",
+    "question_th": "",
+    "options": [
+      "Slow-moving vehicles must use the left lane.",
+      "Within the Bangkok Metropolitan Area, the maximum speed limit is 60 kilometers per hour.",
+      "When making a right turn, you should extend your right arm from the vehicle at shoulder-level and raise and lower.",
+      "When making a turn, you should give a signal at least 60 meters before turning."
+    ],
+    "correct": 0,
+    "explanation_en": "This road sign indicates 'Slow-moving vehicles must use the left lane.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": null
+  },
+  {
+    "id": "Q061",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Vehicles weighing more than 30 tons are prohibited.",
+      "The maximum speed limit is 30 kilometers per hour.",
+      "Vehicles carrying loads weighing more than 30 tons are prohibited.",
+      "The minimum speed limit is 30 kilometers per hour."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct meaning of this sign is 'The minimum speed limit is 30 kilometers per hour.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "61.jpg"
+  },
+  {
+    "id": "Q062",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Pedestrian bridge ahead",
+      "No outlet",
+      "Pedestrian crossing",
+      "School zone. Watch for children"
+    ],
+    "correct": 3,
+    "explanation_en": "The correct meaning of this sign is 'School zone. Watch for children'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "62.jpg"
+  },
+  {
+    "id": "Q063",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which of the following statements is true?",
+    "question_th": "",
+    "options": [
+      "You may transport loads that extend one meter out from each side of your vehicle.",
+      "You may transport loads that extend no more than 2.5 meters from the rear of your vehicle.",
+      "You may transport loads no more than 3 meters high.",
+      "You may transport loads that extend no more than 2.5 meters from the front of your vehicle."
+    ],
+    "correct": 1,
+    "explanation_en": "You may transport loads that extend no more than 2.5 meters from the rear of your vehicle. is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q064",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "Which of the pictures below illustrates proper parking?",
+    "question_th": "",
+    "options": [
+      "See picture",
+      "See picture",
+      "See picture",
+      "See picture"
+    ],
+    "correct": 1,
+    "explanation_en": "This road sign indicates 'See picture'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": null
+  },
+  {
+    "id": "Q065",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "In which of the following circumstances is it forbidden to pass?",
+    "question_th": "",
+    "options": [
+      "To use the bus land as a passing lane",
+      "To pass on the left when the vehicle in front of you is turning right.",
+      "In front of a hospital",
+      "When there is flooding"
+    ],
+    "correct": 0,
+    "explanation_en": "To use the bus land as a passing lane is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q066",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Single lane traffic",
+      "Drive in the far-left lane",
+      "Do not overtake",
+      "One-way traffic"
+    ],
+    "correct": 2,
+    "explanation_en": "The correct meaning of this sign is 'Do not overtake'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "66.jpg"
+  },
+  {
+    "id": "Q067",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which of these vehicle may not be driven on a public road?",
+    "question_th": "",
+    "options": [
+      "A vehicle without a front windshield.",
+      "A vehicle displaying dealer plates.",
+      "A vehicle with a horn which can be heard from a distance of 60 meters.",
+      "A tank used in warfare."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is A vehicle without a front windshield.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q068",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "When is it prohibited to pass?",
+    "question_th": "",
+    "options": [
+      "Within 30 meters of a crossroad.",
+      "Where the road is divided by a broken line.",
+      "When you are passing on the left on a road with two or more lanes moving in the same direction.",
+      "When you are passing on the left and the vehicle being passed is waiting to turn right."
+    ],
+    "correct": 0,
+    "explanation_en": "Within 30 meters of a crossroad. is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q069",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "When you see this sign, you should:",
+    "question_th": "",
+    "options": [
+      "Proceed if there are no pedestrians crossing.",
+      "Reduce your speed. Stop if pedestrians are crossing in front of you.",
+      "Proceed as usual.",
+      "Drive carefully. You are in a school zone."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'Reduce your speed. Stop if pedestrians are crossing in front of you.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "69.jpg"
+  },
+  {
+    "id": "Q070",
+    "category": "documents",
+    "difficulty": 1,
+    "question_en": "Which of these statements is true?",
+    "question_th": "",
+    "options": [
+      "You may not drive a vehicle for which the annual tax has not been paid.",
+      "You may allow someone who does not have a driver license to operate your vehicle.",
+      "You do not need to carry your driver license when driving.",
+      "You may display license plates you have had made yourself."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is You may not drive a vehicle for which the annual tax has not been paid.. Understanding document requirements is essential for all drivers in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q071",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "See picture",
+      "No U-turn.",
+      "One-way traffic.",
+      "Use the right lane."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'No U-turn.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "71.jpg"
+  },
+  {
+    "id": "Q072",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which type of vehicle is it prohibited to use on a public road?",
+    "question_th": "",
+    "options": [
+      "A tractor with rubber tires.",
+      "A vehicle whose engine is louder than 80 decibels.",
+      "A vehicle with broken brake lights.",
+      "A tank used in warfare."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct answer is A vehicle with broken brake lights.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q073",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Temporary stopping for loading and unloading.",
+      "Stop. Watch for other vehicles in the intersection before proceeding.",
+      "Reduce your speed before proceeding.",
+      "Parking allowed"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'Stop. Watch for other vehicles in the intersection before proceeding.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "73.jpg"
+  },
+  {
+    "id": "Q074",
+    "category": "alcohol_drugs",
+    "difficulty": 1,
+    "question_en": "Drivers are prohibited to:",
+    "question_th": "",
+    "options": [
+      "Drive a racing car when permission has been granted by the relevant traffic authorities.",
+      "Drift into the next lane when there is an obstruction in their own lane.",
+      "Park on the right-hand side of a one-way street.",
+      "Drive immediately after having consumed alcohol."
+    ],
+    "correct": 3,
+    "explanation_en": "Drive immediately after having consumed alcohol. is correct. Thailand has strict laws regarding alcohol and drugs while driving, with severe penalties for violations including license suspension.",
+    "image": null
+  },
+  {
+    "id": "Q075",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "You must not park:",
+    "question_th": "",
+    "options": [
+      "In front of a school",
+      "On a grade",
+      "In front of a police station",
+      "On the right-hand side of a two-way street"
+    ],
+    "correct": 3,
+    "explanation_en": "On the right-hand side of a two-way street is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q076",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "In the picture on the right, the driver of the red car wishes to go straight. To do so, he/she should:",
+    "question_th": "",
+    "options": [
+      "Stop and wait for the white car to turn right before proceeding.",
+      "Stop and wait for the blue car to pass before proceeding.",
+      "Stop and wait for the yellow car to turn left before proceeding.",
+      "Slow down"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is Stop and wait for the blue car to pass before proceeding.. Understanding and following traffic rules is fundamental to safe driving.",
+    "image": "76.jpg"
+  },
+  {
+    "id": "Q077",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Left turn permitted",
+      "No right turn",
+      "Right turn permitted",
+      "Sharp curve ahead"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'No right turn'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "77.jpg"
+  },
+  {
+    "id": "Q078",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "When you see this sign, you should:",
+    "question_th": "",
+    "options": [
+      "Should turn left",
+      "Should reduce your speed and carefully enter the curve to the right.",
+      "Should reduce your speed and turn right with caution.",
+      "May not go straight"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'Should reduce your speed and carefully enter the curve to the right.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "78.jpg"
+  },
+  {
+    "id": "Q079",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "This sign means:",
+    "question_th": "",
+    "options": [
+      "Stop. Give smaller vehicles the right of way.",
+      "Stop. Give larger vehicles the right of way.",
+      "Reduce your speed and give other vehicles the right of way.",
+      "Stop to allow cross traffic or traffic on the main road to pass before proceeding."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct meaning of this sign is 'Stop to allow cross traffic or traffic on the main road to pass before proceeding.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "79.jpg"
+  },
+  {
+    "id": "Q080",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "What does this sign mean?:",
+    "question_th": "",
+    "options": [
+      "Stop for inspection",
+      "Stop and give way",
+      "No vehicles can pass",
+      "Give way ahead"
+    ],
+    "correct": 0,
+    "explanation_en": "This road sign indicates 'Stop for inspection'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": "80.jpg"
+  },
+  {
+    "id": "Q081",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "Which of the pictures is correct?",
+    "question_th": "",
+    "options": [
+      "See picture",
+      "See picture",
+      "See picture",
+      "None of the pictures are correct."
+    ],
+    "correct": 3,
+    "explanation_en": "None of the pictures are correct. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q082",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "Which of the following vehicles is it prohibited to use on a public road?",
+    "question_th": "",
+    "options": [
+      "A vehicle with a horn louder than 70-decibels.",
+      "A vehicle without a front windshield.",
+      "A tank used in warfare.",
+      "A vehicle displaying dealer's plates."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is A vehicle without a front windshield.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q083",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "When the green car wants to turn, what should be done?",
+    "question_th": "",
+    "options": [
+      "Slowly turn right, carefully minding other cars.",
+      "Stop and wait for the yellow car to pass then turn after.",
+      "Wait for both the blue and yellow cars before turning.",
+      "Turn right immediately."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is Stop and wait for the yellow car to pass then turn after.. Understanding and following traffic rules is fundamental to safe driving.",
+    "image": "83.jpg"
+  },
+  {
+    "id": "Q084",
+    "category": "documents",
+    "difficulty": 2,
+    "question_en": "Which of the following statements is true?",
+    "question_th": "",
+    "options": [
+      "You may allow unlicensed drivers to user your vehicle.",
+      "It is prohibited to drive a vehicle for which the annual tax has not been paid.",
+      "You may allow someone else to use your driver license.",
+      "You may display license plates that you have had made yourself."
+    ],
+    "correct": 1,
+    "explanation_en": "It is prohibited to drive a vehicle for which the annual tax has not been paid. is the correct legal requirement. Proper documentation ensures accountability and compliance with Thai traffic laws.",
+    "image": null
+  },
+  {
+    "id": "Q085",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "You are required to turn on your headlights:",
+    "question_th": "",
+    "options": [
+      "To request right of way in an emergency.",
+      "To request right of way in an emergency.",
+      "When heavy fog restricts visibility to less than 150 meters.",
+      "When it is raining."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct answer is When heavy fog restricts visibility to less than 150 meters.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q086",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "When you see this sign, you should:",
+    "question_th": "",
+    "options": [
+      "Stop and allow oncoming traffic to pass before proceeding.",
+      "Reduce your speed and watch for oncoming traffic.",
+      "Proceed with caution",
+      "Not enter the road ahead"
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'Stop and allow oncoming traffic to pass before proceeding.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "86.jpg"
+  },
+  {
+    "id": "Q087",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "When descending a steep grade or hill, you should:",
+    "question_th": "",
+    "options": [
+      "Turn off your engine",
+      "Shift to neutral",
+      "Keep your foot on the brake",
+      "Use a low gear"
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is Use a low gear. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q088",
+    "category": "emergency",
+    "difficulty": 2,
+    "question_en": "The dividing lines in the middle of the road pictured indicate:",
+    "question_th": "",
+    "options": [
+      "Move the yellow car off the road and turn on emergency flashes.",
+      "The driver of the yellow car in the picture may make a U-turn.",
+      "The driver of the yellow car in the picture may not pull into the right lane to overtake another vehicle.",
+      "The driver of the yellow car in the picture may turn into the right lane."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct answer is The driver of the yellow car in the picture may not pull into the right lane to overtake another vehicle.. Emergency preparedness is a critical skill for all drivers.",
+    "image": "88.jpg"
+  },
+  {
+    "id": "Q089",
+    "category": "documents",
+    "difficulty": 2,
+    "question_en": "Where is it not permitted to make a U-turn?",
+    "question_th": "",
+    "options": [
+      "Within 150 meters of a bridge.",
+      "In the spaces between traffic islands.",
+      "Where another vehicle is following at a distance of less than 150 meters.",
+      "On a bridge"
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is On a bridge. Understanding document requirements is essential for all drivers in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q090",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "Where is it prohibited to make a U-turn?",
+    "question_th": "",
+    "options": [
+      "In the spaces between traffic islands.",
+      "In an intersection.",
+      "Where another vehicle is following at a distance of less than 150 meters.",
+      "Within 150 meters of the base of a bridge."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is In an intersection.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q091",
+    "category": "documents",
+    "difficulty": 2,
+    "question_en": "In addition to his/her driving license, a driver must have at hand which document while driving.",
+    "question_th": "",
+    "options": [
+      "National ID card",
+      "Social security card",
+      "Copy of the car's registration",
+      "Copy of the house registration"
+    ],
+    "correct": 2,
+    "explanation_en": "Copy of the car's registration is the correct legal requirement. Proper documentation ensures accountability and compliance with Thai traffic laws.",
+    "image": null
+  },
+  {
+    "id": "Q092",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "A driver violates the road traffic law and receives a ticket, within how many days must he pay the fine?",
+    "question_th": "",
+    "options": [
+      "7 days",
+      "10 days",
+      "15 days",
+      "30 days"
+    ],
+    "correct": 0,
+    "explanation_en": "7 days is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q093",
+    "category": "documents",
+    "difficulty": 2,
+    "question_en": "A temporary driving license is valid for how many years?",
+    "question_th": "",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "correct": 1,
+    "explanation_en": "2 years is the correct legal requirement. Proper documentation ensures accountability and compliance with Thai traffic laws.",
+    "image": null
+  },
+  {
+    "id": "Q094",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "How much additional money will be charged to a vehicle that does not pay annual tax within the stipulated time limit?",
+    "question_th": "",
+    "options": [
+      "1% per month",
+      "5% per month",
+      "1% per year",
+      "5% per year"
+    ],
+    "correct": 0,
+    "explanation_en": "1% per month is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": null
+  },
+  {
+    "id": "Q095",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "How many years old must the car be before inspection is required when making the annual tax payment?",
+    "question_th": "",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "correct": 2,
+    "explanation_en": "The correct answer is 7 years. Understanding and following traffic rules is fundamental to safe driving.",
+    "image": null
+  },
+  {
+    "id": "Q096",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "What is the speed limit within municipal limits, Bangkok, and Pattaya?",
+    "question_th": "",
+    "options": [
+      "70 Km/H",
+      "80 Km/H",
+      "90 Km/H",
+      "100 Km/H"
+    ],
+    "correct": 1,
+    "explanation_en": "80 Km/H is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": null
+  },
+  {
+    "id": "Q097",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "What is the speed limit outside municipal limits, Bangkok and Pattaya?",
+    "question_th": "",
+    "options": [
+      "70 Km/H",
+      "80 Km/H",
+      "90 Km/H",
+      "100 Km/H"
+    ],
+    "correct": 2,
+    "explanation_en": "90 Km/H is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": null
+  },
+  {
+    "id": "Q098",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "To park on the left driving lane, what is the maximum distance from the pavement to park or stop the vehicle?",
+    "question_th": "",
+    "options": [
+      "Not exceeding 20 centimeters",
+      "Not exceeding 25 centimeters",
+      "Not exceeding 30 centimeters",
+      "Not exceeding 35 centimeters"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is Not exceeding 25 centimeters. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q099",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "Who is the person exempted from wearing motorcycle helmet when driving?",
+    "question_th": "",
+    "options": [
+      "Seniors over 65",
+      "Traffic officers",
+      "Motorcycle passengers",
+      "Novice, monk"
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is Novice, monk. Proper motorcycle operation and safety gear significantly reduce injury risk.",
+    "image": null
+  },
+  {
+    "id": "Q100",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "What is the maximum passenger for motorcycle?",
+    "question_th": "",
+    "options": [
+      "1 passenger",
+      "2 passengers",
+      "3 passengers",
+      "4 passengers"
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is 1 passenger. Proper motorcycle operation and safety gear significantly reduce injury risk.",
+    "image": null
+  },
+  {
+    "id": "Q101",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "How many years old must the motorcycle be before inspection is required when making the annual tax payment?",
+    "question_th": "",
+    "options": [
+      "1 year",
+      "3 years",
+      "5 years",
+      "7 years"
+    ],
+    "correct": 2,
+    "explanation_en": "5 years is correct. Motorcycle safety rules in Thailand are designed to protect riders, who are more vulnerable in traffic accidents.",
+    "image": null
+  },
+  {
+    "id": "Q102",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "Vehicles which can be registered must have the following characteristics:",
+    "question_th": "",
+    "options": [
+      "The car must have the correct fittings and passed a vehicle inspection.",
+      "The car must have the correct fittings.",
+      "Vehicles which have passed a private vehicle inspection.",
+      "Cars purchased from general car dealers."
+    ],
+    "correct": 0,
+    "explanation_en": "The car must have the correct fittings and passed a vehicle inspection. is correct. Maintaining proper safety distances gives you enough time to react to sudden stops or hazards ahead.",
+    "image": null
+  },
+  {
+    "id": "Q103",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "Which item is correct?",
+    "question_th": "",
+    "options": [
+      "Motorcycle that has reached 5 years of life, wishing to renew annual taxes must bring the car to a private condition examination center.",
+      "The car has 5 years of service life. Those wishing to renew their annual taxes must have the car inspected at a private inspection facility.",
+      "Motorcycle that has reached 7 years of life, wishing to renew annual tax must bring the car to be inspected at a private condition.",
+      "Car with a lifetime of 10 years, wishing to renew the annual tax must have the car to be checked at a private condition."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is Motorcycle that has reached 5 years of life, wishing to renew annual taxes must bring the car to a private condition examination center.. Proper motorcycle operation and safety gear significantly reduce injury risk.",
+    "image": null
+  },
+  {
+    "id": "Q104",
+    "category": "documents",
+    "difficulty": 2,
+    "question_en": "How many years old does the applicant need to be to hold a temporary car driving license?",
+    "question_th": "",
+    "options": [
+      "15 years old (completely)",
+      "18 years old (completely)",
+      "20 years old (completely)",
+      "22 years old (completely)"
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is 18 years old (completely). Understanding document requirements is essential for all drivers in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q105",
+    "category": "documents",
+    "difficulty": 2,
+    "question_en": "What is the penalty for anyone who drives a car without a driver’s license?",
+    "question_th": "",
+    "options": [
+      "Fine no more than 1,000 baht.",
+      "Imprisonment of not more than 1 month or fine of not more than 1,000 baht or both.",
+      "Fine no more than 2,000 baht.",
+      "Imprisonment of not more than 3 months or fine of not more than 2,000 baht or both."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct answer is Fine no more than 2,000 baht.. Understanding document requirements is essential for all drivers in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q106",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "What is the safety zone mean?",
+    "question_th": "",
+    "options": [
+      "The area that the driver can take the car through.",
+      "Districts where pedestrians can cross paths without stopping to wait.",
+      "The area has a mark indicating that the driver is safe to continue driving.",
+      "The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over."
+    ],
+    "correct": 3,
+    "explanation_en": "This road sign indicates 'The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": null
+  },
+  {
+    "id": "Q107",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "When the officer extending any of his arm to the same level as shoulder and pose his hand perpendicular to the ground, what does this mean?",
+    "question_th": "",
+    "options": [
+      "The driver approaching from the direction of the arm must stop the vehicle.",
+      "The driver who approaches from the behind direction of the officer must stop the vehicle.",
+      "The driver approaching from the direction of the arm must continue forward.",
+      "The driver who approaches from the behind direction of the officer must continue forward."
+    ],
+    "correct": 0,
+    "explanation_en": "This road sign indicates 'The driver approaching from the direction of the arm must stop the vehicle.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": "107.jpg"
+  },
+  {
+    "id": "Q108",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "How far must the driver drive from the car in front?",
+    "question_th": "",
+    "options": [
+      "Enough to be able to stop the car safely if necessary",
+      "No less than 5 meters",
+      "No less than 10 meters",
+      "No less than 20 meters"
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is Enough to be able to stop the car safely if necessary. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q109",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "In which areas is a driver permitted to make a U-turn?",
+    "question_th": "",
+    "options": [
+      "Roadway marked with a no U-turn sign",
+      "On a bridge",
+      "150 meters distance from the foot of a bridge",
+      "A safety zone"
+    ],
+    "correct": 2,
+    "explanation_en": "This road sign indicates '150 meters distance from the foot of a bridge'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": null
+  },
+  {
+    "id": "Q110",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "When arriving at the railroad and there is a passing train, what should the driver do?",
+    "question_th": "",
+    "options": [
+      "Stop waiting for the signal light and turn on the emergency light.",
+      "Give a warning signal and drive through.",
+      "Drive through quickly.",
+      "Stop the car at least 5 meters from the railroad."
+    ],
+    "correct": 3,
+    "explanation_en": "This road sign indicates 'Stop the car at least 5 meters from the railroad.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": null
+  },
+  {
+    "id": "Q111",
+    "category": "alcohol_drugs",
+    "difficulty": 2,
+    "question_en": "What is the maximum blood alcohol level for driving?",
+    "question_th": "",
+    "options": [
+      "Not exceeding 50 mg percent",
+      "Not exceeding 60 mg percent",
+      "Not exceeding 70 mg percent",
+      "Not exceeding 80 mg percent"
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is Not exceeding 50 mg percent. Driving under the influence significantly impairs reaction time and judgment, making it extremely dangerous.",
+    "image": null
+  },
+  {
+    "id": "Q112",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "What is the penalty for driving while detecting alcohol in the body more than the legal limit?",
+    "question_th": "",
+    "options": [
+      "Imprisonment of not more than 3 months or a fine of 1,000 to. 50,000 baht.",
+      "Imprisonment of not more than 1 year or a fine of 5,000 to. 20,000 baht or both.",
+      "Fine not more than 5,000 baht.",
+      "Fine not exceeding 10,000 baht."
+    ],
+    "correct": 1,
+    "explanation_en": "Imprisonment of not more than 1 year or a fine of 5,000 to. 20,000 baht or both. is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": null
+  },
+  {
+    "id": "Q113",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "Which is correct?",
+    "question_th": "",
+    "options": [
+      "The truck must drive in the rightmost lane.",
+      "The passenger truck must drive in the rightmost lane.",
+      "Changing the lane to the right or left. Do not look at the left or right mirror.",
+      "Motorcycles must drive in the left lane of the vehicle."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is Motorcycles must drive in the left lane of the vehicle.. Proper motorcycle operation and safety gear significantly reduce injury risk.",
+    "image": null
+  },
+  {
+    "id": "Q114",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "Cars with slow speeds, what should the driver do?",
+    "question_th": "",
+    "options": [
+      "Drive on the shoulder",
+      "Drive on the right edge",
+      "Drive close to the left edge",
+      "Can drive on both the left and right"
+    ],
+    "correct": 2,
+    "explanation_en": "The correct speed regulation is: Drive close to the left edge. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q115",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "What should the driver do when seeing this mark?",
+    "question_th": "",
+    "options": [
+      "Be extra careful. Then stop the car.",
+      "Be extra careful",
+      "Drive slowly if you see that it is unsafe for other cars or pedestrians in the way ahead. Have to stop the car before reaching the line, make way.",
+      "Increase caution and park the car"
+    ],
+    "correct": 2,
+    "explanation_en": "Drive slowly if you see that it is unsafe for other cars or pedestrians in the way ahead. Have to stop the car before reaching the line, make way. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": "115.jpg"
+  },
+  {
+    "id": "Q116",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "When this road marking is found what should the driver do?",
+    "question_th": "",
+    "options": [
+      "Do not turn left or turn right.",
+      "Do not drive straight or turn right.",
+      "Drive in one direction on the left.",
+      "Car on the solid line must not pass or straddle the solid line But the car on the side of the dotted line may overtake when it is considered safe."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is Car on the solid line must not pass or straddle the solid line But the car on the side of the dotted line may overtake when it is considered safe.. Understanding and following traffic rules is fundamental to safe driving.",
+    "image": "116.jpg"
+  },
+  {
+    "id": "Q117",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "When this sign is found what should the driver do?",
+    "question_th": "",
+    "options": [
+      "Let the driver drive fast Lines allow to go immediately.",
+      "The driver to drive slowly. Then overtake.",
+      "Always stop before reaching the transverse line.",
+      "Let the driver slow down and speed up first."
+    ],
+    "correct": 2,
+    "explanation_en": "This road sign indicates 'Always stop before reaching the transverse line.'. Understanding traffic signs is essential for safe driving and passing the theory exam.",
+    "image": "117.jpg"
+  },
+  {
+    "id": "Q118",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "What does this sign mean?",
+    "question_th": "",
+    "options": [
+      "No trucks of all kinds.",
+      "Motorcycles are prohibited.",
+      "All cars are prohibited.",
+      "All vehicles are allowed to pass."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct meaning of this sign is 'Motorcycles are prohibited.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "118.jpg"
+  },
+  {
+    "id": "Q119",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "When seeing this sign what should the driver do?",
+    "question_th": "",
+    "options": [
+      "A car with at least 3 people can use this lane.",
+      "A car with 1 person can enter this channel.",
+      "No more than 3 people enter this lane.",
+      "There are 2 people sitting in. Can enter this lane."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'A car with at least 3 people can use this lane.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "119.jpg"
+  },
+  {
+    "id": "Q120",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "When seeing this sign what should the driver do?",
+    "question_th": "",
+    "options": [
+      "Drive fast Increase caution The road ahead has a narrow bridge.",
+      "Drive slowly. Increase caution The way ahead is a steep downhill.",
+      "Drive quickly. Increase caution The road ahead is a steep hill way.",
+      "Drive slowly. And be extra careful The way ahead must use the left bypass."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct meaning of this sign is 'Drive slowly. And be extra careful The way ahead must use the left bypass.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "120.jpg"
+  },
+  {
+    "id": "Q121",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Driving through a community, school, or crowded place what should be done?",
+    "question_th": "",
+    "options": [
+      "Honk the horn and accelerate to get away fast.",
+      "Slow down honk and use caution.",
+      "Honk the horn and slow down the speed.",
+      "Slow down and use caution when driving."
+    ],
+    "correct": 3,
+    "explanation_en": "Slow down and use caution when driving. is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": null
+  },
+  {
+    "id": "Q122",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Driving during heavy rain, how should you drive?",
+    "question_th": "",
+    "options": [
+      "Reduce the speed carefully. Turn on the headlight and wiper.",
+      "Drive carefully and turn on the car headlights and fog lights.",
+      "Gradually drive and turn on the high beam..",
+      "Stop the car on the road. And wait until the rain stops and then continue driving."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct speed regulation is: Reduce the speed carefully. Turn on the headlight and wiper.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q123",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "Which is NOT a way to show appreciation to other drivers?",
+    "question_th": "",
+    "options": [
+      "Bend the head to show gratitude.",
+      "Smile to show appreciation.",
+      "Turn on the high beam to show gratitude.",
+      "Raise your right hand to raise your eyebrows to show gratitude."
+    ],
+    "correct": 2,
+    "explanation_en": "Turn on the high beam to show gratitude. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q124",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "When should the driver use the horn?",
+    "question_th": "",
+    "options": [
+      "Say hello to other known drivers.",
+      "Prevent danger or accident that may occur from the car.",
+      "Speeding the front car to drive faster.",
+      "Chase pedestrians crossing the crosswalk."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct speed regulation is: Prevent danger or accident that may occur from the car.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q125",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "While driving If the car bonnet is open what should the driver do?",
+    "question_th": "",
+    "options": [
+      "Reduce speed and park on the side of the road To close the bonnet neatly.",
+      "Swerve the car to the side immediately To close the bonnet neatly.",
+      "Sudden braking.",
+      "Step on the accelerator so the bonnet is bumped off."
+    ],
+    "correct": 0,
+    "explanation_en": "Reduce speed and park on the side of the road To close the bonnet neatly. is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": null
+  },
+  {
+    "id": "Q126",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "If heavy rains occur so that the path cannot be clearly seen what should the driver do?",
+    "question_th": "",
+    "options": [
+      "Speed up and get through the rainy areas quickly.",
+      "Park the car immediately.",
+      "Turn on the headlights, accelerate through the heavy rain.",
+      "Park the car in a safe area. Turn on the car headlights and turn on the emergency lights."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct speed regulation is: Park the car in a safe area. Turn on the car headlights and turn on the emergency lights.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q127",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "When driving up or down a steep slope which gear should be used?",
+    "question_th": "",
+    "options": [
+      "Low gear",
+      "High gear",
+      "Neutral gear",
+      "Any gear"
+    ],
+    "correct": 0,
+    "explanation_en": "Low gear is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q128",
+    "category": "safety_distances",
+    "difficulty": 3,
+    "question_en": "When driving at night what should the driver do?",
+    "question_th": "",
+    "options": [
+      "Leave more distance between cars than usual.",
+      "Try to drive close to the front car so that the front car can clearly see our car.",
+      "Turn on the emergency light while overtaking the front car.",
+      "Use high lights all the way of driving."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is Leave more distance between cars than usual.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q129",
+    "category": "emergency",
+    "difficulty": 3,
+    "question_en": "Which situation uses emergency lighting appropriately?",
+    "question_th": "",
+    "options": [
+      "Turn on emergency lights while fog is down.",
+      "Turn on emergency lights when going to turn left at an intersection without traffic lights.",
+      "Turn on emergency lights to let other drivers know that they will run straight to.",
+      "Turn on Emergency lights when the car is parked on the shoulder."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is Turn on Emergency lights when the car is parked on the shoulder.. Emergency preparedness is a critical skill for all drivers.",
+    "image": null
+  },
+  {
+    "id": "Q130",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "Which statement is correct?",
+    "question_th": "",
+    "options": [
+      "Lubricating oil should not be added to petrol.",
+      "Oil filling should be added during the day.",
+      "We cannot mix 95 octane together with 91 octane.",
+      "The best oil is the most expensive oil."
+    ],
+    "correct": 0,
+    "explanation_en": "Lubricating oil should not be added to petrol. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q131",
+    "category": "safety_distances",
+    "difficulty": 3,
+    "question_en": "Which tire inspection is correct?",
+    "question_th": "",
+    "options": [
+      "1 month",
+      "2 month",
+      "3 months",
+      "At least once a week"
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is At least once a week. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q132",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "If a battery terminal has stains. Which method below is the best solution?",
+    "question_th": "",
+    "options": [
+      "Use warm water to wash and apply grease",
+      "Use vinegar to wash",
+      "Use lemon juice to wash",
+      "Use distilled water to wash"
+    ],
+    "correct": 0,
+    "explanation_en": "Use warm water to wash and apply grease is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q133",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "Who has to wear seat belts while traveling in a car for life safety?",
+    "question_th": "",
+    "options": [
+      "Drivers and passengers aged over 12 years old because they can wear seat belts.",
+      "The driver and passenger of the front seat only.",
+      "All drivers and passengers, both adults and children, front and back seats.",
+      "Drivers and passengers Except for the elderly and children younger than 12 years old."
+    ],
+    "correct": 2,
+    "explanation_en": "All drivers and passengers, both adults and children, front and back seats. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q134",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Which aspect to pay special attention to do while driving through water?",
+    "question_th": "",
+    "options": [
+      "To heat the engine",
+      "Keep the car at a constant speed",
+      "To increase the speed of the car",
+      "To prevent the engine from shutting down"
+    ],
+    "correct": 3,
+    "explanation_en": "The correct speed regulation is: To prevent the engine from shutting down. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q135",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Which of the following is correct for nighttime driving?",
+    "question_th": "",
+    "options": [
+      "Turn on the high beam all the time while driving.",
+      "Turn on the emergency light at all times while driving.",
+      "Drive as fast as usual.",
+      "Drive slower than normal or not faster than the sight."
+    ],
+    "correct": 3,
+    "explanation_en": "The correct speed regulation is: Drive slower than normal or not faster than the sight.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q136",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Which is correct about driving fuel efficiency?",
+    "question_th": "",
+    "options": [
+      "The car will save more fuel if it runs at higher speeds.",
+      "The car will save fuel if driving at a constant speed.",
+      "The car will save more fuel if accelerating the engine frequently.",
+      "The car will save more fuel if it runs. With unstable speeds."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct speed regulation is: The car will save fuel if driving at a constant speed.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": null
+  },
+  {
+    "id": "Q137",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "If you want to drive straight past you should be careful and how to act?",
+    "question_th": "",
+    "options": [
+      "Slow down the car and let the car on the right hand to pass first.",
+      "Speed up the engine to pass first.",
+      "Drive at the same speed.",
+      "Continue driving as we have right of way."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct speed regulation is: Slow down the car and let the car on the right hand to pass first.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": "137.jpg"
+  },
+  {
+    "id": "Q138",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "Which is the correct meaning of the blind spot?",
+    "question_th": "",
+    "options": [
+      "The front area of the car that the driver can’t see.",
+      "The back area of the car that the rear view mirror cannot capture.",
+      "The area that the driver can’t see clearly while driving.",
+      "The left area. Of the car that the driver can not see."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct meaning of this sign is 'The area that the driver can’t see clearly while driving.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": null
+  },
+  {
+    "id": "Q139",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "When driving down a steep slope The driver should use low gear because of what reason?",
+    "question_th": "",
+    "options": [
+      "To increase the power of the car",
+      "To slow the speed of the car",
+      "To reduce the heat of the engine",
+      "To increase the speed of the car"
+    ],
+    "correct": 1,
+    "explanation_en": "To slow the speed of the car is the correct answer. Adhering to speed limits reduces accident risk and ensures traffic flows smoothly.",
+    "image": null
+  },
+  {
+    "id": "Q140",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "When seeing this sign what should the driver do?",
+    "question_th": "",
+    "options": [
+      "Should drive slowly and be careful The road ahead is currently being explored on the road surface or in the bus lane.",
+      "Drive quickly. Be extra careful when people are working.",
+      "Drive fast. Increase caution. The machine is working.",
+      "Drive slowly. Increase caution explore buildings."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'Should drive slowly and be careful The road ahead is currently being explored on the road surface or in the bus lane.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": "140.jpg"
+  },
+  {
+    "id": "Q141",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "From the picture, if you want to turn right You should be careful and how to act?",
+    "question_th": "",
+    "options": [
+      "Should turn to keep up because there is a large car blocking the car on the opposite side.",
+      "Speed up to turn right immediately.",
+      "Stop in the position to turn and let the opposite side to pass first.",
+      "Drive in the lane right side to make a turn."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct speed regulation is: Stop in the position to turn and let the opposite side to pass first.. Speed limits are set based on road conditions, traffic density, and safety requirements.",
+    "image": "141.jpg"
+  },
+  {
+    "id": "Q142",
+    "category": "emergency",
+    "difficulty": 3,
+    "question_en": "What kind of parking may cause an accident?",
+    "question_th": "",
+    "options": [
+      "Parking in the parking building.",
+      "Park the car in the parking lot.",
+      "Park the car on the left edge of the road.",
+      "Double parking"
+    ],
+    "correct": 3,
+    "explanation_en": "The correct answer is Double parking. Emergency preparedness is a critical skill for all drivers.",
+    "image": null
+  },
+  {
+    "id": "Q143",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "To remove the battery terminal which terminal should be disconnected first?",
+    "question_th": "",
+    "options": [
+      "Any pole first",
+      "Positive pole",
+      "Both terminals at the same time",
+      "Negative pole"
+    ],
+    "correct": 3,
+    "explanation_en": "Negative pole is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": null
+  },
+  {
+    "id": "Q144",
+    "category": "road_signs",
+    "difficulty": 3,
+    "question_en": "If you park the car on the left side of the road And want to move out, what should you do?",
+    "question_th": "",
+    "options": [
+      "Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal light.",
+      "Turn on the light to warn the following cars to slow down.",
+      "No need to look at the car parked in front. Looking at just the car that follows is enough.",
+      "Give a hand signal to ask for directions."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct meaning of this sign is 'Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal light.'. Road signs communicate important information to drivers about road conditions and regulations.",
+    "image": null
+  },
+  {
+    "id": "Q145",
+    "category": "safety_distances",
+    "difficulty": 3,
+    "question_en": "If adjustment of the driver’s seat is too far, what will be the effect?",
+    "question_th": "",
+    "options": [
+      "Make it easy to get into gear",
+      "Makes the visibility very clear, can make good decisions.",
+      "Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency.",
+      "Make braking more convenient"
+    ],
+    "correct": 2,
+    "explanation_en": "The correct answer is Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q146",
+    "category": "safety_distances",
+    "difficulty": 3,
+    "question_en": "What is the maximum size of the loaded object for automobile in length?",
+    "question_th": "",
+    "options": [
+      "Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body.",
+      "Front side not exceeding bumper, back side not exceeding 1 meters from automobile body.",
+      "Front side not exceeding 2.50 meters from automobile body, back side not exceeding bumper.",
+      "Front side not exceeding 1 meters from automobile body, back side not exceeding bumper."
+    ],
+    "correct": 0,
+    "explanation_en": "The correct answer is Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": null
+  },
+  {
+    "id": "Q147",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "What is the correct conduct for the green car?",
+    "question_th": "",
+    "options": [
+      "Flash lights at the blue car allowing it to pass.",
+      "Drive ahead without stop",
+      "Stop the vehicle and wait for the blue car to pass.",
+      "Turn left directly"
+    ],
+    "correct": 2,
+    "explanation_en": "The correct answer is Stop the vehicle and wait for the blue car to pass.. Understanding and following traffic rules is fundamental to safe driving.",
+    "image": "147.jpg"
+  },
+  {
+    "id": "Q148",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "When the blue car wants to turn what should be done?",
+    "question_th": "",
+    "options": [
+      "Sound car horn and flash lights to warn pedestrian while crossing.",
+      "Must stop and wait for the pedestrian to cross before turning.",
+      "Drive ahead directly.",
+      "Blue car should give way. Drive slowly through."
+    ],
+    "correct": 1,
+    "explanation_en": "The correct answer is Must stop and wait for the pedestrian to cross before turning.. Understanding and following traffic rules is fundamental to safe driving.",
+    "image": "148.jpg"
+  },
+  {
+    "id": "Q149",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "From the picture, is this parking correct by the conduct?",
+    "question_th": "",
+    "options": [
+      "Yes, this is correct.",
+      "No, the driver must stop the car within at least 15 meters of the junction.",
+      "No, the driver must stop the car within at least 3 meters before the zebra crossing.",
+      "No, the driver cannot park on the left side of the road."
+    ],
+    "correct": 2,
+    "explanation_en": "The correct answer is No, the driver must stop the car within at least 3 meters before the zebra crossing.. Safe following distances prevent rear-end collisions and allow for emergency braking.",
+    "image": "149.jpg"
+  },
+  {
+    "id": "Q150",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "What is the correct conduct for the red car encountering obstacle ahead?",
+    "question_th": "",
+    "options": [
+      "Sound horn warning yellow car.",
+      "Wait for the yellow car to pass first before turning right and proceeding ahead.",
+      "Proceed ahead slowly with caution.",
+      "U-turn to avoid obstacle ahead."
+    ],
+    "correct": 1,
+    "explanation_en": "Wait for the yellow car to pass first before turning right and proceeding ahead. is correct. This rule ensures orderly traffic flow and safety for all road users in Thailand.",
+    "image": "150.jpg"
+  }
+]
