@@ -1,28 +1,5 @@
 [
   {
-    "id": "Q002",
-    "category": "road_signs",
-    "difficulty": 3,
-    "question_en": "Which of the pictures below illustrates proper parking?",
-    "question_th": "ภาพใดด้านล่างแสดงการจอดรถที่ถูกต้อง?",
-    "options": [
-      "Image: 2.1.jpg",
-      "Image: 2.2.jpg",
-      "Image: 2.3.jpg",
-      "Image: 2.4.jpg"
-    ],
-    "correct": 0,
-    "explanation_en": "A) is correct. This image shows the only legal parking position among the four choices. Look for the vehicle parked parallel to the curb, within a designated parking area, without blocking traffic or pedestrian access.",
-    "image": null,
-    "options_th": [
-      "See picture",
-      "See picture",
-      "See picture",
-      "See picture"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'See picture' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
-  },
-  {
     "id": "Q004",
     "category": "road_signs",
     "difficulty": 3,
@@ -35,7 +12,7 @@
       "No left turn"
     ],
     "correct": 1,
-    "explanation_en": "B) All traffic must move to the right is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) All traffic must move to the right is correct. The sign shows: The image displays a mandatory direction sign. It instructs drivers to proceed to the right. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "4.jpg",
     "options_th": [
       "ให้ชิดขวา",
@@ -58,7 +35,7 @@
       "Stop ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) Give way ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Give way ahead is correct. The sign shows: The image depicts a yield sign within a larger yellow diamond, indicating that drivers should yield to oncoming traffic. The black arrow above the yield sign signifies the direction the driver should be traveling. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "5.jpg",
     "options_th": [
       "ให้ทาง",
@@ -67,98 +44,6 @@
       "หยุดข้างหน้า"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ให้ทางข้างหน้า' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q007",
-    "category": "road_signs",
-    "difficulty": 1,
-    "question_en": "When you see a sign reading 'Left Turn on Red,' you should:",
-    "question_th": "เมื่อคุณเห็นป้ายที่เขียนว่า 'Left Turn on Red' คุณควร:",
-    "options": [
-      "Lower your speed and turn left without delay.",
-      "Stop. Wait for pedestrians and other vehicles from the right to pass in front of you before turning left.",
-      "Stop. Wait for a green light before turning left.",
-      "Turn left without stopping."
-    ],
-    "correct": 1,
-    "explanation_en": "B) Stop. Wait for pedestrians and other vehicles from the right to pass in front of you before turning left. is correct. Left-turn signs regulate when and where you may turn left. Always yield to oncoming traffic and pedestrians before turning.",
-    "image": null,
-    "options_th": [
-      "ลดความเร็วและเลี้ยวซ้ายโดยไม่ชักช้า",
-      "หยุด รอให้คนเดินเท้าและยานพาหนะอื่นจากทางขวาผ่านไปข้างหน้าคุณก่อนที่จะเลี้ยวซ้าย",
-      "หยุด รอไฟเขียวก่อนจึงค่อยเลี้ยวซ้าย",
-      "เลี้ยวซ้ายโดยไม่หยุด"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'หยุด รอให้คนเดินเท้าและยานพาหนะอื่นจากทางขวาผ่านไปข้างหน้าคุณก่อนที่จะเลี้ยวซ้าย' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
-  },
-  {
-    "id": "Q009",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "In the situation pictured, you should:",
-    "question_th": "ในสถานการณ์ตามภาพ คุณควร:",
-    "options": [
-      "Put on your right turn signal and pass on the left without delay.",
-      "Move to the right and proceed around the obstruction without delay.",
-      "Put on your right turn signal and wait for the car to pass before proceeding.",
-      "Stop and wait for other car to pass."
-    ],
-    "correct": 2,
-    "explanation_en": "C) Put on your right turn signal and wait for the car to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
-    "image": "9.jpg",
-    "options_th": [
-      "เปิดสัญญาณไฟเลี้ยวขวาและแซงทางซ้ายโดยไม่ชักช้า",
-      "เลื่อนไปทางขวาและขับผ่านสิ่งกีดขวางโดยไม่ชักช้า",
-      "เปิดสัญญาณไฟเลี้ยวขวาและรอให้รถคันนั้นผ่านไปก่อนจึงค่อยขับต่อไป",
-      "หยุดและรอให้รถคันอื่นผ่านไป"
-    ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'เปิดสัญญาณไฟเลี้ยวขวาและรอให้รถคันนั้นผ่านไปก่อนจึงค่อยขับต่อไป' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q011",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "Which of the pictures below illustrates proper parking?",
-    "question_th": "ภาพใดด้านล่างแสดงการจอดรถที่ถูกต้อง?",
-    "options": [
-      "Image: 11.1.jpg",
-      "Image: 11.2.jpg",
-      "Image: 11.3.jpg",
-      "Image: 11.4.jpg"
-    ],
-    "correct": 0,
-    "explanation_en": "A) is correct. This image shows the only legal parking position. Compare all four images: look for the car parked correctly within a marked bay, not blocking traffic, fire hydrants, or pedestrian crossings.",
-    "image": null,
-    "options_th": [
-      "See picture",
-      "See picture",
-      "See picture",
-      "See picture"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'See picture' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
-  },
-  {
-    "id": "Q013",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "The driver in Car A should:",
-    "question_th": "ผู้ขับขี่ในรถยนต์คัน A ควร:",
-    "options": [
-      "Stop behind the line, and wait to make sure there is no cross traffic before proceeding.",
-      "Slow Down",
-      "Proceed immediately without stopping or slowing.",
-      "Reduce his/her speed and proceed with caution."
-    ],
-    "correct": 0,
-    "explanation_en": "A) Stop behind the line, and wait to make sure there is no cross traffic before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
-    "image": "13.jpg",
-    "options_th": [
-      "หยุดด้านหลังเส้น และรอให้แน่ใจว่าไม่มีรถสวนทางมาก่อนจึงจะขับต่อไป",
-      "ชะลอความเร็ว",
-      "ขับต่อไปทันทีโดยไม่หยุดหรือชะลอความเร็ว",
-      "ลดความเร็วลงและขับต่อไปด้วยความระมัดระวัง"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'หยุดด้านหลังเส้น และรอให้แน่ใจว่าไม่มีรถสวนทางมาก่อนจึงจะขับต่อไป' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
   },
   {
     "id": "Q014",
@@ -173,7 +58,7 @@
       "Absolutely no stopping in this area."
     ],
     "correct": 3,
-    "explanation_en": "D) Absolutely no stopping in this area. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "D) Absolutely no stopping in this area. is correct. The sign shows: The image depicts a yellow hatched box painted on the road surface, which indicates that drivers are prohibited from stopping within the area. This marking is often found at intersections or locations where traffic flow needs to be maintained. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "14.jpg",
     "options_th": [
       "ห้ามแซงภายในพื้นที่ที่มีเส้นไขว้",
@@ -196,7 +81,7 @@
       "Slippery road ahead, be extra careful."
     ],
     "correct": 0,
-    "explanation_en": "A) Falling rocks, be extra mindful. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Falling rocks, be extra mindful. is correct. The sign shows: The image displays a Thai road sign warning drivers of a potential rockfall or landslide hazard ahead. Drivers should be cautious and prepare for the risk of falling rocks on the road. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "17.jpg",
     "options_th": [
       "หินตก ให้ระมัดระวังเป็นพิเศษ",
@@ -219,7 +104,7 @@
       "Stop immediately."
     ],
     "correct": 2,
-    "explanation_en": "C) Reduce your speed. The road may be slippery. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Reduce your speed. The road may be slippery. is correct. The sign shows: The image depicts a yellow diamond-shaped road sign. It warns drivers of a slippery road ahead, indicated by the car and the wavy lines representing skidding. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "18.jpg",
     "options_th": [
       "ขับขี่ด้วยความระมัดระวัง ถนนคดเคี้ยว",
@@ -242,7 +127,7 @@
       "End of double road, merging of lanes ahead"
     ],
     "correct": 2,
-    "explanation_en": "C) Traffic island ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Traffic island ahead is correct. The sign shows: The image shows a yellow warning sign indicating a narrow bridge or underpass.  Traffic flows should be prepared to yield as the road narrows. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "21.jpg",
     "options_th": [
       "แยกถนน ให้ชิดซ้าย",
@@ -251,29 +136,6 @@
       "สิ้นสุดถนนสองช่องทาง การรวมช่องทางข้างหน้า"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'เกาะกลางจราจรข้างหน้า' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q022",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "In the picture on the right, the driver must:",
-    "question_th": "ในภาพด้านขวา ผู้ขับขี่ต้อง:",
-    "options": [
-      "Reduce his/her speed and proceed through the intersection.",
-      "Slow Down",
-      "Stop and wait for other cars to clear the intersection before proceeding.",
-      "Proceed through the intersection without stopping."
-    ],
-    "correct": 2,
-    "explanation_en": "C) Stop and wait for other cars to clear the intersection before proceeding. is correct. This sign regulates right-side movement. Distinguishing between advisory signs (\"keep\") and mandatory signs (\"must\") is a common exam topic.",
-    "image": "22.jpg",
-    "options_th": [
-      "ลดความเร็วลงและขับผ่านทางแยก",
-      "ชะลอความเร็ว",
-      "หยุดและรอให้รถคันอื่นเคลียร์ทางแยกก่อนจึงจะขับต่อไป",
-      "ขับผ่านทางแยกโดยไม่หยุด"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'หยุดและรอให้รถคันอื่นเคลียร์ทางแยกก่อนจึงจะขับต่อไป' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
   },
   {
     "id": "Q025",
@@ -288,7 +150,7 @@
       "Pass the obstacle ahead on the left"
     ],
     "correct": 0,
-    "explanation_en": "A) You may turn left is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) You may turn left is correct. The sign shows: The image shows a mandatory road sign in Thailand, requiring drivers to turn left. This sign indicates the direction in which vehicles *must* travel. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "25.jpg",
     "options_th": [
       "คุณอาจเลี้ยวซ้าย",
@@ -297,29 +159,6 @@
       "ให้ผ่านสิ่งกีดขวางข้างหน้าทางด้านซ้าย"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'คุณอาจเลี้ยวซ้าย' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q030",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "Where is it prohibited to make a U-turn?",
-    "question_th": "ห้ามกลับรถในที่ใด?",
-    "options": [
-      "In an intersection",
-      "Within 150 meters of a bridge",
-      "In front of a hospital",
-      "Where another vehicle is following at a distance of less than 120 meters"
-    ],
-    "correct": 0,
-    "explanation_en": "A) In an intersection is correct. A hospital sign indicates a medical facility nearby. Drive quietly and be prepared for emergency vehicles entering or exiting.",
-    "image": null,
-    "options_th": [
-      "ในทางแยก",
-      "ในระยะ 150 เมตรของสะพาน",
-      "หน้าโรงพยาบาล",
-      "ที่มียานพาหนะอื่นขับตามมาในระยะห่างน้อยกว่า 120 เมตร"
-    ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ในทางแยก' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
   },
   {
     "id": "Q034",
@@ -334,7 +173,7 @@
       "Stop. Give smaller vehicles the right of way."
     ],
     "correct": 1,
-    "explanation_en": "B) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. The sign shows: The image shows a Thai yield sign, which is an inverted red triangle with Thai characters (\"ให้ทาง\") inside. This sign indicates that drivers should give way to traffic on the intersecting road. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "34.jpg",
     "options_th": [
       "หยุด ให้ยานพาหนะขนาดใหญ่มีสิทธิ์ทาง优先",
@@ -357,7 +196,7 @@
       "Parking for cars only"
     ],
     "correct": 1,
-    "explanation_en": "B) Cars may not enter the road ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Cars may not enter the road ahead is correct. The sign shows: The image shows a \"No Entry for Motor Vehicles\" traffic sign, indicating that cars are prohibited from entering that area or road. This is a common road sign found on many roads around the world. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "37.jpg",
     "options_th": [
       "รถยนต์อาจเข้าสู่ถนนข้างหน้าได้",
@@ -380,7 +219,7 @@
       "Cannot pass for vehicles less than 2.5 meters in width."
     ],
     "correct": 0,
-    "explanation_en": "A) Cannot pass for vehicles exceeding 2.5 meters in height. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Cannot pass for vehicles exceeding 2.5 meters in height. is correct. The sign shows: The image displays a Thai road sign with a yellow diamond shape. This sign indicates a clearance restriction, specifically a maximum height limit of 2.5 meters. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "40.jpg",
     "options_th": [
       "ห้ามผ่านสำหรับยานพาหนะที่มีความสูงเกิน 2.5 เมตร",
@@ -403,7 +242,7 @@
       "Cannot pass for vehicles less than 2.5 meters in width."
     ],
     "correct": 2,
-    "explanation_en": "C) Cannot pass for vehicles exceeding 2.5 meters in width. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Cannot pass for vehicles exceeding 2.5 meters in width. is correct. The sign shows: The image depicts a diamond-shaped yellow road sign. It indicates a restriction on vehicle width, with a maximum clearance of 2.5 meters. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "41.jpg",
     "options_th": [
       "ห้ามผ่านสำหรับยานพาหนะที่มีความสูงเกิน 2.5 เมตร",
@@ -426,7 +265,7 @@
       "Tunnel ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) Road narrows ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Road narrows ahead is correct. The sign shows: The image shows a Thai road sign warning drivers that the road is narrowing ahead. This indicates that the road width will become smaller, potentially requiring drivers to adjust their lane position or be cautious. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "42.jpg",
     "options_th": [
       "สะพานข้างหน้า",
@@ -449,7 +288,7 @@
       "Reduce your speed and use the detour. Bridge out."
     ],
     "correct": 0,
-    "explanation_en": "A) Reduce your speed and check for oncoming traffic before crossing. One-land bridge ahead. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Reduce your speed and check for oncoming traffic before crossing. One-land bridge ahead. is correct. The sign shows: The image displays a yellow diamond-shaped warning sign indicating a **narrow bridge** ahead. The sign alerts drivers to a potential hazard where the road narrows due to a bridge. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "45.jpg",
     "options_th": [
       "ลดความเร็วของคุณและตรวจสอบรถที่สวนมาก่อนข้าม สะพานช่องทางเดียวข้างหน้า",
@@ -458,29 +297,6 @@
       "ลดความเร็วของคุณและใช้ทางอ้อม สะพานขาด"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ลดความเร็วของคุณและตรวจสอบรถที่สวนมาก่อนข้าม สะพานช่องทางเดียวข้างหน้า' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q047",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "What does the sign mean?",
-    "question_th": "ป้ายนี้หมายความว่าอย่างไร?",
-    "options": [
-      "Lanes will split ahead",
-      "Right lane closed ahead",
-      "Left lanes will merge",
-      "No way ahead"
-    ],
-    "correct": 1,
-    "explanation_en": "B) Right lane closed ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
-    "image": "47.jpg",
-    "options_th": [
-      "ช่องทางจะแยกข้างหน้า",
-      "ช่องทางขวาปิดข้างหน้า",
-      "ช่องทางซ้ายจะรวมกัน",
-      "ไม่มีทางข้างหน้า"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'ช่องทางขวาปิดข้างหน้า' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
   },
   {
     "id": "Q049",
@@ -495,7 +311,7 @@
       "No noise"
     ],
     "correct": 3,
-    "explanation_en": "D) No noise is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "D) No noise is correct. The sign shows: The image shows a \"No Honking\" sign, indicated by a horn symbol inside a red circle with a red line through it. This sign prohibits drivers from using their horns in the designated area. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "49.jpg",
     "options_th": [
       "ห้ามรถแท็กซี่",
@@ -504,57 +320,6 @@
       "ห้ามส่งเสียงดัง"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ห้ามส่งเสียงดัง' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q050",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "In the situation pictured below, you should:",
-    "question_th": "ในสถานการณ์ตามภาพด้านล่าง คุณควร:",
-    "options": [
-      "Put on your right turn signal and wait for yellow car to pass before proceeding.",
-      "Stop and wait for other car to pass.",
-      "Put on your right turn signal and pass on the left without delay.",
-      "Move to the right and proceed around the obstruction without delay."
-    ],
-    "correct": 0,
-    "explanation_en": "A) Put on your right turn signal and wait for the yellow car to pass before proceeding is correct. When turning right, you must yield to oncoming traffic. Signaling alerts other drivers of your intention, and waiting prevents a collision with the yellow car that has the right of way.",
-    "image": "50.jpg",
-    "options_th": [
-      "เปิดสัญญาณไฟเลี้ยวขวาและรอให้รถสีเหลืองผ่านไปก่อนจึงจะขับต่อไป",
-      "หยุดและรอให้รถคันอื่นผ่านไป",
-      "เปิดสัญญาณไฟเลี้ยวขวาและแซงทางซ้ายโดยไม่ชักช้า",
-      "เลื่อนไปทางขวาและขับผ่านสิ่งกีดขวางโดยไม่ชักช้า"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'เปิดสัญญาณไฟเลี้ยวขวาและรอให้รถสีเหลืองผ่านไปก่อนจึงจะขับต่อไป' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี",
-    "wrong_explanations_en": {
-      "1": "Turning left would take you away from your intended direction and into oncoming traffic.",
-      "2": "Overtaking on the left is illegal here and extremely dangerous.",
-      "3": "Stopping completely and waiting is unnecessary if the yellow car is passing — you should proceed once it is safe."
-    }
-  },
-  {
-    "id": "Q051",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "Which of the pictures below illustrates proper parking?",
-    "question_th": "ภาพใดด้านล่างแสดงการจอดรถที่ถูกต้อง?",
-    "options": [
-      "Parking on the sidewalk",
-      "Parking on a crosswalk",
-      "Parking on a pedestrian crossing",
-      "None of the pictures."
-    ],
-    "correct": 3,
-    "explanation_en": "D) None of the pictures is correct. All three images show illegal parking: parking on a crosswalk blocks pedestrians, parking facing the wrong direction creates collision risk, and parking too close to an intersection blocks visibility.",
-    "image": null,
-    "options_th": [
-      "See picture",
-      "See picture",
-      "See picture",
-      "None of the pictures."
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'None of the pictures.' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
   },
   {
     "id": "Q052",
@@ -569,7 +334,7 @@
       "Dead end"
     ],
     "correct": 1,
-    "explanation_en": "C) End of controlled area is correct. This sign marks the end of a zone where specific regulations (like speed limits or no-parking) were enforced. After this sign, normal road rules apply unless another sign says otherwise.",
+    "explanation_en": "B) End of controlled area is correct. The sign shows: The image shows a Thai road sign indicating the \"End of Prohibition\" or \"End of Restrictions.\" This sign signifies that all previously imposed restrictions presented by circular road signs are no longer in effect. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "52.jpg",
     "options_th": [
       "ถนนสิ้นสุดข้างหน้า",
@@ -577,12 +342,30 @@
       "ห้ามรถยนต์หรือรถจักรยานยนต์ในบริเวณนี้",
       "ทางตัน"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'สิ้นสุดเขตควบคุม' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
-    "wrong_explanations_en": {
-      "0": "Beginning of a no-parking zone would be a prohibition sign, not an end-of-zone sign.",
-      "1": "The sign does not indicate a roundabout — roundabouts have a different symbol.",
-      "3": "This is not a stop sign — stop signs are octagonal and red."
-    }
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'สิ้นสุดเขตควบคุม' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
+  },
+  {
+    "id": "Q053",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "The dividing line in the middle of the road pictured indicates",
+    "question_th": "เส้นแบ่งกลางถนนตามภาพแสดงว่า",
+    "options": [
+      "This is a dual lane road.",
+      "Drivers can freely switch lanes.",
+      "Cars may not pull into the right lane to overtake another vehicle.",
+      "Drivers may make U-turns."
+    ],
+    "correct": 2,
+    "explanation_en": "C) Cars may not pull into the right lane to overtake another vehicle. is correct. The image shows: The image depicts a scenario where a green car has collided with an object, as indicated by the yellow impact marks, while a red car is located on the opposite lane. This probably illustrates a loss of control or an accident situation. The correct response prevents a collision and follows right-of-way rules.",
+    "image": "53.jpg",
+    "options_th": [
+      "นี่คือถนนสองช่องทาง",
+      "ผู้ขับขี่สามารถเปลี่ยนช่องทางได้อย่างอิสระ",
+      "รถยนต์ไม่สามารถดึงเข้าไปในช่องทางขวาเพื่อแซงยานพาหนะอื่นได้",
+      "ผู้ขับขี่อาจกลับรถได้"
+    ],
+    "explanation_th": "รถยนต์ไม่สามารถดึงเข้าไปในช่องทางขวาเพื่อแซงยานพาหนะอื่นได้ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
   },
   {
     "id": "Q054",
@@ -597,7 +380,7 @@
       "Pedestrian crossing"
     ],
     "correct": 0,
-    "explanation_en": "A) School zone. Watch for children is correct. A school zone sign warns that children may cross unexpectedly. Reduce speed and stay alert even if no children are visible.",
+    "explanation_en": "A) School zone. Watch for children is correct. The sign shows: The image shows a yellow diamond road sign indicating a pedestrian crossing, with a pictogram of a parent and child walking on a crosswalk. This warns drivers to be prepared for pedestrians crossing the road. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "54.jpg",
     "options_th": [
       "เขตโรงเรียน ระวังเด็ก",
@@ -620,7 +403,7 @@
       "Vehicles carrying loads weighing more than 30 tons are prohibited."
     ],
     "correct": 0,
-    "explanation_en": "A) The minimum speed limit is 30 kilometers per hour. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) The minimum speed limit is 30 kilometers per hour. is correct. The sign shows: This image shows a blue circular road sign with the number \"30\". The sign indicates a speed limit of 30, likely in kilometers per hour (km/h). Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "55.jpg",
     "options_th": [
       "ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง",
@@ -643,7 +426,7 @@
       "No passing within the cross-hatched lines."
     ],
     "correct": 1,
-    "explanation_en": "B) Absolutely no stopping in this area. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Absolutely no stopping in this area.. is correct. The sign shows: The image shows a yellow hatched box painted on the road surface, indicating an area where vehicles should not stop, even if it is allowed to pass to avoid blocking the intersection, often found at intersections. This marking helps to keep the intersection clear for unobstructed traffic flow. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "56.jpg",
     "options_th": [
       "ทางเข้า/ออกของอาคาร",
@@ -666,7 +449,7 @@
       "Sharp curve ahead"
     ],
     "correct": 2,
-    "explanation_en": "C) No right turn is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "C) No right turn is correct. The sign shows: The image shows a \"No right turn\" road sign, indicating that turning right is prohibited in the area. This sign uses a red circle with a slash through it, encompassing a black arrow making a right turn. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "59.jpg",
     "options_th": [
       "เลี้ยวขวาได้",
@@ -675,29 +458,6 @@
       "ทางโค้งหักศอกข้างหน้า"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ห้ามเลี้ยวขวา' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q060",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "Which of the following statements is true?",
-    "question_th": "ข้อใดต่อไปนี้เป็นจริง?",
-    "options": [
-      "Slow-moving vehicles must use the left lane.",
-      "Within the Bangkok Metropolitan Area, the maximum speed limit is 60 kilometers per hour.",
-      "When making a right turn, you should extend your right arm from the vehicle at shoulder-level and raise and lower.",
-      "When making a turn, you should give a signal at least 60 meters before turning."
-    ],
-    "correct": 0,
-    "explanation_en": "A) Slow-moving vehicles must use the left lane. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
-    "image": null,
-    "options_th": [
-      "ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย",
-      "ภายในเขตกรุงเทพมหานคร ขีดจำกัดความเร็วสูงสุดคือ 60 กิโลเมตรต่อชั่วโมง",
-      "เมื่อจะเลี้ยวขวา คุณควรยื่นแขนขวาออกจากยานพาหนะระดับไหล่แล้วยกขึ้นและลง",
-      "เมื่อจะเลี้ยว คุณควรให้สัญญาณอย่างน้อย 60 เมตรก่อนเลี้ยว"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
   },
   {
     "id": "Q061",
@@ -712,7 +472,7 @@
       "The minimum speed limit is 30 kilometers per hour."
     ],
     "correct": 3,
-    "explanation_en": "D) The minimum speed limit is 30 kilometers per hour. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "D) The minimum speed limit is 30 kilometers per hour. is correct. The sign shows: This image shows a Thai road sign indicating a 30 km/h speed limit. The sign is a white number “30” inside a blue circular sign. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "61.jpg",
     "options_th": [
       "ห้ามยานพาหนะที่มีน้ำหนักเกิน 30 ตัน",
@@ -735,7 +495,7 @@
       "School zone. Watch for children"
     ],
     "correct": 3,
-    "explanation_en": "D) School zone. Watch for children is correct. A school zone sign warns that children may cross unexpectedly. Reduce speed and stay alert even if no children are visible.",
+    "explanation_en": "D) School zone. Watch for children is correct. The sign shows: The image shows a yellow diamond road sign that warns of a pedestrian crossing, with a parent and child walking on a zebra crossing. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "62.jpg",
     "options_th": [
       "สะพานลอยคนเดินข้างหน้า",
@@ -744,34 +504,6 @@
       "เขตโรงเรียน ระวังเด็ก"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'เขตโรงเรียน ระวังเด็ก' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q064",
-    "category": "road_signs",
-    "difficulty": 3,
-    "question_en": "Which of the pictures below illustrates proper parking?",
-    "question_th": "ภาพใดด้านล่างแสดงการจอดรถที่ถูกต้อง?",
-    "options": [
-      "Parking facing uphill with wheels turned out",
-      "Parking facing downhill with wheels turned in",
-      "Parking on a steep slope without engaging the handbrake",
-      "Parking on a flat surface with wheels straight"
-    ],
-    "correct": 1,
-    "explanation_en": "B) is correct. When parking facing downhill, turn your wheels toward the curb (left in Thailand, where we drive on the left). If the brakes fail, the car rolls into the curb and stops instead of into traffic.",
-    "image": null,
-    "options_th": [
-      "See picture",
-      "See picture",
-      "See picture",
-      "See picture"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'See picture' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี",
-    "wrong_explanations_en": {
-      "0": "Parking facing uphill with wheels turned out is correct for uphill, not downhill.",
-      "2": "Parking on a steep slope without the handbrake is always dangerous.",
-      "3": "Wheels straight on a slope means the car could roll into traffic if brakes fail."
-    }
   },
   {
     "id": "Q066",
@@ -786,7 +518,7 @@
       "One-way traffic"
     ],
     "correct": 2,
-    "explanation_en": "C) Do not overtake is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Do not overtake is correct. The sign shows: The image shows a Thai road sign prohibiting vehicles from taking either of the indicated directions. It specifically indicates that vehicles cannot travel in the direction of the two curving arrows. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "66.jpg",
     "options_th": [
       "การจราจรช่องทางเดียว",
@@ -809,7 +541,7 @@
       "Drive carefully. You are in a school zone."
     ],
     "correct": 1,
-    "explanation_en": "B) Reduce your speed. Stop if pedestrians are crossing in front of you. is correct. A school zone sign warns that children may cross unexpectedly. Reduce speed and stay alert even if no children are visible.",
+    "explanation_en": "B) Reduce your speed. Stop if pedestrians are crossing in front of you. is correct. The sign shows: The image shows a yellow diamond road sign that indicates a pedestrian crosswalk is ahead. Drivers should be prepared to yield to pedestrians in this area. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "69.jpg",
     "options_th": [
       "ขับต่อไปหากไม่มีคนเดินเท้าข้าม",
@@ -832,7 +564,7 @@
       "Use the right lane."
     ],
     "correct": 1,
-    "explanation_en": "A) Sharp left turn ahead is correct. This warning sign alerts drivers to a sharp curve in the road ahead. You should reduce speed before entering the curve and stay in your lane. \"No U-turn\" and \"One-way traffic\" are regulatory signs with different shapes and meanings.",
+    "explanation_en": "B) No U-turn. is correct. The sign shows: The image shows a Thai road sign indicating that U-turns are prohibited. The sign is a red circle with a black U-turn symbol crossed out by a diagonal red line. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "71.jpg",
     "options_th": [
       "See picture",
@@ -840,12 +572,7 @@
       "การจราจรทางเดียว",
       "ใช้ช่องทางขวา"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ห้ามกลับรถ' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
-    "wrong_explanations_en": {
-      "1": "No U-turn is a prohibition sign, not a warning sign about road geometry.",
-      "2": "One-way traffic regulates direction of flow, not road curvature.",
-      "3": "Use the right lane is an advisory sign, not a warning about a turn."
-    }
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ห้ามกลับรถ' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
   },
   {
     "id": "Q073",
@@ -860,7 +587,7 @@
       "Parking allowed"
     ],
     "correct": 1,
-    "explanation_en": "B) Stop. Watch for other vehicles in the intersection before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Stop. Watch for other vehicles in the intersection before proceeding. is correct. The sign shows: The image shows a Thai road sign signifying \"stop,\" indicated by the word \"หยุด\" (pronounced 'yùt') in white lettering on a red octagon. This sign instructs drivers to come to a complete halt. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "73.jpg",
     "options_th": [
       "การหยุดชั่วคราวเพื่อขนถ่ายสินค้า",
@@ -883,7 +610,7 @@
       "Sharp curve ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) No right turn is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) No right turn is correct. The sign shows: The image shows a \"No right turn\" sign, indicating that turning right at the location where this sign is posted is prohibited. It is a circular sign with a red border containing a black curved arrow with a right pointing arrow, crossed by a red diagonal line. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "77.jpg",
     "options_th": [
       "เลี้ยวซ้ายได้",
@@ -906,7 +633,7 @@
       "May not go straight"
     ],
     "correct": 1,
-    "explanation_en": "B) Should reduce your speed and carefully enter the curve to the right. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Should reduce your speed and carefully enter the curve to the right. is correct. The sign shows: The image shows a yellow diamond road sign that indicates a right curve ahead. This warns drivers to be prepared for the upcoming bend in the road. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "78.jpg",
     "options_th": [
       "ควรเลี้ยวซ้าย",
@@ -929,7 +656,7 @@
       "Stop to allow cross traffic or traffic on the main road to pass before proceeding."
     ],
     "correct": 3,
-    "explanation_en": "D) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "D) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. The sign shows: The image shows a yield sign, which is a red inverted triangle with the Thai word \"ให้ทาง (hai thang)\" inside. This sign indicates that drivers must give way to other traffic. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "79.jpg",
     "options_th": [
       "หยุด ให้ยานพาหนะขนาดเล็กมีสิทธิ์ทาง优先",
@@ -952,7 +679,7 @@
       "Give way ahead"
     ],
     "correct": 0,
-    "explanation_en": "A) Stop for inspection is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Stop for inspection is correct. The sign shows: The image shows a Thai road sign with a red circle and white background indicating a stop and inspection required. The Thai words \"หยุด\" (stop) and \"ตรวจ\" (inspect) are written above and below a black horizontal bar. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "80.jpg",
     "options_th": [
       "หยุดเพื่อตรวจสอบ",
@@ -975,7 +702,7 @@
       "Not enter the road ahead"
     ],
     "correct": 0,
-    "explanation_en": "A) Stop and allow oncoming traffic to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Stop and allow oncoming traffic to pass before proceeding. is correct. The sign shows: The image shows a \"two-way traffic\" sign, indicating that traffic moves in both directions on the road. The red arrow signifies one direction, while the black arrow indicates the opposite direction. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "86.jpg",
     "options_th": [
       "หยุดและให้รถที่สวนมาผ่านไปก่อนจึงจะขับต่อไป",
@@ -984,29 +711,6 @@
       "ไม่เข้าไปในถนนข้างหน้า"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'หยุดและให้รถที่สวนมาผ่านไปก่อนจึงจะขับต่อไป' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q106",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "What is the safety zone mean?",
-    "question_th": "เขตปลอดภัยหมายความว่าอย่างไร?",
-    "options": [
-      "The area that the driver can take the car through.",
-      "Districts where pedestrians can cross paths without stopping to wait.",
-      "The area has a mark indicating that the driver is safe to continue driving.",
-      "The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over."
-    ],
-    "correct": 3,
-    "explanation_en": "D) The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
-    "image": null,
-    "options_th": [
-      "บริเวณที่ผู้ขับขี่สามารถนำรถผ่านได้",
-      "เขตที่คนเดินเท้าสามารถข้ามทางได้โดยไม่ต้องหยุดรอ",
-      "บริเวณที่มีเครื่องหมายแสดงว่าผู้ขับขี่ปลอดภัยที่จะขับขี่ต่อไป",
-      "บริเวณในลานจอดรถที่มีเครื่องหมายแสดงอย่างชัดเจนตลอดเวลาสำหรับคนเดินเท้าที่กำลังข้ามทางให้หยุดรอ หรืออนุญาตให้คนขึ้นหรือลงจากรถให้หยุดและรอก่อนข้าม"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'บริเวณในลานจอดรถที่มีเครื่องหมายแสดงอย่างชัดเจนตลอดเวลาสำหรับคนเดินเท้าที่กำลังข้ามทางให้หยุดรอ หรืออนุญาตให้คนขึ้นหรือลงจากรถให้หยุดและรอก่อนข้าม' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
   },
   {
     "id": "Q107",
@@ -1021,7 +725,7 @@
       "The driver who approaches from the behind direction of the officer must continue forward."
     ],
     "correct": 0,
-    "explanation_en": "A) The driver approaching from the direction of the arm must stop the vehicle. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) The driver approaching from the direction of the arm must stop the vehicle. is correct. The image shows: The image depicts a traffic police officer with their arm outstretched. This signal indicates that drivers traveling from the officer's front or back must stop. This is the correct answer for the Thai driving theory test.",
     "image": "107.jpg",
     "options_th": [
       "ผู้ขับขี่ที่เข้ามาจากทิศทางของแขนนั้นต้องหยุดรถ",
@@ -1030,52 +734,6 @@
       "ผู้ขับขี่ที่เข้ามาจากด้านหลังของเจ้าหน้าที่ต้องขับต่อไป"
     ],
     "explanation_th": "ป้ายจราจรนี้แสดงว่า 'ผู้ขับขี่ที่เข้ามาจากทิศทางของแขนนั้นต้องหยุดรถ' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
-  },
-  {
-    "id": "Q109",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "In which areas is a driver permitted to make a U-turn?",
-    "question_th": "ในพื้นที่ใดที่ผู้ขับขี่ได้รับอนุญาตให้กลับรถ?",
-    "options": [
-      "Roadway marked with a no U-turn sign",
-      "On a bridge",
-      "150 meters distance from the foot of a bridge",
-      "A safety zone"
-    ],
-    "correct": 2,
-    "explanation_en": "C) 150 meters distance from the foot of a bridge is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
-    "image": null,
-    "options_th": [
-      "ถนนที่มีป้ายห้ามกลับรถ",
-      "บนสะพาน",
-      "ระยะห่าง 150 เมตรจากตีนสะพาน",
-      "เขตปลอดภัย"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'ระยะห่าง 150 เมตรจากตีนสะพาน' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
-  },
-  {
-    "id": "Q110",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "When arriving at the railroad and there is a passing train, what should the driver do?",
-    "question_th": "เมื่อมาถึงทางรถไฟและมีรถไฟกำลังผ่าน ผู้ขับขี่ควรทำอย่างไร?",
-    "options": [
-      "Stop waiting for the signal light and turn on the emergency light.",
-      "Give a warning signal and drive through.",
-      "Drive through quickly.",
-      "Stop the car at least 5 meters from the railroad."
-    ],
-    "correct": 3,
-    "explanation_en": "D) Stop the car at least 5 meters from the railroad. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
-    "image": null,
-    "options_th": [
-      "หยุดรอสัญญาณไฟและเปิดไฟฉุกเฉิน",
-      "ให้สัญญาณเตือนและขับผ่าน",
-      "ขับผ่านอย่างรวดเร็ว",
-      "หยุดรถห่างจากทางรถไฟอย่างน้อย 5 เมตร"
-    ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'หยุดรถห่างจากทางรถไฟอย่างน้อย 5 เมตร' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
   },
   {
     "id": "Q117",
@@ -1090,7 +748,7 @@
       "Let the driver slow down and speed up first."
     ],
     "correct": 2,
-    "explanation_en": "C) Always stop before reaching the transverse line. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Always stop before reaching the transverse line. is correct. The sign shows: The image depicts a simple road layout with a T-intersection. No road signs, vehicles, or specific traffic situations are present in the image. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "117.jpg",
     "options_th": [
       "ให้ผู้ขับขี่ขับเร็ว ช่องทางอนุญาตให้ไปได้ทันที",
@@ -1113,7 +771,7 @@
       "All vehicles are allowed to pass."
     ],
     "correct": 1,
-    "explanation_en": "B) Motorcycles are prohibited. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Motorcycles are prohibited. is correct. The sign shows: The image shows a \"No Motorcycles\" sign, indicating that motorcycles are prohibited in the area or on the road where the sign is posted. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "118.jpg",
     "options_th": [
       "ห้ามรถบรรทุกทุกชนิด",
@@ -1136,7 +794,7 @@
       "There are 2 people sitting in. Can enter this lane."
     ],
     "correct": 0,
-    "explanation_en": "A) A car with at least 3 people can use this lane. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) A car with at least 3 people can use this lane. is correct. The sign shows: The image shows a Thai road sign indicating a 3-kilometer distance to a designated point or area, likely a warning or directional sign.  The sign is a white number \"3\" inside a white diamond against a gray background. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "119.jpg",
     "options_th": [
       "รถยนต์ที่มีคนอย่างน้อย 3 คนสามารถใช้ช่องทางนี้ได้",
@@ -1159,7 +817,7 @@
       "Drive slowly. And be extra careful The way ahead must use the left bypass."
     ],
     "correct": 3,
-    "explanation_en": "D) Drive slowly. And be extra careful The way ahead must use the left bypass. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "D) Drive slowly. And be extra careful The way ahead must use the left bypass. is correct. The sign shows: The image shows a warning sign indicating a sharp bend in the road, possibly along a waterfront or river, as suggested by the wavy lines. Drivers should be prepared for a curved road ahead. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "120.jpg",
     "options_th": [
       "ขับเร็ว เพิ่มความระมัดระวัง ถนนข้างหน้ามีสะพานแคบ",
@@ -1168,29 +826,6 @@
       "ขับช้าๆ และระมัดระวังเป็นพิเศษ ทางข้างหน้าต้องใช้ทางอ้อมด้านซ้าย"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ขับช้าๆ และระมัดระวังเป็นพิเศษ ทางข้างหน้าต้องใช้ทางอ้อมด้านซ้าย' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q138",
-    "category": "road_signs",
-    "difficulty": 3,
-    "question_en": "Which is the correct meaning of the blind spot?",
-    "question_th": "ความหมายที่ถูกต้องของจุดอับสายตาคือข้อใด?",
-    "options": [
-      "The front area of the car that the driver can’t see.",
-      "The back area of the car that the rear view mirror cannot capture.",
-      "The area that the driver can’t see clearly while driving.",
-      "The left area. Of the car that the driver can not see."
-    ],
-    "correct": 2,
-    "explanation_en": "C) The area that the driver can’t see clearly while driving. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
-    "image": null,
-    "options_th": [
-      "บริเวณด้านหน้ารถที่ผู้ขับขี่ไม่สามารถมองเห็นได้",
-      "บริเวณด้านหลังรถที่กระจกมองหลังไม่สามารถ捕捉ได้",
-      "บริเวณที่ผู้ขับขี่ไม่สามารถมองเห็นได้ชัดเจนขณะขับขี่",
-      "บริเวณด้านซ้ายของรถที่ผู้ขับขี่ไม่สามารถมองเห็นได้"
-    ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'บริเวณที่ผู้ขับขี่ไม่สามารถมองเห็นได้ชัดเจนขณะขับขี่' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
   },
   {
     "id": "Q140",
@@ -1205,7 +840,7 @@
       "Drive slowly. Increase caution explore buildings."
     ],
     "correct": 0,
-    "explanation_en": "A) Should drive slowly and be careful The road ahead is currently being explored on the road surface or in the bus lane. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Should drive slowly and be careful The road ahead is currently being explored on the road surface or in the bus lane. is correct. The sign shows: The image shows a Thai road sign warning of surveying work ahead.  The sign features a silhouette of a person using surveying equipment. Recognizing signs quickly is critical for the exam and for safe driving.",
     "image": "140.jpg",
     "options_th": [
       "ควรขับช้าๆ และระมัดระวัง ถนนข้างหน้ากำลังมีการสำรวจพื้นผิวถนนหรือในช่องทางเดินรถประจำทาง",
@@ -1214,28 +849,5 @@
       "ขับช้าๆ เพิ่มความระมัดระวัง สำรวจอาคาร"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ควรขับช้าๆ และระมัดระวัง ถนนข้างหน้ากำลังมีการสำรวจพื้นผิวถนนหรือในช่องทางเดินรถประจำทาง' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q144",
-    "category": "road_signs",
-    "difficulty": 3,
-    "question_en": "If you park the car on the left side of the road And want to move out, what should you do?",
-    "question_th": "หากคุณจอดรถไว้ด้านซ้ายของถนน และต้องการจะเคลื่อนออก ควรทำอย่างไร?",
-    "options": [
-      "Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal light.",
-      "Turn on the light to warn the following cars to slow down.",
-      "No need to look at the car parked in front. Looking at just the car that follows is enough.",
-      "Give a hand signal to ask for directions."
-    ],
-    "correct": 0,
-    "explanation_en": "A) Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal light. is correct. Thai parking laws specify exact distances from crossings, intersections, and obstacles. Memorizing these distances is essential for the exam.",
-    "image": null,
-    "options_th": [
-      "มองดูรถที่ตามมาทางกระจกข้างและกระจกมองหลัง จากนั้นเปิดสัญญาณไฟเลี้ยวขวา",
-      "เปิดไฟเพื่อเตือนรถที่ตามมาให้ชะลอความเร็ว",
-      "ไม่ต้องมองดูรถที่จอดอยู่ด้านหน้า แค่มองรถที่ตามมาก็พอ",
-      "ให้สัญญาณมือเพื่อถามทาง"
-    ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'มองดูรถที่ตามมาทางกระจกข้างและกระจกมองหลัง จากนั้นเปิดสัญญาณไฟเลี้ยวขวา' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
   }
 ]

@@ -1,143 +1,5 @@
 [
   {
-    "id": "Q019",
-    "category": "documents",
-    "difficulty": 1,
-    "question_en": "Which of the following is NOT permitted?",
-    "question_th": "ข้อใดต่อไปนี้ไม่ได้รับอนุญาต?",
-    "options": [
-      "Driving when your ability to operate a vehicle is impaired.",
-      "Driving in dim or dark conditions with the headlights on, giving visibility of 150 meters.",
-      "Driving a racing car on a public road with the permission of the relevant traffic authorities.",
-      "Passing on the left when the vehicle you are passing is waiting to make a right turn."
-    ],
-    "correct": 0,
-    "explanation_en": "A) Driving when your ability to operate a vehicle is impaired. is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
-    "image": null,
-    "options_th": [
-      "ขับขี่เมื่อความสามารถในการควบคุมยานพาหนะบกพร่อง",
-      "ขับขี่ในสภาพแสงสลัวหรือมืดโดยเปิดไฟหน้ามีทัศนวิสัย 150 เมตร",
-      "ขับรถแข่งบนถนนสาธารณะโดยได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
-      "แซงทางซ้ายเมื่อรถที่กำลังจะแซงกำลังรอเลี้ยวขวา"
-    ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ ขับขี่เมื่อความสามารถในการควบคุมยานพาหนะบกพร่อง การทำความเข้าใจข้อกำหนดเกี่ยวกับเอกสารเป็นสิ่งจำเป็นสำหรับผู้ขับขี่ทุกคนในประเทศไทย"
-  },
-  {
-    "id": "Q032",
-    "category": "documents",
-    "difficulty": 1,
-    "question_en": "Where is it permitted to make a U-turn?",
-    "question_th": "ที่ใดที่อนุญาตให้กลับรถได้?",
-    "options": [
-      "In an intersection",
-      "In a pedestrian crossing",
-      "On a bridge",
-      "Where traffic lanes are divided by a broken line"
-    ],
-    "correct": 3,
-    "explanation_en": "D) Where traffic lanes are divided by a broken line is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
-    "image": null,
-    "options_th": [
-      "ในทางแยก",
-      "ในทางม้าลาย",
-      "บนสะพาน",
-      "ที่ช่องทางการจราจรถูกแบ่งด้วยเส้นประ"
-    ],
-    "explanation_th": "ที่ช่องทางการจราจรถูกแบ่งด้วยเส้นประ เป็นข้อกำหนดทางกฎหมายที่ถูกต้อง เอกสารที่ถูกต้องช่วยให้เกิดความรับผิดชอบและการปฏิบัติตามกฎหมายจราจรของไทย"
-  },
-  {
-    "id": "Q039",
-    "category": "documents",
-    "difficulty": 1,
-    "question_en": "Which of the following statements is true?",
-    "question_th": "ข้อใดต่อไปนี้เป็นจริง?",
-    "options": [
-      "You may display license plates that you have had made yourself.",
-      "You may allow unlicensed drivers to use your vehicle.",
-      "It is prohibited to drive a vehicle for which the annual tax has not been paid.",
-      "You may allow someone else to use your driver license."
-    ],
-    "correct": 2,
-    "explanation_en": "C) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
-    "image": null,
-    "options_th": [
-      "คุณอาจแสดงป้ายทะเบียนที่คุณทำขึ้นเอง",
-      "คุณอาจอนุญาตให้ผู้ขับขี่ที่ไม่มีใบอนุญาตใช้ยานพาหนะของคุณ",
-      "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี",
-      "คุณอาจอนุญาตให้ผู้อื่นใช้ใบขับขี่ของคุณ"
-    ],
-    "explanation_th": "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี เป็นข้อกำหนดทางกฎหมายที่ถูกต้อง เอกสารที่ถูกต้องช่วยให้เกิดความรับผิดชอบและการปฏิบัติตามกฎหมายจราจรของไทย"
-  },
-  {
-    "id": "Q070",
-    "category": "documents",
-    "difficulty": 1,
-    "question_en": "Which of these statements is true?",
-    "question_th": "ข้อใดต่อไปนี้เป็นจริง?",
-    "options": [
-      "You may not drive a vehicle for which the annual tax has not been paid.",
-      "You may allow someone who does not have a driver license to operate your vehicle.",
-      "You do not need to carry your driver license when driving.",
-      "You may display license plates you have had made yourself."
-    ],
-    "correct": 0,
-    "explanation_en": "A) You may not drive a vehicle for which the annual tax has not been paid. is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
-    "image": null,
-    "options_th": [
-      "คุณไม่สามารถขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปีได้",
-      "คุณอาจอนุญาตให้ผู้ที่ไม่มีใบขับขี่ขับขี่ยานพาหนะของคุณได้",
-      "คุณไม่จำเป็นต้องพกใบขับขี่ขณะขับขี่",
-      "คุณอาจแสดงป้ายทะเบียนที่คุณทำขึ้นเองได้"
-    ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ คุณไม่สามารถขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปีได้ การทำความเข้าใจข้อกำหนดเกี่ยวกับเอกสารเป็นสิ่งจำเป็นสำหรับผู้ขับขี่ทุกคนในประเทศไทย"
-  },
-  {
-    "id": "Q084",
-    "category": "documents",
-    "difficulty": 2,
-    "question_en": "Which of the following statements is true?",
-    "question_th": "ข้อใดต่อไปนี้เป็นจริง?",
-    "options": [
-      "You may allow unlicensed drivers to user your vehicle.",
-      "It is prohibited to drive a vehicle for which the annual tax has not been paid.",
-      "You may allow someone else to use your driver license.",
-      "You may display license plates that you have had made yourself."
-    ],
-    "correct": 1,
-    "explanation_en": "B) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
-    "image": null,
-    "options_th": [
-      "คุณอาจอนุญาตให้ผู้ขับขี่ที่ไม่มีใบอนุญาตใช้ยานพาหนะของคุณได้",
-      "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี",
-      "คุณอาจอนุญาตให้ผู้อื่นใช้ใบขับขี่ของคุณ",
-      "คุณอาจแสดงป้ายทะเบียนที่คุณทำขึ้นเองได้"
-    ],
-    "explanation_th": "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี เป็นข้อกำหนดทางกฎหมายที่ถูกต้อง เอกสารที่ถูกต้องช่วยให้เกิดความรับผิดชอบและการปฏิบัติตามกฎหมายจราจรของไทย"
-  },
-  {
-    "id": "Q089",
-    "category": "documents",
-    "difficulty": 2,
-    "question_en": "Where is it not permitted to make a U-turn?",
-    "question_th": "ที่ใดไม่ได้รับอนุญาตให้กลับรถ?",
-    "options": [
-      "Within 150 meters of a bridge.",
-      "In the spaces between traffic islands.",
-      "Where another vehicle is following at a distance of less than 150 meters.",
-      "On a bridge"
-    ],
-    "correct": 3,
-    "explanation_en": "D) On a bridge is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
-    "image": null,
-    "options_th": [
-      "ในระยะ 150 เมตรของสะพาน",
-      "ในช่องว่างระหว่างเกาะกลางจราจร",
-      "ที่มียานพาหนะอื่นขับตามมาในระยะห่างน้อยกว่า 150 เมตร",
-      "บนสะพาน"
-    ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ บนสะพาน การทำความเข้าใจข้อกำหนดเกี่ยวกับเอกสารเป็นสิ่งจำเป็นสำหรับผู้ขับขี่ทุกคนในประเทศไทย"
-  },
-  {
     "id": "Q091",
     "category": "documents",
     "difficulty": 2,
@@ -150,7 +12,7 @@
       "Copy of the house registration"
     ],
     "correct": 2,
-    "explanation_en": "C) Copy of the car's registration is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
+    "explanation_en": "C) Copy of the car's registration is correct. Thai law requires a valid driving license, vehicle registration, and insurance. Driving without these can result in a fine up to 1,000 baht.",
     "image": null,
     "options_th": [
       "บัตรประจำตัวประชาชน",
@@ -173,7 +35,7 @@
       "5 years"
     ],
     "correct": 1,
-    "explanation_en": "B) 2 years is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
+    "explanation_en": "B) 2 years is correct. Thai law requires a valid driving license, vehicle registration, and insurance. Driving without these can result in a fine up to 1,000 baht.",
     "image": null,
     "options_th": [
       "1 ปี",
@@ -196,7 +58,7 @@
       "22 years old (completely)"
     ],
     "correct": 1,
-    "explanation_en": "B) 18 years old (completely) is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
+    "explanation_en": "B) 18 years old (completely) is correct. Thai law requires a valid driving license, vehicle registration, and insurance. Driving without these can result in a fine up to 1,000 baht.",
     "image": null,
     "options_th": [
       "15 ปีบริบูรณ์",
@@ -219,7 +81,7 @@
       "Imprisonment of not more than 3 months or fine of not more than 2,000 baht or both."
     ],
     "correct": 2,
-    "explanation_en": "C) Fine no more than 2,000 baht. is correct. Thai law requires drivers to carry a valid driving license, vehicle registration book, and insurance certificate. Driving without these can result in a fine up to 1,000 baht.",
+    "explanation_en": "C) Fine no more than 2,000 baht. is correct. Thai law requires a valid driving license, vehicle registration, and insurance. Driving without these can result in a fine up to 1,000 baht.",
     "image": null,
     "options_th": [
       "ปรับไม่เกิน 1,000 บาท",

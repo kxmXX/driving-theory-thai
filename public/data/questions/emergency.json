@@ -1,49 +1,26 @@
 [
   {
-    "id": "Q023",
+    "id": "Q125",
     "category": "emergency",
-    "difficulty": 1,
-    "question_en": "If you experience a breakdown, you should:",
-    "question_th": "หากคุณประสบปัญหารถเสีย คุณควร:",
+    "difficulty": 3,
+    "question_en": "While driving If the car bonnet is open what should the driver do?",
+    "question_th": "ขณะขับขี่ หากฝากระโปรงรถเปิดขึ้น ผู้ขับขี่ควรทำอย่างไร?",
     "options": [
-      "Leave your car at the spot where it breaks down and call a mechanic immediately.",
-      "Leave your car at the spot where it breaks down and arrange to have it towed immediately.",
-      "Pull your vehicle on to the shoulder and turn on your emergency flashers.",
-      "Leave your car at the spot where it breaks down and arrange for repairs later."
+      "Reduce speed and park on the side of the road To close the bonnet neatly.",
+      "Swerve the car to the side immediately To close the bonnet neatly.",
+      "Sudden braking.",
+      "Step on the accelerator so the bonnet is bumped off."
     ],
-    "correct": 2,
-    "explanation_en": "C) Pull your vehicle on to the shoulder and turn on your emergency flashers. is correct. In any emergency, stay calm. Panic leads to poor decisions. Protect people first, then property.",
+    "correct": 0,
+    "explanation_en": "A) Reduce speed and park on the side of the road To close the bonnet neatly. is correct. If your bonnet opens while driving: slow down gradually, signal, and pull over safely. Do not try to close it while moving.",
     "image": null,
     "options_th": [
-      "ปล่อยรถของคุณไว้ตรงจุดที่เสียและเรียกช่างทันที",
-      "ปล่อยรถของคุณไว้ตรงจุดที่เสียและจัดหารถลากทันที",
-      "ดึงรถของคุณเข้าข้างทางและเปิดไฟกะพริบฉุกเฉิน",
-      "ปล่อยรถของคุณไว้ตรงจุดที่เสียและจัดการซ่อมแซมในภายหลัง"
+      "ลดความเร็วและจอดข้างทาง เพื่อปิดฝากระโปรงให้เรียบร้อย",
+      "หลบรถไปข้างทันที เพื่อปิดฝากระโปรงให้เรียบร้อย",
+      "เบรกกะทันหัน",
+      "เหยียบคันเร่งเพื่อให้ฝากระโปรงกระเด็นออก"
     ],
-    "explanation_th": "ดึงรถของคุณเข้าข้างทางและเปิดไฟกะพริบฉุกเฉิน เป็นขั้นตอนปฏิบัติในกรณีฉุกเฉินที่ถูกต้อง การรู้วิธีตอบสนองในเหตุฉุกเฉินสามารถช่วยชีวิตและป้องกันอุบัติเหตุเพิ่มเติมได้"
-  },
-  {
-    "id": "Q088",
-    "category": "emergency",
-    "difficulty": 2,
-    "question_en": "The dividing lines in the middle of the road pictured indicate:",
-    "question_th": "เส้นแบ่งกลางถนนตามภาพแสดงว่า:",
-    "options": [
-      "Move the yellow car off the road and turn on emergency flashes.",
-      "The driver of the yellow car in the picture may make a U-turn.",
-      "The driver of the yellow car in the picture may not pull into the right lane to overtake another vehicle.",
-      "The driver of the yellow car in the picture may turn into the right lane."
-    ],
-    "correct": 2,
-    "explanation_en": "C) The driver of the yellow car in the picture may not pull into the right lane to overtake another vehicle. is correct. In any emergency, stay calm. Panic leads to poor decisions. Protect people first, then property.",
-    "image": "88.jpg",
-    "options_th": [
-      "ย้ายรถสีเหลืองออกจากถนนและเปิดไฟกะพริบฉุกเฉิน",
-      "ผู้ขับขี่รถยนต์สีเหลืองในภาพอาจกลับรถได้",
-      "ผู้ขับขี่รถยนต์สีเหลืองในภาพอาจไม่สามารถดึงเข้าไปในช่องทางขวาเพื่อแซงยานพาหนะอื่นได้",
-      "ผู้ขับขี่รถยนต์สีเหลืองในภาพอาจเลี้ยวเข้าไปในช่องทางขวาได้"
-    ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ ผู้ขับขี่รถยนต์สีเหลืองในภาพอาจไม่สามารถดึงเข้าไปในช่องทางขวาเพื่อแซงยานพาหนะอื่นได้ การเตรียมพร้อมรับมือเหตุฉุกเฉินเป็นทักษะที่สำคัญสำหรับผู้ขับขี่ทุกคน"
+    "explanation_th": "ลดความเร็วและจอดข้างทาง เพื่อปิดฝากระโปรงให้เรียบร้อย คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
   },
   {
     "id": "Q129",
@@ -58,7 +35,7 @@
       "Turn on Emergency lights when the car is parked on the shoulder."
     ],
     "correct": 3,
-    "explanation_en": "D) Turn on Emergency lights when the car is parked on the shoulder. is correct. In any emergency, stay calm. Panic leads to poor decisions. Protect people first, then property.",
+    "explanation_en": "D) Turn on Emergency lights when the car is parked on the shoulder. is correct. In any emergency, stay calm. Panic leads to poor decisions. Protect people first.",
     "image": null,
     "options_th": [
       "เปิดไฟฉุกเฉินขณะที่มีหมอกลง",
@@ -81,7 +58,7 @@
       "Double parking"
     ],
     "correct": 3,
-    "explanation_en": "D) Double parking is correct. Thai parking laws specify exact distances from crossings, intersections, and obstacles. Memorizing these distances is essential for the exam.",
+    "explanation_en": "D) Double parking is correct. Thai parking regulations specify exact minimum distances from crossings, intersections, and obstacles. Violating them endangers others.",
     "image": null,
     "options_th": [
       "จอดรถในอาคารจอดรถ",
