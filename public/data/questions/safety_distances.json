@@ -1,0 +1,671 @@
+[
+  {
+    "id": "Q001",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "You may not park your car...",
+    "question_th": "คุณไม่สามารถจอดรถของคุณ...",
+    "options": [
+      "within 15 meters of a fire hydrant.",
+      "within 15 meters of a traffic light.",
+      "within 15 meters of a railroad crossing.",
+      "within 15 meters of a pedestrian."
+    ],
+    "correct": 2,
+    "explanation_en": "C) within 15 meters of a railroad crossing is correct. Parking near a railroad crossing is prohibited within 15 meters because trains cannot stop quickly — your vehicle could be struck. The fire hydrant rule is only 3 meters, and the traffic light rule is 10 meters.",
+    "image": null,
+    "options_th": [
+      "ในระยะ 15 เมตรจากหัวดับเพลิง",
+      "ในระยะ 15 เมตรจากสัญญาณไฟจราจร",
+      "ในระยะ 15 เมตรจากทางรถไฟตัดผ่าน",
+      "ในระยะ 15 เมตรจากคนเดินเท้า"
+    ],
+    "explanation_th": "ในระยะ 15 เมตรจากทางรถไฟตัดผ่าน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
+    "wrong_explanations_en": {
+      "0": "A fire hydrant requires only a 3-meter clearance, not 15.",
+      "1": "A traffic light requires a 10-meter clearance, not 15.",
+      "3": "There is no 15-meter parking restriction for pedestrians specifically."
+    }
+  },
+  {
+    "id": "Q003",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "When descending a steep grade or hill, you should:",
+    "question_th": "เมื่อลงทางลาดชันหรือเนินเขา คุณควร:",
+    "options": [
+      "Keep your foot on the brake",
+      "Use a low gear",
+      "Shift to neutral",
+      "Turn off your engine"
+    ],
+    "correct": 1,
+    "explanation_en": "B) Use a low gear is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes alone. Overheating brakes can fade or fail completely on long descents.",
+    "image": null,
+    "options_th": [
+      "เหยียบเบรกค้างไว้",
+      "ใช้เกียร์ต่ำ",
+      "เปลี่ยนเป็นเกียร์ว่าง",
+      "ปิดเครื่องยนต์"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ใช้เกียร์ต่ำ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้",
+    "wrong_explanations_en": {
+      "0": "Riding the brake pedal generates excessive heat, causing brake fade and potential failure.",
+      "2": "Neutral removes engine braking entirely. You would rely only on brakes, which is extremely dangerous on steep hills.",
+      "3": "Turning off the engine disables power steering and servo-assisted brakes, making the vehicle uncontrollable."
+    }
+  },
+  {
+    "id": "Q006",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which type of vehicle is prohibited to drive on a public roadway?",
+    "question_th": "ยานพาหนะประเภทใดที่ห้ามขับขี่บนถนนสาธารณะ?",
+    "options": [
+      "A tractor with rubber tires.",
+      "A tank used in warfare.",
+      "A vehicle with an 80-decibel engine.",
+      "A vehicle with broken taillights."
+    ],
+    "correct": 3,
+    "explanation_en": "D) A vehicle with broken taillights is correct. You cannot drive a vehicle with non-functioning lights because other drivers cannot see you braking or turning, especially at night. A tractor with rubber tires (A) and an 80-decibel engine (C) are both legal on public roads.",
+    "image": null,
+    "options_th": [
+      "รถแทรกเตอร์ที่มีล้อยาง",
+      "รถถังที่ใช้ในการสงคราม",
+      "ยานพาหนะที่มีเครื่องยนต์ 80 เดซิเบล",
+      "ยานพาหนะที่มีไฟท้ายแตกหัก"
+    ],
+    "explanation_th": "ยานพาหนะที่มีไฟท้ายแตกหัก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
+    "wrong_explanations_en": {
+      "0": "A tractor with rubber tires is legal on public roads in Thailand.",
+      "1": "A tank used in warfare is obviously not a realistic choice for public roads.",
+      "2": "An 80-decibel engine is within legal noise limits."
+    }
+  },
+  {
+    "id": "Q008",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "How far back from the vehicle in front of you should you drive?",
+    "question_th": "คุณควรขับตามหลังรถคันหน้ามาเป็นระยะทางเท่าใด?",
+    "options": [
+      "Far enough to allow you to stop safely in an emergency.",
+      "50 meters",
+      "18 meters",
+      "30 meters"
+    ],
+    "correct": 0,
+    "explanation_en": "A) Far enough to allow you to stop safely in an emergency is correct. The two-second rule is the minimum safe following distance. At 60 km/h you travel about 17 meters per second, so you need at least 30-34 meters to react and stop safely. Fixed distances like 50m, 18m, or 30m do not adapt to your speed.",
+    "image": null,
+    "options_th": [
+      "ไกลพอที่จะให้คุณหยุดได้อย่างปลอดภัยในกรณีฉุกเฉิน",
+      "50 เมตร",
+      "18 เมตร",
+      "30 เมตร"
+    ],
+    "explanation_th": "ไกลพอที่จะให้คุณหยุดได้อย่างปลอดภัยในกรณีฉุกเฉิน คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น",
+    "wrong_explanations_en": {
+      "1": "50 meters is safe at very high speeds but excessive at low speeds — use the two-second rule instead.",
+      "2": "18 meters is far too short. At 60 km/h you travel 17m in one second alone.",
+      "3": "30 meters may be enough at very low speeds but is insufficient at normal driving speeds."
+    }
+  },
+  {
+    "id": "Q020",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which of these statements is true about passing?",
+    "question_th": "ข้อใดต่อไปนี้เป็นจริงเกี่ยวกับการแซง?",
+    "options": [
+      "You may not pass on the left on a road with two or more lanes moving in the same direction.",
+      "You may not pass within 150 meters of an intersection.",
+      "You may not pass when there is an obstruction in the left lane.",
+      "You may not pass on a bridge."
+    ],
+    "correct": 3,
+    "explanation_en": "D) You may not pass on a bridge. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "คุณไม่สามารถแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
+      "คุณไม่สามารถแซงในระยะ 150 เมตรจากทางแยก",
+      "คุณไม่สามารถแซงเมื่อมีสิ่งกีดขวางในช่องทางซ้าย",
+      "คุณไม่สามารถแซงบนสะพาน"
+    ],
+    "explanation_th": "คุณไม่สามารถแซงบนสะพาน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+  },
+  {
+    "id": "Q026",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "In which of the following circumstances is it forbidden to pass?",
+    "question_th": "ในกรณีใดต่อไปนี้ที่ห้ามแซง?",
+    "options": [
+      "When there is flooding.",
+      "To use the bus lane as a passing lane.",
+      "In front of a hospital.",
+      "To pass on the left when the vehicle in front of you is turning right."
+    ],
+    "correct": 1,
+    "explanation_en": "B) To use the bus lane as a passing lane. is correct. Use the two-second rule as a minimum following distance in dry conditions. In rain or at high speed, increase to 4 seconds. At 60 km/h you travel 17 meters per second.",
+    "image": null,
+    "options_th": [
+      "เมื่อมีน้ำท่วม",
+      "การใช้ช่องทางเดินรถประจำทางเป็นช่องทางแซง",
+      "หน้าโรงพยาบาล",
+      "การแซงทางซ้ายเมื่อรถข้างหน้ากำลังเลี้ยวขวา"
+    ],
+    "explanation_th": "การใช้ช่องทางเดินรถประจำทางเป็นช่องทางแซง คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+  },
+  {
+    "id": "Q027",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which type of vehicle is it prohibited to use on a public road?",
+    "question_th": "ยานพาหนะประเภทใดที่ห้ามใช้บนถนนสาธารณะ?",
+    "options": [
+      "A tractor with rubber tires",
+      "A vehicle with broken brake lights",
+      "A tank used in warfare",
+      "A vehicle whose engine is louder than 80 decibels"
+    ],
+    "correct": 1,
+    "explanation_en": "B) A vehicle with broken brake lights is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "รถแทรกเตอร์ที่มีล้อยาง",
+      "ยานพาหนะที่มีไฟเบรกแตกหัก",
+      "รถถังที่ใช้ในการสงคราม",
+      "ยานพาหนะที่มีเครื่องยนต์ดังเกิน 80 เดซิเบล"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ยานพาหนะที่มีไฟเบรกแตกหัก ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q028",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "When is it prohibited to pass?",
+    "question_th": "ห้ามแซงในกรณีใด?",
+    "options": [
+      "When you are passing on the left and the vehicle being passed is waiting to turn right.",
+      "Where the road is divided by a broken line.",
+      "When you are passing on the left on a road with two or more lanes moving in the same direction.",
+      "Within 30 meters of a crossroad."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Within 30 meters of a crossroad. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "เมื่อคุณแซงทางซ้ายและรถที่ถูกแซงกำลังรอเลี้ยวขวา",
+      "เมื่อถนนถูกแบ่งด้วยเส้นประ",
+      "เมื่อคุณแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
+      "ในระยะ 30 เมตรจากทางแยก"
+    ],
+    "explanation_th": "ในระยะ 30 เมตรจากทางแยก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+  },
+  {
+    "id": "Q035",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Where is it prohibited to make a U-turn?",
+    "question_th": "ที่ใดที่ห้ามกลับรถ?",
+    "options": [
+      "In the spaces between traffic islands",
+      "Where another vehicle is following at a distance of less than 150 meters",
+      "Within 150 meters of the base of a bridge",
+      "In an intersection"
+    ],
+    "correct": 3,
+    "explanation_en": "D) In an intersection is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "ในช่องว่างระหว่างเกาะกลางจราจร",
+      "ที่มียานพาหนะอื่นขับตามมาในระยะห่างน้อยกว่า 150 เมตร",
+      "ในระยะ 150 เมตรจากฐานสะพาน",
+      "ในทางแยก"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ในทางแยก ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q038",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "When is it prohibited to pass?",
+    "question_th": "ห้ามแซงในกรณีใด?",
+    "options": [
+      "When you are passing on the left on a road with two or more lanes moving in the same direction.",
+      "When you are passing on the left and the vehicle being passed is waiting to turn right.",
+      "Within 30 meters of a crossroad.",
+      "Where the road is divided by a broken line."
+    ],
+    "correct": 2,
+    "explanation_en": "C) Within 30 meters of a crossroad. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "เมื่อคุณแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
+      "เมื่อคุณแซงทางซ้ายและรถที่ถูกแซงกำลังรอเลี้ยวขวา",
+      "ในระยะ 30 เมตรจากทางแยก",
+      "เมื่อถนนถูกแบ่งด้วยเส้นประ"
+    ],
+    "explanation_th": "ในระยะ 30 เมตรจากทางแยก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+  },
+  {
+    "id": "Q043",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "You are required to turn on your headlights:",
+    "question_th": "คุณจำเป็นต้องเปิดไฟหน้าเมื่อ:",
+    "options": [
+      "When it rains and when seeking to overtake other vehicles in an emergency.",
+      "When heavy fog restricts visibility to less than 150 meters.",
+      "When you intend to make a right turn.",
+      "Not pass."
+    ],
+    "correct": 1,
+    "explanation_en": "B) When heavy fog restricts visibility to less than 150 meters. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "ฝนตกและเมื่อต้องการแซงยานพาหนะอื่นในกรณีฉุกเฉิน",
+      "เมื่อหมอกหนาจำกัดทัศนวิสัยน้อยกว่า 150 เมตร",
+      "เมื่อคุณตั้งใจจะเลี้ยวขวา",
+      "ห้ามแซง"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ เมื่อหมอกหนาจำกัดทัศนวิสัยน้อยกว่า 150 เมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q063",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which of the following statements is true?",
+    "question_th": "ข้อใดต่อไปนี้เป็นจริง?",
+    "options": [
+      "You may transport loads that extend one meter out from each side of your vehicle.",
+      "You may transport loads that extend no more than 2.5 meters from the rear of your vehicle.",
+      "You may transport loads no more than 3 meters high.",
+      "You may transport loads that extend no more than 2.5 meters from the front of your vehicle."
+    ],
+    "correct": 1,
+    "explanation_en": "B) You may transport loads that extend no more than 2.5 meters from the rear of your vehicle. is correct. Use the two-second rule as a minimum following distance in dry conditions. In rain or at high speed, increase to 4 seconds. At 60 km/h you travel 17 meters per second.",
+    "image": null,
+    "options_th": [
+      "คุณอาจขนส่งสิ่งของที่ยื่นออกมาด้านละ 1 เมตรจากแต่ละด้านของยานพาหนะของคุณ",
+      "คุณอาจขนส่งสิ่งของที่ยื่นออกไปด้านหลังไม่เกิน 2.5 เมตรจากยานพาหนะของคุณ",
+      "คุณอาจขนส่งสิ่งของที่มีความสูงไม่เกิน 3 เมตร",
+      "คุณอาจขนส่งสิ่งของที่ยื่นออกไปด้านหน้าไม่เกิน 2.5 เมตรจากยานพาหนะของคุณ"
+    ],
+    "explanation_th": "คุณอาจขนส่งสิ่งของที่ยื่นออกไปด้านหลังไม่เกิน 2.5 เมตรจากยานพาหนะของคุณ คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+  },
+  {
+    "id": "Q065",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "In which of the following circumstances is it forbidden to pass?",
+    "question_th": "ในกรณีใดต่อไปนี้ที่ห้ามแซง?",
+    "options": [
+      "To use the bus land as a passing lane",
+      "To pass on the left when the vehicle in front of you is turning right.",
+      "In front of a hospital",
+      "When there is flooding"
+    ],
+    "correct": 0,
+    "explanation_en": "A) To use the bus land as a passing lane is correct. Use the two-second rule as a minimum following distance in dry conditions. In rain or at high speed, increase to 4 seconds. At 60 km/h you travel 17 meters per second.",
+    "image": null,
+    "options_th": [
+      "การใช้ช่องทางเดินรถประจำทางเป็นช่องทางแซง",
+      "การแซงทางซ้ายเมื่อรถข้างหน้ากำลังเลี้ยวขวา",
+      "หน้าโรงพยาบาล",
+      "เมื่อมีน้ำท่วม"
+    ],
+    "explanation_th": "การใช้ช่องทางเดินรถประจำทางเป็นช่องทางแซง คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+  },
+  {
+    "id": "Q067",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which of these vehicle may not be driven on a public road?",
+    "question_th": "ยานพาหนะใดต่อไปนี้ที่อาจไม่สามารถขับขี่บนถนนสาธารณะได้?",
+    "options": [
+      "A vehicle without a front windshield.",
+      "A vehicle displaying dealer plates.",
+      "A vehicle with a horn which can be heard from a distance of 60 meters.",
+      "A tank used in warfare."
+    ],
+    "correct": 0,
+    "explanation_en": "A) A vehicle without a front windshield. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "ยานพาหนะที่ไม่มีกระจกหน้ารถ",
+      "ยานพาหนะที่แสดงป้ายทะเบียนตัวแทนจำหน่าย",
+      "ยานพาหนะที่มีแตรซึ่งสามารถได้ยินได้ในระยะ 60 เมตร",
+      "รถถังที่ใช้ในการสงคราม"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ยานพาหนะที่ไม่มีกระจกหน้ารถ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q068",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "When is it prohibited to pass?",
+    "question_th": "ห้ามแซงในกรณีใด?",
+    "options": [
+      "Within 30 meters of a crossroad.",
+      "Where the road is divided by a broken line.",
+      "When you are passing on the left on a road with two or more lanes moving in the same direction.",
+      "When you are passing on the left and the vehicle being passed is waiting to turn right."
+    ],
+    "correct": 0,
+    "explanation_en": "A) Within 30 meters of a crossroad. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "ในระยะ 30 เมตรจากทางแยก",
+      "เมื่อถนนถูกแบ่งด้วยเส้นประ",
+      "เมื่อคุณแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
+      "เมื่อคุณแซงทางซ้ายและรถที่ถูกแซงกำลังรอเลี้ยวขวา"
+    ],
+    "explanation_th": "ในระยะ 30 เมตรจากทางแยก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+  },
+  {
+    "id": "Q072",
+    "category": "safety_distances",
+    "difficulty": 1,
+    "question_en": "Which type of vehicle is it prohibited to use on a public road?",
+    "question_th": "ยานพาหนะประเภทใดที่ห้ามใช้บนถนนสาธารณะ?",
+    "options": [
+      "A tractor with rubber tires.",
+      "A vehicle whose engine is louder than 80 decibels.",
+      "A vehicle with broken brake lights.",
+      "A tank used in warfare."
+    ],
+    "correct": 2,
+    "explanation_en": "C) A vehicle with broken brake lights. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "รถแทรกเตอร์ที่มีล้อยาง",
+      "ยานพาหนะที่มีเครื่องยนต์ดังเกิน 80 เดซิเบล",
+      "ยานพาหนะที่มีไฟเบรกแตกหัก",
+      "รถถังที่ใช้ในการสงคราม"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ยานพาหนะที่มีไฟเบรกแตกหัก ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q082",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "Which of the following vehicles is it prohibited to use on a public road?",
+    "question_th": "ยานพาหนะใดต่อไปนี้ที่ห้ามใช้บนถนนสาธารณะ?",
+    "options": [
+      "A vehicle with a horn louder than 70-decibels.",
+      "A vehicle without a front windshield.",
+      "A tank used in warfare.",
+      "A vehicle displaying dealer's plates."
+    ],
+    "correct": 1,
+    "explanation_en": "B) A vehicle without a front windshield. is correct. Use the two-second rule as a minimum following distance in dry conditions. In rain or at high speed, increase to 4 seconds. At 60 km/h you travel 17 meters per second.",
+    "image": null,
+    "options_th": [
+      "ยานพาหนะที่มีแตรดังเกิน 70 เดซิเบล",
+      "ยานพาหนะที่ไม่มีกระจกหน้ารถ",
+      "รถถังที่ใช้ในการสงคราม",
+      "ยานพาหนะที่แสดงป้ายทะเบียนตัวแทนจำหน่าย"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ยานพาหนะที่ไม่มีกระจกหน้ารถ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q085",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "You are required to turn on your headlights:",
+    "question_th": "คุณจำเป็นต้องเปิดไฟหน้าเมื่อ:",
+    "options": [
+      "To request right of way in an emergency.",
+      "To request right of way in an emergency.",
+      "When heavy fog restricts visibility to less than 150 meters.",
+      "When it is raining."
+    ],
+    "correct": 2,
+    "explanation_en": "C) When heavy fog restricts visibility to less than 150 meters. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "เพื่อขอทาง优先ในกรณีฉุกเฉิน",
+      "เพื่อขอทาง优先ในกรณีฉุกเฉิน",
+      "เมื่อหมอกหนาจำกัดทัศนวิสัยน้อยกว่า 150 เมตร",
+      "เมื่อฝนตก"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ เมื่อหมอกหนาจำกัดทัศนวิสัยน้อยกว่า 150 เมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q087",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "When descending a steep grade or hill, you should:",
+    "question_th": "เมื่อลงทางลาดชันหรือเนินเขา คุณควร:",
+    "options": [
+      "Turn off your engine",
+      "Shift to neutral",
+      "Keep your foot on the brake",
+      "Use a low gear"
+    ],
+    "correct": 3,
+    "explanation_en": "D) Use a low gear is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes alone. Overheating brakes can fade or fail completely on long descents.",
+    "image": null,
+    "options_th": [
+      "ปิดเครื่องยนต์",
+      "เปลี่ยนเป็นเกียร์ว่าง",
+      "เหยียบเบรกค้างไว้",
+      "ใช้เกียร์ต่ำ"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ใช้เกียร์ต่ำ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้",
+    "wrong_explanations_en": {
+      "0": "Turning off the engine disables power steering and servo-assisted brakes, making the vehicle uncontrollable.",
+      "1": "Neutral removes engine braking entirely. You would rely only on brakes, which is extremely dangerous on steep hills.",
+      "2": "Riding the brake pedal generates excessive heat, causing brake fade and potential failure."
+    }
+  },
+  {
+    "id": "Q090",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "Where is it prohibited to make a U-turn?",
+    "question_th": "ที่ใดที่ห้ามกลับรถ?",
+    "options": [
+      "In the spaces between traffic islands.",
+      "In an intersection.",
+      "Where another vehicle is following at a distance of less than 150 meters.",
+      "Within 150 meters of the base of a bridge."
+    ],
+    "correct": 1,
+    "explanation_en": "B) In an intersection. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "ในช่องว่างระหว่างเกาะกลางจราจร",
+      "ในทางแยก",
+      "ที่มียานพาหนะอื่นขับตามมาในระยะห่างน้อยกว่า 150 เมตร",
+      "ในระยะ 150 เมตรจากฐานสะพาน"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ในทางแยก ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q098",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "To park on the left driving lane, what is the maximum distance from the pavement to park or stop the vehicle?",
+    "question_th": "ในการจอดบนช่องทางการขับขี่ด้านซ้าย ระยะห่างสูงสุดจากขอบทางในการจอดหรือหยุดรถคือเท่าใด?",
+    "options": [
+      "Not exceeding 20 centimeters",
+      "Not exceeding 25 centimeters",
+      "Not exceeding 30 centimeters",
+      "Not exceeding 35 centimeters"
+    ],
+    "correct": 1,
+    "explanation_en": "B) Not exceeding 25 centimeters is correct. Thai parking laws specify exact distances from crossings, intersections, and obstacles. Memorizing these distances is essential for the exam.",
+    "image": null,
+    "options_th": [
+      "ไม่เกิน 20 เซนติเมตร",
+      "ไม่เกิน 25 เซนติเมตร",
+      "ไม่เกิน 30 เซนติเมตร",
+      "ไม่เกิน 35 เซนติเมตร"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ไม่เกิน 25 เซนติเมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q102",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "Vehicles which can be registered must have the following characteristics:",
+    "question_th": "ยานพาหนะที่สามารถจดทะเบียนได้ต้องมีลักษณะดังต่อไปนี้:",
+    "options": [
+      "The car must have the correct fittings and passed a vehicle inspection.",
+      "The car must have the correct fittings.",
+      "Vehicles which have passed a private vehicle inspection.",
+      "Cars purchased from general car dealers."
+    ],
+    "correct": 0,
+    "explanation_en": "A) The car must have the correct fittings and passed a vehicle inspection. is correct. Use the two-second rule as a minimum following distance in dry conditions. In rain or at high speed, increase to 4 seconds. At 60 km/h you travel 17 meters per second.",
+    "image": null,
+    "options_th": [
+      "รถยนต์ต้องมีอุปกรณ์ติดตั้งที่ถูกต้องและผ่านการตรวจสอบยานพาหนะ",
+      "รถยนต์ต้องมีอุปกรณ์ติดตั้งที่ถูกต้อง",
+      "ยานพาหนะที่ผ่านการตรวจสอบยานพาหนะส่วนตัว",
+      "รถยนต์ที่ซื้อจากตัวแทนจำหน่ายรถยนต์ทั่วไป"
+    ],
+    "explanation_th": "รถยนต์ต้องมีอุปกรณ์ติดตั้งที่ถูกต้องและผ่านการตรวจสอบยานพาหนะ คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+  },
+  {
+    "id": "Q108",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "How far must the driver drive from the car in front?",
+    "question_th": "ผู้ขับขี่ต้องขับตามหลังรถคันหน้าเป็นระยะทางเท่าใด?",
+    "options": [
+      "Enough to be able to stop the car safely if necessary",
+      "No less than 5 meters",
+      "No less than 10 meters",
+      "No less than 20 meters"
+    ],
+    "correct": 0,
+    "explanation_en": "A) Enough to be able to stop the car safely if necessary is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "เพียงพอที่จะสามารถหยุดรถได้อย่างปลอดภัยหากจำเป็น",
+      "ไม่น้อยกว่า 5 เมตร",
+      "ไม่น้อยกว่า 10 เมตร",
+      "ไม่น้อยกว่า 20 เมตร"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ เพียงพอที่จะสามารถหยุดรถได้อย่างปลอดภัยหากจำเป็น ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q128",
+    "category": "safety_distances",
+    "difficulty": 3,
+    "question_en": "When driving at night what should the driver do?",
+    "question_th": "เมื่อขับขี่ในเวลากลางคืน ผู้ขับขี่ควรทำอย่างไร?",
+    "options": [
+      "Leave more distance between cars than usual.",
+      "Try to drive close to the front car so that the front car can clearly see our car.",
+      "Turn on the emergency light while overtaking the front car.",
+      "Use high lights all the way of driving."
+    ],
+    "correct": 0,
+    "explanation_en": "A) Leave more distance between cars than usual. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "เว้นระยะห่างระหว่างรถมากกว่าปกติ",
+      "พยายามขับชิดรถคันหน้าเพื่อให้รถคันหน้ามองเห็นรถเราได้ชัดเจน",
+      "เปิดไฟกะพริบฉุกเฉินขณะแซงรถคันหน้า",
+      "ใช้ไฟสูงตลอดการขับขี่"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ เว้นระยะห่างระหว่างรถมากกว่าปกติ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q131",
+    "category": "safety_distances",
+    "difficulty": 3,
+    "question_en": "Which tire inspection is correct?",
+    "question_th": "การตรวจสอบยางรถยนต์ที่ถูกต้องควรทำบ่อยเพียงใด?",
+    "options": [
+      "1 month",
+      "2 month",
+      "3 months",
+      "At least once a week"
+    ],
+    "correct": 3,
+    "explanation_en": "D) At least once a week is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "1 เดือน",
+      "2 เดือน",
+      "3 เดือน",
+      "อย่างน้อยสัปดาห์ละครั้ง"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ อย่างน้อยสัปดาห์ละครั้ง ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q145",
+    "category": "safety_distances",
+    "difficulty": 3,
+    "question_en": "If adjustment of the driver’s seat is too far, what will be the effect?",
+    "question_th": "หากปรับเบาะนั่งของผู้ขับขี่ไกลเกินไป จะส่งผลอย่างไร?",
+    "options": [
+      "Make it easy to get into gear",
+      "Makes the visibility very clear, can make good decisions.",
+      "Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency.",
+      "Make braking more convenient"
+    ],
+    "correct": 2,
+    "explanation_en": "C) Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "ทำให้เข้าเกียร์ได้ง่าย",
+      "ทำให้ทัศนวิสัยชัดเจนมาก สามารถตัดสินใจได้ดี",
+      "ควบคุมพวงมาลัยได้ยาก ใช้อุปกรณ์ไม่สะดวก ไม่สามารถใช้คลัตช์และเบรกในกรณีฉุกเฉินได้",
+      "ทำให้เบรกสะดวกยิ่งขึ้น"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ควบคุมพวงมาลัยได้ยาก ใช้อุปกรณ์ไม่สะดวก ไม่สามารถใช้คลัตช์และเบรกในกรณีฉุกเฉินได้ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q146",
+    "category": "safety_distances",
+    "difficulty": 3,
+    "question_en": "What is the maximum size of the loaded object for automobile in length?",
+    "question_th": "ขนาดสูงสุดของสิ่งของที่บรรทุกสำหรับรถยนต์ในด้านความยาวคือเท่าใด?",
+    "options": [
+      "Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body.",
+      "Front side not exceeding bumper, back side not exceeding 1 meters from automobile body.",
+      "Front side not exceeding 2.50 meters from automobile body, back side not exceeding bumper.",
+      "Front side not exceeding 1 meters from automobile body, back side not exceeding bumper."
+    ],
+    "correct": 0,
+    "explanation_en": "A) Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body. is correct. Safety distances give you time to perceive a hazard and react. At 50 km/h, total stopping distance is about 25 meters in dry conditions.",
+    "image": null,
+    "options_th": [
+      "ด้านหน้าไม่เกินกันชน ด้านหลังไม่เกิน 2.50 เมตรจากตัวรถยนต์",
+      "ด้านหน้าไม่เกินกันชน ด้านหลังไม่เกิน 1 เมตรจากตัวรถยนต์",
+      "ด้านหน้าไม่เกิน 2.50 เมตรจากตัวรถยนต์ ด้านหลังไม่เกินกันชน",
+      "ด้านหน้าไม่เกิน 1 เมตรจากตัวรถยนต์ ด้านหลังไม่เกินกันชน"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ด้านหน้าไม่เกินกันชน ด้านหลังไม่เกิน 2.50 เมตรจากตัวรถยนต์ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  },
+  {
+    "id": "Q149",
+    "category": "safety_distances",
+    "difficulty": 2,
+    "question_en": "From the picture, is this parking correct by the conduct?",
+    "question_th": "จากภาพ การจอดรถนี้ถูกต้องตามการปฏิบัติหรือไม่?",
+    "options": [
+      "Yes, this is correct.",
+      "No, the driver must stop the car within at least 15 meters of the junction.",
+      "No, the driver must stop the car within at least 3 meters before the zebra crossing.",
+      "No, the driver cannot park on the left side of the road."
+    ],
+    "correct": 2,
+    "explanation_en": "C) No, the driver must stop the car within at least 3 meters before the zebra crossing. is correct. Thai parking laws specify exact distances from crossings, intersections, and obstacles. Memorizing these distances is essential for the exam.",
+    "image": "149.jpg",
+    "options_th": [
+      "ใช่ ถูกต้องแล้ว",
+      "ไม่ ผู้ขับขี่ต้องหยุดรถให้ห่างจากทางแยกอย่างน้อย 15 เมตร",
+      "ไม่ ผู้ขับขี่ต้องหยุดรถให้ห่างจากทางม้าลายอย่างน้อย 3 เมตร",
+      "ไม่ ผู้ขับขี่ไม่สามารถจอดรถบนด้านซ้ายของถนนได้"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ไม่ ผู้ขับขี่ต้องหยุดรถให้ห่างจากทางม้าลายอย่างน้อย 3 เมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+  }
+]

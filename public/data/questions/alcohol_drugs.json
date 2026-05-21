@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Q016",
+    "category": "alcohol_drugs",
+    "difficulty": 1,
+    "question_en": "When is it prohibited for a motorist to drive?",
+    "question_th": "ห้ามผู้ขับขี่ขับรถในกรณีใด?",
+    "options": [
+      "After taking medicine for diarrhea.",
+      "Immediately after consuming alcohol or any other intoxicant.",
+      "When he/she has a cold or flu.",
+      "When there is insufficient light."
+    ],
+    "correct": 1,
+    "explanation_en": "B) Immediately after consuming alcohol or any other intoxicant. is correct. Thailand's legal blood alcohol limit is 0.05% for general drivers and zero for professional drivers. Even small amounts impair reaction time, judgment, and coordination.",
+    "image": null,
+    "options_th": [
+      "หลังจากรับประทานยาแก้ท้องเสีย",
+      "ทันทีหลังจากดื่มแอลกอฮอล์หรือของมึนเมาอื่นๆ",
+      "เมื่อเขาหรือเธอเป็นหวัดหรือไข้หวัดใหญ่",
+      "เมื่อมีแสงสว่างไม่เพียงพอ"
+    ],
+    "explanation_th": "ทันทีหลังจากดื่มแอลกอฮอล์หรือของมึนเมาอื่นๆ คือคำตอบที่ถูกต้อง ประเทศไทยมีกฎหมายที่เข้มงวดเกี่ยวกับแอลกอฮอล์และยาเสพติดขณะขับขี่ โดยมีบทลงโทษที่รุนแรงรวมถึงการพักใช้ใบอนุญาต"
+  },
+  {
+    "id": "Q074",
+    "category": "alcohol_drugs",
+    "difficulty": 1,
+    "question_en": "Drivers are prohibited to:",
+    "question_th": "ห้ามผู้ขับขี่:",
+    "options": [
+      "Drive a racing car when permission has been granted by the relevant traffic authorities.",
+      "Drift into the next lane when there is an obstruction in their own lane.",
+      "Park on the right-hand side of a one-way street.",
+      "Drive immediately after having consumed alcohol."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Drive immediately after having consumed alcohol. is correct. Thailand's legal blood alcohol limit is 0.05% for general drivers and zero for professional drivers. Even small amounts impair reaction time, judgment, and coordination.",
+    "image": null,
+    "options_th": [
+      "ขับรถแข่งเมื่อได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
+      "ล้ำเข้าไปในช่องทางถัดไปเมื่อมีสิ่งกีดขวางในช่องทางของตนเอง",
+      "จอดรถบนด้านขวาของถนนทางเดียว",
+      "ขับขี่ทันทีหลังจากดื่มแอลกอฮอล์"
+    ],
+    "explanation_th": "ขับขี่ทันทีหลังจากดื่มแอลกอฮอล์ คือคำตอบที่ถูกต้อง ประเทศไทยมีกฎหมายที่เข้มงวดเกี่ยวกับแอลกอฮอล์และยาเสพติดขณะขับขี่ โดยมีบทลงโทษที่รุนแรงรวมถึงการพักใช้ใบอนุญาต",
+    "wrong_explanations_en": {
+      "2": "Even one drink affects your brain. The legal limit is not a safe drinking guideline."
+    }
+  },
+  {
+    "id": "Q111",
+    "category": "alcohol_drugs",
+    "difficulty": 2,
+    "question_en": "What is the maximum blood alcohol level for driving?",
+    "question_th": "ระดับแอลกอฮอล์ในเลือดสูงสุดสำหรับการขับขี่คือเท่าใด?",
+    "options": [
+      "Not exceeding 50 mg percent",
+      "Not exceeding 60 mg percent",
+      "Not exceeding 70 mg percent",
+      "Not exceeding 80 mg percent"
+    ],
+    "correct": 0,
+    "explanation_en": "A) Not exceeding 50 mg percent is correct. Thailand's legal blood alcohol limit is 0.05% for general drivers and zero for professional drivers. Even small amounts impair reaction time, judgment, and coordination.",
+    "image": null,
+    "options_th": [
+      "ไม่เกิน 50 มิลลิกรัมเปอร์เซ็นต์",
+      "ไม่เกิน 60 มิลลิกรัมเปอร์เซ็นต์",
+      "ไม่เกิน 70 มิลลิกรัมเปอร์เซ็นต์",
+      "ไม่เกิน 80 มิลลิกรัมเปอร์เซ็นต์"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ไม่เกิน 50 มิลลิกรัมเปอร์เซ็นต์ การขับขี่ภายใต้อิทธิพลของแอลกอฮอล์ทำให้เวลาตอบสนองและการตัดสินใจบกพร่องอย่างมีนัยสำคัญ ทำให้เป็นอันตรายอย่างยิ่ง"
+  }
+]

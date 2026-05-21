@@ -1,0 +1,638 @@
+[
+  {
+    "id": "Q010",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "Which car has the right of way?",
+    "question_th": "รถคันใดมีสิทธิ์ทาง优先?",
+    "options": [
+      "The blue car",
+      "The pink car",
+      "The car driving faster",
+      "Both"
+    ],
+    "correct": 1,
+    "explanation_en": "B) The pink car is correct. In this intersection, the pink car is already on the main road or has no yield sign, giving it the right of way. The blue car must wait. Remember: the vehicle on the main road or without a yield obligation has priority.",
+    "image": "10.jpg",
+    "options_th": [
+      "รถสีน้ำเงิน",
+      "รถสีชมพู",
+      "รคที่ขับเร็วกว่า",
+      "ทั้งสองคัน"
+    ],
+    "explanation_th": "รถสีชมพู คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น",
+    "wrong_explanations_en": {
+      "0": "The blue car is on a side road or has a yield sign — it must give way.",
+      "2": "Speed does not determine priority at an intersection.",
+      "3": "Both cars cannot have priority simultaneously; one must yield."
+    }
+  },
+  {
+    "id": "Q012",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "As a driver, you must not:",
+    "question_th": "ในฐานะผู้ขับขี่ คุณต้องไม่:",
+    "options": [
+      "Make a turn into the bus lane.",
+      "Drive a racing car on a public road with the permission of the relevant traffic authorities.",
+      "Carry loads that obstruct your vision behind and to the sides of your vehicle.",
+      "Enter halfway into the next lane when an obstruction blocks the left side of the lane you are driving in."
+    ],
+    "correct": 2,
+    "explanation_en": "C) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "เลี้ยวเข้าไปในช่องทางเดินรถประจำทาง",
+      "ขับรถแข่งบนถนนสาธารณะโดยได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
+      "บรรทุกสิ่งของที่บดบังทัศนวิสัยด้านหลังและด้านข้างของยานพาหนะของคุณ",
+      "เข้าไปครึ่งช่องทางถัดไปเมื่อมีสิ่งกีดขวางกั้นด้านซ้ายของช่องทางที่คุณกำลังขับอยู่"
+    ],
+    "explanation_th": "บรรทุกสิ่งของที่บดบังทัศนวิสัยด้านหลังและด้านข้างของยานพาหนะของคุณ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q015",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "The driver of the yellow vehicle in the picture:",
+    "question_th": "ผู้ขับขี่รถยนต์สีเหลืองในภาพ:",
+    "options": [
+      "May not pass or otherwise move into the lane on the right.",
+      "Stop or slow down.",
+      "May not make a right turn.",
+      "May make a U-turn."
+    ],
+    "correct": 3,
+    "explanation_en": "D) May make a U-turn. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": "15.jpg",
+    "options_th": [
+      "ไม่ได้รับอนุญาตให้แซงหรือเลื่อนเข้าไปในช่องทางด้านขวา",
+      "หยุดหรือลดความเร็วลง",
+      "ไม่ได้รับอนุญาตให้เลี้ยวขวา",
+      "อาจกลับรถได้"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ อาจกลับรถได้ การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+  },
+  {
+    "id": "Q029",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "The driver intending to make a right turn in the picture should:",
+    "question_th": "ผู้ขับขี่ที่ตั้งใจจะเลี้ยวขวาในภาพควร:",
+    "options": [
+      "Slow down",
+      "Allow the pedestrians to cross the street before completing the turn.",
+      "Begin turning then slow down to allow the pedestrians to cross the street.",
+      "Turn immediately without stopping"
+    ],
+    "correct": 1,
+    "explanation_en": "B) Allow the pedestrians to cross the street before completing the turn. is correct. When turning right, wait for a safe gap in oncoming traffic. If unsure, wait — forcing a turn causes head-on collisions.",
+    "image": "29.jpg",
+    "options_th": [
+      "ชะลอความเร็ว",
+      "ให้คนเดินเท้าข้ามถนนก่อนที่จะเลี้ยวเสร็จ",
+      "เริ่มเลี้ยวแล้วชะลอความเร็วเพื่อให้คนเดินเท้าข้ามถนน",
+      "เลี้ยวทันทีโดยไม่หยุด"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ให้คนเดินเท้าข้ามถนนก่อนที่จะเลี้ยวเสร็จ การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+  },
+  {
+    "id": "Q031",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "The driver of the vehicle in the picture.",
+    "question_th": "ผู้ขับขี่รถยนต์ในภาพ",
+    "options": [
+      "May make a U-turn",
+      "Stop or slow down",
+      "May not make a right turn",
+      "May not pass or otherwise move into the lane on the right"
+    ],
+    "correct": 0,
+    "explanation_en": "A) May make a U-turn is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": "31.jpg",
+    "options_th": [
+      "อาจกลับรถได้",
+      "หยุดหรือลดความเร็วลง",
+      "ไม่ได้รับอนุญาตให้เลี้ยวขวา",
+      "ไม่ได้รับอนุญาตให้แซงหรือเลื่อนเข้าไปในช่องทางด้านขวา"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ อาจกลับรถได้ การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+  },
+  {
+    "id": "Q033",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "It is prohibited to:",
+    "question_th": "เป็นสิ่งต้องห้ามที่จะ:",
+    "options": [
+      "Pass on the left on a road with two or more lanes of traffic moving in the same direction.",
+      "Drive when there is insufficient light.",
+      "Drive a racing car on a public road with the permission of the relevant traffic authorities.",
+      "Operate a motor vehicle if you feel the onset of a heart attack."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Operate a motor vehicle if you feel the onset of a heart attack. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "แซงทางซ้ายบนถนนที่มีการจราจรสองช่องทางขึ้นไปในทิศทางเดียวกัน",
+      "ขับขี่เมื่อมีแสงสว่างไม่เพียงพอ",
+      "ขับรถแข่งบนถนนสาธารณะโดยได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
+      "ขับขี่ยานพาหนะหากคุณรู้สึกว่ากำลังจะเกิดอาการหัวใจวาย"
+    ],
+    "explanation_th": "ขับขี่ยานพาหนะหากคุณรู้สึกว่ากำลังจะเกิดอาการหัวใจวาย คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q036",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "You must not park:",
+    "question_th": "คุณต้องไม่จอดรถ:",
+    "options": [
+      "In front of a school",
+      "On the right-hand side of a two-way street",
+      "On a grade",
+      "In front of a police station"
+    ],
+    "correct": 1,
+    "explanation_en": "B) On the right-hand side of a two-way street is correct. Thai parking laws specify exact distances from crossings, intersections, and obstacles. Memorizing these distances is essential for the exam.",
+    "image": null,
+    "options_th": [
+      "หน้าโรงเรียน",
+      "ด้านขวาของถนนสองทิศทาง",
+      "บนทางลาดชัน",
+      "หน้าสถานีตำรวจ"
+    ],
+    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q044",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "As a driver, you must not:",
+    "question_th": "ในฐานะผู้ขับขี่ คุณต้องไม่:",
+    "options": [
+      "Enter halfway into the next lane when an obstruction blocks the left side of the lane you are driving in.",
+      "Make a turn into the bus lane.",
+      "Drive a racing car on a public road with the permission of the relevant traffic authorities.",
+      "Carry loads that obstruct your vision behind and to the sides of your vehicle."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "เข้าไปครึ่งช่องทางถัดไปเมื่อมีสิ่งกีดขวางกั้นด้านซ้ายของช่องทางที่คุณกำลังขับอยู่",
+      "เลี้ยวเข้าไปในช่องทางเดินรถประจำทาง",
+      "ขับรถแข่งบนถนนสาธารณะโดยได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
+      "บรรทุกสิ่งของที่บดบังทัศนวิสัยด้านหลังและด้านข้างของยานพาหนะของคุณ"
+    ],
+    "explanation_th": "บรรทุกสิ่งของที่บดบังทัศนวิสัยด้านหลังและด้านข้างของยานพาหนะของคุณ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q053",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "The dividing line in the middle of the road pictured indicates",
+    "question_th": "เส้นแบ่งกลางถนนตามภาพแสดงว่า",
+    "options": [
+      "This is a dual lane road.",
+      "Drivers can freely switch lanes.",
+      "Cars may not pull into the right lane to overtake another vehicle.",
+      "Drivers may make U-turns."
+    ],
+    "correct": 2,
+    "explanation_en": "C) Cars may not pull into the right lane to overtake another vehicle is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is safe to do so.",
+    "image": "53.jpg",
+    "options_th": [
+      "นี่คือถนนสองช่องทาง",
+      "ผู้ขับขี่สามารถเปลี่ยนช่องทางได้อย่างอิสระ",
+      "รถยนต์ไม่สามารถดึงเข้าไปในช่องทางขวาเพื่อแซงยานพาหนะอื่นได้",
+      "ผู้ขับขี่อาจกลับรถได้"
+    ],
+    "explanation_th": "รถยนต์ไม่สามารถดึงเข้าไปในช่องทางขวาเพื่อแซงยานพาหนะอื่นได้ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "Overtaking on the right is illegal on single-lane roads in Thailand.",
+      "1": "Motorcycles are not exempt — all vehicles must follow overtaking rules.",
+      "3": "Overtaking on the left is only permitted when the vehicle ahead is turning right."
+    }
+  },
+  {
+    "id": "Q057",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "Which type of vehicle is it prohibited to use on a public road?:",
+    "question_th": "ยานพาหนะประเภทใดที่ห้ามใช้บนถนนสาธารณะ?:",
+    "options": [
+      "A vehicle with a horn louder than 70 decibels.",
+      "A vehicle without a front windshield.",
+      "A vehicle displaying dealer's plates.",
+      "A tank used in warfare."
+    ],
+    "correct": 1,
+    "explanation_en": "B) A vehicle without a front windshield. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "ยานพาหนะที่มีแตรดังเกิน 70 เดซิเบล",
+      "ยานพาหนะที่ไม่มีกระจกหน้ารถ",
+      "ยานพาหนะที่แสดงป้ายทะเบียนตัวแทนจำหน่าย",
+      "รถถังที่ใช้ในการสงคราม"
+    ],
+    "explanation_th": "ยานพาหนะที่ไม่มีกระจกหน้ารถ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q075",
+    "category": "traffic_rules",
+    "difficulty": 1,
+    "question_en": "You must not park:",
+    "question_th": "คุณต้องไม่จอดรถ:",
+    "options": [
+      "In front of a school",
+      "On a grade",
+      "In front of a police station",
+      "On the right-hand side of a two-way street"
+    ],
+    "correct": 3,
+    "explanation_en": "D) On the right-hand side of a two-way street is correct. Thai parking laws specify exact distances from crossings, intersections, and obstacles. Memorizing these distances is essential for the exam.",
+    "image": null,
+    "options_th": [
+      "หน้าโรงเรียน",
+      "บนทางลาดชัน",
+      "หน้าสถานีตำรวจ",
+      "ด้านขวาของถนนสองทิศทาง"
+    ],
+    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q076",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "In the picture on the right, the driver of the red car wishes to go straight. To do so, he/she should:",
+    "question_th": "ในภาพด้านขวา ผู้ขับขี่รถยนต์สีแดงประสงค์จะขับตรง เขาหรือเธอควร:",
+    "options": [
+      "Stop and wait for the white car to turn right before proceeding.",
+      "Stop and wait for the blue car to pass before proceeding.",
+      "Stop and wait for the yellow car to turn left before proceeding.",
+      "Slow down"
+    ],
+    "correct": 1,
+    "explanation_en": "B) Stop and wait for the blue car to pass before proceeding. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": "76.jpg",
+    "options_th": [
+      "หยุดและรอให้รถสีขาวเลี้ยวขวาก่อนจึงจะขับต่อไป",
+      "หยุดและรอให้รถสีน้ำเงินผ่านไปก่อนจึงจะขับต่อไป",
+      "หยุดและรอให้รถสีเหลืองเลี้ยวซ้ายก่อนจึงจะขับต่อไป",
+      "ชะลอความเร็ว"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ หยุดและรอให้รถสีน้ำเงินผ่านไปก่อนจึงจะขับต่อไป การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+  },
+  {
+    "id": "Q081",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "Which of the pictures is correct?",
+    "question_th": "ภาพใดถูกต้อง?",
+    "options": [
+      "Parking within 15m of a fire hydrant",
+      "Parking on a pedestrian crossing",
+      "Parking on a main road without hazard lights",
+      "None of the pictures are correct."
+    ],
+    "correct": 3,
+    "explanation_en": "D) None of the pictures are correct is correct. All three images show illegal parking: within 15 meters of a fire hydrant, on a pedestrian crossing, and on a main road without hazard lights. Each violates a specific Thai parking law.",
+    "image": null,
+    "options_th": [
+      "See picture",
+      "See picture",
+      "See picture",
+      "None of the pictures are correct."
+    ],
+    "explanation_th": "None of the pictures are correct. คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q083",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "When the green car wants to turn, what should be done?",
+    "question_th": "เมื่อรถสีเขียวต้องการเลี้ยว ควรทำอย่างไร?",
+    "options": [
+      "Slowly turn right, carefully minding other cars.",
+      "Stop and wait for the yellow car to pass then turn after.",
+      "Wait for both the blue and yellow cars before turning.",
+      "Turn right immediately."
+    ],
+    "correct": 1,
+    "explanation_en": "B) Stop and wait for the yellow car to pass then turn after. is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "image": "83.jpg",
+    "options_th": [
+      "เลี้ยวขวาช้าๆ ระมัดระวังรถคันอื่น",
+      "หยุดและรอให้รถสีเหลืองผ่านไปแล้วจึงค่อยเลี้ยวตาม",
+      "รอให้ทั้งรถสีน้ำเงินและสีเหลืองผ่านไปก่อนแล้วจึงค่อยเลี้ยว",
+      "เลี้ยวขวาทันที"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ หยุดและรอให้รถสีเหลืองผ่านไปแล้วจึงค่อยเลี้ยวตาม การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+  },
+  {
+    "id": "Q092",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "A driver violates the road traffic law and receives a ticket, within how many days must he pay the fine?",
+    "question_th": "ผู้ขับขี่ฝ่าฝืนกฎหมายจราจรและได้รับใบสั่ง ภายในกี่วันเขาต้องชำระค่าปรับ?",
+    "options": [
+      "7 days",
+      "10 days",
+      "15 days",
+      "30 days"
+    ],
+    "correct": 0,
+    "explanation_en": "A) 7 days is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "7 วัน",
+      "10 วัน",
+      "15 วัน",
+      "30 วัน"
+    ],
+    "explanation_th": "7 วัน คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q095",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "How many years old must the car be before inspection is required when making the annual tax payment?",
+    "question_th": "รถยนต์ต้องมีอายุกี่ปีจึงต้องมีการตรวจสอบเมื่อชำระภาษีประจำปี?",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "correct": 2,
+    "explanation_en": "C) 7 years is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "3 ปี",
+      "5 ปี",
+      "7 ปี",
+      "10 ปี"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ 7 ปี การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+  },
+  {
+    "id": "Q115",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "What should the driver do when seeing this mark?",
+    "question_th": "ผู้ขับขี่ควรทำอย่างไรเมื่อพบเครื่องหมายนี้?",
+    "options": [
+      "Be extra careful. Then stop the car.",
+      "Be extra careful",
+      "Drive slowly if you see that it is unsafe for other cars or pedestrians in the way ahead. Have to stop the car before reaching the line, make way.",
+      "Increase caution and park the car"
+    ],
+    "correct": 2,
+    "explanation_en": "C) Drive slowly if you see that it is unsafe for other cars or pedestrians in the way ahead. Have to stop the car before reaching the line, make way. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": "115.jpg",
+    "options_th": [
+      "ระมัดระวังเป็นพิเศษ จากนั้นหยุดรถ",
+      "ระมัดระวังเป็นพิเศษ",
+      "ขับช้าลงหากเห็นว่าไม่ปลอดภัยสำหรับรถคันอื่นหรือคนเดินเท้าข้างหน้า ต้องหยุดรถก่อนถึงเส้น ให้ทาง",
+      "เพิ่มความระมัดระวังและจอดรถ"
+    ],
+    "explanation_th": "ขับช้าลงหากเห็นว่าไม่ปลอดภัยสำหรับรถคันอื่นหรือคนเดินเท้าข้างหน้า ต้องหยุดรถก่อนถึงเส้น ให้ทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q116",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "When this road marking is found what should the driver do?",
+    "question_th": "เมื่อพบเครื่องหมายจราจรบนพื้นถนนนี้ ผู้ขับขี่ควรทำอย่างไร?",
+    "options": [
+      "Do not turn left or turn right.",
+      "Do not drive straight or turn right.",
+      "Drive in one direction on the left.",
+      "Car on the solid line must not pass or straddle the solid line But the car on the side of the dotted line may overtake when it is considered safe."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Car on the solid line must not pass or straddle the solid line But the car on the side of the dotted line may overtake when it is considered safe. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": "116.jpg",
+    "options_th": [
+      "ห้ามเลี้ยวซ้ายหรือเลี้ยวขวา",
+      "ห้ามขับตรงหรือเลี้ยวขวา",
+      "ขับในทิศทางเดียวทางด้านซ้าย",
+      "รถที่อยู่ด้านเส้นทึบต้องไม่แซงหรือคร่อมเส้นทึบ แต่รถที่อยู่ด้านเส้นประอาจแซงได้เมื่อพิจารณาว่าปลอดภัย"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ รถที่อยู่ด้านเส้นทึบต้องไม่แซงหรือคร่อมเส้นทึบ แต่รถที่อยู่ด้านเส้นประอาจแซงได้เมื่อพิจารณาว่าปลอดภัย การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+  },
+  {
+    "id": "Q123",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "Which is NOT a way to show appreciation to other drivers?",
+    "question_th": "ข้อใดไม่ใช่วิธีการแสดงความขอบคุณต่อผู้ขับขี่คนอื่น?",
+    "options": [
+      "Bend the head to show gratitude.",
+      "Smile to show appreciation.",
+      "Turn on the high beam to show gratitude.",
+      "Raise your right hand to raise your eyebrows to show gratitude."
+    ],
+    "correct": 2,
+    "explanation_en": "C) Turn on the high beam to show gratitude. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "ก้มศีรษะเพื่อแสดงความขอบคุณ",
+      "ยิ้มเพื่อแสดงความขอบคุณ",
+      "เปิดไฟสูงเพื่อแสดงความขอบคุณ",
+      "ยกมือขวาขึ้นเล็กน้อยเพื่อแสดงความขอบคุณ"
+    ],
+    "explanation_th": "เปิดไฟสูงเพื่อแสดงความขอบคุณ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q127",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "When driving up or down a steep slope which gear should be used?",
+    "question_th": "เมื่อขับขึ้นหรือลงทางลาดชัน ควรใช้เกียร์ใด?",
+    "options": [
+      "Low gear",
+      "High gear",
+      "Neutral gear",
+      "Any gear"
+    ],
+    "correct": 0,
+    "explanation_en": "A) Low gear is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "เกียร์ต่ำ",
+      "เกียร์สูง",
+      "เกียร์ว่าง",
+      "เกียร์ใดก็ได้"
+    ],
+    "explanation_th": "เกียร์ต่ำ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q130",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "Which statement is correct?",
+    "question_th": "ข้อใดถูกต้อง?",
+    "options": [
+      "Lubricating oil should not be added to petrol.",
+      "Oil filling should be added during the day.",
+      "We cannot mix 95 octane together with 91 octane.",
+      "The best oil is the most expensive oil."
+    ],
+    "correct": 0,
+    "explanation_en": "A) Lubricating oil should not be added to petrol. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "ไม่ควรเติมน้ำมันหล่อลื่นลงในน้ำมันเบนซิน",
+      "ควรเติมน้ำมันในช่วงกลางวัน",
+      "เราไม่สามารถผสมน้ำมันออกเทน 95 กับออกเทน 91 ได้",
+      "น้ำมันที่ดีที่สุดคือน้ำมันที่แพงที่สุด"
+    ],
+    "explanation_th": "ไม่ควรเติมน้ำมันหล่อลื่นลงในน้ำมันเบนซิน คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q132",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "If a battery terminal has stains. Which method below is the best solution?",
+    "question_th": "หากขั้วแบตเตอรี่มีคราบ วิธีใดต่อไปนี้เป็นวิธีแก้ปัญหาที่ดีที่สุด?",
+    "options": [
+      "Use warm water to wash and apply grease",
+      "Use vinegar to wash",
+      "Use lemon juice to wash",
+      "Use distilled water to wash"
+    ],
+    "correct": 0,
+    "explanation_en": "A) Use warm water to wash and apply grease is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "ใช้น้ำอุ่นล้างและทาจารบี",
+      "ใช้น้ำส้มสายชูล้าง",
+      "ใช้น้ำมะนาวล้าง",
+      "ใช้น้ำกลั่นล้าง"
+    ],
+    "explanation_th": "ใช้น้ำอุ่นล้างและทาจารบี คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q133",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "Who has to wear seat belts while traveling in a car for life safety?",
+    "question_th": "ใครบ้างที่ต้องคาดเข็มขัดนิรภัยขณะเดินทางในรถยนต์เพื่อความปลอดภัยในชีวิต?",
+    "options": [
+      "Drivers and passengers aged over 12 years old because they can wear seat belts.",
+      "The driver and passenger of the front seat only.",
+      "All drivers and passengers, both adults and children, front and back seats.",
+      "Drivers and passengers Except for the elderly and children younger than 12 years old."
+    ],
+    "correct": 2,
+    "explanation_en": "C) All drivers and passengers, both adults and children, front and back seats. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "ผู้ขับขี่และผู้โดยสารที่มีอายุเกิน 12 ปี เพราะสามารถคาดเข็มขัดนิรภัยได้",
+      "เฉพาะผู้ขับขี่และผู้โดยสารที่นั่งเบาะหน้าเท่านั้น",
+      "ผู้ขับขี่และผู้โดยสารทุกคน ทั้งผู้ใหญ่และเด็ก เบาะหน้าและเบาะหลัง",
+      "ผู้ขับขี่และผู้โดยสาร ยกเว้นผู้สูงอายุและเด็กอายุน้อยกว่า 12 ปี"
+    ],
+    "explanation_th": "ผู้ขับขี่และผู้โดยสารทุกคน ทั้งผู้ใหญ่และเด็ก เบาะหน้าและเบาะหลัง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q143",
+    "category": "traffic_rules",
+    "difficulty": 3,
+    "question_en": "To remove the battery terminal which terminal should be disconnected first?",
+    "question_th": "ในการถอดขั้วแบตเตอรี่ ควรถอดขั้วใดก่อน?",
+    "options": [
+      "Any pole first",
+      "Positive pole",
+      "Both terminals at the same time",
+      "Negative pole"
+    ],
+    "correct": 3,
+    "explanation_en": "D) Negative pole is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": null,
+    "options_th": [
+      "ขั้วไหนก่อนก็ได้",
+      "ขั้วบวก",
+      "ถอดทั้งสองขั้วพร้อมกัน",
+      "ขั้วลบ"
+    ],
+    "explanation_th": "ขั้วลบ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+  },
+  {
+    "id": "Q147",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "What is the correct conduct for the green car?",
+    "question_th": "การปฏิบัติที่ถูกต้องสำหรับรถสีเขียวคือข้อใด?",
+    "options": [
+      "Flash lights at the blue car allowing it to pass.",
+      "Drive ahead without stop",
+      "Stop the vehicle and wait for the blue car to pass.",
+      "Turn left directly"
+    ],
+    "correct": 2,
+    "explanation_en": "C) Stop the vehicle and wait for the blue car to pass. is correct. This rule ensures safe and orderly traffic flow. Understanding the reasoning helps you remember the rule for the exam.",
+    "image": "147.jpg",
+    "options_th": [
+      "กระพริบไฟให้รถสีน้ำเงินให้ผ่านไป",
+      "ขับไปข้างหน้าโดยไม่หยุด",
+      "หยุดรถและรอให้รถสีน้ำเงินผ่านไป",
+      "เลี้ยวซ้ายทันที"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ หยุดรถและรอให้รถสีน้ำเงินผ่านไป การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+  },
+  {
+    "id": "Q148",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "When the blue car wants to turn what should be done?",
+    "question_th": "เมื่อรถสีน้ำเงินต้องการเลี้ยว ควรทำอย่างไร?",
+    "options": [
+      "Sound car horn and flash lights to warn pedestrian while crossing.",
+      "Must stop and wait for the pedestrian to cross before turning.",
+      "Drive ahead directly.",
+      "Blue car should give way. Drive slowly through."
+    ],
+    "correct": 1,
+    "explanation_en": "B) Must stop and wait for the pedestrian to cross before turning. is correct. Always signal your turn at least 30 meters in advance. Check mirrors and blind spots before turning.",
+    "image": "148.jpg",
+    "options_th": [
+      "บีบแตรและกระพริบไฟเพื่อเตือนคนเดินเท้าขณะกำลังข้าม",
+      "ต้องหยุดและรอให้คนเดินเท้าข้ามก่อนจึงจะเลี้ยว",
+      "ขับไปข้างหน้าโดยตรง",
+      "รถสีน้ำเงินควรให้ทาง ขับผ่านช้าๆ"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ต้องหยุดและรอให้คนเดินเท้าข้ามก่อนจึงจะเลี้ยว การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+  },
+  {
+    "id": "Q150",
+    "category": "traffic_rules",
+    "difficulty": 2,
+    "question_en": "What is the correct conduct for the red car encountering obstacle ahead?",
+    "question_th": "การปฏิบัติที่ถูกต้องสำหรับรถสีแดงที่เจอสิ่งกีดขวางข้างหน้าคืออะไร?",
+    "options": [
+      "Sound horn warning yellow car.",
+      "Wait for the yellow car to pass first before turning right and proceeding ahead.",
+      "Proceed ahead slowly with caution.",
+      "U-turn to avoid obstacle ahead."
+    ],
+    "correct": 1,
+    "explanation_en": "B) Wait for the yellow car to pass first before turning right and proceeding ahead is correct. The red car is turning right across the path of the yellow car. In Thailand, turning vehicles must yield to oncoming traffic that is going straight. The yellow car has the right of way.",
+    "image": "150.jpg",
+    "options_th": [
+      "บีบแตรเตือนรถสีเหลือง",
+      "รอให้รถสีเหลืองผ่านไปก่อนแล้วจึงค่อยเลี้ยวขวาและขับต่อไปข้างหน้า",
+      "ขับต่อไปข้างหน้าช้าๆ ด้วยความระมัดระวัง",
+      "กลับรถเพื่อหลีกเลี่ยงสิ่งกีดขวางข้างหน้า"
+    ],
+    "explanation_th": "รอให้รถสีเหลืองผ่านไปก่อนแล้วจึงค่อยเลี้ยวขวาและขับต่อไปข้างหน้า คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย === ADDITIONAL UI STRINGS === Category labels (translate these too): - ป้ายจราจร - กฎจราจร - ขีดจำกัดความเร็ว - แอลกอฮอล์และยาเสพติด - เอกสาร - ระยะห่างเพื่อความปลอดภัย - รถจักรยานยนต์ - การเตรียมพร้อมรับมือเหตุฉุกเฉิน",
+    "wrong_explanations_en": {
+      "0": "Sounding the horn does not give you the right of way — you must still yield.",
+      "2": "Proceeding ahead slowly ignores the yellow car's right of way and risks a collision.",
+      "3": "A U-turn is unnecessary and may be prohibited — simply wait for the yellow car to pass."
+    }
+  }
+]

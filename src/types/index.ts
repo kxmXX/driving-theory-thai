@@ -17,12 +17,17 @@ export interface Question {
   question_en: string;
   question_th: string;
   options: string[];
+  options_th: string[];
   correct: number;
   explanation_en: string;
+  explanation_th: string;
+  /** Explanations for wrong answers: map option index → why it's wrong */
+  wrong_explanations_en?: Record<number, string>;
+  wrong_explanations_th?: Record<number, string>;
   image: string | null;
 }
 
-export type QuizMode = "EXAM" | "TRAINING" | "THEMATIC" | "REVIEW" | "BLITZ";
+export type QuizMode = "EXAM" | "TRAINING" | "THEMATIC" | "REVIEW" | "BLITZ" | "FLASHCARD";
 
 export interface CategoryStats {
   seen: string[];

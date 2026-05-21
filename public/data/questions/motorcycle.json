@@ -1,0 +1,117 @@
+[
+  {
+    "id": "Q099",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "Who is the person exempted from wearing motorcycle helmet when driving?",
+    "question_th": "ใครคือบุคคลที่ได้รับการยกเว้นไม่ต้องสวมหมวกนิรภัยเมื่อขับขี่?",
+    "options": [
+      "Seniors over 65",
+      "Traffic officers",
+      "Motorcycle passengers",
+      "Novice, monk"
+    ],
+    "correct": 3,
+    "explanation_en": "D) Novice, monk is correct. Wearing a certified helmet reduces fatal head injury risk by about 40%. Thai law requires both driver and passenger to wear helmets at all times.",
+    "image": null,
+    "options_th": [
+      "ผู้สูงอายุเกิน 65 ปี",
+      "เจ้าหน้าที่จราจร",
+      "ผู้โดยสารรถจักรยานยนต์",
+      "สามเณร, พระสงฆ์"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ สามเณร, พระสงฆ์ การปฏิบัติที่ถูกต้องเกี่ยวกับรถจักรยานยนต์และอุปกรณ์นิรภัยช่วยลดความเสี่ยงในการบาดเจ็บได้อย่างมาก"
+  },
+  {
+    "id": "Q100",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "What is the maximum passenger for motorcycle?",
+    "question_th": "จำนวนผู้โดยสารสูงสุดสำหรับรถจักรยานยนต์คือเท่าใด?",
+    "options": [
+      "1 passenger",
+      "2 passengers",
+      "3 passengers",
+      "4 passengers"
+    ],
+    "correct": 0,
+    "explanation_en": "A) 1 passenger is correct. Motorcycle passengers must sit astride, hold on securely, and wear a helmet. Carrying more than one passenger is illegal.",
+    "image": null,
+    "options_th": [
+      "ผู้โดยสาร 1 คน",
+      "ผู้โดยสาร 2 คน",
+      "ผู้โดยสาร 3 คน",
+      "ผู้โดยสาร 4 คน"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ผู้โดยสาร 1 คน การปฏิบัติที่ถูกต้องเกี่ยวกับรถจักรยานยนต์และอุปกรณ์นิรภัยช่วยลดความเสี่ยงในการบาดเจ็บได้อย่างมาก"
+  },
+  {
+    "id": "Q101",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "How many years old must the motorcycle be before inspection is required when making the annual tax payment?",
+    "question_th": "รถจักรยานยนต์ต้องมีอายุกี่ปีจึงต้องมีการตรวจสอบเมื่อชำระภาษีประจำปี?",
+    "options": [
+      "1 year",
+      "3 years",
+      "5 years",
+      "7 years"
+    ],
+    "correct": 2,
+    "explanation_en": "C) 5 years is correct. Motorcycles are smaller and less visible than cars. Riders need extra caution, signaling, and protective gear.",
+    "image": null,
+    "options_th": [
+      "1 ปี",
+      "3 ปี",
+      "5 ปี",
+      "7 ปี"
+    ],
+    "explanation_th": "5 ปี คือคำตอบที่ถูกต้อง กฎความปลอดภัยของรถจักรยานยนต์ในประเทศไทยออกแบบมาเพื่อปกป้องผู้ขับขี่ ซึ่งมีความเสี่ยงมากกว่าในอุบัติเหตุจราจร"
+  },
+  {
+    "id": "Q103",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "Which item is correct?",
+    "question_th": "ข้อใดถูกต้อง?",
+    "options": [
+      "Motorcycle that has reached 5 years of life, wishing to renew annual taxes must bring the car to a private condition examination center.",
+      "The car has 5 years of service life. Those wishing to renew their annual taxes must have the car inspected at a private inspection facility.",
+      "Motorcycle that has reached 7 years of life, wishing to renew annual tax must bring the car to be inspected at a private condition.",
+      "Car with a lifetime of 10 years, wishing to renew the annual tax must have the car to be checked at a private condition."
+    ],
+    "correct": 0,
+    "explanation_en": "A) Motorcycle that has reached 5 years of life, wishing to renew annual taxes must bring the car to a private condition examination center. is correct. Motorcycles are smaller and less visible than cars. Riders need extra caution, signaling, and protective gear.",
+    "image": null,
+    "options_th": [
+      "รถจักรยานยนต์ที่มีอายุครบ 5 ปี ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน",
+      "รถยนต์ที่มีอายุการใช้งาน 5 ปี ผู้ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน",
+      "รถจักรยานยนต์ที่มีอายุครบ 7 ปี ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน",
+      "รถยนต์ที่มีอายุการใช้งาน 10 ปี ผู้ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ รถจักรยานยนต์ที่มีอายุครบ 5 ปี ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน การปฏิบัติที่ถูกต้องเกี่ยวกับรถจักรยานยนต์และอุปกรณ์นิรภัยช่วยลดความเสี่ยงในการบาดเจ็บได้อย่างมาก"
+  },
+  {
+    "id": "Q113",
+    "category": "motorcycle",
+    "difficulty": 2,
+    "question_en": "Which is correct?",
+    "question_th": "ข้อใดถูกต้อง?",
+    "options": [
+      "The truck must drive in the rightmost lane.",
+      "The passenger truck must drive in the rightmost lane.",
+      "Changing the lane to the right or left. Do not look at the left or right mirror.",
+      "Motorcycles must drive in the left lane of the vehicle."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Motorcycles must drive in the left lane of the vehicle. is correct. Motorcycles are smaller and less visible than cars. Riders need extra caution, signaling, and protective gear.",
+    "image": null,
+    "options_th": [
+      "รถบรรทุกต้องขับในช่องทางขวาสุด",
+      "รถโดยสารต้องขับในช่องทางขวาสุด",
+      "การเปลี่ยนช่องทางไปทางขวาหรือซ้าย อย่ามองกระจกซ้ายหรือขวา",
+      "รถจักรยานยนต์ต้องขับในช่องทางซ้ายของยานพาหนะ"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ รถจักรยานยนต์ต้องขับในช่องทางซ้ายของยานพาหนะ การปฏิบัติที่ถูกต้องเกี่ยวกับรถจักรยานยนต์และอุปกรณ์นิรภัยช่วยลดความเสี่ยงในการบาดเจ็บได้อย่างมาก"
+  }
+]

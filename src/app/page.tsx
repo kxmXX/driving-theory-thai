@@ -129,6 +129,24 @@ export default function HomePage() {
           </Link>
 
           <Link
+            href="/flashcards/"
+            className="gov-card flex items-center gap-3.5 p-3.5 transition hover:border-gov-blue"
+          >
+            <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded bg-gov-gold text-white shadow-sm">
+              <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+              </svg>
+            </div>
+            <div className="flex-1">
+              <h2 className="font-heading text-sm font-bold text-gov-dark dark:text-white">{t("flashcards")}</h2>
+              <p className="text-[11px] text-muted leading-tight">{t("flashcardsDesc")}</p>
+            </div>
+            <svg className="h-5 w-5 text-neutral-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+            </svg>
+          </Link>
+
+          <Link
             href="/stats/"
             className="gov-card flex items-center gap-3.5 p-3.5 transition hover:border-gov-blue"
           >

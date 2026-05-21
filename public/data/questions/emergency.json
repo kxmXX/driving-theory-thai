@@ -1,0 +1,94 @@
+[
+  {
+    "id": "Q023",
+    "category": "emergency",
+    "difficulty": 1,
+    "question_en": "If you experience a breakdown, you should:",
+    "question_th": "หากคุณประสบปัญหารถเสีย คุณควร:",
+    "options": [
+      "Leave your car at the spot where it breaks down and call a mechanic immediately.",
+      "Leave your car at the spot where it breaks down and arrange to have it towed immediately.",
+      "Pull your vehicle on to the shoulder and turn on your emergency flashers.",
+      "Leave your car at the spot where it breaks down and arrange for repairs later."
+    ],
+    "correct": 2,
+    "explanation_en": "C) Pull your vehicle on to the shoulder and turn on your emergency flashers. is correct. In any emergency, stay calm. Panic leads to poor decisions. Protect people first, then property.",
+    "image": null,
+    "options_th": [
+      "ปล่อยรถของคุณไว้ตรงจุดที่เสียและเรียกช่างทันที",
+      "ปล่อยรถของคุณไว้ตรงจุดที่เสียและจัดหารถลากทันที",
+      "ดึงรถของคุณเข้าข้างทางและเปิดไฟกะพริบฉุกเฉิน",
+      "ปล่อยรถของคุณไว้ตรงจุดที่เสียและจัดการซ่อมแซมในภายหลัง"
+    ],
+    "explanation_th": "ดึงรถของคุณเข้าข้างทางและเปิดไฟกะพริบฉุกเฉิน เป็นขั้นตอนปฏิบัติในกรณีฉุกเฉินที่ถูกต้อง การรู้วิธีตอบสนองในเหตุฉุกเฉินสามารถช่วยชีวิตและป้องกันอุบัติเหตุเพิ่มเติมได้"
+  },
+  {
+    "id": "Q088",
+    "category": "emergency",
+    "difficulty": 2,
+    "question_en": "The dividing lines in the middle of the road pictured indicate:",
+    "question_th": "เส้นแบ่งกลางถนนตามภาพแสดงว่า:",
+    "options": [
+      "Move the yellow car off the road and turn on emergency flashes.",
+      "The driver of the yellow car in the picture may make a U-turn.",
+      "The driver of the yellow car in the picture may not pull into the right lane to overtake another vehicle.",
+      "The driver of the yellow car in the picture may turn into the right lane."
+    ],
+    "correct": 2,
+    "explanation_en": "C) The driver of the yellow car in the picture may not pull into the right lane to overtake another vehicle. is correct. In any emergency, stay calm. Panic leads to poor decisions. Protect people first, then property.",
+    "image": "88.jpg",
+    "options_th": [
+      "ย้ายรถสีเหลืองออกจากถนนและเปิดไฟกะพริบฉุกเฉิน",
+      "ผู้ขับขี่รถยนต์สีเหลืองในภาพอาจกลับรถได้",
+      "ผู้ขับขี่รถยนต์สีเหลืองในภาพอาจไม่สามารถดึงเข้าไปในช่องทางขวาเพื่อแซงยานพาหนะอื่นได้",
+      "ผู้ขับขี่รถยนต์สีเหลืองในภาพอาจเลี้ยวเข้าไปในช่องทางขวาได้"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ ผู้ขับขี่รถยนต์สีเหลืองในภาพอาจไม่สามารถดึงเข้าไปในช่องทางขวาเพื่อแซงยานพาหนะอื่นได้ การเตรียมพร้อมรับมือเหตุฉุกเฉินเป็นทักษะที่สำคัญสำหรับผู้ขับขี่ทุกคน"
+  },
+  {
+    "id": "Q129",
+    "category": "emergency",
+    "difficulty": 3,
+    "question_en": "Which situation uses emergency lighting appropriately?",
+    "question_th": "สถานการณ์ใดที่ใช้ไฟฉุกเฉินอย่างเหมาะสม?",
+    "options": [
+      "Turn on emergency lights while fog is down.",
+      "Turn on emergency lights when going to turn left at an intersection without traffic lights.",
+      "Turn on emergency lights to let other drivers know that they will run straight to.",
+      "Turn on Emergency lights when the car is parked on the shoulder."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Turn on Emergency lights when the car is parked on the shoulder. is correct. In any emergency, stay calm. Panic leads to poor decisions. Protect people first, then property.",
+    "image": null,
+    "options_th": [
+      "เปิดไฟฉุกเฉินขณะที่มีหมอกลง",
+      "เปิดไฟฉุกเฉินเมื่อจะเลี้ยวซ้ายที่ทางแยกที่ไม่มีสัญญาณไฟจราจร",
+      "เปิดไฟฉุกเฉินเพื่อให้ผู้ขับขี่คนอื่นรู้ว่าจะขับตรงไป",
+      "เปิดไฟฉุกเฉินเมื่อจอดรถอยู่บนไหล่ทาง"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ เปิดไฟฉุกเฉินเมื่อจอดรถอยู่บนไหล่ทาง การเตรียมพร้อมรับมือเหตุฉุกเฉินเป็นทักษะที่สำคัญสำหรับผู้ขับขี่ทุกคน"
+  },
+  {
+    "id": "Q142",
+    "category": "emergency",
+    "difficulty": 3,
+    "question_en": "What kind of parking may cause an accident?",
+    "question_th": "การจอดรถแบบใดที่อาจก่อให้เกิดอุบัติเหตุ?",
+    "options": [
+      "Parking in the parking building.",
+      "Park the car in the parking lot.",
+      "Park the car on the left edge of the road.",
+      "Double parking"
+    ],
+    "correct": 3,
+    "explanation_en": "D) Double parking is correct. Thai parking laws specify exact distances from crossings, intersections, and obstacles. Memorizing these distances is essential for the exam.",
+    "image": null,
+    "options_th": [
+      "จอดรถในอาคารจอดรถ",
+      "จอดรถในลานจอดรถ",
+      "จอดรถบนขอบทางด้านซ้าย",
+      "จอดรถซ้อนคัน"
+    ],
+    "explanation_th": "คำตอบที่ถูกต้องคือ จอดรถซ้อนคัน การเตรียมพร้อมรับมือเหตุฉุกเฉินเป็นทักษะที่สำคัญสำหรับผู้ขับขี่ทุกคน"
+  }
+]

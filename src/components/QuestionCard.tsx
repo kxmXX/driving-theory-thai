@@ -1,6 +1,7 @@
 "use client";
 
 import { Question } from "@/types";
+import { useLanguage } from "@/lib/language-context";
 
 interface QuestionCardProps {
   question: Question;
@@ -21,7 +22,18 @@ export default function QuestionCard({
   questionNumber,
   totalQuestions,
 }: QuestionCardProps) {
+  const { lang } = useLanguage();
   const letters = ["A", "B", "C", "D"];
+
+  const questionText =
+    lang === "th" && question.question_th ? question.question_th : question.question_en;
+
+  const getOptionText = (index: number): string => {
+    if (lang === "th" && question.options_th?.[index]) {
+      return question.options_th[index];
+    }
+    return question.options[index];
+  };
 
   const getButtonClass = (index: number) => {
     const base =
@@ -65,17 +77,18 @@ export default function QuestionCard({
       )}
 
       <h2 className="font-heading text-[15px] font-semibold leading-snug">
-        {question.question_en}
+        {questionText}
       </h2>
 
-      {question.question_th && (
-        <p className="text-xs text-muted leading-snug">{question.question_th}</p>
+      {lang === "th" && question.question_th && (
+        <p className="text-xs text-muted leading-snug">{question.question_en}</p>
       )}
 
       <div className="space-y-1.5 pt-1">
         {question.options.map((option, index) => {
-          const isImageOption = option.startsWith("Image: ");
-          const imageName = isImageOption ? option.replace("Image: ", "") : null;
+          const displayOption = getOptionText(index);
+          const isImageOption = displayOption.startsWith("Image: ");
+          const imageName = isImageOption ? displayOption.replace("Image: ", "") : null;
           return (
             <button
               key={index}
@@ -96,7 +109,7 @@ export default function QuestionCard({
                     loading="lazy"
                   />
                 ) : (
-                  option
+                  displayOption
                 )}
               </span>
             </button>

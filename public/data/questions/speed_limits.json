@@ -1,0 +1,465 @@
+[
+  {
+    "id": "Q024",
+    "category": "speed_limits",
+    "difficulty": 1,
+    "question_en": "When you see a flashing red light, you should:",
+    "question_th": "เมื่อคุณเห็นไฟกระพริบสีแดง คุณควร:",
+    "options": [
+      "Reduce your speed. Then proceed with caution when it is safe to do so.",
+      "Proceed with caution.",
+      "Not enter the road ahead.",
+      "Stop, then proceed only when it is safe to do so."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Stop, then proceed only when it is safe to do so. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "ลดความเร็วลง จากนั้นขับต่อไปด้วยความระมัดระวังเมื่อปลอดภัยที่จะทำได้",
+      "ขับต่อไปด้วยความระมัดระวัง",
+      "ไม่เข้าไปในถนนข้างหน้า",
+      "หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q046",
+    "category": "speed_limits",
+    "difficulty": 1,
+    "question_en": "When you see a flashing red light, you should:",
+    "question_th": "เมื่อคุณเห็นไฟกระพริบสีแดง คุณควร:",
+    "options": [
+      "Stop, then proceed only when it is safe to do so.",
+      "Not enter the road ahead.",
+      "Proceed with caution.",
+      "Reduce your speed. Then proceed with caution when it is safe to do so."
+    ],
+    "correct": 0,
+    "explanation_en": "A) Stop, then proceed only when it is safe to do so. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น",
+      "ไม่เข้าไปในถนนข้างหน้า",
+      "ขับต่อไปด้วยความระมัดระวัง",
+      "ลดความเร็วลง จากนั้นขับต่อไปด้วยความระมัดระวังเมื่อปลอดภัยที่จะทำได้"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q048",
+    "category": "speed_limits",
+    "difficulty": 1,
+    "question_en": "When you see a flashing red light, you should:",
+    "question_th": "เมื่อคุณเห็นไฟกระพริบสีแดง คุณควร:",
+    "options": [
+      "Reduce your speed. Then proceed with caution when it is safe to do so.",
+      "Proceed with caution",
+      "Stop, then proceed only when it is safe to do so.",
+      "Not enter the road ahead"
+    ],
+    "correct": 2,
+    "explanation_en": "C) Stop, then proceed only when it is safe to do so. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "ลดความเร็วลง จากนั้นขับต่อไปด้วยความระมัดระวังเมื่อปลอดภัยที่จะทำได้",
+      "ขับต่อไปด้วยความระมัดระวัง",
+      "หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น",
+      "ไม่เข้าไปในถนนข้างหน้า"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q058",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "In the picture, the driver of the red car should:",
+    "question_th": "ในภาพ ผู้ขับขี่รถยนต์สีแดงควร:",
+    "options": [
+      "Reduce his/her speed to allow the cars on the left and right to pass before proceeding.",
+      "Stop to allow the car on the right to pass. Only proceed when safe.",
+      "Stop to allow the car on the left to pass. Only proceed when safe.",
+      "Stop and wait for all other cars to pass."
+    ],
+    "correct": 2,
+    "explanation_en": "C) Stop to allow the car on the left to pass. Only proceed when safe. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": "58.jpg",
+    "options_th": [
+      "ลดความเร็วลงเพื่อให้รถทางซ้ายและขวาผ่านไปก่อนจึงจะขับต่อไป",
+      "หยุดเพื่อให้รถทางขวาผ่านไป ขับต่อไปเมื่อปลอดภัยเท่านั้น",
+      "หยุดเพื่อให้รถทางซ้ายผ่านไป ขับต่อไปเมื่อปลอดภัยเท่านั้น",
+      "หยุดและรอให้รถคันอื่นทั้งหมดผ่านไป"
+    ],
+    "explanation_th": "หยุดเพื่อให้รถทางซ้ายผ่านไป ขับต่อไปเมื่อปลอดภัยเท่านั้น คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
+  },
+  {
+    "id": "Q094",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "How much additional money will be charged to a vehicle that does not pay annual tax within the stipulated time limit?",
+    "question_th": "ยานพาหนะที่ไม่ชำระภาษีประจำปีภายในเวลาที่กำหนด จะถูกเรียกเก็บเงินเพิ่มเติมเท่าใด?",
+    "options": [
+      "1% per month",
+      "5% per month",
+      "1% per year",
+      "5% per year"
+    ],
+    "correct": 0,
+    "explanation_en": "A) 1% per month is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "1% ต่อเดือน",
+      "5% ต่อเดือน",
+      "1% ต่อปี",
+      "5% ต่อปี"
+    ],
+    "explanation_th": "1% ต่อเดือน คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
+  },
+  {
+    "id": "Q096",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "What is the speed limit within municipal limits, Bangkok, and Pattaya?",
+    "question_th": "ขีดจำกัดความเร็วภายในเขตเทศบาล กรุงเทพฯ และพัทยาคือเท่าใด?",
+    "options": [
+      "70 Km/H",
+      "80 Km/H",
+      "90 Km/H",
+      "100 Km/H"
+    ],
+    "correct": 1,
+    "explanation_en": "B) 80 Km/H is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "70 กม./ชม.",
+      "80 กม./ชม.",
+      "90 กม./ชม.",
+      "100 กม./ชม."
+    ],
+    "explanation_th": "80 กม./ชม. คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
+  },
+  {
+    "id": "Q097",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "What is the speed limit outside municipal limits, Bangkok and Pattaya?",
+    "question_th": "ขีดจำกัดความเร็วนอกเขตเทศบาล กรุงเทพฯ และพัทยาคือเท่าใด?",
+    "options": [
+      "70 Km/H",
+      "80 Km/H",
+      "90 Km/H",
+      "100 Km/H"
+    ],
+    "correct": 2,
+    "explanation_en": "C) 90 Km/H is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "70 กม./ชม.",
+      "80 กม./ชม.",
+      "90 กม./ชม.",
+      "100 กม./ชม."
+    ],
+    "explanation_th": "90 กม./ชม. คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
+  },
+  {
+    "id": "Q112",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "What is the penalty for driving while detecting alcohol in the body more than the legal limit?",
+    "question_th": "บทลงโทษสำหรับการขับขี่ขณะตรวจพบแอลกอฮอล์ในร่างกายเกินกว่ากฎหมายกำหนดคืออะไร?",
+    "options": [
+      "Imprisonment of not more than 3 months or a fine of 1,000 to. 50,000 baht.",
+      "Imprisonment of not more than 1 year or a fine of 5,000 to. 20,000 baht or both.",
+      "Fine not more than 5,000 baht.",
+      "Fine not exceeding 10,000 baht."
+    ],
+    "correct": 1,
+    "explanation_en": "B) Imprisonment of not more than 1 year or a fine of 5,000 to. 20,000 baht or both. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "จำคุกไม่เกิน 3 เดือน หรือปรับ 1,000 ถึง 50,000 บาท",
+      "จำคุกไม่เกิน 1 ปี หรือปรับ 5,000 ถึง 20,000 บาท หรือทั้งจำทั้งปรับ",
+      "ปรับไม่เกิน 5,000 บาท",
+      "ปรับไม่เกิน 10,000 บาท"
+    ],
+    "explanation_th": "จำคุกไม่เกิน 1 ปี หรือปรับ 5,000 ถึง 20,000 บาท หรือทั้งจำทั้งปรับ คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
+  },
+  {
+    "id": "Q114",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "Cars with slow speeds, what should the driver do?",
+    "question_th": "รถที่ขับช้า ผู้ขับขี่ควรทำอย่างไร?",
+    "options": [
+      "Drive on the shoulder",
+      "Drive on the right edge",
+      "Drive close to the left edge",
+      "Can drive on both the left and right"
+    ],
+    "correct": 2,
+    "explanation_en": "C) Drive close to the left edge is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "ขับบนไหล่ทาง",
+      "ขับบนขอบทางขวา",
+      "ขับชิดขอบทางซ้าย",
+      "สามารถขับได้ทั้งซ้ายและขวา"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: ขับชิดขอบทางซ้าย ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q121",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Driving through a community, school, or crowded place what should be done?",
+    "question_th": "ขับผ่านชุมชน โรงเรียน หรือสถานที่แออัด ควรทำอย่างไร?",
+    "options": [
+      "Honk the horn and accelerate to get away fast.",
+      "Slow down honk and use caution.",
+      "Honk the horn and slow down the speed.",
+      "Slow down and use caution when driving."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Slow down and use caution when driving. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "บีบแตรและเร่งความเร็วเพื่อให้ผ่านไปโดยเร็ว",
+      "ชะลอความเร็ว บีบแตร และใช้ความระมัดระวัง",
+      "บีบแตรและลดความเร็วลง",
+      "ชะลอความเร็วและใช้ความระมัดระวังขณะขับขี่"
+    ],
+    "explanation_th": "ชะลอความเร็วและใช้ความระมัดระวังขณะขับขี่ คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
+  },
+  {
+    "id": "Q122",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Driving during heavy rain, how should you drive?",
+    "question_th": "ขับขี่ในช่วงฝนตกหนัก ควรขับขี่อย่างไร?",
+    "options": [
+      "Reduce the speed carefully. Turn on the headlight and wiper.",
+      "Drive carefully and turn on the car headlights and fog lights.",
+      "Gradually drive and turn on the high beam..",
+      "Stop the car on the road. And wait until the rain stops and then continue driving."
+    ],
+    "correct": 0,
+    "explanation_en": "A) Reduce the speed carefully. Turn on the headlight and wiper. is correct. In wet conditions, reduce speed by at least 20%. Wet roads can double your stopping distance, and hydroplaning can occur above 80 km/h.",
+    "image": null,
+    "options_th": [
+      "ลดความเร็วลงอย่างระมัดระวัง เปิดไฟหน้าและที่ปัดน้ำฝน",
+      "ขับขี่ด้วยความระมัดระวังและเปิดไฟหน้ารถและไฟตัดหมอก",
+      "ขับขี่ทีละน้อยและเปิดไฟสูง",
+      "จอดรถบนถนน และรอจนกว่าฝนจะหยุดแล้วจึงขับขี่ต่อไป"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: ลดความเร็วลงอย่างระมัดระวัง เปิดไฟหน้าและที่ปัดน้ำฝน ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q124",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "When should the driver use the horn?",
+    "question_th": "ผู้ขับขี่ควรใช้แตรเมื่อใด?",
+    "options": [
+      "Say hello to other known drivers.",
+      "Prevent danger or accident that may occur from the car.",
+      "Speeding the front car to drive faster.",
+      "Chase pedestrians crossing the crosswalk."
+    ],
+    "correct": 1,
+    "explanation_en": "B) Prevent danger or accident that may occur from the car. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "ทักทายผู้ขับขี่คนอื่นที่รู้จัก",
+      "ป้องกันอันตรายหรืออุบัติเหตุที่อาจเกิดขึ้นจากรถ",
+      "เร่งรถคันหน้าให้ขับเร็วขึ้น",
+      "ไล่คนเดินเท้าที่กำลังข้ามทางม้าลาย"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: ป้องกันอันตรายหรืออุบัติเหตุที่อาจเกิดขึ้นจากรถ ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q125",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "While driving If the car bonnet is open what should the driver do?",
+    "question_th": "ขณะขับขี่ หากฝากระโปรงรถเปิดขึ้น ผู้ขับขี่ควรทำอย่างไร?",
+    "options": [
+      "Reduce speed and park on the side of the road To close the bonnet neatly.",
+      "Swerve the car to the side immediately To close the bonnet neatly.",
+      "Sudden braking.",
+      "Step on the accelerator so the bonnet is bumped off."
+    ],
+    "correct": 0,
+    "explanation_en": "A) Reduce speed and park on the side of the road To close the bonnet neatly. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "ลดความเร็วและจอดข้างทาง เพื่อปิดฝากระโปรงให้เรียบร้อย",
+      "หลบรถไปข้างทันที เพื่อปิดฝากระโปรงให้เรียบร้อย",
+      "เบรกกะทันหัน",
+      "เหยียบคันเร่งเพื่อให้ฝากระโปรงกระเด็นออก"
+    ],
+    "explanation_th": "ลดความเร็วและจอดข้างทาง เพื่อปิดฝากระโปรงให้เรียบร้อย คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
+  },
+  {
+    "id": "Q126",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "If heavy rains occur so that the path cannot be clearly seen what should the driver do?",
+    "question_th": "หากเกิดฝนตกหนักจนมองไม่เห็นเส้นทางชัดเจน ผู้ขับขี่ควรทำอย่างไร?",
+    "options": [
+      "Speed up and get through the rainy areas quickly.",
+      "Park the car immediately.",
+      "Turn on the headlights, accelerate through the heavy rain.",
+      "Park the car in a safe area. Turn on the car headlights and turn on the emergency lights."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Park the car in a safe area. Turn on the car headlights and turn on the emergency lights. is correct. In wet conditions, reduce speed by at least 20%. Wet roads can double your stopping distance, and hydroplaning can occur above 80 km/h.",
+    "image": null,
+    "options_th": [
+      "เร่งความเร็วและผ่านบริเวณที่ฝนตกให้เร็วขึ้น",
+      "จอดรถทันที",
+      "เปิดไฟหน้า เร่งเครื่องยนต์ผ่านฝนหนัก",
+      "จอดรถในพื้นที่ปลอดภัย เปิดไฟหน้ารถและเปิดไฟกะพริบฉุกเฉิน"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: จอดรถในพื้นที่ปลอดภัย เปิดไฟหน้ารถและเปิดไฟกะพริบฉุกเฉิน ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q134",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Which aspect to pay special attention to do while driving through water?",
+    "question_th": "ด้านใดที่ต้องให้ความสนใจเป็นพิเศษขณะขับขี่ผ่านน้ำ?",
+    "options": [
+      "To heat the engine",
+      "Keep the car at a constant speed",
+      "To increase the speed of the car",
+      "To prevent the engine from shutting down"
+    ],
+    "correct": 3,
+    "explanation_en": "D) To prevent the engine from shutting down is correct. In wet conditions, reduce speed by at least 20%. Wet roads can double your stopping distance, and hydroplaning can occur above 80 km/h.",
+    "image": null,
+    "options_th": [
+      "ทำให้เครื่องยนต์ร้อน",
+      "รักษาความเร็วของรถให้คงที่",
+      "เพิ่มความเร็วของรถ",
+      "ป้องกันไม่ให้เครื่องยนต์ดับ"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: ป้องกันไม่ให้เครื่องยนต์ดับ ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย",
+    "wrong_explanations_en": {
+      "0": "Engine performance is not the main concern in rain — tire grip and visibility are."
+    }
+  },
+  {
+    "id": "Q135",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Which of the following is correct for nighttime driving?",
+    "question_th": "ข้อใดต่อไปนี้ถูกต้องสำหรับการขับขี่ในเวลากลางคืน?",
+    "options": [
+      "Turn on the high beam all the time while driving.",
+      "Turn on the emergency light at all times while driving.",
+      "Drive as fast as usual.",
+      "Drive slower than normal or not faster than the sight."
+    ],
+    "correct": 3,
+    "explanation_en": "D) Drive slower than normal or not faster than the sight. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "เปิดไฟสูงตลอดเวลาขณะขับขี่",
+      "เปิดไฟกะพริบฉุกเฉินตลอดเวลาขณะขับขี่",
+      "ขับเร็วตามปกติ",
+      "ขับช้ากว่าปกติหรือไม่เร็วเกินกว่าทัศนวิสัย"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: ขับช้ากว่าปกติหรือไม่เร็วเกินกว่าทัศนวิสัย ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q136",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "Which is correct about driving fuel efficiency?",
+    "question_th": "ข้อใดถูกต้องเกี่ยวกับการขับขี่เพื่อประหยัดน้ำมันเชื้อเพลิง?",
+    "options": [
+      "The car will save more fuel if it runs at higher speeds.",
+      "The car will save fuel if driving at a constant speed.",
+      "The car will save more fuel if accelerating the engine frequently.",
+      "The car will save more fuel if it runs. With unstable speeds."
+    ],
+    "correct": 1,
+    "explanation_en": "B) The car will save fuel if driving at a constant speed. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "รถจะประหยัดน้ำมันมากขึ้นหากวิ่งด้วยความเร็วสูง",
+      "รถจะประหยัดน้ำมันหากขับด้วยความเร็วคงที่",
+      "รถจะประหยัดน้ำมันมากขึ้นหากเร่งเครื่องยนต์บ่อยๆ",
+      "รถจะประหยัดน้ำมันมากขึ้นหากวิ่งด้วยความเร็วที่ไม่คงที่"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: รถจะประหยัดน้ำมันหากขับด้วยความเร็วคงที่ ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q137",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "If you want to drive straight past you should be careful and how to act?",
+    "question_th": "หากต้องการขับตรงผ่านไป ควรระมัดระวังและปฏิบัติอย่างไร?",
+    "options": [
+      "Slow down the car and let the car on the right hand to pass first.",
+      "Speed up the engine to pass first.",
+      "Drive at the same speed.",
+      "Continue driving as we have right of way."
+    ],
+    "correct": 0,
+    "explanation_en": "A) Slow down the car and let the car on the right hand to pass first. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": "137.jpg",
+    "options_th": [
+      "ชะลอรถและให้รถทางขวามือผ่านไปก่อน",
+      "เร่งเครื่องยนต์เพื่อผ่านไปก่อน",
+      "ขับด้วยความเร็วเท่าเดิม",
+      "ขับต่อไปตามที่เรามีสิทธิ์ทาง优先"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: ชะลอรถและให้รถทางขวามือผ่านไปก่อน ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  },
+  {
+    "id": "Q139",
+    "category": "speed_limits",
+    "difficulty": 3,
+    "question_en": "When driving down a steep slope The driver should use low gear because of what reason?",
+    "question_th": "เมื่อขับลงทางลาดชัน ผู้ขับขี่ควรใช้เกียร์ต่ำเนื่องจากเหตุผลใด?",
+    "options": [
+      "To increase the power of the car",
+      "To slow the speed of the car",
+      "To reduce the heat of the engine",
+      "To increase the speed of the car"
+    ],
+    "correct": 1,
+    "explanation_en": "B) To slow the speed of the car is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": null,
+    "options_th": [
+      "เพื่อเพิ่มพลังของรถ",
+      "เพื่อลดความเร็วของรถ",
+      "เพื่อลดความร้อนของเครื่องยนต์",
+      "เพื่อเพิ่มความเร็วของรถ"
+    ],
+    "explanation_th": "เพื่อลดความเร็วของรถ คือคำตอบที่ถูกต้อง การปฏิบัติตามขีดจำกัดความเร็วช่วยลดความเสี่ยงในการเกิดอุบัติเหตุและทำให้การจราจรไหลลื่น"
+  },
+  {
+    "id": "Q141",
+    "category": "speed_limits",
+    "difficulty": 2,
+    "question_en": "From the picture, if you want to turn right You should be careful and how to act?",
+    "question_th": "จากภาพ หากต้องการเลี้ยวขวา คุณควรระมัดระวังและปฏิบัติอย่างไร?",
+    "options": [
+      "Should turn to keep up because there is a large car blocking the car on the opposite side.",
+      "Speed up to turn right immediately.",
+      "Stop in the position to turn and let the opposite side to pass first.",
+      "Drive in the lane right side to make a turn."
+    ],
+    "correct": 2,
+    "explanation_en": "C) Stop in the position to turn and let the opposite side to pass first. is correct. Speed limits are calculated based on road design, traffic, and visibility. Exceeding them reduces your reaction time and makes crashes more severe.",
+    "image": "141.jpg",
+    "options_th": [
+      "ควรรีบเลี้ยวตามเพราะมีรถใหญ่บังรถฝั่งตรงข้าม",
+      "เร่งความเร็วเพื่อเลี้ยวขวาทันที",
+      "หยุดในตำแหน่งที่จะเลี้ยวและให้ฝั่งตรงข้ามผ่านไปก่อน",
+      "ขับในช่องทางด้านขวาเพื่อทำการเลี้ยว"
+    ],
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: หยุดในตำแหน่งที่จะเลี้ยวและให้ฝั่งตรงข้ามผ่านไปก่อน ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+  }
+]
