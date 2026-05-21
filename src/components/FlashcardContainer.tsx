@@ -147,11 +147,11 @@ export default function FlashcardContainer() {
       {/* Header */}
       <div className="mb-3 flex items-center justify-between">
         <button
-          onClick={() => router.push("/")}
-          className="touch-target rounded p-1.5 hover:bg-neutral-200 dark:hover:bg-neutral-800"
+          onClick={() => router.replace("/")}
+          className="touch-target rounded bg-neutral-100 p-2 hover:bg-neutral-200 dark:bg-neutral-800 dark:hover:bg-neutral-700"
           aria-label="Go back"
         >
-          <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+          <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
           </svg>
         </button>

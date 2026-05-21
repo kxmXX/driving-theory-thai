@@ -73,6 +73,7 @@ const translations: Record<Language, Record<string, string>> = {
     reviewNow: "Review Now",
     knewIt: "Knew it",
     didntKnow: "Didn't know",
+    exit: "Exit",
   },
   th: {
     title: "ข้อสอบใบขับขี่ไทย",
@@ -136,6 +137,7 @@ const translations: Record<Language, Record<string, string>> = {
     reviewNow: "ทบทวนทันที",
     knewIt: "รู้แล้ว",
     didntKnow: "ยังไม่รู้",
+    exit: "ออก",
   },
   fr: {
     title: "Code de la Route Thaïlande",
@@ -199,6 +201,7 @@ const translations: Record<Language, Record<string, string>> = {
     reviewNow: "Réviser",
     knewIt: "Je le savais",
     didntKnow: "Je ne savais pas",
+    exit: "Quitter",
   },
 };
 

@@ -182,13 +182,13 @@ export default function QuizContainer({
 
           <div className="flex gap-2.5">
             <button
-              onClick={() => router.push("/")}
+              onClick={() => router.replace("/")}
               className="touch-target flex-1 rounded bg-gov-blue px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-gov-dark"
             >
               {t("home")}
             </button>
             <button
-              onClick={() => router.push("/stats")}
+              onClick={() => router.replace("/stats")}
               className="touch-target flex-1 rounded border border-gov-blue px-4 py-2.5 text-sm font-semibold text-gov-blue transition hover:bg-blue-50 dark:hover:bg-blue-900/20"
             >
               {t("stats")}
@@ -216,11 +216,11 @@ export default function QuizContainer({
       <div className="mb-3 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <button
-            onClick={() => router.push("/")}
-            className="touch-target rounded p-1.5 hover:bg-neutral-200 dark:hover:bg-neutral-800"
+            onClick={() => router.replace("/")}
+            className="touch-target rounded bg-neutral-100 p-2 hover:bg-neutral-200 dark:bg-neutral-800 dark:hover:bg-neutral-700"
             aria-label="Go back"
           >
-            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+            <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
           </button>
@@ -247,6 +247,7 @@ export default function QuizContainer({
       </div>
 
       <QuestionCard
+        key={currentQuestion.id}
         question={currentQuestion}
         selectedAnswer={userAnswer}
         onSelect={handleSelect}
