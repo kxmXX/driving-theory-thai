@@ -34,7 +34,13 @@ export default function FlashcardContainer() {
   useEffect(() => {
     setLoading(true);
     loadQuestions(selectedCat === "all" ? undefined : selectedCat)
-      .then((q) => setQuestions(shuffle(q)))
+      .then((q) => {
+        // Filter out questions with image-based options (incompatible with flashcards)
+        const filtered = q.filter(
+          (q) => !q.options.some((o) => o.startsWith("Image:") || o === "See picture")
+        );
+        setQuestions(shuffle(filtered));
+      })
       .finally(() => setLoading(false));
   }, [selectedCat]);
 
@@ -178,7 +184,7 @@ export default function FlashcardContainer() {
             className="gov-card absolute inset-0 flex flex-col items-center justify-center p-6 text-center"
             style={{ backfaceVisibility: "hidden" }}
           >
-            <span className="text-[10px] uppercase tracking-wider text-muted mb-3">
+            <span className="text-xs uppercase tracking-wider text-muted mb-3">
               {getCategoryLabel(current.category)}
             </span>
 
@@ -191,15 +197,15 @@ export default function FlashcardContainer() {
               />
             )}
 
-            <h2 className="font-heading text-base font-semibold leading-snug text-gov-dark dark:text-white">
+            <h2 className="font-heading text-lg font-semibold leading-snug text-gov-dark dark:text-white">
               {questionText}
             </h2>
 
             {lang === "th" && current.question_th && (
-              <p className="text-xs text-muted mt-1">{current.question_en}</p>
+              <p className="text-sm text-muted mt-1">{current.question_en}</p>
             )}
 
-            <p className="mt-6 text-[11px] text-muted">{t("tapToReveal")}</p>
+            <p className="mt-6 text-sm text-muted">{t("tapToReveal")}</p>
           </div>
 
           {/* Back */}
@@ -212,16 +218,16 @@ export default function FlashcardContainer() {
             </span>
 
             <div className="mb-3 flex items-center gap-2">
-              <span className="flex h-8 w-8 items-center justify-center rounded-full bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300 font-bold text-sm">
+              <span className="flex h-8 w-8 items-center justify-center rounded-full bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300 font-bold text-base">
                 {letters[current.correct]}
               </span>
-              <span className="font-semibold text-sm text-gov-dark dark:text-white">
+              <span className="font-semibold text-base text-gov-dark dark:text-white">
                 {lang === "th" && correctOptionTh ? correctOptionTh : correctOption}
               </span>
             </div>
 
             <div className="w-full border-t border-neutral-200 dark:border-neutral-700 pt-3 mt-1">
-              <p className="text-xs leading-relaxed text-neutral-700 dark:text-neutral-300">
+              <p className="text-sm leading-relaxed text-neutral-700 dark:text-neutral-300">
                 {explanationText}
               </p>
             </div>

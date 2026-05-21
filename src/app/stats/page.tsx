@@ -5,6 +5,7 @@ import Link from "next/link";
 import { UserSession, Category } from "@/types";
 import { loadSession, resetSession } from "@/lib/session";
 import { getCategoryLabel, getCategoryColor } from "@/lib/quiz-engine";
+import ReadinessGauge from "@/components/ReadinessGauge";
 
 const CATEGORIES: Category[] = [
   "road_signs",
@@ -45,6 +46,8 @@ export default function StatsPage() {
   return (
     <main className="mx-auto max-w-xl px-4 py-8">
       <h1 className="font-heading text-2xl font-bold mb-6">Statistics</h1>
+
+      <ReadinessGauge session={session} />
 
       {/* Streak Card */}
       <div className="card p-4 mb-4 flex items-center gap-4">

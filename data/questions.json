@@ -12,7 +12,7 @@
       "within 15 meters of a pedestrian."
     ],
     "correct": 2,
-    "explanation_en": "C) within 15 meters of a railroad crossing is correct. Parking near a railroad crossing is prohibited within 15 meters because trains cannot stop quickly — your vehicle could be struck. The fire hydrant rule is only 3 meters, and the traffic light rule is 10 meters.",
+    "explanation_en": "C) within 15 meters of a railroad crossing is correct. Parking near a railroad crossing is prohibited within 15 meters because trains cannot stop quickly. your vehicle could be struck. The fire hydrant rule is only 3 meters, and the traffic light rule is 10 meters.",
     "image": null,
     "options_th": [
       "ในระยะ 15 เมตรจากหัวดับเพลิง",
@@ -91,7 +91,7 @@
       "No left turn"
     ],
     "correct": 1,
-    "explanation_en": "B) All traffic must move to the right is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) All traffic must move to the right is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "4.jpg",
     "options_th": [
       "ให้ชิดขวา",
@@ -114,7 +114,7 @@
       "Stop ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) Give way ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Give way ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "5.jpg",
     "options_th": [
       "ให้ทาง",
@@ -216,7 +216,7 @@
       "Stop and wait for other car to pass."
     ],
     "correct": 2,
-    "explanation_en": "C) Put on your right turn signal and wait for the car to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Put on your right turn signal and wait for the car to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "9.jpg",
     "options_th": [
       "เปิดสัญญาณไฟเลี้ยวขวาและแซงทางซ้ายโดยไม่ชักช้า",
@@ -313,7 +313,7 @@
       "Reduce his/her speed and proceed with caution."
     ],
     "correct": 0,
-    "explanation_en": "A) Stop behind the line, and wait to make sure there is no cross traffic before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Stop behind the line, and wait to make sure there is no cross traffic before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "13.jpg",
     "options_th": [
       "หยุดด้านหลังเส้น และรอให้แน่ใจว่าไม่มีรถสวนทางมาก่อนจึงจะขับต่อไป",
@@ -336,7 +336,7 @@
       "Absolutely no stopping in this area."
     ],
     "correct": 3,
-    "explanation_en": "D) Absolutely no stopping in this area. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "D) Absolutely no stopping in this area. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "14.jpg",
     "options_th": [
       "ห้ามแซงภายในพื้นที่ที่มีเส้นไขว้",
@@ -405,7 +405,7 @@
       "Slippery road ahead, be extra careful."
     ],
     "correct": 0,
-    "explanation_en": "A) Falling rocks, be extra mindful. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Falling rocks, be extra mindful. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "17.jpg",
     "options_th": [
       "หินตก ให้ระมัดระวังเป็นพิเศษ",
@@ -428,7 +428,7 @@
       "Stop immediately."
     ],
     "correct": 2,
-    "explanation_en": "C) Reduce your speed. The road may be slippery. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Reduce your speed. The road may be slippery. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "18.jpg",
     "options_th": [
       "ขับขี่ด้วยความระมัดระวัง ถนนคดเคี้ยว",
@@ -497,7 +497,7 @@
       "End of double road, merging of lanes ahead"
     ],
     "correct": 2,
-    "explanation_en": "C) Traffic island ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Traffic island ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "21.jpg",
     "options_th": [
       "แยกถนน ให้ชิดซ้าย",
@@ -589,7 +589,7 @@
       "Pass the obstacle ahead on the left"
     ],
     "correct": 0,
-    "explanation_en": "A) You may turn left is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) You may turn left is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "25.jpg",
     "options_th": [
       "คุณอาจเลี้ยวซ้าย",
@@ -681,7 +681,7 @@
       "Turn immediately without stopping"
     ],
     "correct": 1,
-    "explanation_en": "B) Allow the pedestrians to cross the street before completing the turn. is correct. When turning right, wait for a safe gap in oncoming traffic. If unsure, wait — forcing a turn causes head-on collisions.",
+    "explanation_en": "B) Allow the pedestrians to cross the street before completing the turn. is correct. When turning right, wait for a safe gap in oncoming traffic. If unsure, wait. forcing a turn causes head-on collisions.",
     "image": "29.jpg",
     "options_th": [
       "ชะลอความเร็ว",
@@ -796,7 +796,7 @@
       "Stop. Give smaller vehicles the right of way."
     ],
     "correct": 1,
-    "explanation_en": "B) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "34.jpg",
     "options_th": [
       "หยุด ให้ยานพาหนะขนาดใหญ่มีสิทธิ์ทาง优先",
@@ -865,7 +865,7 @@
       "Parking for cars only"
     ],
     "correct": 1,
-    "explanation_en": "B) Cars may not enter the road ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Cars may not enter the road ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "37.jpg",
     "options_th": [
       "รถยนต์อาจเข้าสู่ถนนข้างหน้าได้",
@@ -934,7 +934,7 @@
       "Cannot pass for vehicles less than 2.5 meters in width."
     ],
     "correct": 0,
-    "explanation_en": "A) Cannot pass for vehicles exceeding 2.5 meters in height. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Cannot pass for vehicles exceeding 2.5 meters in height. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "40.jpg",
     "options_th": [
       "ห้ามผ่านสำหรับยานพาหนะที่มีความสูงเกิน 2.5 เมตร",
@@ -957,7 +957,7 @@
       "Cannot pass for vehicles less than 2.5 meters in width."
     ],
     "correct": 2,
-    "explanation_en": "C) Cannot pass for vehicles exceeding 2.5 meters in width. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Cannot pass for vehicles exceeding 2.5 meters in width. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "41.jpg",
     "options_th": [
       "ห้ามผ่านสำหรับยานพาหนะที่มีความสูงเกิน 2.5 เมตร",
@@ -980,7 +980,7 @@
       "Tunnel ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) Road narrows ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Road narrows ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "42.jpg",
     "options_th": [
       "สะพานข้างหน้า",
@@ -1049,7 +1049,7 @@
       "Reduce your speed and use the detour. Bridge out."
     ],
     "correct": 0,
-    "explanation_en": "A) Reduce your speed and check for oncoming traffic before crossing. One-land bridge ahead. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Reduce your speed and check for oncoming traffic before crossing. One-land bridge ahead. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "45.jpg",
     "options_th": [
       "ลดความเร็วของคุณและตรวจสอบรถที่สวนมาก่อนข้าม สะพานช่องทางเดียวข้างหน้า",
@@ -1095,7 +1095,7 @@
       "No way ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) Right lane closed ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Right lane closed ahead is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "47.jpg",
     "options_th": [
       "ช่องทางจะแยกข้างหน้า",
@@ -1141,7 +1141,7 @@
       "No noise"
     ],
     "correct": 3,
-    "explanation_en": "D) No noise is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "D) No noise is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "49.jpg",
     "options_th": [
       "ห้ามรถแท็กซี่",
@@ -1294,7 +1294,7 @@
       "Vehicles carrying loads weighing more than 30 tons are prohibited."
     ],
     "correct": 0,
-    "explanation_en": "A) The minimum speed limit is 30 kilometers per hour. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) The minimum speed limit is 30 kilometers per hour. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "55.jpg",
     "options_th": [
       "ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง",
@@ -1317,7 +1317,7 @@
       "No passing within the cross-hatched lines."
     ],
     "correct": 1,
-    "explanation_en": "B) Absolutely no stopping in this area.. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Absolutely no stopping in this area. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "56.jpg",
     "options_th": [
       "ทางเข้า/ออกของอาคาร",
@@ -1386,7 +1386,7 @@
       "Sharp curve ahead"
     ],
     "correct": 2,
-    "explanation_en": "C) No right turn is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "C) No right turn is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "59.jpg",
     "options_th": [
       "เลี้ยวขวาได้",
@@ -1409,7 +1409,7 @@
       "When making a turn, you should give a signal at least 60 meters before turning."
     ],
     "correct": 0,
-    "explanation_en": "A) Slow-moving vehicles must use the left lane. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Slow-moving vehicles must use the left lane. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย",
@@ -1432,7 +1432,7 @@
       "The minimum speed limit is 30 kilometers per hour."
     ],
     "correct": 3,
-    "explanation_en": "D) The minimum speed limit is 30 kilometers per hour. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "D) The minimum speed limit is 30 kilometers per hour. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "61.jpg",
     "options_th": [
       "ห้ามยานพาหนะที่มีน้ำหนักเกิน 30 ตัน",
@@ -1552,7 +1552,7 @@
       "One-way traffic"
     ],
     "correct": 2,
-    "explanation_en": "C) Do not overtake is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Do not overtake is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "66.jpg",
     "options_th": [
       "การจราจรช่องทางเดียว",
@@ -1718,7 +1718,7 @@
       "Parking allowed"
     ],
     "correct": 1,
-    "explanation_en": "B) Stop. Watch for other vehicles in the intersection before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Stop. Watch for other vehicles in the intersection before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "73.jpg",
     "options_th": [
       "การหยุดชั่วคราวเพื่อขนถ่ายสินค้า",
@@ -1813,7 +1813,7 @@
       "Sharp curve ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) No right turn is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) No right turn is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "77.jpg",
     "options_th": [
       "เลี้ยวซ้ายได้",
@@ -1836,7 +1836,7 @@
       "May not go straight"
     ],
     "correct": 1,
-    "explanation_en": "B) Should reduce your speed and carefully enter the curve to the right. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Should reduce your speed and carefully enter the curve to the right. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "78.jpg",
     "options_th": [
       "ควรเลี้ยวซ้าย",
@@ -1859,7 +1859,7 @@
       "Stop to allow cross traffic or traffic on the main road to pass before proceeding."
     ],
     "correct": 3,
-    "explanation_en": "D) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "D) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "79.jpg",
     "options_th": [
       "หยุด ให้ยานพาหนะขนาดเล็กมีสิทธิ์ทาง优先",
@@ -1882,7 +1882,7 @@
       "Give way ahead"
     ],
     "correct": 0,
-    "explanation_en": "A) Stop for inspection is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Stop for inspection is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "80.jpg",
     "options_th": [
       "หยุดเพื่อตรวจสอบ",
@@ -2020,7 +2020,7 @@
       "Not enter the road ahead"
     ],
     "correct": 0,
-    "explanation_en": "A) Stop and allow oncoming traffic to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Stop and allow oncoming traffic to pass before proceeding. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "86.jpg",
     "options_th": [
       "หยุดและให้รถที่สวนมาผ่านไปก่อนจึงจะขับต่อไป",
@@ -2485,7 +2485,7 @@
       "The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over."
     ],
     "correct": 3,
-    "explanation_en": "D) The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "D) The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": null,
     "options_th": [
       "บริเวณที่ผู้ขับขี่สามารถนำรถผ่านได้",
@@ -2508,7 +2508,7 @@
       "The driver who approaches from the behind direction of the officer must continue forward."
     ],
     "correct": 0,
-    "explanation_en": "A) The driver approaching from the direction of the arm must stop the vehicle. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) The driver approaching from the direction of the arm must stop the vehicle. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "107.jpg",
     "options_th": [
       "ผู้ขับขี่ที่เข้ามาจากทิศทางของแขนนั้นต้องหยุดรถ",
@@ -2554,7 +2554,7 @@
       "A safety zone"
     ],
     "correct": 2,
-    "explanation_en": "C) 150 meters distance from the foot of a bridge is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "C) 150 meters distance from the foot of a bridge is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": null,
     "options_th": [
       "ถนนที่มีป้ายห้ามกลับรถ",
@@ -2577,7 +2577,7 @@
       "Stop the car at least 5 meters from the railroad."
     ],
     "correct": 3,
-    "explanation_en": "D) Stop the car at least 5 meters from the railroad. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "D) Stop the car at least 5 meters from the railroad. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": null,
     "options_th": [
       "หยุดรอสัญญาณไฟและเปิดไฟฉุกเฉิน",
@@ -2738,7 +2738,7 @@
       "Let the driver slow down and speed up first."
     ],
     "correct": 2,
-    "explanation_en": "C) Always stop before reaching the transverse line. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "C) Always stop before reaching the transverse line. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "117.jpg",
     "options_th": [
       "ให้ผู้ขับขี่ขับเร็ว ช่องทางอนุญาตให้ไปได้ทันที",
@@ -2761,7 +2761,7 @@
       "All vehicles are allowed to pass."
     ],
     "correct": 1,
-    "explanation_en": "B) Motorcycles are prohibited. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "B) Motorcycles are prohibited. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "118.jpg",
     "options_th": [
       "ห้ามรถบรรทุกทุกชนิด",
@@ -2784,7 +2784,7 @@
       "There are 2 people sitting in. Can enter this lane."
     ],
     "correct": 0,
-    "explanation_en": "A) A car with at least 3 people can use this lane. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) A car with at least 3 people can use this lane. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "119.jpg",
     "options_th": [
       "รถยนต์ที่มีคนอย่างน้อย 3 คนสามารถใช้ช่องทางนี้ได้",
@@ -2807,7 +2807,7 @@
       "Drive slowly. And be extra careful The way ahead must use the left bypass."
     ],
     "correct": 3,
-    "explanation_en": "D) Drive slowly. And be extra careful The way ahead must use the left bypass. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "D) Drive slowly. And be extra careful The way ahead must use the left bypass. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "120.jpg",
     "options_th": [
       "ขับเร็ว เพิ่มความระมัดระวัง ถนนข้างหน้ามีสะพานแคบ",
@@ -3224,7 +3224,7 @@
       "The left area. Of the car that the driver can not see."
     ],
     "correct": 2,
-    "explanation_en": "C) The area that the driver can’t see clearly while driving. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "C) The area that the driver can’t see clearly while driving. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": null,
     "options_th": [
       "บริเวณด้านหน้ารถที่ผู้ขับขี่ไม่สามารถมองเห็นได้",
@@ -3270,7 +3270,7 @@
       "Drive slowly. Increase caution explore buildings."
     ],
     "correct": 0,
-    "explanation_en": "A) Should drive slowly and be careful The road ahead is currently being explored on the road surface or in the bus lane. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording — similar-looking signs often have very different meanings.",
+    "explanation_en": "A) Should drive slowly and be careful The road ahead is currently being explored on the road surface or in the bus lane. is correct. This sign conveys a specific road regulation. For the exam, memorize exact wording. similar-looking signs often have very different meanings.",
     "image": "140.jpg",
     "options_th": [
       "ควรขับช้าๆ และระมัดระวัง ถนนข้างหน้ากำลังมีการสำรวจพื้นผิวถนนหรือในช่องทางเดินรถประจำทาง",
