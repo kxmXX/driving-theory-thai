@@ -48,6 +48,15 @@ export interface Streak {
   lastActive: string;
 }
 
+export interface QuestionHistory {
+  seenCount: number;
+  correctCount: number;
+  wrongCount: number;
+  /** Positive = consecutive correct, negative = consecutive wrong */
+  currentStreak: number;
+  lastSeenDate: string;
+}
+
 export interface UserSession {
   sessionId: string;
   stats: {
@@ -57,6 +66,8 @@ export interface UserSession {
   weakPoints: string[];
   masteredQuestions: string[];
   streak: Streak;
+  /** Per-question history for spaced repetition algorithm */
+  questionHistory: Record<string, QuestionHistory>;
 }
 
 export interface QuizState {

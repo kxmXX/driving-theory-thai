@@ -1,32 +1,7 @@
-import { Question, Category, QuizMode, UserSession } from "@/types";
+import { Question, Category, QuizMode, UserSession, QuestionHistory } from "@/types";
 import questionsData from "../../data/questions.json";
 
 const ALL = questionsData as Question[];
-
-function recentIds(s: UserSession, limit = 20): Set<string> {
-  const ids: string[] = [];
-  for (const ses of s.recentSessions) {
-    ids.push(...ses.questionIds);
-    if (ids.length >= limit) break;
-  }
-  return new Set(ids.slice(0, limit));
-}
-
-function seenIds(s: UserSession): Set<string> {
-  const set = new Set<string>();
-  for (const c of Object.values(s.stats.byCategory)) {
-    for (const id of c.seen) set.add(id);
-  }
-  return set;
-}
-
-function weakIds(s: UserSession): Set<string> {
-  const counts: Record<string, number> = {};
-  for (const id of s.weakPoints) counts[id] = (counts[id] || 0) + 1;
-  const res = new Set<string>();
-  for (const [id, n] of Object.entries(counts)) if (n >= 2) res.add(id);
-  return res;
-}
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -55,38 +30,120 @@ function weighted(pool: Question[], w: Map<string, number>, count: number): Ques
   return out;
 }
 
+/** Build a set of question IDs from the last N sessions */
+function recentSessionIds(s: UserSession, n = 3): Set<string> {
+  const ids = new Set<string>();
+  for (const ses of s.recentSessions.slice(0, n)) {
+    for (const id of ses.questionIds) ids.add(id);
+  }
+  return ids;
+}
+
+/** Compute learning weight for a question based on its history */
+function computeWeight(
+  q: Question,
+  history: QuestionHistory | undefined,
+  mode: QuizMode,
+  recentIds: Set<string>
+): number {
+  // Default: never seen
+  if (!history || history.seenCount === 0) {
+    let w = 10;
+    if (recentIds.has(q.id)) w *= 0.3;
+    return w;
+  }
+
+  const daysSinceSeen = history.lastSeenDate
+    ? (Date.now() - new Date(history.lastSeenDate).getTime()) / (1000 * 60 * 60 * 24)
+    : 999;
+
+  // Base weight from mastery streak
+  let weight: number;
+  const streak = history.currentStreak;
+
+  if (streak <= -2) {
+    weight = 8; // Weak: missed 2+ times in a row → high priority
+  } else if (streak === -1) {
+    weight = 5; // Missed once → medium-high priority
+  } else if (streak === 1) {
+    weight = 3; // Correct once → needs reinforcement
+  } else if (streak === 2) {
+    weight = 1.5; // Correct twice → consolidation phase
+  } else if (streak >= 3) {
+    weight = 0.3; // Mastered → very low priority
+  } else {
+    weight = 10; // No history (should not happen)
+  }
+
+  // Cooldown: reduce weight for recently seen questions
+  if (daysSinceSeen < 1) {
+    weight *= 0.05; // Seen today → almost never
+  } else if (daysSinceSeen < 2) {
+    weight *= 0.2; // Seen yesterday → rare
+  } else if (daysSinceSeen < 7) {
+    weight *= 0.6; // Seen this week → moderate
+  } else if (daysSinceSeen < 14) {
+    weight *= 1.0; // 1-2 weeks → normal
+  } else {
+    weight *= 1.3; // 2+ weeks → slight boost (spaced repetition)
+  }
+
+  // Recent session penalty
+  if (recentIds.has(q.id)) {
+    weight *= 0.2;
+  }
+
+  // Mode adjustments
+  if (mode === "EXAM") {
+    // Exam: avoid mastered questions, favor unseen/weak
+    if (streak >= 3) weight *= 0.1;
+    if (!history || history.seenCount === 0) weight *= 1.5;
+  } else if (mode === "TRAINING" || mode === "THEMATIC") {
+    // Training: strong focus on weak questions, but still show new ones
+    if (streak <= -1) weight *= 1.3;
+  } else if (mode === "BLITZ") {
+    // Blitz: variety is key, avoid immediate repeats
+    if (recentIds.has(q.id)) weight *= 0.1;
+  }
+
+  return weight;
+}
+
 export function drawQuestions(
   count: number, mode: QuizMode, catFilter?: Category, session?: UserSession
 ): Question[] {
   let pool = catFilter ? ALL.filter((q) => q.category === catFilter) : [...ALL];
 
-  if (mode === "REVIEW" && session) {
-    const wk = weakIds(session);
-    pool = pool.filter((q) => wk.has(q.id));
-    if (pool.length === 0) {
-      const seen = seenIds(session);
-      pool = ALL.filter((q) => !seen.has(q.id));
+  // No session → random shuffle
+  if (!session) return shuffle(pool).slice(0, count);
+
+  const recentIds = recentSessionIds(session, 3);
+  const history = session.questionHistory || {};
+
+  // REVIEW mode: only weak questions, fallback to unseen
+  if (mode === "REVIEW") {
+    const weak = new Set(session.weakPoints);
+    let reviewPool = pool.filter((q) => weak.has(q.id));
+    if (reviewPool.length === 0) {
+      reviewPool = pool.filter((q) => !history[q.id] || history[q.id].seenCount === 0);
     }
-    return shuffle(pool).slice(0, count);
+    if (reviewPool.length === 0) {
+      reviewPool = pool;
+    }
+    const w = new Map<string, number>();
+    for (const q of reviewPool) {
+      w.set(q.id, computeWeight(q, history[q.id], mode, recentIds));
+    }
+    return weighted(reviewPool, w, count);
   }
 
-  if (mode === "BLITZ" || !session) return shuffle(pool).slice(0, count);
-
-  const recent = recentIds(session);
-  const seen = seenIds(session);
-  const weak = weakIds(session);
-  const mastered = new Set(session.masteredQuestions);
-  const w = new Map<string, number>();
-
+  // Build weights for all questions in pool
+  const weights = new Map<string, number>();
   for (const q of pool) {
-    let weight = 1;
-    if (recent.has(q.id)) weight *= 0.1;
-    if (!seen.has(q.id)) weight *= 2;
-    if (weak.has(q.id)) weight *= 3;
-    if (mastered.has(q.id) && mode !== "REVIEW") weight *= 0.2;
-    w.set(q.id, weight);
+    weights.set(q.id, computeWeight(q, history[q.id], mode, recentIds));
   }
 
+  // EXAM mode: balanced category distribution with weights
   if (mode === "EXAM" && !catFilter) {
     const cats: Category[] = [
       "road_signs", "traffic_rules", "speed_limits", "alcohol_drugs",
@@ -99,10 +156,10 @@ export function drawQuestions(
 
     for (let i = 0; i < cats.length; i++) {
       const n = per + (i < rem ? 1 : 0);
-      const p = pool.filter((q) => q.category === cats[i] && !picked.has(q.id));
-      const cw = new Map<string, number>();
-      for (const q of p) cw.set(q.id, w.get(q.id) || 1);
-      const drawn = weighted(p, cw, n);
+      const catPool = pool.filter((q) => q.category === cats[i] && !picked.has(q.id));
+      const catWeights = new Map<string, number>();
+      for (const q of catPool) catWeights.set(q.id, weights.get(q.id) || 1);
+      const drawn = weighted(catPool, catWeights, n);
       for (const q of drawn) {
         out.push(q);
         picked.add(q.id);
@@ -111,14 +168,15 @@ export function drawQuestions(
 
     if (out.length < count) {
       const rest = pool.filter((q) => !picked.has(q.id));
-      const rw = new Map<string, number>();
-      for (const q of rest) rw.set(q.id, w.get(q.id) || 1);
-      out.push(...weighted(rest, rw, count - out.length));
+      const restWeights = new Map<string, number>();
+      for (const q of rest) restWeights.set(q.id, weights.get(q.id) || 1);
+      out.push(...weighted(rest, restWeights, count - out.length));
     }
     return shuffle(out);
   }
 
-  return weighted(pool, w, count);
+  // Other modes: pure weighted draw
+  return weighted(pool, weights, count);
 }
 
 export function getQuestionsByIds(ids: string[]): Question[] {

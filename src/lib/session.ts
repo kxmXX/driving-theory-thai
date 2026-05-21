@@ -1,4 +1,6 @@
-import { UserSession, Category, RecentSession, QuizMode } from "@/types";
+"use client";
+
+import { UserSession, Category, RecentSession, QuizMode, QuestionHistory } from "@/types";
 
 const KEY = "driving-theory-session";
 
@@ -28,7 +30,14 @@ function defaults(): UserSession {
     weakPoints: [],
     masteredQuestions: [],
     streak: { current: 0, best: 0, lastActive: today() },
+    questionHistory: {},
   };
+}
+
+function migrateSession(s: UserSession): UserSession {
+  if (!s.questionHistory) s.questionHistory = {};
+  if (!s.masteredQuestions) s.masteredQuestions = [];
+  return s;
 }
 
 export function loadSession(): UserSession {
@@ -38,11 +47,13 @@ export function loadSession(): UserSession {
     if (!raw) return defaults();
     const s = JSON.parse(raw) as UserSession;
     const d = defaults();
-    return {
+    const merged = migrateSession({
       ...d, ...s,
       stats: { byCategory: { ...d.stats.byCategory, ...s.stats?.byCategory } },
       streak: { ...d.streak, ...s.streak },
-    };
+      questionHistory: { ...d.questionHistory, ...s.questionHistory },
+    });
+    return merged;
   } catch {
     return defaults();
   }
@@ -68,20 +79,43 @@ export function updateStreak(s: UserSession): UserSession {
   return s;
 }
 
+function getOrCreateHistory(s: UserSession, qid: string): QuestionHistory {
+  if (!s.questionHistory[qid]) {
+    s.questionHistory[qid] = {
+      seenCount: 0,
+      correctCount: 0,
+      wrongCount: 0,
+      currentStreak: 0,
+      lastSeenDate: "",
+    };
+  }
+  return s.questionHistory[qid];
+}
+
 export function recordResult(
   s: UserSession, qid: string, cat: Category, ok: boolean
 ): UserSession {
   const st = s.stats.byCategory[cat];
   if (!st.seen.includes(qid)) st.seen.push(qid);
 
+  const h = getOrCreateHistory(s, qid);
+  h.seenCount += 1;
+  h.lastSeenDate = today();
+
   if (ok) {
     if (!st.correct.includes(qid)) st.correct.push(qid);
     s.weakPoints = s.weakPoints.filter((id) => id !== qid);
-    if (!s.masteredQuestions.includes(qid)) s.masteredQuestions.push(qid);
+    h.correctCount += 1;
+    h.currentStreak = h.currentStreak > 0 ? h.currentStreak + 1 : 1;
+    if (h.currentStreak >= 3 && !s.masteredQuestions.includes(qid)) {
+      s.masteredQuestions.push(qid);
+    }
   } else {
     s.masteredQuestions = s.masteredQuestions.filter((id) => id !== qid);
     const count = s.weakPoints.filter((id) => id === qid).length;
     if (count < 2) s.weakPoints.push(qid);
+    h.wrongCount += 1;
+    h.currentStreak = h.currentStreak < 0 ? h.currentStreak - 1 : -1;
   }
 
   return s;

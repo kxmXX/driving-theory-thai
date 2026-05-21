@@ -5,6 +5,7 @@ import Link from "next/link";
 import { UserSession, Category } from "@/types";
 import { loadSession, resetSession } from "@/lib/session";
 import { getCategoryLabel, getCategoryColor } from "@/lib/quiz-engine";
+import { useLanguage } from "@/lib/language-context";
 import ReadinessGauge from "@/components/ReadinessGauge";
 
 const CATEGORIES: Category[] = [
@@ -19,6 +20,7 @@ const CATEGORIES: Category[] = [
 ];
 
 export default function StatsPage() {
+  const { t } = useLanguage();
   const [session, setSession] = useState<UserSession | null>(null);
 
   useEffect(() => {
