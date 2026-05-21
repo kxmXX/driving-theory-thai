@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Sarabun, Kanit } from "next/font/google";
+import { LanguageProvider } from "@/lib/language-context";
 import "./globals.css";
 
 const sarabun = Sarabun({
@@ -17,7 +18,7 @@ const kanit = Kanit({
 });
 
 export const metadata: Metadata = {
-  title: "Thai Driving Theory Test - Practice & Pass",
+  title: "Thai Driving Theory Test",
   description:
     "Prepare for the Thailand driving license theory exam with 150 official questions. Practice in exam mode, training mode, or review your weak points.",
   keywords: [
@@ -42,12 +43,16 @@ export default function RootLayout({
     <html lang="en" className={`${sarabun.variable} ${kanit.variable}`}>
       <head>
         <link rel="manifest" href="/manifest.json" />
-        <meta name="theme-color" content="#003F87" />
+        <meta name="theme-color" content="#1a237e" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="ThaiDrive" />
       </head>
-      <body className="antialiased">{children}</body>
+      <body className="antialiased">
+        <LanguageProvider>
+          {children}
+        </LanguageProvider>
+      </body>
     </html>
   );
 }

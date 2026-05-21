@@ -14,15 +14,15 @@ html {
 
 body {
   font-family: var(--font-sarabun);
-  background-color: #F8F9FA;
-  color: #212529;
+  background-color: #F5F5F0;
+  color: #1a1a1a;
   min-height: 100dvh;
 }
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #121212;
-    color: #E9ECEF;
+    background-color: #0a0a0a;
+    color: #e5e5e5;
   }
 }
 
@@ -35,33 +35,33 @@ body {
   .card {
     @apply bg-white dark:bg-neutral-900 rounded-card shadow-sm border border-neutral-200 dark:border-neutral-800;
   }
+
+  .gov-card {
+    @apply bg-white dark:bg-neutral-900 rounded-card border border-neutral-300 dark:border-neutral-700;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+
+  .gov-header {
+    background: linear-gradient(135deg, #1a237e 0%, #0d1b3e 100%);
+  }
 }
 
 @layer utilities {
   .animate-fade-in {
-    animation: fadeIn 0.3s ease-out;
+    animation: fadeIn 0.25s ease-out;
   }
   
   @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(4px); }
+    from { opacity: 0; transform: translateY(2px); }
     to { opacity: 1; transform: translateY(0); }
   }
   
   .animate-slide-up {
-    animation: slideUp 0.3s ease-out;
+    animation: slideUp 0.25s ease-out;
   }
   
   @keyframes slideUp {
-    from { opacity: 0; transform: translateY(12px); }
+    from { opacity: 0; transform: translateY(8px); }
     to { opacity: 1; transform: translateY(0); }
-  }
-  
-  .animate-pulse-soft {
-    animation: pulseSoft 2s ease-in-out infinite;
-  }
-  
-  @keyframes pulseSoft {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.7; }
   }
 }

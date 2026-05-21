@@ -10,15 +10,18 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "#F8F9FA",
+        background: "#F5F5F0",
         surface: "#FFFFFF",
-        accent: {
-          blue: "#003F87",
+        gov: {
+          blue: "#1a237e",
+          red: "#b71c1c",
           gold: "#C9A84C",
+          cream: "#FAFAF5",
+          dark: "#0d1b3e",
         },
         muted: {
-          DEFAULT: "#6C757D",
-          light: "#ADB5BD",
+          DEFAULT: "#5C5C5C",
+          light: "#9E9E9E",
         },
       },
       fontFamily: {
@@ -26,7 +29,7 @@ const config: Config = {
         heading: ["var(--font-kanit)", "system-ui", "sans-serif"],
       },
       borderRadius: {
-        "card": "12px",
+        "card": "4px",
       },
     },
   },

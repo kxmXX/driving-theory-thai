@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { Question, QuizMode, Category, UserSession } from "@/types";
 import { drawQuestions, getCategoryLabel } from "@/lib/quiz-engine";
 import { loadSession, saveSession, recordQuestionResult, recordSession } from "@/lib/session";
+import { useLanguage } from "@/lib/language-context";
 import QuestionCard from "./QuestionCard";
 import ExplanationPanel from "./ExplanationPanel";
 
@@ -22,6 +23,7 @@ export default function QuizContainer({
   timeLimitMinutes,
 }: QuizContainerProps) {
   const router = useRouter();
+  const { t } = useLanguage();
   const [session, setSession] = useState<UserSession | null>(null);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -133,63 +135,63 @@ export default function QuizContainer({
     const passed = score >= 90;
 
     return (
-      <div className="animate-fade-in mx-auto max-w-xl px-4 py-8">
-        <div className="card p-6 text-center">
-          <h1 className="font-heading text-2xl font-bold mb-2">Results</h1>
-          <p className="text-muted mb-6">
-            {mode === "EXAM" ? "Exam" : mode} - {getCategoryLabel(categoryFilter!) || "All Categories"}
+      <div className="animate-fade-in mx-auto max-w-xl px-4 py-6">
+        <div className="gov-card p-5 text-center">
+          <h1 className="font-heading text-xl font-bold mb-1">{t("results")}</h1>
+          <p className="text-xs text-muted mb-5">
+            {mode === "EXAM" ? "Exam" : mode} — {getCategoryLabel(categoryFilter!) || "All Categories"}
           </p>
 
-          <div className="mb-6">
+          <div className="mb-5">
             <div
-              className={`mx-auto mb-2 flex h-32 w-32 items-center justify-center rounded-full border-4 text-3xl font-bold ${
+              className={`mx-auto mb-2 flex h-28 w-28 items-center justify-center rounded-full border-[3px] text-3xl font-bold ${
                 passed
-                  ? "border-green-500 text-green-600"
-                  : "border-red-500 text-red-600"
+                  ? "border-green-600 text-green-700"
+                  : "border-gov-red text-gov-red"
               }`}
             >
               {score}%
             </div>
-            <p className={passed ? "text-green-600 font-semibold" : "text-red-600 font-semibold"}>
-              {passed ? "Passed!" : "Try Again"}
+            <p className={`font-semibold text-sm ${passed ? "text-green-700" : "text-gov-red"}`}>
+              {passed ? t("passed") : t("tryAgain")}
             </p>
-            <p className="text-sm text-muted mt-1">
-              {correctCount} / {questions.length} correct
+            <p className="text-xs text-muted mt-0.5">
+              {correctCount} / {questions.length} {t("correct").toLowerCase()}
             </p>
           </div>
 
-          <div className="space-y-2 mb-6 text-left">
+          <div className="space-y-1.5 mb-5 text-left">
             {questions.map((q, i) => {
               const userAns = answers[q.id];
               const isCorrect = userAns === q.correct;
               return (
                 <div
                   key={q.id}
-                  className={`flex items-center justify-between rounded-lg px-3 py-2 text-sm ${
+                  className={`flex items-center justify-between rounded px-3 py-1.5 text-xs ${
                     isCorrect ? "bg-green-50 dark:bg-green-900/20" : "bg-red-50 dark:bg-red-900/20"
                   }`}
                 >
-                  <span className="font-medium">Q{i + 1}</span>
-                  <span className={isCorrect ? "text-green-700" : "text-red-700"}>
-                    {isCorrect ? "Correct" : "Wrong"}
+                  <span className="font-semibold">Q{i + 1}</span>
+                  <span className={isCorrect ? "text-green-700 font-medium" : "text-gov-red font-medium"}>
+                    {isCorrect ? t("correct") : t("wrong")}
                   </span>
                 </div>
               );
             })}
           </div>
 
-          <div className="flex gap-3">
+          <div className="flex gap-2.5">
             <button
               onClick={() => router.push("/")}
-              className="touch-target flex-1 rounded-xl bg-accent-blue px-4 py-3 font-semibold text-white transition hover:bg-blue-800"
+              className="touch-target flex-1 rounded bg-gov-blue px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-gov-dark"
             >
-              Home
+              {t("home")}
             </button>
             <button
               onClick={() => router.push("/stats")}
-              className="touch-target flex-1 rounded-xl border-2 border-accent-blue px-4 py-3 font-semibold text-accent-blue transition hover:bg-blue-50 dark:hover:bg-blue-900/20"
+              className="touch-target flex-1 rounded border border-gov-blue px-4 py-2.5 text-sm font-semibold text-gov-blue transition hover:bg-blue-50 dark:hover:bg-blue-900/20"
             >
-              Stats
+              {t("stats")}
             </button>
           </div>
         </div>
@@ -200,7 +202,7 @@ export default function QuizContainer({
   if (!currentQuestion) {
     return (
       <div className="flex h-screen items-center justify-center">
-        <div className="animate-pulse-soft text-muted">Loading...</div>
+        <div className="animate-pulse-soft text-muted text-sm">Loading...</div>
       </div>
     );
   }
@@ -210,33 +212,33 @@ export default function QuizContainer({
   const isCorrect = isAnswered && userAnswer === currentQuestion.correct;
 
   return (
-    <div className="mx-auto max-w-xl px-4 py-4">
-      <div className="mb-4 flex items-center justify-between">
+    <div className="mx-auto max-w-xl px-3 py-3">
+      <div className="mb-3 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <button
             onClick={() => router.push("/")}
-            className="touch-target rounded-lg p-2 hover:bg-neutral-200 dark:hover:bg-neutral-800"
+            className="touch-target rounded p-1.5 hover:bg-neutral-200 dark:hover:bg-neutral-800"
             aria-label="Go back"
           >
-            <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
           </button>
-          <div className="h-2 w-24 overflow-hidden rounded-full bg-neutral-200 dark:bg-neutral-800">
+          <div className="h-1.5 w-20 overflow-hidden rounded-full bg-neutral-200 dark:bg-neutral-800">
             <div
-              className="h-full bg-accent-blue transition-all"
+              className="h-full bg-gov-blue transition-all"
               style={{ width: `${((currentIndex + (isAnswered ? 1 : 0)) / questions.length) * 100}%` }}
             />
           </div>
-          <span className="text-xs text-muted">
+          <span className="text-[10px] text-muted font-mono">
             {currentIndex + 1}/{questions.length}
           </span>
         </div>
 
         {timeRemaining !== undefined && (
           <div
-            className={`font-mono text-sm font-bold ${
-              timeRemaining < 300 ? "text-red-600 animate-pulse-soft" : "text-accent-blue"
+            className={`font-mono text-xs font-bold ${
+              timeRemaining < 300 ? "text-gov-red animate-pulse-soft" : "text-gov-blue"
             }`}
           >
             {formatTime(timeRemaining)}
@@ -263,18 +265,18 @@ export default function QuizContainer({
       )}
 
       {isAnswered && showExplanation && (
-        <div className="mt-4">
+        <div className="mt-3">
           <button
             onClick={handleNext}
-            className="touch-target w-full rounded-xl bg-accent-blue px-4 py-3 font-semibold text-white transition hover:bg-blue-800"
+            className="touch-target w-full rounded bg-gov-blue px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-gov-dark"
           >
-            {currentIndex < questions.length - 1 ? "Next Question" : "See Results"}
+            {currentIndex < questions.length - 1 ? t("nextQuestion") : t("seeResults")}
           </button>
         </div>
       )}
 
       {mode === "EXAM" && isAnswered && !showExplanation && (
-        <div className="mt-4">
+        <div className="mt-3">
           <button
             onClick={() => {
               if (currentIndex < questions.length - 1) {
@@ -283,33 +285,40 @@ export default function QuizContainer({
                 handleFinish();
               }
             }}
-            className="touch-target w-full rounded-xl bg-accent-blue px-4 py-3 font-semibold text-white transition hover:bg-blue-800"
+            className="touch-target w-full rounded bg-gov-blue px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-gov-dark"
           >
-            {currentIndex < questions.length - 1 ? "Next Question" : "Finish Exam"}
+            {currentIndex < questions.length - 1 ? t("nextQuestion") : t("finishExam")}
           </button>
         </div>
       )}
 
       {mode === "EXAM" && (
-        <div className="mt-4 flex flex-wrap gap-2">
-          {questions.map((q, i) => (
-            <button
-              key={q.id}
-              onClick={() => {
-                setCurrentIndex(i);
-                setShowExplanation(false);
-              }}
-              className={`h-8 w-8 rounded-lg text-xs font-bold transition ${
-                i === currentIndex
-                  ? "bg-accent-blue text-white"
-                  : answers[q.id] !== undefined
-                  ? "bg-accent-gold text-white"
-                  : "bg-neutral-200 dark:bg-neutral-800 text-muted"
-              }`}
-            >
-              {i + 1}
-            </button>
-          ))}
+        <div className="mt-3 flex flex-wrap gap-1.5">
+          {questions.map((q, i) => {
+            const ans = answers[q.id];
+            const answered = ans !== undefined;
+            const correct = answered && ans === q.correct;
+            return (
+              <button
+                key={q.id}
+                onClick={() => {
+                  setCurrentIndex(i);
+                  setShowExplanation(false);
+                }}
+                className={`h-7 w-7 rounded text-[10px] font-bold transition border ${
+                  i === currentIndex
+                    ? "border-gov-blue bg-gov-blue text-white"
+                    : answered
+                    ? correct
+                      ? "border-green-500 bg-green-500 text-white"
+                      : "border-gov-red bg-gov-red text-white"
+                    : "border-neutral-200 dark:border-neutral-700 bg-white dark:bg-neutral-900 text-muted"
+                }`}
+              >
+                {i + 1}
+              </button>
+            );
+          })}
         </div>
       )}
     </div>
