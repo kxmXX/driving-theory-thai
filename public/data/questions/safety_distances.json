@@ -118,7 +118,7 @@
       "When making a turn, you should give a signal at least 60 meters before turning."
     ],
     "correct": 0,
-    "explanation_en": "A) Slow-moving vehicles must use the left lane. is correct. This is the only answer that fully complies with Thai traffic rules. The other options contain errors or unsafe practices.",
+    "explanation_en": "A) Slow-moving vehicles must use the left lane is correct. Slower vehicles in the left lane allow faster traffic to pass safely on the right. This prevents bottlenecks and reduces the temptation for dangerous overtaking maneuvers.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย",
@@ -128,9 +128,9 @@
     ],
     "explanation_th": "ป้ายจราจรนี้แสดงว่า 'ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี",
     "wrong_explanations_en": {
-      "1": "\"Within the Bangkok Metropolitan Area, the maximum speed limit is 60 kilometers per hour.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "2": "\"When making a right turn, you should extend your right arm from the vehicle at shoulder-level and raise and lower.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "3": "\"When making a turn, you should give a signal at least 60 meters before turning.\" is incorrect because it violates traffic safety rules or contains factual errors."
+      "1": "Driving on the shoulder is illegal and dangerous.",
+      "2": "Driving at a constant speed is good practice but does not address lane positioning.",
+      "3": "Using the right lane for slow vehicles blocks faster traffic and causes congestion."
     }
   },
   {
@@ -146,7 +146,7 @@
       "You may transport loads that extend no more than 2.5 meters from the front of your vehicle."
     ],
     "correct": 1,
-    "explanation_en": "B) You may transport loads that extend no more than 2.5 meters from the rear of your vehicle. is correct. This is the only answer that fully complies with Thai traffic rules. The other options contain errors or unsafe practices.",
+    "explanation_en": "B) You may transport loads that extend no more than 2.5 meters from the rear of your vehicle is correct. Loads extending beyond this limit require special permits and markings. Excessive overhang makes the vehicle unstable and endangers following traffic.",
     "image": null,
     "options_th": [
       "คุณอาจขนส่งสิ่งของที่ยื่นออกมาด้านละ 1 เมตรจากแต่ละด้านของยานพาหนะของคุณ",
@@ -156,9 +156,9 @@
     ],
     "explanation_th": "คุณอาจขนส่งสิ่งของที่ยื่นออกไปด้านหลังไม่เกิน 2.5 เมตรจากยานพาหนะของคุณ คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "0": "\"You may transport loads that extend one meter out from each side of your vehicle.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "2": "\"You may transport loads no more than 3 meters high.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "3": "\"You may transport loads that extend no more than 2.5 meters from the front of your vehicle.\" is incorrect because it violates traffic safety rules or contains factual errors."
+      "0": "There is a legal limit to how far a load can extend — it is not unlimited.",
+      "2": "Loads must be properly secured, not just covered.",
+      "3": "Overhanging loads require permits and safety measures, they are not automatically allowed."
     }
   },
   {
@@ -251,7 +251,7 @@
       "Not exceeding 35 centimeters"
     ],
     "correct": 1,
-    "explanation_en": "B) Not exceeding 25 centimeters is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "B) Not exceeding 25 centimeters is correct. When parking on the left, your wheels must be within 25cm of the curb. Parking too far from the curb blocks traffic and creates a hazard for passing vehicles.",
     "image": null,
     "options_th": [
       "ไม่เกิน 20 เซนติเมตร",
@@ -259,7 +259,12 @@
       "ไม่เกิน 30 เซนติเมตร",
       "ไม่เกิน 35 เซนติเมตร"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ ไม่เกิน 25 เซนติเมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+    "explanation_th": "คำตอบที่ถูกต้องคือ ไม่เกิน 25 เซนติเมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้",
+    "wrong_explanations_en": {
+      "0": "1 meter is far too far from the curb — it blocks the traffic lane.",
+      "2": "50 centimeters is still too far — the limit is 25cm.",
+      "3": "There is no 2-meter rule for parking distance from the curb."
+    }
   },
   {
     "id": "Q102",
@@ -297,7 +302,7 @@
       "No less than 20 meters"
     ],
     "correct": 0,
-    "explanation_en": "A) Enough to be able to stop the car safely if necessary is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Enough to be able to stop the car safely if necessary is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to stop safely.",
     "image": null,
     "options_th": [
       "เพียงพอที่จะสามารถหยุดรถได้อย่างปลอดภัยหากจำเป็น",

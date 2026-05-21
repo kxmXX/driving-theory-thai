@@ -12,7 +12,7 @@
       "Step on the accelerator so the bonnet is bumped off."
     ],
     "correct": 0,
-    "explanation_en": "A) Reduce speed and park on the side of the road To close the bonnet neatly. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Reduce speed and park on the side of the road To close the bonnet neatly. is correct. If your bonnet opens while driving: slow down gradually, signal, and pull over safely. Do not try to close it while moving.",
     "image": null,
     "options_th": [
       "ลดความเร็วและจอดข้างทาง เพื่อปิดฝากระโปรงให้เรียบร้อย",
@@ -58,7 +58,7 @@
       "Double parking"
     ],
     "correct": 3,
-    "explanation_en": "D) Double parking is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "D) Double parking is correct. Double parking blocks traffic flow and forces other drivers to swerve into oncoming traffic. It is illegal and one of the most common causes of parking-related accidents.",
     "image": null,
     "options_th": [
       "จอดรถในอาคารจอดรถ",
@@ -66,6 +66,11 @@
       "จอดรถบนขอบทางด้านซ้าย",
       "จอดรถซ้อนคัน"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ จอดรถซ้อนคัน การเตรียมพร้อมรับมือเหตุฉุกเฉินเป็นทักษะที่สำคัญสำหรับผู้ขับขี่ทุกคน"
+    "explanation_th": "คำตอบที่ถูกต้องคือ จอดรถซ้อนคัน การเตรียมพร้อมรับมือเหตุฉุกเฉินเป็นทักษะที่สำคัญสำหรับผู้ขับขี่ทุกคน",
+    "wrong_explanations_en": {
+      "0": "Parking within 15 meters of a railroad crossing is dangerous but double parking is the most direct accident cause.",
+      "1": "Parking within 3 meters of a fire hydrant is illegal but double parking directly blocks traffic.",
+      "2": "Parking within 10 meters of an intersection is illegal but double parking is the most hazardous."
+    }
   }
 ]

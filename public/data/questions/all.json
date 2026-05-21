@@ -12,7 +12,7 @@
       "within 15 meters of a pedestrian."
     ],
     "correct": 2,
-    "explanation_en": "C) within 15 meters of a railroad crossing. is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "C) within 15 meters of a railroad crossing. is correct. You must not park within 3 meters of a fire hydrant. Firefighters need immediate access in case of emergency, and your vehicle could block them.",
     "image": null,
     "options_th": [
       "ในระยะ 15 เมตรจากหัวดับเพลิง",
@@ -22,9 +22,9 @@
     ],
     "explanation_th": "ในระยะ 15 เมตรจากทางรถไฟตัดผ่าน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "0": "Trains cannot stop quickly. Parking too close to tracks is extremely dangerous.",
-      "1": "Trains cannot stop quickly. Parking too close to tracks is extremely dangerous.",
-      "3": "Trains cannot stop quickly. Parking too close to tracks is extremely dangerous."
+      "0": "15 meters is the rule for railroad crossings, not fire hydrants. A fire hydrant only requires 3 meters.",
+      "1": "15 meters is the rule for railroad crossings, not fire hydrants. A fire hydrant only requires 3 meters.",
+      "3": "15 meters is the rule for railroad crossings, not fire hydrants. A fire hydrant only requires 3 meters."
     }
   },
   {
@@ -91,7 +91,7 @@
       "No left turn"
     ],
     "correct": 1,
-    "explanation_en": "B) All traffic must move to the right is correct. a mandatory direction sign. It instructs drivers to proceed to the right. This sign means \"All traffic must move to the right\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) All traffic must move to the right is correct. \"All traffic must move to the right\" is a mandatory instruction. Every vehicle must comply. It is not advisory like \"Keep to the right\" — it is a command.",
     "image": "4.jpg",
     "options_th": [
       "ให้ชิดขวา",
@@ -99,7 +99,12 @@
       "เลี้ยวขวาได้",
       "ห้ามเลี้ยวซ้าย"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'การจราจรทั้งหมดต้องเลื่อนไปทางขวา' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'การจราจรทั้งหมดต้องเลื่อนไปทางขวา' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
+    "wrong_explanations_en": {
+      "0": "\"Keep to the right\" suggests staying in the lane, it does not command movement.",
+      "2": "\"Right turn allowed\" is about turning, not lane direction.",
+      "3": "\"No left turn\" prohibits a turn, it does not command rightward movement."
+    }
   },
   {
     "id": "Q005",
@@ -114,7 +119,7 @@
       "Stop ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) Give way ahead is correct. a yield sign within a larger yellow diamond, indicating that drivers should yield to oncoming traffic. The black arrow above the yield sign signifies the direction the driver should be traveling. This sign means \"Give way ahead\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) Give way ahead is correct. \"Stop ahead\" is a warning sign. It tells you a stop sign is coming up, but it is not the stop sign itself. You should prepare to stop, but you do not need to stop immediately.",
     "image": "5.jpg",
     "options_th": [
       "ให้ทาง",
@@ -122,7 +127,12 @@
       "หยุด",
       "หยุดข้างหน้า"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ให้ทางข้างหน้า' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ให้ทางข้างหน้า' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
+    "wrong_explanations_en": {
+      "0": "\"Give way ahead\" warns of a yield sign, not a stop sign.",
+      "2": "\"Stop\" would be the actual sign. \"Stop ahead\" only warns of one coming.",
+      "3": "\"Stop\" would be the actual sign. \"Stop ahead\" only warns of one coming."
+    }
   },
   {
     "id": "Q006",
@@ -137,7 +147,7 @@
       "A vehicle with broken taillights."
     ],
     "correct": 3,
-    "explanation_en": "D) A vehicle with broken taillights. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) A vehicle with broken taillights. is correct. A vehicle with broken taillights is prohibited because other drivers cannot see you braking or turning, especially at night. This causes accidents.",
     "image": null,
     "options_th": [
       "รถแทรกเตอร์ที่มีล้อยาง",
@@ -145,7 +155,12 @@
       "ยานพาหนะที่มีเครื่องยนต์ 80 เดซิเบล",
       "ยานพาหนะที่มีไฟท้ายแตกหัก"
     ],
-    "explanation_th": "ยานพาหนะที่มีไฟท้ายแตกหัก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+    "explanation_th": "ยานพาหนะที่มีไฟท้ายแตกหัก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
+    "wrong_explanations_en": {
+      "0": "A tractor with rubber tires is legal on public roads.",
+      "1": "This is an obvious distractor — tanks are not driven on public roads.",
+      "2": "An 80-decibel engine is within legal noise limits."
+    }
   },
   {
     "id": "Q007",
@@ -281,7 +296,7 @@
       "Enter halfway into the next lane when an obstruction blocks the left side of the lane you are driving in."
     ],
     "correct": 2,
-    "explanation_en": "C) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This action is prohibited because it endangers road users. Thai traffic law explicitly forbids it to maintain safety.",
     "image": null,
     "options_th": [
       "เลี้ยวเข้าไปในช่องทางเดินรถประจำทาง",
@@ -327,7 +342,7 @@
       "Absolutely no stopping in this area."
     ],
     "correct": 3,
-    "explanation_en": "D) Absolutely no stopping in this area. is correct. a yellow hatched box painted on the road surface, which indicates that drivers are prohibited from stopping within the area. This marking is often found at intersections or locations where traffic flow needs to be maintained. This sign means \"Absolutely no stopping in this area.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "D) Absolutely no stopping in this area. is correct. \"Stop\" requires a complete halt. Do not confuse it with \"Give way\" which only requires slowing down and yielding if there is traffic.",
     "image": "14.jpg",
     "options_th": [
       "ห้ามแซงภายในพื้นที่ที่มีเส้นไขว้",
@@ -373,7 +388,7 @@
       "When there is insufficient light."
     ],
     "correct": 1,
-    "explanation_en": "B) Immediately after consuming alcohol or any other intoxicant. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "B) Immediately after consuming alcohol or any other intoxicant. is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "หลังจากรับประทานยาแก้ท้องเสีย",
@@ -396,7 +411,7 @@
       "Slippery road ahead, be extra careful."
     ],
     "correct": 0,
-    "explanation_en": "A) Falling rocks, be extra mindful. is correct. a Thai road sign warning drivers of a potential rockfall or landslide hazard ahead. Drivers should be cautious and prepare for the risk of falling rocks on the road. This sign means \"Falling rocks, be extra mindful.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "A) Falling rocks, be extra mindful. is correct. This sign warns that the road surface may be slippery. Reduce speed and avoid sudden braking or acceleration.",
     "image": "17.jpg",
     "options_th": [
       "หินตก ให้ระมัดระวังเป็นพิเศษ",
@@ -419,7 +434,7 @@
       "Stop immediately."
     ],
     "correct": 2,
-    "explanation_en": "C) Reduce your speed. The road may be slippery. is correct. a yellow diamond-shaped road sign. It warns drivers of a slippery road ahead, indicated by the car and the wavy lines representing skidding. This sign means \"Reduce your speed. The road may be slippery.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "C) Reduce your speed. The road may be slippery. is correct. \"Stop\" requires a complete halt. Do not confuse it with \"Give way\" which only requires slowing down and yielding if there is traffic.",
     "image": "18.jpg",
     "options_th": [
       "ขับขี่ด้วยความระมัดระวัง ถนนคดเคี้ยว",
@@ -468,7 +483,7 @@
       "You may not pass on a bridge."
     ],
     "correct": 3,
-    "explanation_en": "D) You may not pass on a bridge. is correct. This is the only answer that fully complies with Thai traffic rules. The other options contain errors or unsafe practices.",
+    "explanation_en": "D) You may not pass on a bridge is correct. Bridges often have narrow lanes and limited visibility. Overtaking on a bridge risks a head-on collision with oncoming traffic, and there is no escape route if something goes wrong.",
     "image": null,
     "options_th": [
       "คุณไม่สามารถแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
@@ -478,9 +493,9 @@
     ],
     "explanation_th": "คุณไม่สามารถแซงบนสะพาน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "0": "\"You may not pass on the left on a road with two or more lanes moving in the same direction.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "1": "\"You may not pass within 150 meters of an intersection.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "2": "\"You may not pass when there is an obstruction in the left lane.\" is incorrect because it violates traffic safety rules or contains factual errors."
+      "0": "You may pass when the vehicle ahead signals a left turn, but this is not the safest general rule.",
+      "1": "Speeding up to overtake is dangerous — you must ensure there is enough space and visibility.",
+      "2": "Overtaking near a pedestrian crossing is illegal and extremely dangerous."
     }
   },
   {
@@ -496,7 +511,7 @@
       "End of double road, merging of lanes ahead"
     ],
     "correct": 2,
-    "explanation_en": "C) Traffic island ahead is correct. a yellow warning sign indicating a narrow bridge or underpass. Traffic flows should be prepared to yield as the road narrows. This sign means \"Traffic island ahead\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "C) Traffic island ahead is correct. This sign warns that two-way traffic begins ahead. Stay in your lane and watch for oncoming vehicles.",
     "image": "21.jpg",
     "options_th": [
       "แยกถนน ให้ชิดซ้าย",
@@ -542,7 +557,7 @@
       "Leave your car at the spot where it breaks down and arrange for repairs later."
     ],
     "correct": 2,
-    "explanation_en": "C) Pull your vehicle on to the shoulder and turn on your emergency flashers. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) Pull your vehicle on to the shoulder and turn on your emergency flashers. is correct. If you break down, move to the shoulder, turn on hazard lights, and place a warning triangle behind your vehicle to alert other drivers.",
     "image": null,
     "options_th": [
       "ปล่อยรถของคุณไว้ตรงจุดที่เสียและเรียกช่างทันที",
@@ -593,7 +608,7 @@
       "Pass the obstacle ahead on the left"
     ],
     "correct": 0,
-    "explanation_en": "A) You may turn left is correct. a mandatory road sign in Thailand, requiring drivers to turn left. This sign indicates the direction in which vehicles *must* travel. This sign means \"You may turn left\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "A) You may turn left is correct. This is a prohibition sign. You must not make the indicated maneuver. It is placed where the turn would be dangerous or would disrupt traffic flow.",
     "image": "25.jpg",
     "options_th": [
       "คุณอาจเลี้ยวซ้าย",
@@ -642,7 +657,7 @@
       "A vehicle whose engine is louder than 80 decibels"
     ],
     "correct": 1,
-    "explanation_en": "B) A vehicle with broken brake lights is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "B) A vehicle with broken brake lights is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "รถแทรกเตอร์ที่มีล้อยาง",
@@ -783,7 +798,7 @@
       "Operate a motor vehicle if you feel the onset of a heart attack."
     ],
     "correct": 3,
-    "explanation_en": "D) Operate a motor vehicle if you feel the onset of a heart attack. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Operate a motor vehicle if you feel the onset of a heart attack is correct. Driving while experiencing a medical emergency is extremely dangerous. You could lose consciousness and cause a serious accident. Pull over safely and seek help immediately.",
     "image": null,
     "options_th": [
       "แซงทางซ้ายบนถนนที่มีการจราจรสองช่องทางขึ้นไปในทิศทางเดียวกัน",
@@ -791,7 +806,11 @@
       "ขับรถแข่งบนถนนสาธารณะโดยได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
       "ขับขี่ยานพาหนะหากคุณรู้สึกว่ากำลังจะเกิดอาการหัวใจวาย"
     ],
-    "explanation_th": "ขับขี่ยานพาหนะหากคุณรู้สึกว่ากำลังจะเกิดอาการหัวใจวาย คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ขับขี่ยานพาหนะหากคุณรู้สึกว่ากำลังจะเกิดอาการหัวใจวาย คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "\"Drive while feeling sleepy\" is also prohibited, but the question asks for the most critical prohibition.",
+      "1": "Driving when drunk is prohibited, but a heart attack is an immediate medical emergency."
+    }
   },
   {
     "id": "Q034",
@@ -806,7 +825,7 @@
       "Stop. Give smaller vehicles the right of way."
     ],
     "correct": 1,
-    "explanation_en": "B) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. a Thai yield sign, which is an inverted red triangle with Thai characters (\"ให้ทาง\") inside. This sign indicates that drivers should give way to traffic on the intersecting road. This sign means \"Stop to allow cross traffic or traffic on the main road to pass before proceeding.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. \"Stop\" requires a complete halt. Do not confuse it with \"Give way\" which only requires slowing down and yielding if there is traffic.",
     "image": "34.jpg",
     "options_th": [
       "หยุด ให้ยานพาหนะขนาดใหญ่มีสิทธิ์ทาง优先",
@@ -814,12 +833,7 @@
       "ลดความเร็วของคุณและให้ยานพาหนะอื่นมีสิทธิ์ทาง优先",
       "หยุด ให้ยานพาหนะขนาดเล็กมีสิทธิ์ทาง优先"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'หยุดเพื่อให้การจราจรที่ตัดผ่านหรือการจราจรบนถนนสายหลักผ่านไปก่อนจึงจะขับต่อไป' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
-    "wrong_explanations_en": {
-      "0": "\"Stop. Give larger vehicles the right of way.\" is wrong because you do not automatically have priority.",
-      "2": "\"Reduce your speed and give other vehicles the right of way.\" is wrong because you do not automatically have priority.",
-      "3": "\"Stop. Give smaller vehicles the right of way.\" is wrong because you do not automatically have priority."
-    }
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'หยุดเพื่อให้การจราจรที่ตัดผ่านหรือการจราจรบนถนนสายหลักผ่านไปก่อนจึงจะขับต่อไป' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
   },
   {
     "id": "Q035",
@@ -857,7 +871,7 @@
       "In front of a police station"
     ],
     "correct": 1,
-    "explanation_en": "B) On the right-hand side of a two-way street is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "B) On the right-hand side of a two-way street is correct. In Thailand, you must park on the left side of the road, facing the direction of traffic. Parking on the right side forces you to cross oncoming traffic when leaving and creates a collision risk.",
     "image": null,
     "options_th": [
       "หน้าโรงเรียน",
@@ -865,7 +879,12 @@
       "บนทางลาดชัน",
       "หน้าสถานีตำรวจ"
     ],
-    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "Parking on the left side of a one-way street is legal.",
+      "2": "Parking within 3 meters of a fire hydrant is prohibited, not the correct answer here.",
+      "3": "Parking within 15 meters of a railroad crossing is prohibited."
+    }
   },
   {
     "id": "Q037",
@@ -880,7 +899,7 @@
       "Parking for cars only"
     ],
     "correct": 1,
-    "explanation_en": "B) Cars may not enter the road ahead is correct. a \"No Entry for Motor Vehicles\" traffic sign, indicating that cars are prohibited from entering that area or road. This is a common road sign found on many roads around the world. This sign means \"Cars may not enter the road ahead\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) Cars may not enter the road ahead is correct. \"All traffic must move to the right\" is a mandatory instruction. Every vehicle must comply. It is not advisory like \"Keep to the right\" — it is a command.",
     "image": "37.jpg",
     "options_th": [
       "รถยนต์อาจเข้าสู่ถนนข้างหน้าได้",
@@ -957,7 +976,7 @@
       "Cannot pass for vehicles less than 2.5 meters in width."
     ],
     "correct": 0,
-    "explanation_en": "A) Cannot pass for vehicles exceeding 2.5 meters in height. is correct. a Thai road sign with a yellow diamond shape. This sign indicates a clearance restriction, specifically a maximum height limit of 2.5 meters. This sign means \"Cannot pass for vehicles exceeding 2.5 meters in height.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "A) Cannot pass for vehicles exceeding 2.5 meters in height. is correct. This sign conveys a specific road regulation. For the exam, focus on the exact wording of each option — similar signs can have very different meanings.",
     "image": "40.jpg",
     "options_th": [
       "ห้ามผ่านสำหรับยานพาหนะที่มีความสูงเกิน 2.5 เมตร",
@@ -980,7 +999,7 @@
       "Cannot pass for vehicles less than 2.5 meters in width."
     ],
     "correct": 2,
-    "explanation_en": "C) Cannot pass for vehicles exceeding 2.5 meters in width. is correct. a diamond-shaped yellow road sign. It indicates a restriction on vehicle width, with a maximum clearance of 2.5 meters. This sign means \"Cannot pass for vehicles exceeding 2.5 meters in width.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "C) Cannot pass for vehicles exceeding 2.5 meters in width. is correct. This sign conveys a specific road regulation. For the exam, focus on the exact wording of each option — similar signs can have very different meanings.",
     "image": "41.jpg",
     "options_th": [
       "ห้ามผ่านสำหรับยานพาหนะที่มีความสูงเกิน 2.5 เมตร",
@@ -1003,7 +1022,7 @@
       "Tunnel ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) Road narrows ahead is correct. a Thai road sign warning drivers that the road is narrowing ahead. This indicates that the road width will become smaller, potentially requiring drivers to adjust their lane position or be cautious. This sign means \"Road narrows ahead\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) Road narrows ahead is correct. This sign warns that the road narrows ahead. Reduce speed and stay in your lane.",
     "image": "42.jpg",
     "options_th": [
       "สะพานข้างหน้า",
@@ -1049,7 +1068,7 @@
       "Carry loads that obstruct your vision behind and to the sides of your vehicle."
     ],
     "correct": 3,
-    "explanation_en": "D) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This action is prohibited because it endangers road users. Thai traffic law explicitly forbids it to maintain safety.",
     "image": null,
     "options_th": [
       "เข้าไปครึ่งช่องทางถัดไปเมื่อมีสิ่งกีดขวางกั้นด้านซ้ายของช่องทางที่คุณกำลังขับอยู่",
@@ -1072,7 +1091,7 @@
       "Reduce your speed and use the detour. Bridge out."
     ],
     "correct": 0,
-    "explanation_en": "A) Reduce your speed and check for oncoming traffic before crossing. One-land bridge ahead. is correct. a yellow diamond-shaped warning sign indicating a **narrow bridge** ahead. The sign alerts drivers to a potential hazard where the road narrows due to a bridge. This sign means \"Reduce your speed and check for oncoming traffic before crossing. One-land bridge ahead.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "A) Reduce your speed and check for oncoming traffic before crossing. One-land bridge ahead. is correct. This sign conveys a specific road regulation. For the exam, focus on the exact wording of each option — similar signs can have very different meanings.",
     "image": "45.jpg",
     "options_th": [
       "ลดความเร็วของคุณและตรวจสอบรถที่สวนมาก่อนข้าม สะพานช่องทางเดียวข้างหน้า",
@@ -1174,7 +1193,7 @@
       "No noise"
     ],
     "correct": 3,
-    "explanation_en": "D) No noise is correct. a \"No Honking\" sign, indicated by a horn symbol inside a red circle with a red line through it. This sign prohibits drivers from using their horns in the designated area. This sign means \"No noise\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "D) No noise is correct. \"All traffic must move to the right\" is a mandatory instruction. Every vehicle must comply. It is not advisory like \"Keep to the right\" — it is a command.",
     "image": "49.jpg",
     "options_th": [
       "ห้ามรถแท็กซี่",
@@ -1220,7 +1239,7 @@
       "None of the pictures."
     ],
     "correct": 3,
-    "explanation_en": "D) None of the pictures. is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "D) None of the pictures. is correct. You must not park on or near a pedestrian crossing. It blocks visibility for both pedestrians and drivers, creating a serious accident risk.",
     "image": null,
     "options_th": [
       "See picture",
@@ -1243,7 +1262,7 @@
       "Dead end"
     ],
     "correct": 1,
-    "explanation_en": "B) End of controlled area is correct. a Thai road sign indicating the \"End of Prohibition\" or \"End of Restrictions.\" This sign signifies that all previously imposed restrictions presented by circular road signs are no longer in effect. This sign means \"End of controlled area\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) End of controlled area is correct. This sign conveys a specific road regulation. For the exam, focus on the exact wording of each option — similar signs can have very different meanings.",
     "image": "52.jpg",
     "options_th": [
       "ถนนสิ้นสุดข้างหน้า",
@@ -1289,7 +1308,7 @@
       "Pedestrian crossing"
     ],
     "correct": 0,
-    "explanation_en": "A) School zone. Watch for children is correct. a yellow diamond road sign indicating a pedestrian crossing, with a pictogram of a parent and child walking on a crosswalk. This warns drivers to be prepared for pedestrians crossing the road. This sign means \"School zone. Watch for children\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "A) School zone. Watch for children is correct. A school zone sign warns that children may cross unexpectedly. Reduce speed and stay alert even if no children are visible.",
     "image": "54.jpg",
     "options_th": [
       "เขตโรงเรียน ระวังเด็ก",
@@ -1312,7 +1331,7 @@
       "Vehicles carrying loads weighing more than 30 tons are prohibited."
     ],
     "correct": 0,
-    "explanation_en": "A) The minimum speed limit is 30 kilometers per hour. is correct. a blue circular road sign with the number \"30\". The sign indicates a speed limit of 30, likely in kilometers per hour (km/h). This sign means \"The minimum speed limit is 30 kilometers per hour.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "A) The minimum speed limit is 30 kilometers per hour. is correct. This sign sets the minimum speed. You must drive at least this fast. Do not confuse it with a maximum speed limit sign.",
     "image": "55.jpg",
     "options_th": [
       "ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง",
@@ -1320,7 +1339,10 @@
       "ขีดจำกัดความเร็วสูงสุดคือ 30 กิโลเมตรต่อชั่วโมง",
       "ห้ามยานพาหนะที่บรรทุกสินค้าหนักเกิน 30 ตัน"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
+    "wrong_explanations_en": {
+      "2": "This is a minimum speed, not a maximum."
+    }
   },
   {
     "id": "Q056",
@@ -1335,7 +1357,7 @@
       "No passing within the cross-hatched lines."
     ],
     "correct": 1,
-    "explanation_en": "B) Absolutely no stopping in this area.. is correct. a yellow hatched box painted on the road surface, indicating an area where vehicles should not stop, even if it is allowed to pass to avoid blocking the intersection, often found at intersections. This marking helps to keep the intersection clear for unobstructed traffic flow. This sign means \"Absolutely no stopping in this area..\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) Absolutely no stopping in this area.. is correct. \"Stop\" requires a complete halt. Do not confuse it with \"Give way\" which only requires slowing down and yielding if there is traffic.",
     "image": "56.jpg",
     "options_th": [
       "ทางเข้า/ออกของอาคาร",
@@ -1358,7 +1380,7 @@
       "A tank used in warfare."
     ],
     "correct": 1,
-    "explanation_en": "B) A vehicle without a front windshield. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "B) A vehicle without a front windshield. is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่มีแตรดังเกิน 70 เดซิเบล",
@@ -1404,7 +1426,7 @@
       "Sharp curve ahead"
     ],
     "correct": 2,
-    "explanation_en": "C) No right turn is correct. a \"No right turn\" road sign, indicating that turning right is prohibited in the area. This sign uses a red circle with a slash through it, encompassing a black arrow making a right turn. This sign means \"No right turn\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "C) No right turn is correct. This is a prohibition sign. You must not make the indicated maneuver. It is placed where the turn would be dangerous or would disrupt traffic flow.",
     "image": "59.jpg",
     "options_th": [
       "เลี้ยวขวาได้",
@@ -1427,7 +1449,7 @@
       "When making a turn, you should give a signal at least 60 meters before turning."
     ],
     "correct": 0,
-    "explanation_en": "A) Slow-moving vehicles must use the left lane. is correct. This is the only answer that fully complies with Thai traffic rules. The other options contain errors or unsafe practices.",
+    "explanation_en": "A) Slow-moving vehicles must use the left lane is correct. Slower vehicles in the left lane allow faster traffic to pass safely on the right. This prevents bottlenecks and reduces the temptation for dangerous overtaking maneuvers.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย",
@@ -1437,9 +1459,9 @@
     ],
     "explanation_th": "ป้ายจราจรนี้แสดงว่า 'ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี",
     "wrong_explanations_en": {
-      "1": "\"Within the Bangkok Metropolitan Area, the maximum speed limit is 60 kilometers per hour.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "2": "\"When making a right turn, you should extend your right arm from the vehicle at shoulder-level and raise and lower.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "3": "\"When making a turn, you should give a signal at least 60 meters before turning.\" is incorrect because it violates traffic safety rules or contains factual errors."
+      "1": "Driving on the shoulder is illegal and dangerous.",
+      "2": "Driving at a constant speed is good practice but does not address lane positioning.",
+      "3": "Using the right lane for slow vehicles blocks faster traffic and causes congestion."
     }
   },
   {
@@ -1455,7 +1477,7 @@
       "The minimum speed limit is 30 kilometers per hour."
     ],
     "correct": 3,
-    "explanation_en": "D) The minimum speed limit is 30 kilometers per hour. is correct. a Thai road sign indicating a 30 km/h speed limit. The sign is a white number “30” inside a blue circular sign. This sign means \"The minimum speed limit is 30 kilometers per hour.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "D) The minimum speed limit is 30 kilometers per hour. is correct. This sign sets the minimum speed. You must drive at least this fast. Do not confuse it with a maximum speed limit sign.",
     "image": "61.jpg",
     "options_th": [
       "ห้ามยานพาหนะที่มีน้ำหนักเกิน 30 ตัน",
@@ -1463,7 +1485,10 @@
       "ห้ามยานพาหนะที่บรรทุกสินค้าหนักเกิน 30 ตัน",
       "ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
+    "wrong_explanations_en": {
+      "1": "This is a minimum speed, not a maximum."
+    }
   },
   {
     "id": "Q062",
@@ -1478,7 +1503,7 @@
       "School zone. Watch for children"
     ],
     "correct": 3,
-    "explanation_en": "D) School zone. Watch for children is correct. a yellow diamond road sign that warns of a pedestrian crossing, with a parent and child walking on a zebra crossing. This sign means \"School zone. Watch for children\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "D) School zone. Watch for children is correct. A school zone sign warns that children may cross unexpectedly. Reduce speed and stay alert even if no children are visible.",
     "image": "62.jpg",
     "options_th": [
       "สะพานลอยคนเดินข้างหน้า",
@@ -1501,7 +1526,7 @@
       "You may transport loads that extend no more than 2.5 meters from the front of your vehicle."
     ],
     "correct": 1,
-    "explanation_en": "B) You may transport loads that extend no more than 2.5 meters from the rear of your vehicle. is correct. This is the only answer that fully complies with Thai traffic rules. The other options contain errors or unsafe practices.",
+    "explanation_en": "B) You may transport loads that extend no more than 2.5 meters from the rear of your vehicle is correct. Loads extending beyond this limit require special permits and markings. Excessive overhang makes the vehicle unstable and endangers following traffic.",
     "image": null,
     "options_th": [
       "คุณอาจขนส่งสิ่งของที่ยื่นออกมาด้านละ 1 เมตรจากแต่ละด้านของยานพาหนะของคุณ",
@@ -1511,9 +1536,9 @@
     ],
     "explanation_th": "คุณอาจขนส่งสิ่งของที่ยื่นออกไปด้านหลังไม่เกิน 2.5 เมตรจากยานพาหนะของคุณ คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "0": "\"You may transport loads that extend one meter out from each side of your vehicle.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "2": "\"You may transport loads no more than 3 meters high.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "3": "\"You may transport loads that extend no more than 2.5 meters from the front of your vehicle.\" is incorrect because it violates traffic safety rules or contains factual errors."
+      "0": "There is a legal limit to how far a load can extend — it is not unlimited.",
+      "2": "Loads must be properly secured, not just covered.",
+      "3": "Overhanging loads require permits and safety measures, they are not automatically allowed."
     }
   },
   {
@@ -1529,7 +1554,7 @@
       "Parking on a flat surface with wheels straight"
     ],
     "correct": 1,
-    "explanation_en": "B) Parking facing downhill with wheels turned in is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "B) is correct. This image shows the only legal parking position. The other images show violations such as blocking traffic, parking on crossings, or facing the wrong direction.",
     "image": null,
     "options_th": [
       "See picture",
@@ -1578,7 +1603,7 @@
       "One-way traffic"
     ],
     "correct": 2,
-    "explanation_en": "C) Do not overtake is correct. a Thai road sign prohibiting vehicles from taking either of the indicated directions. It specifically indicates that vehicles cannot travel in the direction of the two curving arrows. This sign means \"Do not overtake\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "C) Do not overtake is correct. This sign conveys a specific road regulation. For the exam, focus on the exact wording of each option — similar signs can have very different meanings.",
     "image": "66.jpg",
     "options_th": [
       "การจราจรช่องทางเดียว",
@@ -1601,7 +1626,7 @@
       "A tank used in warfare."
     ],
     "correct": 0,
-    "explanation_en": "A) A vehicle without a front windshield. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) A vehicle without a front windshield is correct. A windshield protects the driver from debris, wind, and provides structural integrity. Driving without one is dangerous and illegal.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่ไม่มีกระจกหน้ารถ",
@@ -1609,7 +1634,12 @@
       "ยานพาหนะที่มีแตรซึ่งสามารถได้ยินได้ในระยะ 60 เมตร",
       "รถถังที่ใช้ในการสงคราม"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ ยานพาหนะที่ไม่มีกระจกหน้ารถ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+    "explanation_th": "คำตอบที่ถูกต้องคือ ยานพาหนะที่ไม่มีกระจกหน้ารถ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้",
+    "wrong_explanations_en": {
+      "1": "A private car with proper registration and insurance is legal.",
+      "2": "A vehicle used for agriculture with proper permits is legal.",
+      "3": "A rental car with proper documentation is legal."
+    }
   },
   {
     "id": "Q068",
@@ -1650,7 +1680,7 @@
       "Drive carefully. You are in a school zone."
     ],
     "correct": 1,
-    "explanation_en": "B) Reduce your speed. Stop if pedestrians are crossing in front of you. is correct. a yellow diamond road sign that indicates a pedestrian crosswalk is ahead. Drivers should be prepared to yield to pedestrians in this area. This sign means \"Reduce your speed. Stop if pedestrians are crossing in front of you.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) Reduce your speed. Stop if pedestrians are crossing in front of you. is correct. \"Stop\" requires a complete halt. Do not confuse it with \"Give way\" which only requires slowing down and yielding if there is traffic.",
     "image": "69.jpg",
     "options_th": [
       "ขับต่อไปหากไม่มีคนเดินเท้าข้าม",
@@ -1701,7 +1731,7 @@
       "Use the right lane."
     ],
     "correct": 1,
-    "explanation_en": "B) No U-turn. is correct. a Thai road sign indicating that U-turns are prohibited. The sign is a red circle with a black U-turn symbol crossed out by a diagonal red line. This sign means \"No U-turn.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) No U-turn. is correct. This is a prohibition sign. You must not make the indicated maneuver. It is placed where the turn would be dangerous or would disrupt traffic flow.",
     "image": "71.jpg",
     "options_th": [
       "See picture",
@@ -1724,7 +1754,7 @@
       "A tank used in warfare."
     ],
     "correct": 2,
-    "explanation_en": "C) A vehicle with broken brake lights. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) A vehicle with broken brake lights. is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "รถแทรกเตอร์ที่มีล้อยาง",
@@ -1747,7 +1777,7 @@
       "Parking allowed"
     ],
     "correct": 1,
-    "explanation_en": "B) Stop. Watch for other vehicles in the intersection before proceeding. is correct. a Thai road sign signifying \"stop,\" indicated by the word \"หยุด\" (pronounced 'yùt') in white lettering on a red octagon. This sign instructs drivers to come to a complete halt. This sign means \"Stop. Watch for other vehicles in the intersection before proceeding.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) Stop. Watch for other vehicles in the intersection before proceeding. is correct. \"Stop\" requires a complete halt. Do not confuse it with \"Give way\" which only requires slowing down and yielding if there is traffic.",
     "image": "73.jpg",
     "options_th": [
       "การหยุดชั่วคราวเพื่อขนถ่ายสินค้า",
@@ -1770,7 +1800,7 @@
       "Drive immediately after having consumed alcohol."
     ],
     "correct": 3,
-    "explanation_en": "D) Drive immediately after having consumed alcohol. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Drive immediately after having consumed alcohol. is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "ขับรถแข่งเมื่อได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
@@ -1793,7 +1823,7 @@
       "On the right-hand side of a two-way street"
     ],
     "correct": 3,
-    "explanation_en": "D) On the right-hand side of a two-way street is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "D) On the right-hand side of a two-way street is correct. In Thailand, you must park on the left side of the road, facing the direction of traffic. Parking on the right side forces you to cross oncoming traffic when leaving and creates a collision risk.",
     "image": null,
     "options_th": [
       "หน้าโรงเรียน",
@@ -1801,7 +1831,12 @@
       "หน้าสถานีตำรวจ",
       "ด้านขวาของถนนสองทิศทาง"
     ],
-    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "Parking on the sidewalk is prohibited.",
+      "1": "Parking within 3 meters of a fire hydrant is prohibited.",
+      "2": "Parking on the left side of a one-way street is legal."
+    }
   },
   {
     "id": "Q076",
@@ -1839,7 +1874,7 @@
       "Sharp curve ahead"
     ],
     "correct": 1,
-    "explanation_en": "B) No right turn is correct. a \"No right turn\" sign, indicating that turning right at the location where this sign is posted is prohibited. It is a circular sign with a red border containing a black curved arrow with a right pointing arrow, crossed by a red diagonal line. This sign means \"No right turn\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) No right turn is correct. This is a prohibition sign. You must not make the indicated maneuver. It is placed where the turn would be dangerous or would disrupt traffic flow.",
     "image": "77.jpg",
     "options_th": [
       "เลี้ยวซ้ายได้",
@@ -1862,7 +1897,7 @@
       "May not go straight"
     ],
     "correct": 1,
-    "explanation_en": "B) Should reduce your speed and carefully enter the curve to the right. is correct. a yellow diamond road sign that indicates a right curve ahead. This warns drivers to be prepared for the upcoming bend in the road. This sign means \"Should reduce your speed and carefully enter the curve to the right.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) Should reduce your speed and carefully enter the curve to the right. is correct. This sign warns of a sharp curve or bend in the road ahead. Reduce speed before entering the curve and stay in your lane.",
     "image": "78.jpg",
     "options_th": [
       "ควรเลี้ยวซ้าย",
@@ -1885,7 +1920,7 @@
       "Stop to allow cross traffic or traffic on the main road to pass before proceeding."
     ],
     "correct": 3,
-    "explanation_en": "D) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. a yield sign, which is a red inverted triangle with the Thai word \"ให้ทาง (hai thang)\" inside. This sign indicates that drivers must give way to other traffic. This sign means \"Stop to allow cross traffic or traffic on the main road to pass before proceeding.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "D) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. \"Stop\" requires a complete halt. Do not confuse it with \"Give way\" which only requires slowing down and yielding if there is traffic.",
     "image": "79.jpg",
     "options_th": [
       "หยุด ให้ยานพาหนะขนาดเล็กมีสิทธิ์ทาง优先",
@@ -1893,12 +1928,7 @@
       "ลดความเร็วของคุณและให้ยานพาหนะอื่นมีสิทธิ์ทาง优先",
       "หยุดเพื่อให้การจราจรที่ตัดผ่านหรือการจราจรบนถนนสายหลักผ่านไปก่อนจึงจะขับต่อไป"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'หยุดเพื่อให้การจราจรที่ตัดผ่านหรือการจราจรบนถนนสายหลักผ่านไปก่อนจึงจะขับต่อไป' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
-    "wrong_explanations_en": {
-      "0": "\"Stop. Give smaller vehicles the right of way.\" is wrong because you do not automatically have priority.",
-      "1": "\"Stop. Give larger vehicles the right of way.\" is wrong because you do not automatically have priority.",
-      "2": "\"Reduce your speed and give other vehicles the right of way.\" is wrong because you do not automatically have priority."
-    }
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'หยุดเพื่อให้การจราจรที่ตัดผ่านหรือการจราจรบนถนนสายหลักผ่านไปก่อนจึงจะขับต่อไป' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
   },
   {
     "id": "Q080",
@@ -1913,7 +1943,7 @@
       "Give way ahead"
     ],
     "correct": 0,
-    "explanation_en": "A) Stop for inspection is correct. a Thai road sign with a red circle and white background indicating a stop and inspection required. The Thai words \"หยุด\" (stop) and \"ตรวจ\" (inspect) are written above and below a black horizontal bar. This sign means \"Stop for inspection\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "A) Stop for inspection is correct. \"Stop ahead\" is a warning sign. It tells you a stop sign is coming up, but it is not the stop sign itself. You should prepare to stop, but you do not need to stop immediately.",
     "image": "80.jpg",
     "options_th": [
       "หยุดเพื่อตรวจสอบ",
@@ -1921,7 +1951,11 @@
       "ไม่มีรถคันใดผ่านได้",
       "ให้ทางข้างหน้า"
     ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'หยุดเพื่อตรวจสอบ' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
+    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'หยุดเพื่อตรวจสอบ' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี",
+    "wrong_explanations_en": {
+      "1": "\"Give way ahead\" warns of a yield sign, not a stop sign.",
+      "3": "\"Give way ahead\" warns of a yield sign, not a stop sign."
+    }
   },
   {
     "id": "Q081",
@@ -1936,7 +1970,7 @@
       "None of the pictures are correct."
     ],
     "correct": 3,
-    "explanation_en": "D) None of the pictures are correct. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) None of the pictures are correct is correct. All three images show illegal parking: one blocks a pedestrian crossing, one is too close to a fire hydrant, and one faces the wrong direction. Each violates a specific Thai parking law.",
     "image": null,
     "options_th": [
       "See picture",
@@ -1944,7 +1978,8 @@
       "See picture",
       "None of the pictures are correct."
     ],
-    "explanation_th": "None of the pictures are correct. คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "None of the pictures are correct. คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {}
   },
   {
     "id": "Q082",
@@ -2056,7 +2091,7 @@
       "Not enter the road ahead"
     ],
     "correct": 0,
-    "explanation_en": "A) Stop and allow oncoming traffic to pass before proceeding. is correct. a \"two-way traffic\" sign, indicating that traffic moves in both directions on the road. The red arrow signifies one direction, while the black arrow indicates the opposite direction. This sign means \"Stop and allow oncoming traffic to pass before proceeding.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "A) Stop and allow oncoming traffic to pass before proceeding. is correct. \"Stop ahead\" is a warning sign. It tells you a stop sign is coming up, but it is not the stop sign itself. You should prepare to stop, but you do not need to stop immediately.",
     "image": "86.jpg",
     "options_th": [
       "หยุดและให้รถที่สวนมาผ่านไปก่อนจึงจะขับต่อไป",
@@ -2199,7 +2234,7 @@
       "30 days"
     ],
     "correct": 0,
-    "explanation_en": "A) 7 days is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) 7 days is correct. In Thailand, you have 15 days to pay a traffic fine. Failing to pay on time results in additional penalties.",
     "image": null,
     "options_th": [
       "7 วัน",
@@ -2268,7 +2303,7 @@
       "10 years"
     ],
     "correct": 2,
-    "explanation_en": "C) 7 years is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) 7 years is correct. Motorcycles must be inspected at 5 years of age for tax renewal. Cars must be inspected starting at 7 years.",
     "image": null,
     "options_th": [
       "3 ปี",
@@ -2276,7 +2311,10 @@
       "7 ปี",
       "10 ปี"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ 7 ปี การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+    "explanation_th": "คำตอบที่ถูกต้องคือ 7 ปี การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย",
+    "wrong_explanations_en": {
+      "3": "Cars are inspected from 7 years, not 10."
+    }
   },
   {
     "id": "Q096",
@@ -2337,7 +2375,7 @@
       "Not exceeding 35 centimeters"
     ],
     "correct": 1,
-    "explanation_en": "B) Not exceeding 25 centimeters is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "B) Not exceeding 25 centimeters is correct. When parking on the left, your wheels must be within 25cm of the curb. Parking too far from the curb blocks traffic and creates a hazard for passing vehicles.",
     "image": null,
     "options_th": [
       "ไม่เกิน 20 เซนติเมตร",
@@ -2345,7 +2383,12 @@
       "ไม่เกิน 30 เซนติเมตร",
       "ไม่เกิน 35 เซนติเมตร"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ ไม่เกิน 25 เซนติเมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+    "explanation_th": "คำตอบที่ถูกต้องคือ ไม่เกิน 25 เซนติเมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้",
+    "wrong_explanations_en": {
+      "0": "1 meter is far too far from the curb — it blocks the traffic lane.",
+      "2": "50 centimeters is still too far — the limit is 25cm.",
+      "3": "There is no 2-meter rule for parking distance from the curb."
+    }
   },
   {
     "id": "Q099",
@@ -2526,7 +2569,7 @@
       "The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over."
     ],
     "correct": 3,
-    "explanation_en": "D) The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) The area in the car park marked with a clearly visible sign at all times for pedestrians crossing is correct. A safety zone is a designated area where pedestrians can cross safely. Vehicles must not park or stop in this zone.",
     "image": null,
     "options_th": [
       "บริเวณที่ผู้ขับขี่สามารถนำรถผ่านได้",
@@ -2534,7 +2577,12 @@
       "บริเวณที่มีเครื่องหมายแสดงว่าผู้ขับขี่ปลอดภัยที่จะขับขี่ต่อไป",
       "บริเวณในลานจอดรถที่มีเครื่องหมายแสดงอย่างชัดเจนตลอดเวลาสำหรับคนเดินเท้าที่กำลังข้ามทางให้หยุดรอ หรืออนุญาตให้คนขึ้นหรือลงจากรถให้หยุดและรอก่อนข้าม"
     ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'บริเวณในลานจอดรถที่มีเครื่องหมายแสดงอย่างชัดเจนตลอดเวลาสำหรับคนเดินเท้าที่กำลังข้ามทางให้หยุดรอ หรืออนุญาตให้คนขึ้นหรือลงจากรถให้หยุดและรอก่อนข้าม' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
+    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'บริเวณในลานจอดรถที่มีเครื่องหมายแสดงอย่างชัดเจนตลอดเวลาสำหรับคนเดินเท้าที่กำลังข้ามทางให้หยุดรอ หรืออนุญาตให้คนขึ้นหรือลงจากรถให้หยุดและรอก่อนข้าม' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี",
+    "wrong_explanations_en": {
+      "0": "A safety zone is not for U-turns.",
+      "1": "A safety zone is not for parking or loading.",
+      "2": "A safety zone is not for overtaking."
+    }
   },
   {
     "id": "Q107",
@@ -2572,7 +2620,7 @@
       "No less than 20 meters"
     ],
     "correct": 0,
-    "explanation_en": "A) Enough to be able to stop the car safely if necessary is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Enough to be able to stop the car safely if necessary is correct. Use the two-second rule as a minimum following distance. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to stop safely.",
     "image": null,
     "options_th": [
       "เพียงพอที่จะสามารถหยุดรถได้อย่างปลอดภัยหากจำเป็น",
@@ -2811,7 +2859,7 @@
       "All vehicles are allowed to pass."
     ],
     "correct": 1,
-    "explanation_en": "B) Motorcycles are prohibited. is correct. a \"No Motorcycles\" sign, indicating that motorcycles are prohibited in the area or on the road where the sign is posted. This sign means \"Motorcycles are prohibited.\". Recognizing signs quickly is critical for both the exam and real driving.",
+    "explanation_en": "B) Motorcycles are prohibited. is correct. This sign conveys a specific road regulation. For the exam, focus on the exact wording of each option — similar signs can have very different meanings.",
     "image": "118.jpg",
     "options_th": [
       "ห้ามรถบรรทุกทุกชนิด",
@@ -2884,7 +2932,7 @@
       "Slow down and use caution when driving."
     ],
     "correct": 3,
-    "explanation_en": "D) Slow down and use caution when driving. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Slow down and use caution when driving. is correct. In crowded areas, children and pedestrians can appear suddenly from between parked cars. Slow down and stay alert at all times.",
     "image": null,
     "options_th": [
       "บีบแตรและเร่งความเร็วเพื่อให้ผ่านไปโดยเร็ว",
@@ -2930,7 +2978,7 @@
       "Raise your right hand to raise your eyebrows to show gratitude."
     ],
     "correct": 2,
-    "explanation_en": "C) Turn on the high beam to show gratitude. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) Turn on the high beam to show gratitude is correct. Using high beams to \"thank\" other drivers is dangerous — it dazzles them and can cause temporary blindness. Use a brief flash of low beams or a wave instead.",
     "image": null,
     "options_th": [
       "ก้มศีรษะเพื่อแสดงความขอบคุณ",
@@ -2938,7 +2986,11 @@
       "เปิดไฟสูงเพื่อแสดงความขอบคุณ",
       "ยกมือขวาขึ้นเล็กน้อยเพื่อแสดงความขอบคุณ"
     ],
-    "explanation_th": "เปิดไฟสูงเพื่อแสดงความขอบคุณ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "เปิดไฟสูงเพื่อแสดงความขอบคุณ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "Using the horn politely to warn of danger is acceptable.",
+      "1": "Waving to thank other drivers is a safe and courteous gesture."
+    }
   },
   {
     "id": "Q124",
@@ -2976,7 +3028,7 @@
       "Step on the accelerator so the bonnet is bumped off."
     ],
     "correct": 0,
-    "explanation_en": "A) Reduce speed and park on the side of the road To close the bonnet neatly. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Reduce speed and park on the side of the road To close the bonnet neatly. is correct. If your bonnet opens while driving: slow down gradually, signal, and pull over safely. Do not try to close it while moving.",
     "image": null,
     "options_th": [
       "ลดความเร็วและจอดข้างทาง เพื่อปิดฝากระโปรงให้เรียบร้อย",
@@ -3048,7 +3100,7 @@
       "Use high lights all the way of driving."
     ],
     "correct": 0,
-    "explanation_en": "A) Leave more distance between cars than usual. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Leave more distance between cars than usual. is correct. At night, your visibility is reduced. You cannot see hazards as far ahead, so you must drive slower and use your headlights properly.",
     "image": null,
     "options_th": [
       "เว้นระยะห่างระหว่างรถมากกว่าปกติ",
@@ -3094,7 +3146,7 @@
       "The best oil is the most expensive oil."
     ],
     "correct": 0,
-    "explanation_en": "A) Lubricating oil should not be added to petrol. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Lubricating oil should not be added to petrol is correct. Lubricating oil and petrol serve completely different purposes. Mixing them damages the engine and can cause it to fail.",
     "image": null,
     "options_th": [
       "ไม่ควรเติมน้ำมันหล่อลื่นลงในน้ำมันเบนซิน",
@@ -3102,7 +3154,12 @@
       "เราไม่สามารถผสมน้ำมันออกเทน 95 กับออกเทน 91 ได้",
       "น้ำมันที่ดีที่สุดคือน้ำมันที่แพงที่สุด"
     ],
-    "explanation_th": "ไม่ควรเติมน้ำมันหล่อลื่นลงในน้ำมันเบนซิน คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ไม่ควรเติมน้ำมันหล่อลื่นลงในน้ำมันเบนซิน คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "1": "Water must never be added to petrol — it causes engine damage.",
+      "2": "Petrol must never be mixed with lubricating oil — they are incompatible.",
+      "3": "Oil and petrol are separate systems and must not be mixed."
+    }
   },
   {
     "id": "Q131",
@@ -3117,7 +3174,7 @@
       "At least once a week"
     ],
     "correct": 3,
-    "explanation_en": "D) At least once a week is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) At least once a week is correct. Motorcycles must be inspected at 5 years of age for tax renewal. Cars must be inspected starting at 7 years.",
     "image": null,
     "options_th": [
       "1 เดือน",
@@ -3140,7 +3197,7 @@
       "Use distilled water to wash"
     ],
     "correct": 0,
-    "explanation_en": "A) Use warm water to wash and apply grease is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Use warm water to wash and apply grease is correct. Warm water helps neutralize battery acid residue. Applying grease afterwards prevents corrosion. Always wear gloves and eye protection when handling batteries.",
     "image": null,
     "options_th": [
       "ใช้น้ำอุ่นล้างและทาจารบี",
@@ -3148,7 +3205,12 @@
       "ใช้น้ำมะนาวล้าง",
       "ใช้น้ำกลั่นล้าง"
     ],
-    "explanation_th": "ใช้น้ำอุ่นล้างและทาจารบี คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ใช้น้ำอุ่นล้างและทาจารบี คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "1": "Using acidic water is dangerous — it can cause chemical burns.",
+      "2": "Using hot water can damage the battery casing.",
+      "3": "Ignoring the stain allows corrosion to spread and damage the terminals."
+    }
   },
   {
     "id": "Q133",
@@ -3163,7 +3225,7 @@
       "Drivers and passengers Except for the elderly and children younger than 12 years old."
     ],
     "correct": 2,
-    "explanation_en": "C) All drivers and passengers, both adults and children, front and back seats. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) All drivers and passengers, both adults and children, front and back seats. is correct. Proper seating position allows you to reach all controls comfortably and maintain full control of the vehicle. Sit close enough to press the brake pedal fully.",
     "image": null,
     "options_th": [
       "ผู้ขับขี่และผู้โดยสารที่มีอายุเกิน 12 ปี เพราะสามารถคาดเข็มขัดนิรภัยได้",
@@ -3186,7 +3248,7 @@
       "To prevent the engine from shutting down"
     ],
     "correct": 3,
-    "explanation_en": "D) To prevent the engine from shutting down is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) To prevent the engine from shutting down is correct. When driving through water, go slowly in low gear to avoid stalling the engine. Water in the intake can destroy the engine.",
     "image": null,
     "options_th": [
       "ทำให้เครื่องยนต์ร้อน",
@@ -3288,7 +3350,7 @@
       "The left area. Of the car that the driver can not see."
     ],
     "correct": 2,
-    "explanation_en": "C) The area that the driver can’t see clearly while driving. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) The area that the driver can't see clearly while driving is correct. A blind spot is an area around your vehicle not visible in mirrors. Always turn your head to check before changing lanes or turning — mirrors alone are not enough.",
     "image": null,
     "options_th": [
       "บริเวณด้านหน้ารถที่ผู้ขับขี่ไม่สามารถมองเห็นได้",
@@ -3296,7 +3358,11 @@
       "บริเวณที่ผู้ขับขี่ไม่สามารถมองเห็นได้ชัดเจนขณะขับขี่",
       "บริเวณด้านซ้ายของรถที่ผู้ขับขี่ไม่สามารถมองเห็นได้"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'บริเวณที่ผู้ขับขี่ไม่สามารถมองเห็นได้ชัดเจนขณะขับขี่' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'บริเวณที่ผู้ขับขี่ไม่สามารถมองเห็นได้ชัดเจนขณะขับขี่' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
+    "wrong_explanations_en": {
+      "0": "A blind spot is not an area with special lighting.",
+      "1": "A blind spot is not a safe stopping area."
+    }
   },
   {
     "id": "Q139",
@@ -3390,7 +3456,7 @@
       "Double parking"
     ],
     "correct": 3,
-    "explanation_en": "D) Double parking is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "D) Double parking is correct. Double parking blocks traffic flow and forces other drivers to swerve into oncoming traffic. It is illegal and one of the most common causes of parking-related accidents.",
     "image": null,
     "options_th": [
       "จอดรถในอาคารจอดรถ",
@@ -3398,7 +3464,12 @@
       "จอดรถบนขอบทางด้านซ้าย",
       "จอดรถซ้อนคัน"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ จอดรถซ้อนคัน การเตรียมพร้อมรับมือเหตุฉุกเฉินเป็นทักษะที่สำคัญสำหรับผู้ขับขี่ทุกคน"
+    "explanation_th": "คำตอบที่ถูกต้องคือ จอดรถซ้อนคัน การเตรียมพร้อมรับมือเหตุฉุกเฉินเป็นทักษะที่สำคัญสำหรับผู้ขับขี่ทุกคน",
+    "wrong_explanations_en": {
+      "0": "Parking within 15 meters of a railroad crossing is dangerous but double parking is the most direct accident cause.",
+      "1": "Parking within 3 meters of a fire hydrant is illegal but double parking directly blocks traffic.",
+      "2": "Parking within 10 meters of an intersection is illegal but double parking is the most hazardous."
+    }
   },
   {
     "id": "Q143",
@@ -3413,7 +3484,7 @@
       "Negative pole"
     ],
     "correct": 3,
-    "explanation_en": "D) Negative pole is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Negative pole is correct. Always disconnect the negative terminal first when removing a battery. This prevents short circuits if your wrench touches the car frame, which is connected to the negative terminal.",
     "image": null,
     "options_th": [
       "ขั้วไหนก่อนก็ได้",
@@ -3421,7 +3492,12 @@
       "ถอดทั้งสองขั้วพร้อมกัน",
       "ขั้วลบ"
     ],
-    "explanation_th": "ขั้วลบ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ขั้วลบ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "Disconnecting both at once is dangerous — you could cause a spark.",
+      "1": "Disconnecting the positive first risks a short circuit if your tool touches the car frame.",
+      "2": "Disconnecting both at once is dangerous and unnecessary."
+    }
   },
   {
     "id": "Q144",
@@ -3436,7 +3512,7 @@
       "Give a hand signal to ask for directions."
     ],
     "correct": 0,
-    "explanation_en": "A) Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal light. is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "A) Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal is correct. Before pulling out from a parked position, you must check for traffic behind you and signal your intention. This gives following drivers time to react.",
     "image": null,
     "options_th": [
       "มองดูรถที่ตามมาทางกระจกข้างและกระจกมองหลัง จากนั้นเปิดสัญญาณไฟเลี้ยวขวา",
@@ -3444,7 +3520,12 @@
       "ไม่ต้องมองดูรถที่จอดอยู่ด้านหน้า แค่มองรถที่ตามมาก็พอ",
       "ให้สัญญาณมือเพื่อถามทาง"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'มองดูรถที่ตามมาทางกระจกข้างและกระจกมองหลัง จากนั้นเปิดสัญญาณไฟเลี้ยวขวา' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'มองดูรถที่ตามมาทางกระจกข้างและกระจกมองหลัง จากนั้นเปิดสัญญาณไฟเลี้ยวขวา' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
+    "wrong_explanations_en": {
+      "1": "Driving out without checking is extremely dangerous — you could cut off a passing vehicle.",
+      "2": "Using the left signal when pulling out from the left side is wrong — you need the right signal.",
+      "3": "Speeding up immediately without checking or signaling is dangerous."
+    }
   },
   {
     "id": "Q145",
@@ -3459,7 +3540,7 @@
       "Make braking more convenient"
     ],
     "correct": 2,
-    "explanation_en": "C) Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency. is correct. Proper seating position allows you to reach all controls comfortably and maintain full control of the vehicle. Sit close enough to press the brake pedal fully.",
     "image": null,
     "options_th": [
       "ทำให้เข้าเกียร์ได้ง่าย",
@@ -3482,7 +3563,7 @@
       "Front side not exceeding 1 meters from automobile body, back side not exceeding bumper."
     ],
     "correct": 0,
-    "explanation_en": "A) Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body. is correct. Loads must be securely fastened and not extend beyond legal limits. An unsecured load can fall off and cause serious accidents.",
     "image": null,
     "options_th": [
       "ด้านหน้าไม่เกินกันชน ด้านหลังไม่เกิน 2.50 เมตรจากตัวรถยนต์",

@@ -12,7 +12,7 @@
       "within 15 meters of a pedestrian."
     ],
     "correct": 2,
-    "explanation_en": "C) within 15 meters of a railroad crossing. is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "C) within 15 meters of a railroad crossing. is correct. You must not park within 3 meters of a fire hydrant. Firefighters need immediate access in case of emergency, and your vehicle could block them.",
     "image": null,
     "options_th": [
       "ในระยะ 15 เมตรจากหัวดับเพลิง",
@@ -22,9 +22,9 @@
     ],
     "explanation_th": "ในระยะ 15 เมตรจากทางรถไฟตัดผ่าน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "0": "Trains cannot stop quickly. Parking too close to tracks is extremely dangerous.",
-      "1": "Trains cannot stop quickly. Parking too close to tracks is extremely dangerous.",
-      "3": "Trains cannot stop quickly. Parking too close to tracks is extremely dangerous."
+      "0": "15 meters is the rule for railroad crossings, not fire hydrants. A fire hydrant only requires 3 meters.",
+      "1": "15 meters is the rule for railroad crossings, not fire hydrants. A fire hydrant only requires 3 meters.",
+      "3": "15 meters is the rule for railroad crossings, not fire hydrants. A fire hydrant only requires 3 meters."
     }
   },
   {
@@ -91,7 +91,7 @@
       "A vehicle with broken taillights."
     ],
     "correct": 3,
-    "explanation_en": "D) A vehicle with broken taillights. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) A vehicle with broken taillights. is correct. A vehicle with broken taillights is prohibited because other drivers cannot see you braking or turning, especially at night. This causes accidents.",
     "image": null,
     "options_th": [
       "รถแทรกเตอร์ที่มีล้อยาง",
@@ -99,7 +99,12 @@
       "ยานพาหนะที่มีเครื่องยนต์ 80 เดซิเบล",
       "ยานพาหนะที่มีไฟท้ายแตกหัก"
     ],
-    "explanation_th": "ยานพาหนะที่มีไฟท้ายแตกหัก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+    "explanation_th": "ยานพาหนะที่มีไฟท้ายแตกหัก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
+    "wrong_explanations_en": {
+      "0": "A tractor with rubber tires is legal on public roads.",
+      "1": "This is an obvious distractor — tanks are not driven on public roads.",
+      "2": "An 80-decibel engine is within legal noise limits."
+    }
   },
   {
     "id": "Q007",
@@ -209,7 +214,7 @@
       "Enter halfway into the next lane when an obstruction blocks the left side of the lane you are driving in."
     ],
     "correct": 2,
-    "explanation_en": "C) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This action is prohibited because it endangers road users. Thai traffic law explicitly forbids it to maintain safety.",
     "image": null,
     "options_th": [
       "เลี้ยวเข้าไปในช่องทางเดินรถประจำทาง",
@@ -278,7 +283,7 @@
       "When there is insufficient light."
     ],
     "correct": 1,
-    "explanation_en": "B) Immediately after consuming alcohol or any other intoxicant. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "B) Immediately after consuming alcohol or any other intoxicant. is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "หลังจากรับประทานยาแก้ท้องเสีย",
@@ -301,7 +306,7 @@
       "You may not pass on a bridge."
     ],
     "correct": 3,
-    "explanation_en": "D) You may not pass on a bridge. is correct. This is the only answer that fully complies with Thai traffic rules. The other options contain errors or unsafe practices.",
+    "explanation_en": "D) You may not pass on a bridge is correct. Bridges often have narrow lanes and limited visibility. Overtaking on a bridge risks a head-on collision with oncoming traffic, and there is no escape route if something goes wrong.",
     "image": null,
     "options_th": [
       "คุณไม่สามารถแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
@@ -311,9 +316,9 @@
     ],
     "explanation_th": "คุณไม่สามารถแซงบนสะพาน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
     "wrong_explanations_en": {
-      "0": "\"You may not pass on the left on a road with two or more lanes moving in the same direction.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "1": "\"You may not pass within 150 meters of an intersection.\" is incorrect because it violates traffic safety rules or contains factual errors.",
-      "2": "\"You may not pass when there is an obstruction in the left lane.\" is incorrect because it violates traffic safety rules or contains factual errors."
+      "0": "You may pass when the vehicle ahead signals a left turn, but this is not the safest general rule.",
+      "1": "Speeding up to overtake is dangerous — you must ensure there is enough space and visibility.",
+      "2": "Overtaking near a pedestrian crossing is illegal and extremely dangerous."
     }
   },
   {
@@ -352,7 +357,7 @@
       "Leave your car at the spot where it breaks down and arrange for repairs later."
     ],
     "correct": 2,
-    "explanation_en": "C) Pull your vehicle on to the shoulder and turn on your emergency flashers. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) Pull your vehicle on to the shoulder and turn on your emergency flashers. is correct. If you break down, move to the shoulder, turn on hazard lights, and place a warning triangle behind your vehicle to alert other drivers.",
     "image": null,
     "options_th": [
       "ปล่อยรถของคุณไว้ตรงจุดที่เสียและเรียกช่างทันที",
@@ -403,7 +408,7 @@
       "A vehicle whose engine is louder than 80 decibels"
     ],
     "correct": 1,
-    "explanation_en": "B) A vehicle with broken brake lights is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "B) A vehicle with broken brake lights is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "รถแทรกเตอร์ที่มีล้อยาง",
@@ -544,7 +549,7 @@
       "Operate a motor vehicle if you feel the onset of a heart attack."
     ],
     "correct": 3,
-    "explanation_en": "D) Operate a motor vehicle if you feel the onset of a heart attack. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Operate a motor vehicle if you feel the onset of a heart attack is correct. Driving while experiencing a medical emergency is extremely dangerous. You could lose consciousness and cause a serious accident. Pull over safely and seek help immediately.",
     "image": null,
     "options_th": [
       "แซงทางซ้ายบนถนนที่มีการจราจรสองช่องทางขึ้นไปในทิศทางเดียวกัน",
@@ -552,7 +557,11 @@
       "ขับรถแข่งบนถนนสาธารณะโดยได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
       "ขับขี่ยานพาหนะหากคุณรู้สึกว่ากำลังจะเกิดอาการหัวใจวาย"
     ],
-    "explanation_th": "ขับขี่ยานพาหนะหากคุณรู้สึกว่ากำลังจะเกิดอาการหัวใจวาย คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ขับขี่ยานพาหนะหากคุณรู้สึกว่ากำลังจะเกิดอาการหัวใจวาย คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "\"Drive while feeling sleepy\" is also prohibited, but the question asks for the most critical prohibition.",
+      "1": "Driving when drunk is prohibited, but a heart attack is an immediate medical emergency."
+    }
   },
   {
     "id": "Q035",
@@ -590,7 +599,7 @@
       "In front of a police station"
     ],
     "correct": 1,
-    "explanation_en": "B) On the right-hand side of a two-way street is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "B) On the right-hand side of a two-way street is correct. In Thailand, you must park on the left side of the road, facing the direction of traffic. Parking on the right side forces you to cross oncoming traffic when leaving and creates a collision risk.",
     "image": null,
     "options_th": [
       "หน้าโรงเรียน",
@@ -598,7 +607,12 @@
       "บนทางลาดชัน",
       "หน้าสถานีตำรวจ"
     ],
-    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "Parking on the left side of a one-way street is legal.",
+      "2": "Parking within 3 meters of a fire hydrant is prohibited, not the correct answer here.",
+      "3": "Parking within 15 meters of a railroad crossing is prohibited."
+    }
   },
   {
     "id": "Q038",
@@ -662,7 +676,7 @@
       "Carry loads that obstruct your vision behind and to the sides of your vehicle."
     ],
     "correct": 3,
-    "explanation_en": "D) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This action is prohibited because it endangers road users. Thai traffic law explicitly forbids it to maintain safety.",
     "image": null,
     "options_th": [
       "เข้าไปครึ่งช่องทางถัดไปเมื่อมีสิ่งกีดขวางกั้นด้านซ้ายของช่องทางที่คุณกำลังขับอยู่",
@@ -787,7 +801,7 @@
       "None of the pictures."
     ],
     "correct": 3,
-    "explanation_en": "D) None of the pictures. is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "D) None of the pictures. is correct. You must not park on or near a pedestrian crossing. It blocks visibility for both pedestrians and drivers, creating a serious accident risk.",
     "image": null,
     "options_th": [
       "See picture",
@@ -810,7 +824,7 @@
       "A tank used in warfare."
     ],
     "correct": 1,
-    "explanation_en": "B) A vehicle without a front windshield. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "B) A vehicle without a front windshield. is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่มีแตรดังเกิน 70 เดซิเบล",
@@ -856,7 +870,7 @@
       "Parking on a flat surface with wheels straight"
     ],
     "correct": 1,
-    "explanation_en": "B) Parking facing downhill with wheels turned in is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "B) is correct. This image shows the only legal parking position. The other images show violations such as blocking traffic, parking on crossings, or facing the wrong direction.",
     "image": null,
     "options_th": [
       "See picture",
@@ -879,7 +893,7 @@
       "A tank used in warfare."
     ],
     "correct": 0,
-    "explanation_en": "A) A vehicle without a front windshield. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) A vehicle without a front windshield is correct. A windshield protects the driver from debris, wind, and provides structural integrity. Driving without one is dangerous and illegal.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่ไม่มีกระจกหน้ารถ",
@@ -887,7 +901,12 @@
       "ยานพาหนะที่มีแตรซึ่งสามารถได้ยินได้ในระยะ 60 เมตร",
       "รถถังที่ใช้ในการสงคราม"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ ยานพาหนะที่ไม่มีกระจกหน้ารถ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
+    "explanation_th": "คำตอบที่ถูกต้องคือ ยานพาหนะที่ไม่มีกระจกหน้ารถ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้",
+    "wrong_explanations_en": {
+      "1": "A private car with proper registration and insurance is legal.",
+      "2": "A vehicle used for agriculture with proper permits is legal.",
+      "3": "A rental car with proper documentation is legal."
+    }
   },
   {
     "id": "Q068",
@@ -956,7 +975,7 @@
       "A tank used in warfare."
     ],
     "correct": 2,
-    "explanation_en": "C) A vehicle with broken brake lights. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) A vehicle with broken brake lights. is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "รถแทรกเตอร์ที่มีล้อยาง",
@@ -979,7 +998,7 @@
       "Drive immediately after having consumed alcohol."
     ],
     "correct": 3,
-    "explanation_en": "D) Drive immediately after having consumed alcohol. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Drive immediately after having consumed alcohol. is correct. Certain vehicles are prohibited on public roads because they are unsafe or unsuitable. Operating them endangers you and everyone around you.",
     "image": null,
     "options_th": [
       "ขับรถแข่งเมื่อได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
@@ -1002,7 +1021,7 @@
       "On the right-hand side of a two-way street"
     ],
     "correct": 3,
-    "explanation_en": "D) On the right-hand side of a two-way street is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "D) On the right-hand side of a two-way street is correct. In Thailand, you must park on the left side of the road, facing the direction of traffic. Parking on the right side forces you to cross oncoming traffic when leaving and creates a collision risk.",
     "image": null,
     "options_th": [
       "หน้าโรงเรียน",
@@ -1010,7 +1029,12 @@
       "หน้าสถานีตำรวจ",
       "ด้านขวาของถนนสองทิศทาง"
     ],
-    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "Parking on the sidewalk is prohibited.",
+      "1": "Parking within 3 meters of a fire hydrant is prohibited.",
+      "2": "Parking on the left side of a one-way street is legal."
+    }
   },
   {
     "id": "Q076",
@@ -1048,7 +1072,7 @@
       "None of the pictures are correct."
     ],
     "correct": 3,
-    "explanation_en": "D) None of the pictures are correct. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) None of the pictures are correct is correct. All three images show illegal parking: one blocks a pedestrian crossing, one is too close to a fire hydrant, and one faces the wrong direction. Each violates a specific Thai parking law.",
     "image": null,
     "options_th": [
       "See picture",
@@ -1056,7 +1080,8 @@
       "See picture",
       "None of the pictures are correct."
     ],
-    "explanation_th": "None of the pictures are correct. คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "None of the pictures are correct. คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {}
   },
   {
     "id": "Q083",
@@ -1214,7 +1239,7 @@
       "30 days"
     ],
     "correct": 0,
-    "explanation_en": "A) 7 days is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) 7 days is correct. In Thailand, you have 15 days to pay a traffic fine. Failing to pay on time results in additional penalties.",
     "image": null,
     "options_th": [
       "7 วัน",
@@ -1237,7 +1262,7 @@
       "10 years"
     ],
     "correct": 2,
-    "explanation_en": "C) 7 years is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) 7 years is correct. Motorcycles must be inspected at 5 years of age for tax renewal. Cars must be inspected starting at 7 years.",
     "image": null,
     "options_th": [
       "3 ปี",
@@ -1245,7 +1270,10 @@
       "7 ปี",
       "10 ปี"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ 7 ปี การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
+    "explanation_th": "คำตอบที่ถูกต้องคือ 7 ปี การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย",
+    "wrong_explanations_en": {
+      "3": "Cars are inspected from 7 years, not 10."
+    }
   },
   {
     "id": "Q103",
@@ -1288,7 +1316,7 @@
       "The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over."
     ],
     "correct": 3,
-    "explanation_en": "D) The area in the car park marked with a clearly visible sign at all times for for pedestrians crossing the path to stop waiting or allowing people to get in or out of the car to stop and wait before crossing over. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) The area in the car park marked with a clearly visible sign at all times for pedestrians crossing is correct. A safety zone is a designated area where pedestrians can cross safely. Vehicles must not park or stop in this zone.",
     "image": null,
     "options_th": [
       "บริเวณที่ผู้ขับขี่สามารถนำรถผ่านได้",
@@ -1296,7 +1324,12 @@
       "บริเวณที่มีเครื่องหมายแสดงว่าผู้ขับขี่ปลอดภัยที่จะขับขี่ต่อไป",
       "บริเวณในลานจอดรถที่มีเครื่องหมายแสดงอย่างชัดเจนตลอดเวลาสำหรับคนเดินเท้าที่กำลังข้ามทางให้หยุดรอ หรืออนุญาตให้คนขึ้นหรือลงจากรถให้หยุดและรอก่อนข้าม"
     ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'บริเวณในลานจอดรถที่มีเครื่องหมายแสดงอย่างชัดเจนตลอดเวลาสำหรับคนเดินเท้าที่กำลังข้ามทางให้หยุดรอ หรืออนุญาตให้คนขึ้นหรือลงจากรถให้หยุดและรอก่อนข้าม' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
+    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'บริเวณในลานจอดรถที่มีเครื่องหมายแสดงอย่างชัดเจนตลอดเวลาสำหรับคนเดินเท้าที่กำลังข้ามทางให้หยุดรอ หรืออนุญาตให้คนขึ้นหรือลงจากรถให้หยุดและรอก่อนข้าม' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี",
+    "wrong_explanations_en": {
+      "0": "A safety zone is not for U-turns.",
+      "1": "A safety zone is not for parking or loading.",
+      "2": "A safety zone is not for overtaking."
+    }
   },
   {
     "id": "Q109",
@@ -1431,7 +1464,7 @@
       "Slow down and use caution when driving."
     ],
     "correct": 3,
-    "explanation_en": "D) Slow down and use caution when driving. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Slow down and use caution when driving. is correct. In crowded areas, children and pedestrians can appear suddenly from between parked cars. Slow down and stay alert at all times.",
     "image": null,
     "options_th": [
       "บีบแตรและเร่งความเร็วเพื่อให้ผ่านไปโดยเร็ว",
@@ -1477,7 +1510,7 @@
       "Raise your right hand to raise your eyebrows to show gratitude."
     ],
     "correct": 2,
-    "explanation_en": "C) Turn on the high beam to show gratitude. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) Turn on the high beam to show gratitude is correct. Using high beams to \"thank\" other drivers is dangerous — it dazzles them and can cause temporary blindness. Use a brief flash of low beams or a wave instead.",
     "image": null,
     "options_th": [
       "ก้มศีรษะเพื่อแสดงความขอบคุณ",
@@ -1485,7 +1518,11 @@
       "เปิดไฟสูงเพื่อแสดงความขอบคุณ",
       "ยกมือขวาขึ้นเล็กน้อยเพื่อแสดงความขอบคุณ"
     ],
-    "explanation_th": "เปิดไฟสูงเพื่อแสดงความขอบคุณ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "เปิดไฟสูงเพื่อแสดงความขอบคุณ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "Using the horn politely to warn of danger is acceptable.",
+      "1": "Waving to thank other drivers is a safe and courteous gesture."
+    }
   },
   {
     "id": "Q124",
@@ -1572,7 +1609,7 @@
       "Use high lights all the way of driving."
     ],
     "correct": 0,
-    "explanation_en": "A) Leave more distance between cars than usual. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Leave more distance between cars than usual. is correct. At night, your visibility is reduced. You cannot see hazards as far ahead, so you must drive slower and use your headlights properly.",
     "image": null,
     "options_th": [
       "เว้นระยะห่างระหว่างรถมากกว่าปกติ",
@@ -1595,7 +1632,7 @@
       "The best oil is the most expensive oil."
     ],
     "correct": 0,
-    "explanation_en": "A) Lubricating oil should not be added to petrol. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Lubricating oil should not be added to petrol is correct. Lubricating oil and petrol serve completely different purposes. Mixing them damages the engine and can cause it to fail.",
     "image": null,
     "options_th": [
       "ไม่ควรเติมน้ำมันหล่อลื่นลงในน้ำมันเบนซิน",
@@ -1603,7 +1640,12 @@
       "เราไม่สามารถผสมน้ำมันออกเทน 95 กับออกเทน 91 ได้",
       "น้ำมันที่ดีที่สุดคือน้ำมันที่แพงที่สุด"
     ],
-    "explanation_th": "ไม่ควรเติมน้ำมันหล่อลื่นลงในน้ำมันเบนซิน คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ไม่ควรเติมน้ำมันหล่อลื่นลงในน้ำมันเบนซิน คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "1": "Water must never be added to petrol — it causes engine damage.",
+      "2": "Petrol must never be mixed with lubricating oil — they are incompatible.",
+      "3": "Oil and petrol are separate systems and must not be mixed."
+    }
   },
   {
     "id": "Q131",
@@ -1618,7 +1660,7 @@
       "At least once a week"
     ],
     "correct": 3,
-    "explanation_en": "D) At least once a week is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) At least once a week is correct. Motorcycles must be inspected at 5 years of age for tax renewal. Cars must be inspected starting at 7 years.",
     "image": null,
     "options_th": [
       "1 เดือน",
@@ -1641,7 +1683,7 @@
       "Use distilled water to wash"
     ],
     "correct": 0,
-    "explanation_en": "A) Use warm water to wash and apply grease is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Use warm water to wash and apply grease is correct. Warm water helps neutralize battery acid residue. Applying grease afterwards prevents corrosion. Always wear gloves and eye protection when handling batteries.",
     "image": null,
     "options_th": [
       "ใช้น้ำอุ่นล้างและทาจารบี",
@@ -1649,7 +1691,12 @@
       "ใช้น้ำมะนาวล้าง",
       "ใช้น้ำกลั่นล้าง"
     ],
-    "explanation_th": "ใช้น้ำอุ่นล้างและทาจารบี คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ใช้น้ำอุ่นล้างและทาจารบี คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "1": "Using acidic water is dangerous — it can cause chemical burns.",
+      "2": "Using hot water can damage the battery casing.",
+      "3": "Ignoring the stain allows corrosion to spread and damage the terminals."
+    }
   },
   {
     "id": "Q133",
@@ -1664,7 +1711,7 @@
       "Drivers and passengers Except for the elderly and children younger than 12 years old."
     ],
     "correct": 2,
-    "explanation_en": "C) All drivers and passengers, both adults and children, front and back seats. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) All drivers and passengers, both adults and children, front and back seats. is correct. Proper seating position allows you to reach all controls comfortably and maintain full control of the vehicle. Sit close enough to press the brake pedal fully.",
     "image": null,
     "options_th": [
       "ผู้ขับขี่และผู้โดยสารที่มีอายุเกิน 12 ปี เพราะสามารถคาดเข็มขัดนิรภัยได้",
@@ -1687,7 +1734,7 @@
       "To prevent the engine from shutting down"
     ],
     "correct": 3,
-    "explanation_en": "D) To prevent the engine from shutting down is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) To prevent the engine from shutting down is correct. When driving through water, go slowly in low gear to avoid stalling the engine. Water in the intake can destroy the engine.",
     "image": null,
     "options_th": [
       "ทำให้เครื่องยนต์ร้อน",
@@ -1766,7 +1813,7 @@
       "The left area. Of the car that the driver can not see."
     ],
     "correct": 2,
-    "explanation_en": "C) The area that the driver can’t see clearly while driving. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) The area that the driver can't see clearly while driving is correct. A blind spot is an area around your vehicle not visible in mirrors. Always turn your head to check before changing lanes or turning — mirrors alone are not enough.",
     "image": null,
     "options_th": [
       "บริเวณด้านหน้ารถที่ผู้ขับขี่ไม่สามารถมองเห็นได้",
@@ -1774,7 +1821,11 @@
       "บริเวณที่ผู้ขับขี่ไม่สามารถมองเห็นได้ชัดเจนขณะขับขี่",
       "บริเวณด้านซ้ายของรถที่ผู้ขับขี่ไม่สามารถมองเห็นได้"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'บริเวณที่ผู้ขับขี่ไม่สามารถมองเห็นได้ชัดเจนขณะขับขี่' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'บริเวณที่ผู้ขับขี่ไม่สามารถมองเห็นได้ชัดเจนขณะขับขี่' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
+    "wrong_explanations_en": {
+      "0": "A blind spot is not an area with special lighting.",
+      "1": "A blind spot is not a safe stopping area."
+    }
   },
   {
     "id": "Q139",
@@ -1841,7 +1892,7 @@
       "Negative pole"
     ],
     "correct": 3,
-    "explanation_en": "D) Negative pole is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Negative pole is correct. Always disconnect the negative terminal first when removing a battery. This prevents short circuits if your wrench touches the car frame, which is connected to the negative terminal.",
     "image": null,
     "options_th": [
       "ขั้วไหนก่อนก็ได้",
@@ -1849,7 +1900,12 @@
       "ถอดทั้งสองขั้วพร้อมกัน",
       "ขั้วลบ"
     ],
-    "explanation_th": "ขั้วลบ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
+    "explanation_th": "ขั้วลบ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "0": "Disconnecting both at once is dangerous — you could cause a spark.",
+      "1": "Disconnecting the positive first risks a short circuit if your tool touches the car frame.",
+      "2": "Disconnecting both at once is dangerous and unnecessary."
+    }
   },
   {
     "id": "Q144",
@@ -1864,7 +1920,7 @@
       "Give a hand signal to ask for directions."
     ],
     "correct": 0,
-    "explanation_en": "A) Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal light. is correct. Thai parking laws specify exact distances and positions to keep roads clear for traffic and emergency services. Violating these rules endangers pedestrians and other drivers.",
+    "explanation_en": "A) Look at the cars that follow through the side mirror and rear view mirror. Then turn on the right turn signal is correct. Before pulling out from a parked position, you must check for traffic behind you and signal your intention. This gives following drivers time to react.",
     "image": null,
     "options_th": [
       "มองดูรถที่ตามมาทางกระจกข้างและกระจกมองหลัง จากนั้นเปิดสัญญาณไฟเลี้ยวขวา",
@@ -1872,7 +1928,12 @@
       "ไม่ต้องมองดูรถที่จอดอยู่ด้านหน้า แค่มองรถที่ตามมาก็พอ",
       "ให้สัญญาณมือเพื่อถามทาง"
     ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'มองดูรถที่ตามมาทางกระจกข้างและกระจกมองหลัง จากนั้นเปิดสัญญาณไฟเลี้ยวขวา' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
+    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'มองดูรถที่ตามมาทางกระจกข้างและกระจกมองหลัง จากนั้นเปิดสัญญาณไฟเลี้ยวขวา' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
+    "wrong_explanations_en": {
+      "1": "Driving out without checking is extremely dangerous — you could cut off a passing vehicle.",
+      "2": "Using the left signal when pulling out from the left side is wrong — you need the right signal.",
+      "3": "Speeding up immediately without checking or signaling is dangerous."
+    }
   },
   {
     "id": "Q145",
@@ -1887,7 +1948,7 @@
       "Make braking more convenient"
     ],
     "correct": 2,
-    "explanation_en": "C) Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "C) Difficulty controlling the steering wheel. Inconvenient use of equipment. Cannot use the clutch and brake in an emergency. is correct. Proper seating position allows you to reach all controls comfortably and maintain full control of the vehicle. Sit close enough to press the brake pedal fully.",
     "image": null,
     "options_th": [
       "ทำให้เข้าเกียร์ได้ง่าย",
@@ -1910,7 +1971,7 @@
       "Front side not exceeding 1 meters from automobile body, back side not exceeding bumper."
     ],
     "correct": 0,
-    "explanation_en": "A) Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Front side not exceeding bumper, back side not exceeding 2.50 meters from automobile body. is correct. Loads must be securely fastened and not extend beyond legal limits. An unsecured load can fall off and cause serious accidents.",
     "image": null,
     "options_th": [
       "ด้านหน้าไม่เกินกันชน ด้านหลังไม่เกิน 2.50 เมตรจากตัวรถยนต์",
