@@ -275,7 +275,7 @@ export default function QuizContainer({
         </div>
       )}
 
-      {mode === "EXAM" && isAnswered && !showExplanation && (
+      {(mode === "EXAM" || mode === "BLITZ") && isAnswered && !showExplanation && (
         <div className="mt-3">
           <button
             onClick={() => {
@@ -287,7 +287,7 @@ export default function QuizContainer({
             }}
             className="touch-target w-full rounded bg-gov-blue px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-gov-dark"
           >
-            {currentIndex < questions.length - 1 ? t("nextQuestion") : t("finishExam")}
+            {currentIndex < questions.length - 1 ? t("nextQuestion") : mode === "BLITZ" ? t("seeResults") : t("finishExam")}
           </button>
         </div>
       )}
