@@ -19,7 +19,6 @@ export default function ReadinessGauge({ session }: Props) {
     0
   );
 
-  // Calculate readiness score (0-100)
   const accuracy = totalSeen > 0 ? (totalCorrect / totalSeen) * 100 : 0;
   const uniqueSeen = new Set(
     Object.values(session.stats.byCategory).flatMap((c) => c.seen)
@@ -31,72 +30,157 @@ export default function ReadinessGauge({ session }: Props) {
     accuracy * 0.5 + coverage * 0.3 + streakBonus * 0.2
   );
 
-  // Color & label based on readiness
-  let color = "#DC2626"; // red
-  let bgColor = "#FEE2E2";
+  // Gauge config
+  const size = 220;
+  const cx = size / 2;
+  const cy = size * 0.72;
+  const radius = 80;
+  const strokeWidth = 18;
+
+  // Angle from -180 (left) to 0 (right)
+  const angle = -180 + (readiness / 100) * 180;
+  const rad = (angle * Math.PI) / 180;
+  const needleX = cx + radius * Math.cos(rad);
+  const needleY = cy + radius * Math.sin(rad);
+
+  // Color stops: red → orange → yellow → green
+  let arcColor = "#DC2626"; // red
   let label = t("notReady");
-  let emoji = "😳";
 
   if (readiness >= 90) {
-    color = "#16A34A"; // green
-    bgColor = "#DCFCE7";
+    arcColor = "#16A34A"; // green
     label = t("ready");
-    emoji = "🤢";
   } else if (readiness >= 75) {
-    color = "#CA8A04"; // yellow/amber
-    bgColor = "#FEF9C3";
+    arcColor = "#EAB308"; // yellow
     label = t("almostReady");
-    emoji = "😐";
   } else if (readiness >= 50) {
-    color = "#EA580C"; // orange
-    bgColor = "#FFEDD5";
+    arcColor = "#F97316"; // orange
     label = t("gettingThere");
-    emoji = "🍊";
   }
 
-  // Semi-circle gauge (SVG)
-  const radius = 70;
-  const stroke = 12;
-  const normalizedRadius = radius - stroke / 2;
-  const circumference = normalizedRadius * Math.PI;
-  const strokeDashoffset = circumference - (readiness / 100) * circumference;
+  // Build arc path
+  const describeArc = (
+    x: number,
+    y: number,
+    r: number,
+    startAngle: number,
+    endAngle: number
+  ) => {
+    const start = {
+      x: x + r * Math.cos((startAngle * Math.PI) / 180),
+      y: y + r * Math.sin((startAngle * Math.PI) / 180),
+    };
+    const end = {
+      x: x + r * Math.cos((endAngle * Math.PI) / 180),
+      y: y + r * Math.sin((endAngle * Math.PI) / 180),
+    };
+    const largeArcFlag = endAngle - startAngle <= 180 ? 0 : 1;
+    return [
+      "M",
+      start.x,
+      start.y,
+      "A",
+      r,
+      r,
+      0,
+      largeArcFlag,
+      1,
+      end.x,
+      end.y,
+    ].join(" ");
+  };
+
+  const bgPath = describeArc(cx, cy, radius, -180, 0);
+  const fillPath = describeArc(cx, cy, radius, -180, angle);
+
+  // Tick marks
+  const ticks = [0, 25, 50, 75, 100];
 
   return (
     <div className="card p-5 mb-4 text-center">
       <h2 className="font-heading font-semibold mb-1">{t("examReadiness")}</h2>
       <p className="text-xs text-muted mb-4">{t("readinessDesc")}</p>
 
-      <div className="relative mx-auto w-fit">
-        <svg width={radius * 2} height={radius} className="mx-auto">
+      <div className="relative mx-auto" style={{ width: size, height: cy + 10 }}>
+        <svg width={size} height={cy + 10} className="mx-auto">
           {/* Background arc */}
           <path
-            d={`M ${stroke / 2} ${radius} A ${normalizedRadius} ${normalizedRadius} 0 0 1 ${radius * 2 - stroke / 2} ${radius}`}
+            d={bgPath}
             fill="none"
             stroke="#E5E7EB"
-            strokeWidth={stroke}
+            strokeWidth={strokeWidth}
             strokeLinecap="round"
           />
-          {/* Foreground arc */}
+
+          {/* Filled arc */}
           <path
-            d={`M ${stroke / 2} ${radius} A ${normalizedRadius} ${normalizedRadius} 0 0 1 ${radius * 2 - stroke / 2} ${radius}`}
+            d={fillPath}
             fill="none"
-            stroke={color}
-            strokeWidth={stroke}
+            stroke={arcColor}
+            strokeWidth={strokeWidth}
             strokeLinecap="round"
-            strokeDasharray={circumference}
-            strokeDashoffset={strokeDashoffset}
             className="transition-all duration-700"
           />
+
+          {/* Tick marks */}
+          {ticks.map((tick) => {
+            const a = -180 + (tick / 100) * 180;
+            const r = (a * Math.PI) / 180;
+            const x1 = cx + (radius - strokeWidth / 2 - 4) * Math.cos(r);
+            const y1 = cy + (radius - strokeWidth / 2 - 4) * Math.sin(r);
+            const x2 = cx + (radius + strokeWidth / 2 + 4) * Math.cos(r);
+            const y2 = cy + (radius + strokeWidth / 2 + 4) * Math.sin(r);
+            const lx = cx + (radius + strokeWidth / 2 + 14) * Math.cos(r);
+            const ly = cy + (radius + strokeWidth / 2 + 14) * Math.sin(r);
+            return (
+              <g key={tick}>
+                <line
+                  x1={x1}
+                  y1={y1}
+                  x2={x2}
+                  y2={y2}
+                  stroke="#9CA3AF"
+                  strokeWidth={1}
+                />
+                <text
+                  x={lx}
+                  y={ly}
+                  textAnchor="middle"
+                  dominantBaseline="middle"
+                  className="text-[9px] fill-muted"
+                >
+                  {tick}
+                </text>
+              </g>
+            );
+          })}
+
+          {/* Needle */}
+          <line
+            x1={cx}
+            y1={cy}
+            x2={needleX}
+            y2={needleY}
+            stroke="#1F2937"
+            strokeWidth={2.5}
+            strokeLinecap="round"
+            className="transition-all duration-700"
+          />
+
+          {/* Needle pivot */}
+          <circle cx={cx} cy={cy} r={5} fill="#1F2937" />
         </svg>
-        <div className="absolute inset-0 flex flex-col items-center justify-end pb-1">
-          <span className="text-2xl">{emoji}</span>
-          <span className="font-heading text-xl font-bold" style={{ color }}>
-            {readiness}%
-          </span>
+
+        {/* Center label */}
+        <div
+          className="absolute left-1/2 -translate-x-1/2 font-heading text-2xl font-bold"
+          style={{ bottom: 0, color: arcColor }}
+        >
+          {readiness}%
         </div>
       </div>
 
-      <p className="mt-2 font-semibold text-sm" style={{ color }}>
+      <p className="mt-6 font-semibold text-sm" style={{ color: arcColor }}>
         {label}
       </p>
 
