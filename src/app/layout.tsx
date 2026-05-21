@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Sarabun, Kanit } from "next/font/google";
 import { LanguageProvider } from "@/lib/language-context";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 const sarabun = Sarabun({
@@ -51,6 +52,7 @@ export default function RootLayout({
       <body className="antialiased">
         <LanguageProvider>
           {children}
+          <Footer />
         </LanguageProvider>
       </body>
     </html>

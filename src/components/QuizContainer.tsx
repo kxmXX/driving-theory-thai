@@ -4,7 +4,7 @@ import { useState, useEffect, useCallback, useRef } from "react";
 import { useRouter } from "next/navigation";
 import { Question, QuizMode, Category, UserSession } from "@/types";
 import { drawQuestions, getCategoryLabel } from "@/lib/quiz-engine";
-import { loadSession, saveSession, recordQuestionResult, recordSession } from "@/lib/session";
+import { loadSession, saveSession, recordResult, recordSession } from "@/lib/session";
 import { useLanguage } from "@/lib/language-context";
 import QuestionCard from "./QuestionCard";
 import ExplanationPanel from "./ExplanationPanel";
@@ -72,7 +72,7 @@ export default function QuizContainer({
       const isCorrect = index === currentQuestion.correct;
 
       if (session) {
-        const updated = recordQuestionResult(
+        const updated = recordResult(
           session,
           currentQuestion.id,
           currentQuestion.category,

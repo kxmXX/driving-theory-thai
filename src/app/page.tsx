@@ -27,12 +27,10 @@ export default function HomePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* Government Header */}
       <header className="gov-header text-white">
         <div className="mx-auto max-w-xl px-4 py-5">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              {/* Thai Steering Wheel / Driving License Emblem */}
               <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full border-2 border-gov-gold bg-white/10">
                 <svg className="h-8 w-8 text-gov-gold" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={1.5}>
                   <circle cx="12" cy="12" r="10" />
