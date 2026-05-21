@@ -301,7 +301,7 @@
       "You may not pass on a bridge."
     ],
     "correct": 3,
-    "explanation_en": "D) You may not pass on a bridge. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
+    "explanation_en": "D) You may not pass on a bridge. is correct. This is the only answer that fully complies with Thai traffic rules. The other options contain errors or unsafe practices.",
     "image": null,
     "options_th": [
       "คุณไม่สามารถแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
@@ -309,7 +309,12 @@
       "คุณไม่สามารถแซงเมื่อมีสิ่งกีดขวางในช่องทางซ้าย",
       "คุณไม่สามารถแซงบนสะพาน"
     ],
-    "explanation_th": "คุณไม่สามารถแซงบนสะพาน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+    "explanation_th": "คุณไม่สามารถแซงบนสะพาน คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
+    "wrong_explanations_en": {
+      "0": "\"You may not pass on the left on a road with two or more lanes moving in the same direction.\" is incorrect because it violates traffic safety rules or contains factual errors.",
+      "1": "\"You may not pass within 150 meters of an intersection.\" is incorrect because it violates traffic safety rules or contains factual errors.",
+      "2": "\"You may not pass when there is an obstruction in the left lane.\" is incorrect because it violates traffic safety rules or contains factual errors."
+    }
   },
   {
     "id": "Q022",
@@ -923,7 +928,7 @@
       "You may display license plates you have had made yourself."
     ],
     "correct": 0,
-    "explanation_en": "A) You may not drive a vehicle for which the annual tax has not been paid. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) You may not drive a vehicle for which the annual tax has not been paid. is correct. In Thailand, motorcycles must be inspected at 5 years of age for tax renewal. Cars must be inspected starting at 7 years. These inspections ensure vehicles are roadworthy and safe.",
     "image": null,
     "options_th": [
       "คุณไม่สามารถขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปีได้",
@@ -931,7 +936,12 @@
       "คุณไม่จำเป็นต้องพกใบขับขี่ขณะขับขี่",
       "คุณอาจแสดงป้ายทะเบียนที่คุณทำขึ้นเองได้"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ คุณไม่สามารถขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปีได้ การทำความเข้าใจข้อกำหนดเกี่ยวกับเอกสารเป็นสิ่งจำเป็นสำหรับผู้ขับขี่ทุกคนในประเทศไทย"
+    "explanation_th": "คำตอบที่ถูกต้องคือ คุณไม่สามารถขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปีได้ การทำความเข้าใจข้อกำหนดเกี่ยวกับเอกสารเป็นสิ่งจำเป็นสำหรับผู้ขับขี่ทุกคนในประเทศไทย",
+    "wrong_explanations_en": {
+      "1": "\"You may allow someone who does not have a driver license to operate your vehicle.\" is wrong because cars are inspected from 7 years, not 5.",
+      "2": "\"You do not need to carry your driver license when driving.\" is wrong because motorcycles are inspected from 5 years, not 7.",
+      "3": "\"You may display license plates you have had made yourself.\" is wrong because cars are inspected from 7 years, not 10."
+    }
   },
   {
     "id": "Q072",
@@ -1250,7 +1260,7 @@
       "Car with a lifetime of 10 years, wishing to renew the annual tax must have the car to be checked at a private condition."
     ],
     "correct": 0,
-    "explanation_en": "A) Motorcycle that has reached 5 years of life, wishing to renew annual taxes must bring the car to a private condition examination center. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "A) Motorcycle that has reached 5 years of life, wishing to renew annual taxes must bring the car to a private condition examination center. is correct. In Thailand, motorcycles must be inspected at 5 years of age for tax renewal. Cars must be inspected starting at 7 years. These inspections ensure vehicles are roadworthy and safe.",
     "image": null,
     "options_th": [
       "รถจักรยานยนต์ที่มีอายุครบ 5 ปี ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน",
@@ -1258,7 +1268,12 @@
       "รถจักรยานยนต์ที่มีอายุครบ 7 ปี ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน",
       "รถยนต์ที่มีอายุการใช้งาน 10 ปี ผู้ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ รถจักรยานยนต์ที่มีอายุครบ 5 ปี ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน การปฏิบัติที่ถูกต้องเกี่ยวกับรถจักรยานยนต์และอุปกรณ์นิรภัยช่วยลดความเสี่ยงในการบาดเจ็บได้อย่างมาก"
+    "explanation_th": "คำตอบที่ถูกต้องคือ รถจักรยานยนต์ที่มีอายุครบ 5 ปี ประสงค์จะต่ออายุภาษีประจำปี ต้องนำรถไปตรวจสอบที่ศูนย์ตรวจสอบสภาพเอกชน การปฏิบัติที่ถูกต้องเกี่ยวกับรถจักรยานยนต์และอุปกรณ์นิรภัยช่วยลดความเสี่ยงในการบาดเจ็บได้อย่างมาก",
+    "wrong_explanations_en": {
+      "1": "\"The car has 5 years of service life. Those wishing to renew their annual taxes must have the car inspected at a private inspection facility.\" is wrong because cars are inspected from 7 years, not 5.",
+      "2": "\"Motorcycle that has reached 7 years of life, wishing to renew annual tax must bring the car to be inspected at a private condition.\" is wrong because motorcycles are inspected from 5 years, not 7.",
+      "3": "\"Car with a lifetime of 10 years, wishing to renew the annual tax must have the car to be checked at a private condition.\" is wrong because cars are inspected from 7 years, not 10."
+    }
   },
   {
     "id": "Q106",
@@ -1342,7 +1357,7 @@
       "Motorcycles must drive in the left lane of the vehicle."
     ],
     "correct": 3,
-    "explanation_en": "D) Motorcycles must drive in the left lane of the vehicle. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "D) Motorcycles must drive in the left lane of the vehicle. is correct. In Thailand, slower vehicles including motorcycles should use the leftmost lane. Faster vehicles and trucks use the right lanes. This keeps traffic flowing smoothly and reduces the risk of collisions from speed differences.",
     "image": null,
     "options_th": [
       "รถบรรทุกต้องขับในช่องทางขวาสุด",
@@ -1350,7 +1365,12 @@
       "การเปลี่ยนช่องทางไปทางขวาหรือซ้าย อย่ามองกระจกซ้ายหรือขวา",
       "รถจักรยานยนต์ต้องขับในช่องทางซ้ายของยานพาหนะ"
     ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ รถจักรยานยนต์ต้องขับในช่องทางซ้ายของยานพาหนะ การปฏิบัติที่ถูกต้องเกี่ยวกับรถจักรยานยนต์และอุปกรณ์นิรภัยช่วยลดความเสี่ยงในการบาดเจ็บได้อย่างมาก"
+    "explanation_th": "คำตอบที่ถูกต้องคือ รถจักรยานยนต์ต้องขับในช่องทางซ้ายของยานพาหนะ การปฏิบัติที่ถูกต้องเกี่ยวกับรถจักรยานยนต์และอุปกรณ์นิรภัยช่วยลดความเสี่ยงในการบาดเจ็บได้อย่างมาก",
+    "wrong_explanations_en": {
+      "0": "\"The truck must drive in the rightmost lane.\" is wrong because trucks typically use the right lanes, not the rightmost lane exclusively.",
+      "1": "\"The passenger truck must drive in the rightmost lane.\" is wrong because passenger trucks also do not need to stay in the rightmost lane at all times.",
+      "2": "\"Changing the lane to the right or left. Do not look at the left or right mirror.\" is wrong because you must ALWAYS check your mirrors before changing lanes. Not looking is extremely dangerous."
+    }
   },
   {
     "id": "Q115",
@@ -1690,7 +1710,7 @@
       "The car will save more fuel if it runs. With unstable speeds."
     ],
     "correct": 1,
-    "explanation_en": "B) The car will save fuel if driving at a constant speed. is correct. This answer follows Thai traffic rules and ensures safety. Understanding why it is correct helps you remember it for the exam.",
+    "explanation_en": "B) The car will save fuel if driving at a constant speed. is correct. Driving at a constant speed improves fuel efficiency because frequent acceleration and braking waste energy. The engine operates most efficiently at a steady RPM.",
     "image": null,
     "options_th": [
       "รถจะประหยัดน้ำมันมากขึ้นหากวิ่งด้วยความเร็วสูง",
@@ -1698,7 +1718,12 @@
       "รถจะประหยัดน้ำมันมากขึ้นหากเร่งเครื่องยนต์บ่อยๆ",
       "รถจะประหยัดน้ำมันมากขึ้นหากวิ่งด้วยความเร็วที่ไม่คงที่"
     ],
-    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: รถจะประหยัดน้ำมันหากขับด้วยความเร็วคงที่ ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย"
+    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: รถจะประหยัดน้ำมันหากขับด้วยความเร็วคงที่ ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย",
+    "wrong_explanations_en": {
+      "0": "\"The car will save more fuel if it runs at higher speeds.\" is wrong because higher speeds increase air resistance, which dramatically increases fuel consumption.",
+      "2": "\"The car will save more fuel if accelerating the engine frequently.\" is wrong because frequent acceleration burns more fuel than maintaining a steady speed.",
+      "3": "\"The car will save more fuel if it runs. With unstable speeds.\" is wrong because unstable speeds cause the engine to work harder, wasting fuel."
+    }
   },
   {
     "id": "Q137",

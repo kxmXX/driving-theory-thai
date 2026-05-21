@@ -90,7 +90,7 @@
       "You may allow someone else to use your driver license."
     ],
     "correct": 2,
-    "explanation_en": "C) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
+    "explanation_en": "C) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. In Thailand, motorcycles must be inspected at 5 years of age for tax renewal. Cars must be inspected starting at 7 years. These inspections ensure vehicles are roadworthy and safe.",
     "image": null,
     "options_th": [
       "คุณอาจแสดงป้ายทะเบียนที่คุณทำขึ้นเอง",
@@ -98,7 +98,12 @@
       "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี",
       "คุณอาจอนุญาตให้ผู้อื่นใช้ใบขับขี่ของคุณ"
     ],
-    "explanation_th": "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี เป็นข้อกำหนดทางกฎหมายที่ถูกต้อง เอกสารที่ถูกต้องช่วยให้เกิดความรับผิดชอบและการปฏิบัติตามกฎหมายจราจรของไทย"
+    "explanation_th": "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี เป็นข้อกำหนดทางกฎหมายที่ถูกต้อง เอกสารที่ถูกต้องช่วยให้เกิดความรับผิดชอบและการปฏิบัติตามกฎหมายจราจรของไทย",
+    "wrong_explanations_en": {
+      "1": "\"You may allow unlicensed drivers to use your vehicle.\" is wrong because cars are inspected from 7 years, not 5.",
+      "2": "\"It is prohibited to drive a vehicle for which the annual tax has not been paid.\" is wrong because motorcycles are inspected from 5 years, not 7.",
+      "3": "\"You may allow someone else to use your driver license.\" is wrong because cars are inspected from 7 years, not 10."
+    }
   },
   {
     "id": "Q060",
@@ -113,7 +118,7 @@
       "When making a turn, you should give a signal at least 60 meters before turning."
     ],
     "correct": 0,
-    "explanation_en": "A) Slow-moving vehicles must use the left lane. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
+    "explanation_en": "A) Slow-moving vehicles must use the left lane. is correct. This is the only answer that fully complies with Thai traffic rules. The other options contain errors or unsafe practices.",
     "image": null,
     "options_th": [
       "ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย",
@@ -121,7 +126,12 @@
       "เมื่อจะเลี้ยวขวา คุณควรยื่นแขนขวาออกจากยานพาหนะระดับไหล่แล้วยกขึ้นและลง",
       "เมื่อจะเลี้ยว คุณควรให้สัญญาณอย่างน้อย 60 เมตรก่อนเลี้ยว"
     ],
-    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
+    "explanation_th": "ป้ายจราจรนี้แสดงว่า 'ยานพาหนะที่เคลื่อนที่ช้าต้องใช้ช่องทางซ้าย' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี",
+    "wrong_explanations_en": {
+      "1": "\"Within the Bangkok Metropolitan Area, the maximum speed limit is 60 kilometers per hour.\" is incorrect because it violates traffic safety rules or contains factual errors.",
+      "2": "\"When making a right turn, you should extend your right arm from the vehicle at shoulder-level and raise and lower.\" is incorrect because it violates traffic safety rules or contains factual errors.",
+      "3": "\"When making a turn, you should give a signal at least 60 meters before turning.\" is incorrect because it violates traffic safety rules or contains factual errors."
+    }
   },
   {
     "id": "Q063",
@@ -136,7 +146,7 @@
       "You may transport loads that extend no more than 2.5 meters from the front of your vehicle."
     ],
     "correct": 1,
-    "explanation_en": "B) You may transport loads that extend no more than 2.5 meters from the rear of your vehicle. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
+    "explanation_en": "B) You may transport loads that extend no more than 2.5 meters from the rear of your vehicle. is correct. This is the only answer that fully complies with Thai traffic rules. The other options contain errors or unsafe practices.",
     "image": null,
     "options_th": [
       "คุณอาจขนส่งสิ่งของที่ยื่นออกมาด้านละ 1 เมตรจากแต่ละด้านของยานพาหนะของคุณ",
@@ -144,7 +154,12 @@
       "คุณอาจขนส่งสิ่งของที่มีความสูงไม่เกิน 3 เมตร",
       "คุณอาจขนส่งสิ่งของที่ยื่นออกไปด้านหน้าไม่เกิน 2.5 เมตรจากยานพาหนะของคุณ"
     ],
-    "explanation_th": "คุณอาจขนส่งสิ่งของที่ยื่นออกไปด้านหลังไม่เกิน 2.5 เมตรจากยานพาหนะของคุณ คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า"
+    "explanation_th": "คุณอาจขนส่งสิ่งของที่ยื่นออกไปด้านหลังไม่เกิน 2.5 เมตรจากยานพาหนะของคุณ คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
+    "wrong_explanations_en": {
+      "0": "\"You may transport loads that extend one meter out from each side of your vehicle.\" is incorrect because it violates traffic safety rules or contains factual errors.",
+      "2": "\"You may transport loads no more than 3 meters high.\" is incorrect because it violates traffic safety rules or contains factual errors.",
+      "3": "\"You may transport loads that extend no more than 2.5 meters from the front of your vehicle.\" is incorrect because it violates traffic safety rules or contains factual errors."
+    }
   },
   {
     "id": "Q065",
@@ -208,7 +223,7 @@
       "You may display license plates that you have had made yourself."
     ],
     "correct": 1,
-    "explanation_en": "B) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
+    "explanation_en": "B) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. In Thailand, motorcycles must be inspected at 5 years of age for tax renewal. Cars must be inspected starting at 7 years. These inspections ensure vehicles are roadworthy and safe.",
     "image": null,
     "options_th": [
       "คุณอาจอนุญาตให้ผู้ขับขี่ที่ไม่มีใบอนุญาตใช้ยานพาหนะของคุณได้",
@@ -216,7 +231,12 @@
       "คุณอาจอนุญาตให้ผู้อื่นใช้ใบขับขี่ของคุณ",
       "คุณอาจแสดงป้ายทะเบียนที่คุณทำขึ้นเองได้"
     ],
-    "explanation_th": "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี เป็นข้อกำหนดทางกฎหมายที่ถูกต้อง เอกสารที่ถูกต้องช่วยให้เกิดความรับผิดชอบและการปฏิบัติตามกฎหมายจราจรของไทย"
+    "explanation_th": "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี เป็นข้อกำหนดทางกฎหมายที่ถูกต้อง เอกสารที่ถูกต้องช่วยให้เกิดความรับผิดชอบและการปฏิบัติตามกฎหมายจราจรของไทย",
+    "wrong_explanations_en": {
+      "1": "\"It is prohibited to drive a vehicle for which the annual tax has not been paid.\" is wrong because cars are inspected from 7 years, not 5.",
+      "2": "\"You may allow someone else to use your driver license.\" is wrong because motorcycles are inspected from 5 years, not 7.",
+      "3": "\"You may display license plates that you have had made yourself.\" is wrong because cars are inspected from 7 years, not 10."
+    }
   },
   {
     "id": "Q098",
@@ -300,7 +320,7 @@
       "Drive slower than normal or not faster than the sight."
     ],
     "correct": 3,
-    "explanation_en": "D) Drive slower than normal or not faster than the sight. is correct. The two-second rule is the minimum safe following distance in dry conditions. At 60 km/h you travel 17 meters per second, so you need at least 30-34 meters to react and stop safely. Increase to 4 seconds in rain.",
+    "explanation_en": "D) Drive slower than normal or not faster than the sight. is correct. Headlights must be used at night, in tunnels, and during rain or fog. They make you visible to others and help you see the road ahead.",
     "image": null,
     "options_th": [
       "เปิดไฟสูงตลอดเวลาขณะขับขี่",
