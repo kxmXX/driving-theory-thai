@@ -1933,8 +1933,8 @@
       "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางโค้งขวา"
     ],
     "correct": 0,
-    "explanation_en": "This sign indicates that the right lane is ending and drivers in that lane must merge into the left lane, which is the main road. Therefore, drivers on the main road should be aware of vehicles merging from the right.",
-    "explanation_th": "The sign shows a lane on the right merging into the main lane. This indicates that the right lane is ending and drivers in that lane should prepare to merge into the left lane, which is the main road. Therefore, drivers on the main road should be aware of vehicles merging from the right.",
+    "explanation_en": "This sign indicates a junction where the main road has an exit to a parallel road (frontage road). Drivers on the main road who wish to exit should prepare to move to the parallel road. Drivers continuing on the main road should be aware of vehicles slowing down to exit.",
+    "explanation_th": "ป้ายนี้แสดงจุดที่ทางเอกมีทางออกไปยังทางคู่ขนาน ผู้ขับขี่บนทางเอกที่ต้องการออกควรเตรียมไปยังทางคู่ขนาน ผู้ขับขี่ที่ขับตรงไปบนทางเอกควรระมัดระวังรถที่กำลังชะลอเพื่อออก",
     "image": "1000000000209.webp",
     "wrong_explanations_en": {
       "1": "This sign indicates a lane merging FROM the right, not entering the main road FROM a parallel road.",
@@ -1949,20 +1949,20 @@
     "question_en": "When you see this traffic sign, what should you do?",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "Drivers on the main road should prepare to exit the winding road, starting to the left.",
-      "Drivers on the main road should prepare to exit to a parallel road.",
-      "Drivers on the main road should prepare to exit the winding road, starting to the right.",
-      "Drivers on the main road should prepare to enter the winding road, starting to the left."
+      "Drivers on the main road should prepare to exit to the parallel road.",
+      "Drivers on the parallel road should prepare to enter the main road.",
+      "Drivers on the main road should be cautious and prepare to exit a left curve.",
+      "Drivers on the main road should be cautious and prepare to exit a right curve."
     ],
     "options_th": [
-      "ผู้ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มซ้าย",
-      "ผู้ขับขี่บนทางหลักเตรียมตัวออกทางขนาน",
-      "ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มขวา",
-      "ผู้ขับรถในทางหลัก เตรียมเข้าทางคดเคี้ยวเริ่มซ้าย"
+      "ผู้ขับขี่บนทางเอกควรเตรียมออกไปยังทางคู่ขนาน",
+      "ผู้ขับขี่บนทางคู่ขนานควรเตรียมเข้าไปยังทางเอก",
+      "ผู้ขับขี่บนทางเอกควรระมัดระวังและเตรียมออกโค้งซ้าย",
+      "ผู้ขับขี่บนทางเอกควรระมัดระวังและเตรียมออกโค้งขวา"
     ],
-    "correct": 0,
-    "explanation_en": "This sign indicates that the right lane is ending and traffic must merge to the left. Drivers should prepare to move into the left lane to continue on the main road.",
-    "explanation_th": "The sign shows that the right lane is ending and traffic from the right lane must merge into the left lane. The arrows indicate the direction of travel and the merging path. Option 0 correctly describes this situation: 'ผู้ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มซ้าย' which translates to 'Drivers on the main road prepare to exit the winding road starting left'. While 'winding road' might not be the most precise translation, the core meaning of merging left due to a lane ending is captured.",
+    "correct": 1,
+    "explanation_en": "This sign indicates a junction where a parallel road (frontage road) connects to the main road. Vehicles on the parallel road must prepare to merge into or cross the main road, while drivers on the main road should be aware of traffic entering from the parallel road.",
+    "explanation_th": "ป้ายนี้แสดงจุดเชื่อมต่อระหว่างทางคู่ขนานกับทางเอก ผู้ขับขี่บนทางคู่ขนานต้องเตรียมเข้าสู่ทางเอก ขณะที่ผู้ขับขี่บนทางเอกควรระมัดระวังรถที่กำลังเข้าสู่ทางหลักจากทางคู่ขนาน",
     "image": "1000000000210.webp",
     "wrong_explanations_en": {
       "1": "The sign does not indicate an exit to a parallel road; it shows a lane merging situation.",
