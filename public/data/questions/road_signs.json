@@ -881,5 +881,1155 @@
       "1": "\"Drive quickly. Be extra careful when people are working.\" is wrong because speeding up in this situation is dangerous.",
       "2": "\"Drive fast. Increase caution. The machine is working.\" is wrong because speeding up in this situation is dangerous."
     }
+  },
+  {
+    "id": "Q141",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane markings indicating no overtaking",
+    "question_th": "จากภาพเส้นแบ่งช่องทางบนพื้นถนน หมายความว่าอย่างไร",
+    "options": [
+      "ผู้ขับขี่กลับรถได้",
+      "ห้ามผู้ขับขี่แซงเข้าไปในทางเดินรถด้านขวา",
+      "ผู้ขับขี่เลี้ยวขวาได้",
+      "ผู้ขับขี่จอดรถได้"
+    ],
+    "options_th": [
+      "ผู้ขับขี่กลับรถได้",
+      "ห้ามผู้ขับขี่แซงเข้าไปในทางเดินรถด้านขวา",
+      "ผู้ขับขี่เลี้ยวขวาได้",
+      "ผู้ขับขี่จอดรถได้"
+    ],
+    "correct": 1,
+    "explanation_en": "The image shows a solid yellow line next to a dashed yellow line. In Thailand, a solid yellow line indicates a prohibition. When a solid yellow line is adjacent to a lane, it means that crossing that line to enter the adjacent lane is prohibited. In this context, it prohibits overtaking into the right lane.",
+    "explanation_th": "The image shows a solid yellow line next to a dashed yellow line. In Thailand, a solid yellow line indicates a prohibition. When a solid yellow line is adjacent to a lane, it means that crossing that line to enter the adjacent lane is prohibited. In this context, it prohibits overtaking into the right lane.",
+    "image": "1000000000004.webp"
+  },
+  {
+    "id": "Q142",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Caution: Livestock crossing",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถช้าลง และระมัดระวังอาจมีสัตว์ข้ามทาง",
+      "ขับรถช้าลง และระวังเด็กนักเรียน",
+      "ขับรถช้าลง และระมัดระวังคนข้ามถนน",
+      "ขับรถช้าลง และระวังข้างหน้าเป็นสวนสัตว์"
+    ],
+    "options_th": [
+      "ขับรถช้าลง และระมัดระวังอาจมีสัตว์ข้ามทาง",
+      "ขับรถช้าลง และระวังเด็กนักเรียน",
+      "ขับรถช้าลง และระมัดระวังคนข้ามถนน",
+      "ขับรถช้าลง และระวังข้างหน้าเป็นสวนสัตว์"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign depicts a cow, which is a type of livestock. This warning sign indicates that there is a possibility of animals crossing the road, and drivers should slow down and be cautious.",
+    "explanation_th": "The sign depicts a cow, which is a type of livestock. This warning sign indicates that there is a possibility of animals crossing the road, and drivers should slow down and be cautious.",
+    "image": "1000000000010.webp"
+  },
+  {
+    "id": "Q143",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Do not enter sign",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ห้ามขับรถทุกชนิดเข้าไปในทิศทางที่ติดตั้งป้าย",
+      "ห้ามเฉพาะรถเก๋งเข้าไปในเขตที่ติดตั้งป้าย",
+      "ให้รถเข้าไปได้ในเขตที่ติดตั้งป้าย",
+      "ให้คนเดินเข้าไปในเขตที่ติดตั้งป้าย"
+    ],
+    "options_th": [
+      "ห้ามขับรถทุกชนิดเข้าไปในทิศทางที่ติดตั้งป้าย",
+      "ห้ามเฉพาะรถเก๋งเข้าไปในเขตที่ติดตั้งป้าย",
+      "ให้รถเข้าไปได้ในเขตที่ติดตั้งป้าย",
+      "ให้คนเดินเข้าไปในเขตที่ติดตั้งป้าย"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign is a red circle with a white horizontal bar, which universally signifies 'Do Not Enter' or 'No Entry' for vehicles. Therefore, drivers should not proceed in the direction where this sign is posted.",
+    "explanation_th": "The sign is a red circle with a white horizontal bar, which universally signifies 'Do Not Enter' or 'No Entry' for vehicles. Therefore, drivers should not proceed in the direction where this sign is posted.",
+    "image": "1000000000013.webp"
+  },
+  {
+    "id": "Q144",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane markings indicating passing rules",
+    "question_th": "เครื่องหมายนี้ หมายความว่าอย่างไร",
+    "options": [
+      "ห้ามเลี้ยวซ้ายหรือเลี้ยวขวา",
+      "ให้ขับรถไปทางเดียวด้านซ้าย",
+      "เส้นทึบห้ามผ่าน แต่เส้นประอาจแซงได้เมื่อเห็นว่าปลอดภัย",
+      "ห้ามขับรถตรงไปหรือเลี้ยวขวา"
+    ],
+    "options_th": [
+      "ห้ามเลี้ยวซ้ายหรือเลี้ยวขวา",
+      "ให้ขับรถไปทางเดียวด้านซ้าย",
+      "เส้นทึบห้ามผ่าน แต่เส้นประอาจแซงได้เมื่อเห็นว่าปลอดภัย",
+      "ห้ามขับรถตรงไปหรือเลี้ยวขวา"
+    ],
+    "correct": 2,
+    "explanation_en": "The image shows a solid yellow line next to a dashed yellow line. In Thailand, a solid line indicates no passing, while a dashed line indicates that passing is permitted when safe. Therefore, the solid line prohibits passing, but the dashed line allows it when conditions are safe.",
+    "explanation_th": "The image shows a solid yellow line next to a dashed yellow line. In Thailand, a solid line indicates no passing, while a dashed line indicates that passing is permitted when safe. Therefore, the solid line prohibits passing, but the dashed line allows it when conditions are safe.",
+    "image": "1000000000014.webp"
+  },
+  {
+    "id": "Q145",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Survey work ahead",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ให้ขับรถช้าลง และระมัดระวัง เครื่องจักรกำลังทำงาน",
+      "ให้ขับรถช้าลง และระมัดระวัง คนงานกำลังทำงาน",
+      "ให้ขับรถช้าลง และระมัดระวัง ข้างหน้ามีงานสำรวจทาง",
+      "ให้ขับรถช้าลง และระมัดระวังคนงานกำลัง สำรวจสิ่งก่อสร้าง"
+    ],
+    "options_th": [
+      "ให้ขับรถช้าลง และระมัดระวัง เครื่องจักรกำลังทำงาน",
+      "ให้ขับรถช้าลง และระมัดระวัง คนงานกำลังทำงาน",
+      "ให้ขับรถช้าลง และระมัดระวัง ข้างหน้ามีงานสำรวจทาง",
+      "ให้ขับรถช้าลง และระมัดระวังคนงานกำลัง สำรวจสิ่งก่อสร้าง"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign depicts a person wearing a hard hat and looking through a surveying instrument mounted on a tripod. This symbol indicates that survey work is being conducted ahead, and drivers should slow down and be cautious.",
+    "explanation_th": "The sign depicts a person wearing a hard hat and looking through a surveying instrument mounted on a tripod. This symbol indicates that survey work is being conducted ahead, and drivers should slow down and be cautious.",
+    "image": "1000000000021.webp"
+  },
+  {
+    "id": "Q146",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "U-turn permitted area",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลงและสามารถกลับรถได้เมื่อปลอดภัย",
+      "ขับรถให้ช้าลงและสามารถกลับรถได้เฉพาะรถยนต์",
+      "ขับรถให้ช้าลง ห้ามกลับรถ",
+      "ขับรถให้ช้าลงและให้เลี้ยวซ้ายได้"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลงและสามารถกลับรถได้เมื่อปลอดภัย",
+      "ขับรถให้ช้าลงและสามารถกลับรถได้เฉพาะรถยนต์",
+      "ขับรถให้ช้าลง ห้ามกลับรถ",
+      "ขับรถให้ช้าลงและให้เลี้ยวซ้ายได้"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign depicts a U-turn arrow and the Thai text 'จุดกลับรถ' (jut klap rot), which translates to 'U-turn point' or 'U-turn area'. This indicates that U-turns are permitted at this location. Drivers should slow down and make the U-turn when it is safe to do so.",
+    "explanation_th": "The sign depicts a U-turn arrow and the Thai text 'จุดกลับรถ' (jut klap rot), which translates to 'U-turn point' or 'U-turn area'. This indicates that U-turns are permitted at this location. Drivers should slow down and make the U-turn when it is safe to do so.",
+    "image": "1000000000028.webp"
+  },
+  {
+    "id": "Q147",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Steep downgrade ahead",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ขับรถด้วยความเร็ว เพราะมีหินร่วง",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวังให้ปลดเกียร์ หรือดับเครื่องทันทีเพื่อความปลอดภัย",
+      "ขับรถให้ช้าลง และระมัดระวังอันตรายจากรถที่สวนมา ทางข้างหน้าเป็นทางขึ้นลาดชัน",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวังทางลงลาดชันให้ใช้เกียร์ว่าง"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ขับรถด้วยความเร็ว เพราะมีหินร่วง",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวังให้ปลดเกียร์ หรือดับเครื่องทันทีเพื่อความปลอดภัย",
+      "ขับรถให้ช้าลง และระมัดระวังอันตรายจากรถที่สวนมา ทางข้างหน้าเป็นทางขึ้นลาดชัน",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวังทางลงลาดชันให้ใช้เกียร์ว่าง"
+    ],
+    "correct": 3,
+    "explanation_en": "The sign depicts a truck going downhill with '8%' indicating an 8% grade. This signifies a steep downgrade ahead. Drivers should slow down, increase caution, and use a lower gear (not neutral) to control speed and prevent brake overheating. Option 3 correctly advises slowing down, increasing caution, and mentions a downgrade, although it incorrectly suggests using neutral gear. However, among the given options, it is the closest to the correct advice for a steep downgrade.",
+    "explanation_th": "The sign depicts a truck going downhill with '8%' indicating an 8% grade. This signifies a steep downgrade ahead. Drivers should slow down, increase caution, and use a lower gear (not neutral) to control speed and prevent brake overheating. Option 3 correctly advises slowing down, increasing caution, and mentions a downgrade, although it incorrectly suggests using neutral gear. However, among the given options, it is the closest to the correct advice for a steep downgrade.",
+    "image": "1000000000032.webp"
+  },
+  {
+    "id": "Q148",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Red and white striped curb marking",
+    "question_th": "เครื่องหมายขอบทางสีขาว-แดง หมายความว่าอะไร",
+    "options": [
+      "ห้ามจอดรถทุกชนิดยกเว้นรถยนต์",
+      "ห้ามจอดแต่หยุดได้ชั่วขณะ",
+      "ห้ามหยุดแต่สามารถจอดรถได้ทุกชนิด",
+      "ห้ามหยุดห้ามจอดรถทุกชนิด"
+    ],
+    "options_th": [
+      "ห้ามจอดรถทุกชนิดยกเว้นรถยนต์",
+      "ห้ามจอดแต่หยุดได้ชั่วขณะ",
+      "ห้ามหยุดแต่สามารถจอดรถได้ทุกชนิด",
+      "ห้ามหยุดห้ามจอดรถทุกชนิด"
+    ],
+    "correct": 3,
+    "explanation_en": "The red and white striped curb marking in Thailand signifies a prohibition of both stopping and parking for all types of vehicles.",
+    "explanation_th": "The red and white striped curb marking in Thailand signifies a prohibition of both stopping and parking for all types of vehicles.",
+    "image": "1000000000033.webp"
+  },
+  {
+    "id": "Q149",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Roundabout ahead",
+    "question_th": "เครื่องหมายนี้หมายความว่าอะไร",
+    "options": [
+      "ทางข้างหน้าเป็นทางแคบลง",
+      "ทางข้างหน้ามีทางเอกตัดกัน",
+      "ทางข้างหน้าจะเป็นทางแยก มีวงเวียน",
+      "ทางข้างหน้าเป็นทางแยก"
+    ],
+    "options_th": [
+      "ทางข้างหน้าเป็นทางแคบลง",
+      "ทางข้างหน้ามีทางเอกตัดกัน",
+      "ทางข้างหน้าจะเป็นทางแยก มีวงเวียน",
+      "ทางข้างหน้าเป็นทางแยก"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign depicts three arrows forming a circular pattern, which is the universal symbol for a roundabout or traffic circle. Therefore, it indicates that a roundabout is ahead.",
+    "explanation_th": "The sign depicts three arrows forming a circular pattern, which is the universal symbol for a roundabout or traffic circle. Therefore, it indicates that a roundabout is ahead.",
+    "image": "1000000000036.webp"
+  },
+  {
+    "id": "Q150",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane merge from the right",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางคู่ข้างหน้า",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางร่วมด้านซ้าย",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้าอาจมีรถเข้ามาร่วมจากทางขวา",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางเอกตัดกัน"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางคู่ข้างหน้า",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางร่วมด้านซ้าย",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้าอาจมีรถเข้ามาร่วมจากทางขวา",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางเอกตัดกัน"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign depicts a lane merging from the right into the current lane. This indicates that traffic from the right will be joining the road ahead, so drivers should slow down and be cautious of vehicles entering their lane.",
+    "explanation_th": "The sign depicts a lane merging from the right into the current lane. This indicates that traffic from the right will be joining the road ahead, so drivers should slow down and be cautious of vehicles entering their lane.",
+    "image": "1000000000037.webp"
+  },
+  {
+    "id": "Q151",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "No honking sign",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ให้หยุดรถ",
+      "ให้ใช้เสียงได้",
+      "ห้ามจอดรถ",
+      "ห้ามใช้เสียง"
+    ],
+    "options_th": [
+      "ให้หยุดรถ",
+      "ให้ใช้เสียงได้",
+      "ห้ามจอดรถ",
+      "ห้ามใช้เสียง"
+    ],
+    "correct": 3,
+    "explanation_en": "The image shows a traffic sign with a horn symbol inside a red circle with a diagonal red line through it. This is a universal symbol for 'No Honking' or 'No Sounding Horn'. Therefore, drivers should not use their horns.",
+    "explanation_th": "The image shows a traffic sign with a horn symbol inside a red circle with a diagonal red line through it. This is a universal symbol for 'No Honking' or 'No Sounding Horn'. Therefore, drivers should not use their horns.",
+    "image": "1000000000042.webp"
+  },
+  {
+    "id": "Q152",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Divided highway ends",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางข้างหน้าเป็นทางแคบด้านขวา",
+      "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางข้างหน้าเป็นทางลงลาดชัน",
+      "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางข้างหน้าเป็นทางแคบด้านซ้าย",
+      "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางข้างหน้าเป็นทางคู่มีเกาะ"
+    ],
+    "options_th": [
+      "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางข้างหน้าเป็นทางแคบด้านขวา",
+      "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางข้างหน้าเป็นทางลงลาดชัน",
+      "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางข้างหน้าเป็นทางแคบด้านซ้าย",
+      "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางข้างหน้าเป็นทางคู่มีเกาะ"
+    ],
+    "correct": 3,
+    "explanation_en": "The sign depicts a divided highway where the median (represented by the shield shape) ends, and the two directions of traffic will merge. The arrows show traffic continuing in both directions, indicating the road ahead is a two-way road with a median. Therefore, drivers should be cautious and drive to the left, as the road ahead is a divided road with a median.",
+    "explanation_th": "The sign depicts a divided highway where the median (represented by the shield shape) ends, and the two directions of traffic will merge. The arrows show traffic continuing in both directions, indicating the road ahead is a two-way road with a median. Therefore, drivers should be cautious and drive to the left, as the road ahead is a divided road with a median.",
+    "image": "1000000000044.webp"
+  },
+  {
+    "id": "Q153",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane direction arrows indicating traffic flow",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง ให้เลี้ยวขวา",
+      "เพิ่มความระมัดระวัง ห้ามเลี้ยวซ้าย",
+      "ขับรถไปทางขวา ให้เลี้ยวซ้าย",
+      "ขับรถภายในช่องจราจร ห้ามแซง ห้ามขับรถผ่านหรือคร่อมเส้นโดยเด็ดขาด"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง ให้เลี้ยวขวา",
+      "เพิ่มความระมัดระวัง ห้ามเลี้ยวซ้าย",
+      "ขับรถไปทางขวา ให้เลี้ยวซ้าย",
+      "ขับรถภายในช่องจราจร ห้ามแซง ห้ามขับรถผ่านหรือคร่อมเส้นโดยเด็ดขาด"
+    ],
+    "correct": 3,
+    "explanation_en": "The image shows two white arrows pointing to the right, one above and one below a white line. This road marking indicates that traffic should proceed within the designated lanes, and overtaking or crossing the line is prohibited. Answer choice 3 accurately describes this rule.",
+    "explanation_th": "The image shows two white arrows pointing to the right, one above and one below a white line. This road marking indicates that traffic should proceed within the designated lanes, and overtaking or crossing the line is prohibited. Answer choice 3 accurately describes this rule.",
+    "image": "1000000000048.webp"
+  },
+  {
+    "id": "Q154",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Railroad crossing ahead (no gates)",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถเร็วได้ไม่ต้องหยุดรถ ทางข้ามทางรถไฟไม่มีเครื่องกั้น",
+      "ขับรถให้ช้าลง พร้อมที่จะหยุดรถเมื่อมีเสียงสัญญาณหรือมีเครื่องกั้นทางปิดกั้น",
+      "ขับรถให้ช้าลง พร้อมที่จะหยุด ทางข้างหน้า ไม่มีเครื่องกั้น",
+      "ขับรถให้ช้าลง พร้อมที่จะหยุด สะพานแคบ"
+    ],
+    "options_th": [
+      "ขับรถเร็วได้ไม่ต้องหยุดรถ ทางข้ามทางรถไฟไม่มีเครื่องกั้น",
+      "ขับรถให้ช้าลง พร้อมที่จะหยุดรถเมื่อมีเสียงสัญญาณหรือมีเครื่องกั้นทางปิดกั้น",
+      "ขับรถให้ช้าลง พร้อมที่จะหยุด ทางข้างหน้า ไม่มีเครื่องกั้น",
+      "ขับรถให้ช้าลง พร้อมที่จะหยุด สะพานแคบ"
+    ],
+    "correct": 1,
+    "explanation_en": "The sign depicts a fence-like symbol, which represents a railroad crossing. The question asks how to proceed when encountering this sign. Answer choice 1 correctly advises to slow down and be prepared to stop if there are signals or gates, which is the standard procedure for approaching a railroad crossing, especially one that might have gates or signals.",
+    "explanation_th": "The sign depicts a fence-like symbol, which represents a railroad crossing. The question asks how to proceed when encountering this sign. Answer choice 1 correctly advises to slow down and be prepared to stop if there are signals or gates, which is the standard procedure for approaching a railroad crossing, especially one that might have gates or signals.",
+    "image": "1000000000049.webp"
+  },
+  {
+    "id": "Q155",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Side road junction to the right",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางเอกแยกทางเอกทางซ้าย",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางโทแยกทางโททางขวา",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ามีทางโทแยกไปทางขวา",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางเอกแยกทางเอกทางขวา"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางเอกแยกทางเอกทางซ้าย",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางโทแยกทางโททางขวา",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ามีทางโทแยกไปทางขวา",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางเอกแยกทางเอกทางขวา"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign depicts a T-junction where a side road joins from the right. Drivers should slow down and be extra cautious as vehicles may be entering or exiting the main road from this junction.",
+    "explanation_th": "The sign depicts a T-junction where a side road joins from the right. Drivers should slow down and be extra cautious as vehicles may be entering or exiting the main road from this junction.",
+    "image": "1000000000053.webp"
+  },
+  {
+    "id": "Q156",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane reduction on the left",
+    "question_th": "เครื่องหมายนี้หมายความว่าอะไร",
+    "options": [
+      "ช่องจราจรปิดทั้งสองด้าน",
+      "ช่องจราจรปิดด้านซ้าย",
+      "ช่องจราจรปิดด้านขวา",
+      "ช่องจราจรลดลงด้านซ้าย"
+    ],
+    "options_th": [
+      "ช่องจราจรปิดทั้งสองด้าน",
+      "ช่องจราจรปิดด้านซ้าย",
+      "ช่องจราจรปิดด้านขวา",
+      "ช่องจราจรลดลงด้านซ้าย"
+    ],
+    "correct": 3,
+    "explanation_en": "The sign depicts two lanes of traffic indicated by arrows. The left lane is shown as ending or being reduced, with a red bar indicating the closure or reduction. The right lane continues straight. This signifies that the left lane is closing or merging.",
+    "explanation_th": "The sign depicts two lanes of traffic indicated by arrows. The left lane is shown as ending or being reduced, with a red bar indicating the closure or reduction. The right lane continues straight. This signifies that the left lane is closing or merging.",
+    "image": "1000000000054.webp"
+  },
+  {
+    "id": "Q157",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Keep left sign",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+    "options": [
+      "ให้ชิดขวา",
+      "ให้ชิดซ้าย",
+      "ห้ามชิดซ้าย",
+      "ห้ามชิดขวา"
+    ],
+    "options_th": [
+      "ให้ชิดขวา",
+      "ให้ชิดซ้าย",
+      "ห้ามชิดซ้าย",
+      "ห้ามชิดขวา"
+    ],
+    "correct": 1,
+    "explanation_en": "The sign is a blue circle with a white arrow pointing diagonally down and to the left. This is a mandatory direction sign indicating that drivers must keep to the left.",
+    "explanation_th": "The sign is a blue circle with a white arrow pointing diagonally down and to the left. This is a mandatory direction sign indicating that drivers must keep to the left.",
+    "image": "1000000000059.webp"
+  },
+  {
+    "id": "Q158",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Broken white line road marking",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+    "options": [
+      "สามารถเปลี่ยนช่องเดินรถหรือช่องจราจรหรือสามารถแซงได้",
+      "ห้ามเลี้ยวซ้ายหรือเลี้ยวขวา ห้ามเปลี่ยนช่องการจราจร",
+      "ให้ขับรถไปทางเดียวด้านซ้าย ห้ามเปลี่ยนช่องการจราจร",
+      "ห้ามขับรถตรงไปหรือเลี้ยวขวา ห้ามเปลี่ยนช่องการจราจร"
+    ],
+    "options_th": [
+      "สามารถเปลี่ยนช่องเดินรถหรือช่องจราจรหรือสามารถแซงได้",
+      "ห้ามเลี้ยวซ้ายหรือเลี้ยวขวา ห้ามเปลี่ยนช่องการจราจร",
+      "ให้ขับรถไปทางเดียวด้านซ้าย ห้ามเปลี่ยนช่องการจราจร",
+      "ห้ามขับรถตรงไปหรือเลี้ยวขวา ห้ามเปลี่ยนช่องการจราจร"
+    ],
+    "correct": 0,
+    "explanation_en": "A broken white line on the road indicates that it is permissible to change lanes or overtake other vehicles, provided it is safe to do so.",
+    "explanation_th": "A broken white line on the road indicates that it is permissible to change lanes or overtake other vehicles, provided it is safe to do so.",
+    "image": "1000000000066.webp"
+  },
+  {
+    "id": "Q159",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "No left turn or U-turn",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+    "options": [
+      "ให้เลี้ยวซ้ายหรือกลับรถ",
+      "ห้ามเลี้ยวซ้ายหรือกลับรถ",
+      "ให้เลี้ยวขวาหรือกลับรถ",
+      "ห้ามเลี้ยวขวาหรือกลับรถ"
+    ],
+    "options_th": [
+      "ให้เลี้ยวซ้ายหรือกลับรถ",
+      "ห้ามเลี้ยวซ้ายหรือกลับรถ",
+      "ให้เลี้ยวขวาหรือกลับรถ",
+      "ห้ามเลี้ยวขวาหรือกลับรถ"
+    ],
+    "correct": 1,
+    "explanation_en": "The sign depicts a left turn arrow and a U-turn arrow, both crossed out by a red diagonal line within a red circle. This indicates that both left turns and U-turns are prohibited.",
+    "explanation_th": "The sign depicts a left turn arrow and a U-turn arrow, both crossed out by a red diagonal line within a red circle. This indicates that both left turns and U-turns are prohibited.",
+    "image": "1000000000067.webp"
+  },
+  {
+    "id": "Q160",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Train crossing ahead warning sign",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถได้อย่างรวดเร็วเพราะไม่มีสิ่งกีดขวาง",
+      "ขับรถให้ช้าลง ถ้ามีรถไฟกำลังจะผ่าน ให้หยุดรถห่างจากทางรถไฟอย่างน้อย 5 เมตร",
+      "ขับรถด้วยเร็วปกติ แต่ให้ระวังรถไฟกำลังผ่าน",
+      "ขับรถอย่างรวดเร็ว เพราะมีรถไฟกำลังผ่าน"
+    ],
+    "options_th": [
+      "ขับรถได้อย่างรวดเร็วเพราะไม่มีสิ่งกีดขวาง",
+      "ขับรถให้ช้าลง ถ้ามีรถไฟกำลังจะผ่าน ให้หยุดรถห่างจากทางรถไฟอย่างน้อย 5 เมตร",
+      "ขับรถด้วยเร็วปกติ แต่ให้ระวังรถไฟกำลังผ่าน",
+      "ขับรถอย่างรวดเร็ว เพราะมีรถไฟกำลังผ่าน"
+    ],
+    "correct": 1,
+    "explanation_en": "The sign depicts a train, indicating an upcoming train crossing. Drivers should slow down and be prepared to stop if a train is approaching, maintaining a safe distance of at least 5 meters from the railway tracks.",
+    "explanation_th": "The sign depicts a train, indicating an upcoming train crossing. Drivers should slow down and be prepared to stop if a train is approaching, maintaining a safe distance of at least 5 meters from the railway tracks.",
+    "image": "1000000000069.webp"
+  },
+  {
+    "id": "Q161",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Weight limit sign",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+    "options": [
+      "ให้รถทุกชนิดกว้างเกินกำหนดผ่าน",
+      "ห้ามรถทุกชนิดน้ำหนักเกิน 10 ตันผ่าน",
+      "ห้ามรถทุกชนิดยาวเกินกำหนดผ่าน",
+      "ให้รถทุกชนิดน้ำหนักเกิน 10 ตันผ่าน"
+    ],
+    "options_th": [
+      "ให้รถทุกชนิดกว้างเกินกำหนดผ่าน",
+      "ห้ามรถทุกชนิดน้ำหนักเกิน 10 ตันผ่าน",
+      "ห้ามรถทุกชนิดยาวเกินกำหนดผ่าน",
+      "ให้รถทุกชนิดน้ำหนักเกิน 10 ตันผ่าน"
+    ],
+    "correct": 1,
+    "explanation_en": "The sign shows the number '10' above the Thai word 'ตัน' (ton), which means ton. The red circle border indicates a prohibition. Therefore, this sign prohibits vehicles weighing over 10 tons from passing.",
+    "explanation_th": "The sign shows the number '10' above the Thai word 'ตัน' (ton), which means ton. The red circle border indicates a prohibition. Therefore, this sign prohibits vehicles weighing over 10 tons from passing.",
+    "image": "1000000000073.webp"
+  },
+  {
+    "id": "Q162",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Steep downgrade sign",
+    "question_th": "เครื่องหมายนี้หมายความว่าอะไร",
+    "options": [
+      "ทางคดเคี้ยว",
+      "ทางขึ้นลาดชัน",
+      "ทางลงลาดชัน",
+      "สะพานแคบ"
+    ],
+    "options_th": [
+      "ทางคดเคี้ยว",
+      "ทางขึ้นลาดชัน",
+      "ทางลงลาดชัน",
+      "สะพานแคบ"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign depicts a truck on a downward slope with '8%' indicating the gradient. This signifies a steep downgrade ahead, warning drivers to be cautious.",
+    "explanation_th": "The sign depicts a truck on a downward slope with '8%' indicating the gradient. This signifies a steep downgrade ahead, warning drivers to be cautious.",
+    "image": "1000000000077.webp"
+  },
+  {
+    "id": "Q163",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Warning sign for low-flying aircraft near an airport.",
+    "question_th": "เครื่องหมายนี้หมายความว่าอะไร",
+    "options": [
+      "จุดนัดพบบริเวณสนามบิน",
+      "จุดรับส่งสัมภาระเครื่องบิน",
+      "ระวังเครื่องบิน บินต่ำ",
+      "ลานจอดรถภายในสนามบิน"
+    ],
+    "options_th": [
+      "จุดนัดพบบริเวณสนามบิน",
+      "จุดรับส่งสัมภาระเครื่องบิน",
+      "ระวังเครื่องบิน บินต่ำ",
+      "ลานจอดรถภายในสนามบิน"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign is a yellow diamond shape with a black border, which is a standard warning sign. The symbol of an airplane indicates an aviation-related hazard. In the context of traffic signs, an airplane symbol on a warning sign typically signifies the possibility of low-flying aircraft, especially near airports. Options [0], [1], and [3] describe specific airport facilities or services, which are usually indicated by different types of signs (often blue or green informational signs).",
+    "explanation_th": "The sign is a yellow diamond shape with a black border, which is a standard warning sign. The symbol of an airplane indicates an aviation-related hazard. In the context of traffic signs, an airplane symbol on a warning sign typically signifies the possibility of low-flying aircraft, especially near airports. Options [0], [1], and [3] describe specific airport facilities or services, which are usually indicated by different types of signs (often blue or green informational signs).",
+    "image": "1000000000081.webp"
+  },
+  {
+    "id": "Q164",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Warning sign for construction machinery operating ahead",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ให้ขับรถช้าลง และระมัดระวัง ข้างหน้ามีงานสำรวจทาง",
+      "ให้ขับรถช้าลง และระมัดระวังคนงานกำลัง สำรวจสิ่งก่อสร้าง",
+      "ให้ขับรถช้าลง และระมัดระวัง เครื่องจักรกำลังทำงาน",
+      "ให้ขับรถช้าลง และระมัดระวัง คนงานกำลังทำงาน"
+    ],
+    "options_th": [
+      "ให้ขับรถช้าลง และระมัดระวัง ข้างหน้ามีงานสำรวจทาง",
+      "ให้ขับรถช้าลง และระมัดระวังคนงานกำลัง สำรวจสิ่งก่อสร้าง",
+      "ให้ขับรถช้าลง และระมัดระวัง เครื่องจักรกำลังทำงาน",
+      "ให้ขับรถช้าลง และระมัดระวัง คนงานกำลังทำงาน"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign is an orange diamond shape, which is a warning sign. The symbol depicts a bulldozer or similar construction vehicle with a person operating it. This indicates that there may be construction machinery working in the area, and drivers should slow down and be cautious.",
+    "explanation_th": "The sign is an orange diamond shape, which is a warning sign. The symbol depicts a bulldozer or similar construction vehicle with a person operating it. This indicates that there may be construction machinery working in the area, and drivers should slow down and be cautious.",
+    "image": "1000000000098.webp"
+  },
+  {
+    "id": "Q165",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane direction arrows indicating two-way traffic with a dashed line, allowing lane changes and overtaking.",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "เพิ่มความระมัดระวัง และห้ามแซง",
+      "ขับรถให้ช้าลง ขับรถคร่อมเส้นได้",
+      "ขับรถในช่องการจราจร ห้ามคร่อมเส้น แต่แซงได้",
+      "เพิ่มความระมัดระวัง ห้ามเปลี่ยนช่องการจราจร"
+    ],
+    "options_th": [
+      "เพิ่มความระมัดระวัง และห้ามแซง",
+      "ขับรถให้ช้าลง ขับรถคร่อมเส้นได้",
+      "ขับรถในช่องการจราจร ห้ามคร่อมเส้น แต่แซงได้",
+      "เพิ่มความระมัดระวัง ห้ามเปลี่ยนช่องการจราจร"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign depicts a dashed white line separating two lanes, with arrows in each lane pointing in opposite directions. This indicates a two-way road where overtaking and changing lanes are permitted. Therefore, drivers should drive in their lane, not cross the dashed line unnecessarily, but overtaking is allowed.",
+    "explanation_th": "The sign depicts a dashed white line separating two lanes, with arrows in each lane pointing in opposite directions. This indicates a two-way road where overtaking and changing lanes are permitted. Therefore, drivers should drive in their lane, not cross the dashed line unnecessarily, but overtaking is allowed.",
+    "image": "1000000000163.webp"
+  },
+  {
+    "id": "Q166",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Prohibition of lane changing to the right",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+    "options": [
+      "ห้ามเปลี่ยนช่องเดินรถไปทางขวา",
+      "ให้เปลี่ยนช่องเดินรถไปทางซ้าย",
+      "ให้เปลี่ยนช่องเดินรถไปทางขวา",
+      "ห้ามเปลี่ยนช่องเดินรถไปทางซ้าย"
+    ],
+    "options_th": [
+      "ห้ามเปลี่ยนช่องเดินรถไปทางขวา",
+      "ให้เปลี่ยนช่องเดินรถไปทางซ้าย",
+      "ให้เปลี่ยนช่องเดินรถไปทางขวา",
+      "ห้ามเปลี่ยนช่องเดินรถไปทางซ้าย"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign is a regulatory sign indicating a prohibition. The image depicts two lanes, with an arrow showing a vehicle in the right lane attempting to move to the left lane, and then back to the right lane in a serpentine manner. The red circle with a diagonal bar signifies prohibition. Therefore, the sign prohibits changing lanes to the right.",
+    "explanation_th": "The sign is a regulatory sign indicating a prohibition. The image depicts two lanes, with an arrow showing a vehicle in the right lane attempting to move to the left lane, and then back to the right lane in a serpentine manner. The red circle with a diagonal bar signifies prohibition. Therefore, the sign prohibits changing lanes to the right.",
+    "image": "1000000000169.webp"
+  },
+  {
+    "id": "Q167",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "No trucks allowed",
+    "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
+    "options": [
+      "ห้ามรถบรรทุกทุกชนิดผ่านเข้าออกในเขตทางที่ติดตั้งป้าย",
+      "ให้รถยนต์ทุกชนิดผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+      "ให้รถบรรทุกผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+      "ห้ามรถยนต์ทุกชนิดผ่านเข้าไปในเขตที่ติดตั้งป้าย"
+    ],
+    "options_th": [
+      "ห้ามรถบรรทุกทุกชนิดผ่านเข้าออกในเขตทางที่ติดตั้งป้าย",
+      "ให้รถยนต์ทุกชนิดผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+      "ให้รถบรรทุกผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+      "ห้ามรถยนต์ทุกชนิดผ่านเข้าไปในเขตที่ติดตั้งป้าย"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign is a regulatory sign indicating a prohibition. The image depicts a truck, and the red circle with a diagonal line through it signifies prohibition. Therefore, the sign means that all types of trucks are prohibited from entering the area.",
+    "explanation_th": "The sign is a regulatory sign indicating a prohibition. The image depicts a truck, and the red circle with a diagonal line through it signifies prohibition. Therefore, the sign means that all types of trucks are prohibited from entering the area.",
+    "image": "1000000000172.webp"
+  },
+  {
+    "id": "Q168",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Bus lane or bus-only lane",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+    "options": [
+      "ห้ามแซงล้ำเข้าไปในช่องเดินรถประจำทาง",
+      "ให้ขับรถตรงไปหรือเลี้ยวขวา",
+      "ขับรถเข้าช่องเดินรถยนต์และรถจักรยานยนต์",
+      "ห้ามขับรถตรงไปหรือเลี้ยวขวา"
+    ],
+    "options_th": [
+      "ห้ามแซงล้ำเข้าไปในช่องเดินรถประจำทาง",
+      "ให้ขับรถตรงไปหรือเลี้ยวขวา",
+      "ขับรถเข้าช่องเดินรถยนต์และรถจักรยานยนต์",
+      "ห้ามขับรถตรงไปหรือเลี้ยวขวา"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign depicts a bus within a blue circle, which is a mandatory sign in Thailand. This sign indicates a bus lane or a lane designated for buses. Therefore, other vehicles are prohibited from entering this lane, especially for overtaking. Option [0] correctly states that overtaking into the bus lane is prohibited.",
+    "explanation_th": "The sign depicts a bus within a blue circle, which is a mandatory sign in Thailand. This sign indicates a bus lane or a lane designated for buses. Therefore, other vehicles are prohibited from entering this lane, especially for overtaking. Option [0] correctly states that overtaking into the bus lane is prohibited.",
+    "image": "1000000000184.webp"
+  },
+  {
+    "id": "Q169",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Warning sign for a T-junction where the main road is intersected by a side road from the left.",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ามีทางโทแยกไปทางซ้าย",
+      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัววาย",
+      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางโทตัดกับทางโทรูปตัวที"
+    ],
+    "options_th": [
+      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ามีทางโทแยกไปทางซ้าย",
+      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัววาย",
+      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางโทตัดกับทางโทรูปตัวที"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign is a yellow diamond warning sign, indicating a hazard ahead. The symbol depicts a T-junction where a road from the left joins the main road. In Thai traffic law, this sign signifies that the road ahead is a major road (ทางเอก) that is intersected by another road from the left, forming a T-junction. Drivers should exercise caution. Option [0] accurately describes this situation: 'ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที' (Drive with caution, ahead is a major road intersecting in a T-shape). Option [1] is incorrect because the sign doesn't specify a minor road (ทางโท) or a turn to the left. Option [2] is incorrect because the symbol does not represent a Y-junction. Option [3] is incorrect because it describes two minor roads intersecting, which is not what the sign depicts.",
+    "explanation_th": "The sign is a yellow diamond warning sign, indicating a hazard ahead. The symbol depicts a T-junction where a road from the left joins the main road. In Thai traffic law, this sign signifies that the road ahead is a major road (ทางเอก) that is intersected by another road from the left, forming a T-junction. Drivers should exercise caution. Option [0] accurately describes this situation: 'ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที' (Drive with caution, ahead is a major road intersecting in a T-shape). Option [1] is incorrect because the sign doesn't specify a minor road (ทางโท) or a turn to the left. Option [2] is incorrect because the symbol does not represent a Y-junction. Option [3] is incorrect because it describes two minor roads intersecting, which is not what the sign depicts.",
+    "image": "1000000000191.webp"
+  },
+  {
+    "id": "Q170",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Warning sign for a T-junction ahead, indicating that the main road (ทางเอก) intersects with another road (ทางโท) forming a T-shape.",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ทางเอกตัดกันรูปตัวที",
+      "ทางเอกตัดทางโทรูปตัววาย",
+      "ทางเอกตัดกันรูปตัววาย",
+      "ทางโทแยกทางเอกเยื้องกัน เริ่มซ้าย"
+    ],
+    "options_th": [
+      "ทางเอกตัดกันรูปตัวที",
+      "ทางเอกตัดทางโทรูปตัววาย",
+      "ทางเอกตัดกันรูปตัววาย",
+      "ทางโทแยกทางเอกเยื้องกัน เริ่มซ้าย"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign is a yellow diamond shape, which is a warning sign. The symbol depicts a vertical road intersecting a horizontal road, forming a 'T' shape. In Thai traffic terminology, 'ทางเอก' refers to the main road and 'ทางโท' refers to a secondary road. The sign indicates that the main road is about to intersect with another road, forming a T-junction. Option [0] correctly describes this as 'ทางเอกตัดกันรูปตัวที' (Main road intersects forming a T-shape).",
+    "explanation_th": "The sign is a yellow diamond shape, which is a warning sign. The symbol depicts a vertical road intersecting a horizontal road, forming a 'T' shape. In Thai traffic terminology, 'ทางเอก' refers to the main road and 'ทางโท' refers to a secondary road. The sign indicates that the main road is about to intersect with another road, forming a T-junction. Option [0] correctly describes this as 'ทางเอกตัดกันรูปตัวที' (Main road intersects forming a T-shape).",
+    "image": "1000000000192.webp"
+  },
+  {
+    "id": "Q171",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Warning sign for a staggered intersection where a minor road joins a major road from the left and then from the right.",
+    "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
+    "options": [
+      "ทางโทแยกทางเอกเยื้องกัน เริ่มขวา",
+      "ทางเอกตัดทางโทรูปตัววาย",
+      "ทางเอกตัดกันรูปตัววาย",
+      "ทางเอกตัดกันรูปตัวที"
+    ],
+    "options_th": [
+      "ทางโทแยกทางเอกเยื้องกัน เริ่มขวา",
+      "ทางเอกตัดทางโทรูปตัววาย",
+      "ทางเอกตัดกันรูปตัววาย",
+      "ทางเอกตัดกันรูปตัวที"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign is a yellow diamond warning sign. The symbol depicts a main road (vertical line) with two intersecting minor roads (horizontal lines) that are staggered. The left intersection is higher than the right intersection, indicating that the minor road joins the main road first from the left and then from the right. This corresponds to 'ทางโทแยกทางเอกเยื้องกัน เริ่มขวา' which translates to 'Minor road joins major road staggered, starting from the right' (or more accurately, the main road continues and the minor road joins from the left then the right, with the left join being higher up). Option [1] describes a Y-shaped intersection of a major and minor road, which is incorrect. Option [2] describes a Y-shaped intersection of two major roads, which is incorrect. Option [3] describes a T-intersection of two major roads, which is incorrect.",
+    "explanation_th": "The sign is a yellow diamond warning sign. The symbol depicts a main road (vertical line) with two intersecting minor roads (horizontal lines) that are staggered. The left intersection is higher than the right intersection, indicating that the minor road joins the main road first from the left and then from the right. This corresponds to 'ทางโทแยกทางเอกเยื้องกัน เริ่มขวา' which translates to 'Minor road joins major road staggered, starting from the right' (or more accurately, the main road continues and the minor road joins from the left then the right, with the left join being higher up). Option [1] describes a Y-shaped intersection of a major and minor road, which is incorrect. Option [2] describes a Y-shaped intersection of two major roads, which is incorrect. Option [3] describes a T-intersection of two major roads, which is incorrect.",
+    "image": "1000000000193.webp"
+  },
+  {
+    "id": "Q172",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Traffic sign indicating a side road joining from the left.",
+    "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
+    "options": [
+      "ทางโทเชื่อมทางเอกจากซ้าย",
+      "ทางเอกตัดทางโทรูปตัวที",
+      "ทางเอกตัดกันรูปตัวที",
+      "ทางเอกตัดกันรูปตัววาย"
+    ],
+    "options_th": [
+      "ทางโทเชื่อมทางเอกจากซ้าย",
+      "ทางเอกตัดทางโทรูปตัวที",
+      "ทางเอกตัดกันรูปตัวที",
+      "ทางเอกตัดกันรูปตัววาย"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign is a yellow diamond shape, indicating a warning. The symbol depicts a main road (vertical bar) with a side road (angled bar) joining from the left. This corresponds to 'ทางโทเชื่อมทางเอกจากซ้าย' which translates to 'minor road joining the main road from the left'.",
+    "explanation_th": "The sign is a yellow diamond shape, indicating a warning. The symbol depicts a main road (vertical bar) with a side road (angled bar) joining from the left. This corresponds to 'ทางโทเชื่อมทางเอกจากซ้าย' which translates to 'minor road joining the main road from the left'.",
+    "image": "1000000000194.webp"
+  },
+  {
+    "id": "Q173",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Traffic sign indicating a side road joining from the right, with the main road being the one that continues straight.",
+    "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
+    "options": [
+      "ทางโทเชื่อมทางเอกจากซ้าย",
+      "ทางโทเชื่อมทางโทจากซ้าย",
+      "ทางโทเชื่อมทางเอกจากขวา",
+      "ทางเอกเชื่อมทางเอกจากซ้าย"
+    ],
+    "options_th": [
+      "ทางโทเชื่อมทางเอกจากซ้าย",
+      "ทางโทเชื่อมทางโทจากซ้าย",
+      "ทางโทเชื่อมทางเอกจากขวา",
+      "ทางเอกเชื่อมทางเอกจากซ้าย"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign is a yellow diamond shape, which is a warning sign. The symbol depicts a main road (the thicker vertical line) and a side road (the thinner line branching off to the right). The question asks what this sign means. 'ทางเอก' refers to the main road, and 'ทางโท' refers to a secondary or side road. The sign shows a side road joining the main road from the right. Therefore, 'ทางโทเชื่อมทางเอกจากขวา' (secondary road joining the main road from the right) is the correct interpretation.",
+    "explanation_th": "The sign is a yellow diamond shape, which is a warning sign. The symbol depicts a main road (the thicker vertical line) and a side road (the thinner line branching off to the right). The question asks what this sign means. 'ทางเอก' refers to the main road, and 'ทางโท' refers to a secondary or side road. The sign shows a side road joining the main road from the right. Therefore, 'ทางโทเชื่อมทางเอกจากขวา' (secondary road joining the main road from the right) is the correct interpretation.",
+    "image": "1000000000195.webp"
+  },
+  {
+    "id": "Q174",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Y-junction ahead, with the main road (ทางเอก) continuing straight and a secondary road (ทางโท) merging from the left.",
+    "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
+    "options": [
+      "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย",
+      "ทางโทแยกทางเอกจากขวา รูปตัววาย",
+      "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
+      "ทางโทแยกทางโทจากซ้าย รูปตัววาย"
+    ],
+    "options_th": [
+      "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย",
+      "ทางโทแยกทางเอกจากขวา รูปตัววาย",
+      "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
+      "ทางโทแยกทางโทจากซ้าย รูปตัววาย"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign depicts a Y-junction. The thicker vertical line represents the main road (ทางเอก), and the thinner line branching off from the left represents a secondary road (ทางโท) merging into the main road. Therefore, it indicates a secondary road merging from the left into the main road.",
+    "explanation_th": "The sign depicts a Y-junction. The thicker vertical line represents the main road (ทางเอก), and the thinner line branching off from the left represents a secondary road (ทางโท) merging into the main road. Therefore, it indicates a secondary road merging from the left into the main road.",
+    "image": "1000000000196.webp"
+  },
+  {
+    "id": "Q175",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Y-junction ahead, secondary road merging from the right",
+    "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
+    "options": [
+      "ทางโทแยกทางเอกจากขวา รูปตัววาย",
+      "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
+      "ทางโทแยกทางโทจากซ้าย รูปตัววาย",
+      "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย"
+    ],
+    "options_th": [
+      "ทางโทแยกทางเอกจากขวา รูปตัววาย",
+      "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
+      "ทางโทแยกทางโทจากซ้าย รูปตัววาย",
+      "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign depicts a Y-shaped junction. The thicker line represents the main road (ทางเอก) and the thinner line represents the secondary road (ทางโท). The thinner line branches off from the right side, indicating a secondary road merging from the right. Therefore, it signifies a Y-junction where a secondary road joins the main road from the right.",
+    "explanation_th": "The sign depicts a Y-shaped junction. The thicker line represents the main road (ทางเอก) and the thinner line represents the secondary road (ทางโท). The thinner line branches off from the right side, indicating a secondary road merging from the right. Therefore, it signifies a Y-junction where a secondary road joins the main road from the right.",
+    "image": "1000000000197.webp"
+  },
+  {
+    "id": "Q176",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane reduction on the right",
+    "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
+    "options": [
+      "ช่องจราจรปิดทั้งสองด้าน",
+      "ช่องจราจรลดลงด้านซ้าย",
+      "ช่องจราจรปิดด้านขวา",
+      "ช่องจราจรปิดด้านซ้าย"
+    ],
+    "options_th": [
+      "ช่องจราจรปิดทั้งสองด้าน",
+      "ช่องจราจรลดลงด้านซ้าย",
+      "ช่องจราจรปิดด้านขวา",
+      "ช่องจราจรปิดด้านซ้าย"
+    ],
+    "correct": 1,
+    "explanation_en": "The sign shows two lanes of traffic indicated by arrows. The left lane continues straight, while the right lane is shown to be ending, indicated by the shorter lane with a red barrier at the top. This signifies that the right lane is closing or reducing.",
+    "explanation_th": "The sign shows two lanes of traffic indicated by arrows. The left lane continues straight, while the right lane is shown to be ending, indicated by the shorter lane with a red barrier at the top. This signifies that the right lane is closing or reducing.",
+    "image": "1000000000200.webp"
+  },
+  {
+    "id": "Q177",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Uneven road surface / bumps",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ผิวทางร่วน",
+      "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางข้างหน้าขรุขระมาก เป็นหลุม เป็นบ่อ",
+      "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางลื่น",
+      "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ระวังหินร่วง"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ผิวทางร่วน",
+      "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางข้างหน้าขรุขระมาก เป็นหลุม เป็นบ่อ",
+      "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางลื่น",
+      "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ระวังหินร่วง"
+    ],
+    "correct": 1,
+    "explanation_en": "The sign depicts a wavy line representing an uneven road surface with bumps and dips. Therefore, drivers should slow down, increase caution, and be prepared for a very rough road ahead, potentially with potholes.",
+    "explanation_th": "The sign depicts a wavy line representing an uneven road surface with bumps and dips. Therefore, drivers should slow down, increase caution, and be prepared for a very rough road ahead, potentially with potholes.",
+    "image": "1000000000202.webp"
+  },
+  {
+    "id": "Q178",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Dip or depression in the road ahead",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้าเป็นแอ่ง",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางลงลาดชัน",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง เตือนรถกระโดด",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางขึ้นลาดชัน"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้าเป็นแอ่ง",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางลงลาดชัน",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง เตือนรถกระโดด",
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางขึ้นลาดชัน"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign depicts a road with a dip or depression in the middle. This indicates that there is a low spot in the road ahead, which can cause water to collect or the vehicle to bottom out if driven too fast. Therefore, drivers should slow down and be cautious.",
+    "explanation_th": "The sign depicts a road with a dip or depression in the middle. This indicates that there is a low spot in the road ahead, which can cause water to collect or the vehicle to bottom out if driven too fast. Therefore, drivers should slow down and be cautious.",
+    "image": "1000000000203.webp"
+  },
+  {
+    "id": "Q179",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Drawbridge ahead",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "เตือนรถกระโดด",
+      "ผิวทางขรุขระ",
+      "ทางเป็นแอ่ง",
+      "สะพานเปิดได้"
+    ],
+    "options_th": [
+      "เตือนรถกระโดด",
+      "ผิวทางขรุขระ",
+      "ทางเป็นแอ่ง",
+      "สะพานเปิดได้"
+    ],
+    "correct": 3,
+    "explanation_en": "The sign depicts a bridge with two sections that can be raised, with waves underneath, indicating a drawbridge or bascule bridge. Drivers should be aware that the bridge may open to allow boats to pass, and they should be prepared to stop.",
+    "explanation_th": "The sign depicts a bridge with two sections that can be raised, with waves underneath, indicating a drawbridge or bascule bridge. Drivers should be aware that the bridge may open to allow boats to pass, and they should be prepared to stop.",
+    "image": "1000000000207.webp"
+  },
+  {
+    "id": "Q180",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane ends or merges ahead",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ผู้ขับรถบนทางหลักเตรียมตัวออกทางขนาน",
+      "ผู้ขับขี่บนทางขนานเตรียมตัวเข้าทางหลัก",
+      "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางโค้งซ้าย",
+      "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางโค้งขวา"
+    ],
+    "options_th": [
+      "ผู้ขับรถบนทางหลักเตรียมตัวออกทางขนาน",
+      "ผู้ขับขี่บนทางขนานเตรียมตัวเข้าทางหลัก",
+      "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางโค้งซ้าย",
+      "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางโค้งขวา"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign shows a lane on the right merging into the main lane. This indicates that the right lane is ending and drivers in that lane should prepare to merge into the left lane, which is the main road. Therefore, drivers on the main road should be aware of vehicles merging from the right.",
+    "explanation_th": "The sign shows a lane on the right merging into the main lane. This indicates that the right lane is ending and drivers in that lane should prepare to merge into the left lane, which is the main road. Therefore, drivers on the main road should be aware of vehicles merging from the right.",
+    "image": "1000000000209.webp"
+  },
+  {
+    "id": "Q181",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane ends, traffic must merge left",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ผู้ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มซ้าย",
+      "ผู้ขับขี่บนทางหลักเตรียมตัวออกทางขนาน",
+      "ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มขวา",
+      "ผู้ขับรถในทางหลัก เตรียมเข้าทางคดเคี้ยวเริ่มซ้าย"
+    ],
+    "options_th": [
+      "ผู้ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มซ้าย",
+      "ผู้ขับขี่บนทางหลักเตรียมตัวออกทางขนาน",
+      "ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มขวา",
+      "ผู้ขับรถในทางหลัก เตรียมเข้าทางคดเคี้ยวเริ่มซ้าย"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign shows that the right lane is ending and traffic from the right lane must merge into the left lane. The arrows indicate the direction of travel and the merging path. Option 0 correctly describes this situation: 'ผู้ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มซ้าย' which translates to 'Drivers on the main road prepare to exit the winding road starting left'. While 'winding road' might not be the most precise translation, the core meaning of merging left due to a lane ending is captured.",
+    "explanation_th": "The sign shows that the right lane is ending and traffic from the right lane must merge into the left lane. The arrows indicate the direction of travel and the merging path. Option 0 correctly describes this situation: 'ผู้ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มซ้าย' which translates to 'Drivers on the main road prepare to exit the winding road starting left'. While 'winding road' might not be the most precise translation, the core meaning of merging left due to a lane ending is captured.",
+    "image": "1000000000210.webp"
+  },
+  {
+    "id": "Q182",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane merge from the right",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางเอกตัดกัน",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางคู่ข้างหน้า",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางร่วมด้านซ้าย",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้าอาจมีรถเข้ามาร่วมจากทางขวา"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางเอกตัดกัน",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางคู่ข้างหน้า",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางร่วมด้านซ้าย",
+      "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้าอาจมีรถเข้ามาร่วมจากทางขวา"
+    ],
+    "correct": 3,
+    "explanation_en": "The sign depicts a lane merging from the right into the current lane. This means drivers should slow down and be aware that vehicles may be entering the road from the right side.",
+    "explanation_th": "The sign depicts a lane merging from the right into the current lane. This means drivers should slow down and be aware that vehicles may be entering the road from the right side.",
+    "image": "1000000000211.webp"
+  },
+  {
+    "id": "Q183",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Road narrows, merge from the right",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางร่วมด้านขวา",
+      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางร่วมด้านซ้าย",
+      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวังทางข้างหน้าเป็นทางร่วมไม่มีเกาะ",
+      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางคู่ข้างหน้า"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางร่วมด้านขวา",
+      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางร่วมด้านซ้าย",
+      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวังทางข้างหน้าเป็นทางร่วมไม่มีเกาะ",
+      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางคู่ข้างหน้า"
+    ],
+    "correct": 1,
+    "explanation_en": "The sign depicts two lanes merging into one, with traffic from the right needing to merge into the left lane. The instruction to slow down, keep left, and be cautious is appropriate for this situation. Option 1 correctly identifies the merge from the left side, which is what the sign indicates. Options 0 and 2 describe different scenarios (right-side merge or intersection without a median). Option 3 refers to dual carriageways, which is not represented by this sign.",
+    "explanation_th": "The sign depicts two lanes merging into one, with traffic from the right needing to merge into the left lane. The instruction to slow down, keep left, and be cautious is appropriate for this situation. Option 1 correctly identifies the merge from the left side, which is what the sign indicates. Options 0 and 2 describe different scenarios (right-side merge or intersection without a median). Option 3 refers to dual carriageways, which is not represented by this sign.",
+    "image": "1000000000212.webp"
+  },
+  {
+    "id": "Q184",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Traffic signal ahead",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง และพร้อมที่จะเข้าทางเดินรถสองทาง",
+      "ขับรถให้ช้าลง และพร้อมที่จะกลับรถ ในทางข้างหน้า",
+      "ขับรถให้ช้าลง และพร้อมที่จะปฏิบัติตามสัญญาณไฟจราจร",
+      "ขับรถให้ช้าลง และพร้อมที่จะเข้าทางเดินทางเดียวไปข้างหน้า"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง และพร้อมที่จะเข้าทางเดินรถสองทาง",
+      "ขับรถให้ช้าลง และพร้อมที่จะกลับรถ ในทางข้างหน้า",
+      "ขับรถให้ช้าลง และพร้อมที่จะปฏิบัติตามสัญญาณไฟจราจร",
+      "ขับรถให้ช้าลง และพร้อมที่จะเข้าทางเดินทางเดียวไปข้างหน้า"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign depicts a traffic light, indicating that a traffic signal is ahead. Drivers should slow down and be prepared to obey the traffic signals (red, yellow, or green lights).",
+    "explanation_th": "The sign depicts a traffic light, indicating that a traffic signal is ahead. Drivers should slow down and be prepared to obey the traffic signals (red, yellow, or green lights).",
+    "image": "1000000000216.webp"
+  },
+  {
+    "id": "Q185",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "General warning of danger ahead",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวังทางข้างหน้าอาจมีอันตรายเช่น เกิดอุบัติเหตุทางทรุด เป็นต้น",
+      "ขับรถให้ช้าลง และระมัดระวังคนข้ามถนนเป็นพิเศษ",
+      "ขับรถให้ช้าลง และระมัดระวังเด็กนักเรียนเป็นพิเศษ",
+      "ขับรถให้ช้าลง และระมัดระวังสัตว์"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง และเพิ่มความระมัดระวังทางข้างหน้าอาจมีอันตรายเช่น เกิดอุบัติเหตุทางทรุด เป็นต้น",
+      "ขับรถให้ช้าลง และระมัดระวังคนข้ามถนนเป็นพิเศษ",
+      "ขับรถให้ช้าลง และระมัดระวังเด็กนักเรียนเป็นพิเศษ",
+      "ขับรถให้ช้าลง และระมัดระวังสัตว์"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign displays an exclamation mark and the Thai word \"อันตราย\" (antarai), which means \"danger.\" This is a general warning sign indicating that there is a hazard ahead. Therefore, drivers should slow down and increase their vigilance for potential dangers such as road subsidence or accidents. Options 1, 2, and 3 are too specific, as this sign is a general warning and doesn't specify the type of danger.",
+    "explanation_th": "The sign displays an exclamation mark and the Thai word \"อันตราย\" (antarai), which means \"danger.\" This is a general warning sign indicating that there is a hazard ahead. Therefore, drivers should slow down and increase their vigilance for potential dangers such as road subsidence or accidents. Options 1, 2, and 3 are too specific, as this sign is a general warning and doesn't specify the type of danger.",
+    "image": "1000000000220.webp"
+  },
+  {
+    "id": "Q186",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Lane divergence or split",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ขับรถให้ช้าลง ทางข้างหน้าไม่มีการเปลี่ยนแปลง ห้ามแซง",
+      "ขับรถให้ช้าลง ทางข้างหน้าไม่มีการเปลี่ยนแปลง ให้ชิดขวา",
+      "ขับรถให้ช้าลง ทางตอนนั้นมีการเปลี่ยนแนวทางตามทิศทางที่ชี้ไป",
+      "ขับรถให้ช้าลง ทางข้างหน้าไม่มีการเปลี่ยนแปลง ให้ชิดซ้าย"
+    ],
+    "options_th": [
+      "ขับรถให้ช้าลง ทางข้างหน้าไม่มีการเปลี่ยนแปลง ห้ามแซง",
+      "ขับรถให้ช้าลง ทางข้างหน้าไม่มีการเปลี่ยนแปลง ให้ชิดขวา",
+      "ขับรถให้ช้าลง ทางตอนนั้นมีการเปลี่ยนแนวทางตามทิศทางที่ชี้ไป",
+      "ขับรถให้ช้าลง ทางข้างหน้าไม่มีการเปลี่ยนแปลง ให้ชิดซ้าย"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign with two arrows pointing in opposite directions indicates that the road ahead will split into two lanes, and drivers should follow the direction indicated by the arrows. Option 2 correctly states that the road is changing direction according to the arrows.",
+    "explanation_th": "The sign with two arrows pointing in opposite directions indicates that the road ahead will split into two lanes, and drivers should follow the direction indicated by the arrows. Option 2 correctly states that the road is changing direction according to the arrows.",
+    "image": "1000000000221.webp"
+  },
+  {
+    "id": "Q187",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Alternating lanes / merging traffic",
+    "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+    "options": [
+      "ทางโค้งกลับเริ่มซ้าย",
+      "ทางโค้งกลับเริ่มขวา",
+      "สลับกันไป",
+      "ทางโค้งซ้าย"
+    ],
+    "options_th": [
+      "ทางโค้งกลับเริ่มซ้าย",
+      "ทางโค้งกลับเริ่มขวา",
+      "สลับกันไป",
+      "ทางโค้งซ้าย"
+    ],
+    "correct": 2,
+    "explanation_en": "The sign depicts lanes merging and arrows indicating traffic from both sides alternating to proceed. The Thai text 'สลับกันไป' translates to 'alternate' or 'take turns', which accurately describes the situation shown.",
+    "explanation_th": "The sign depicts lanes merging and arrows indicating traffic from both sides alternating to proceed. The Thai text 'สลับกันไป' translates to 'alternate' or 'take turns', which accurately describes the situation shown.",
+    "image": "1000000000222.webp"
+  },
+  {
+    "id": "Q188",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Start of expressway",
+    "question_th": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+    "options": [
+      "ที่ห้ามกลับรถ",
+      "ที่ห้ามแซง",
+      "ที่กลับรถ",
+      "เริ่มต้นทางด่วน (ทางหลวงพิเศษ)"
+    ],
+    "options_th": [
+      "ที่ห้ามกลับรถ",
+      "ที่ห้ามแซง",
+      "ที่กลับรถ",
+      "เริ่มต้นทางด่วน (ทางหลวงพิเศษ)"
+    ],
+    "correct": 3,
+    "explanation_en": "The sign depicts a divided highway with multiple lanes, which is characteristic of an expressway or highway. The blue background is typically used for informational signs, and this specific symbol indicates the beginning of such a road.",
+    "explanation_th": "The sign depicts a divided highway with multiple lanes, which is characteristic of an expressway or highway. The blue background is typically used for informational signs, and this specific symbol indicates the beginning of such a road.",
+    "image": "1000000000224.webp"
+  },
+  {
+    "id": "Q189",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Road edge marking",
+    "question_th": "เส้นทึบข้างทางแสดงว่าอะไร",
+    "options": [
+      "ข้างหน้ามีสัญญาณไฟจราจร",
+      "เส้นแบ่งเขตรถจักรยาน",
+      "มีทางเดินเท้าอยู่ด้านซ้าย",
+      "เส้นขอบถนน"
+    ],
+    "options_th": [
+      "ข้างหน้ามีสัญญาณไฟจราจร",
+      "เส้นแบ่งเขตรถจักรยาน",
+      "มีทางเดินเท้าอยู่ด้านซ้าย",
+      "เส้นขอบถนน"
+    ],
+    "correct": 3,
+    "explanation_en": "The image shows a solid white line along the edge of the road, which is a road edge marking. This marking indicates the boundary of the roadway and should not be crossed unless absolutely necessary. The question asks what a solid line on the side of the road indicates, and option 3, 'เส้นขอบถนน' (road edge), accurately describes this marking.",
+    "explanation_th": "The image shows a solid white line along the edge of the road, which is a road edge marking. This marking indicates the boundary of the roadway and should not be crossed unless absolutely necessary. The question asks what a solid line on the side of the road indicates, and option 3, 'เส้นขอบถนน' (road edge), accurately describes this marking.",
+    "image": "1000000000283.webp"
+  },
+  {
+    "id": "Q190",
+    "category": "road_signs",
+    "difficulty": 2,
+    "question_en": "Railroad crossing warning sign",
+    "question_th": "เมื่อต้องขับรถเข้าใกล้ทางรถไฟที่ไม่มีเครื่องกั้น ข้อใดต่อไปนี้กล่าวถูกต้อง",
+    "options": [
+      "ชะลอรถและควรเตรียมพร้อมที่จะหยุดรถ",
+      "บีบแตรเตือนเพื่อความปลอดภัย",
+      "เพิ่มความเร็วเพื่อให้ผ่านไปได้เร็ว",
+      "เปิดสัญญาณไฟฉุกเฉิน"
+    ],
+    "options_th": [
+      "ชะลอรถและควรเตรียมพร้อมที่จะหยุดรถ",
+      "บีบแตรเตือนเพื่อความปลอดภัย",
+      "เพิ่มความเร็วเพื่อให้ผ่านไปได้เร็ว",
+      "เปิดสัญญาณไฟฉุกเฉิน"
+    ],
+    "correct": 0,
+    "explanation_en": "The sign indicates an upcoming railroad crossing. When approaching a railroad crossing, especially one without barriers, drivers must slow down and be prepared to stop to ensure safety, as trains have the right of way and cannot stop quickly.",
+    "explanation_th": "The sign indicates an upcoming railroad crossing. When approaching a railroad crossing, especially one without barriers, drivers must slow down and be prepared to stop to ensure safety, as trains have the right of way and cannot stop quickly.",
+    "image": "1000000000435.webp"
   }
 ]
