@@ -203,3 +203,134 @@ export function getCategoryColor(c: Category): string {
   };
   return colors[c];
 }
+
+// ═══════════════════════════════════════════════════════════════════
+// ULTIMATE MODE – Adaptive queue with wrong-answer reinsertion
+// ═══════════════════════════════════════════════════════════════════
+
+export interface UltimateQuestionState {
+  question: Question;
+  level: number;       // 0=new, 5=mastered
+  wrongCount: number;  // wrong answers this session
+  correctStreak: number;
+  lastSeenAt: number;  // global question index when last seen
+}
+
+const ULTIMATE_COOLDOWN_IMMEDIATE = 3;   // can't reappear within N questions
+const ULTIMATE_COOLDOWN_SHORT = 8;       // reduced weight within N questions
+
+/**
+ * Initialize the ultimate session pool from all questions.
+ * Shuffles to avoid category clumping, all start at level 0.
+ */
+export function initUltimatePool(): UltimateQuestionState[] {
+  const shuffled = shuffle([...ALL]);
+  return shuffled.map((q) => ({
+    question: q,
+    level: 0,
+    wrongCount: 0,
+    correctStreak: 0,
+    lastSeenAt: -999,
+  }));
+}
+
+/**
+ * Pick the next question using adaptive weighting.
+ * Questions you got wrong get massive priority boost → reinserted soon.
+ * Mastered questions (level 5) almost never appear.
+ */
+export function pickUltimateQuestion(
+  pool: UltimateQuestionState[],
+  globalIndex: number
+): { index: number; question: Question } {
+  // Compute weights
+  const weights: number[] = pool.map((state, i) => {
+    if (state.lastSeenAt === globalIndex) return 0; // just answered, can't repeat
+
+    // Base weight by mastery level
+    const baseByLevel = [20, 15, 8, 4, 1.5, 0.3];
+    let w = baseByLevel[Math.min(state.level, 5)] || 0.3;
+
+    // Wrong boost: wrong answers spike hard
+    if (state.wrongCount > 0) {
+      w *= 1 + state.wrongCount * 2.5; // 1 wrong → ×3.5, 2 wrong → ×6
+    }
+
+    // Cooldown: questions seen recently are suppressed
+    const distance = globalIndex - state.lastSeenAt;
+    if (distance < ULTIMATE_COOLDOWN_IMMEDIATE) {
+      w *= 0.01; // nearly blocked
+    } else if (distance < ULTIMATE_COOLDOWN_SHORT) {
+      w *= 0.15; // heavily reduced
+    } else if (distance < 20) {
+      w *= 0.5;
+    }
+
+    // Questions never seen in this session get a small discovery bonus
+    if (state.level === 0 && state.lastSeenAt < 0) {
+      w *= 1.3;
+    }
+
+    return w;
+  });
+
+  // Weighted random selection
+  const totalWeight = weights.reduce((s, w) => s + w, 0);
+  let r = Math.random() * totalWeight;
+  for (let i = 0; i < weights.length; i++) {
+    r -= weights[i];
+    if (r <= 0 && weights[i] > 0) {
+      return { index: i, question: pool[i].question };
+    }
+  }
+
+  // Fallback: pick first available
+  for (let i = 0; i < weights.length; i++) {
+    if (weights[i] > 0) {
+      return { index: i, question: pool[i].question };
+    }
+  }
+
+  // Should never happen — reset lastSeenAt for all and retry
+  for (const s of pool) s.lastSeenAt = -999;
+  return { index: 0, question: pool[0].question };
+}
+
+/**
+ * Update a question's state after the user answers.
+ */
+export function updateUltimateState(
+  state: UltimateQuestionState,
+  wasCorrect: boolean,
+  globalIndex: number
+): void {
+  state.lastSeenAt = globalIndex;
+  if (wasCorrect) {
+    state.level = Math.min(5, state.level + 1);
+    state.correctStreak++;
+    // Gradual wrongCount decay: 3 correct in a row clears one wrong strike
+    if (state.correctStreak >= 3 && state.wrongCount > 0) {
+      state.wrongCount--;
+      state.correctStreak = 0;
+    }
+  } else {
+    state.level = Math.max(0, state.level - 1);
+    state.wrongCount++;
+    state.correctStreak = 0;
+  }
+}
+
+/**
+ * Get session progress: % of questions at level 3+
+ */
+export function getUltimateProgress(pool: UltimateQuestionState[]): {
+  mastered: number;
+  learning: number;
+  untouched: number;
+  total: number;
+} {
+  const mastered = pool.filter((s) => s.level >= 4).length;
+  const learning = pool.filter((s) => s.level >= 1 && s.level <= 3).length;
+  const untouched = pool.filter((s) => s.level === 0 && s.lastSeenAt < 0).length;
+  return { mastered, learning, untouched, total: pool.length };
+}

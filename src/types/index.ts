@@ -27,7 +27,7 @@ export interface Question {
   image: string | null;
 }
 
-export type QuizMode = "EXAM" | "TRAINING" | "THEMATIC" | "REVIEW" | "BLITZ" | "FLASHCARD";
+export type QuizMode = "EXAM" | "TRAINING" | "THEMATIC" | "REVIEW" | "BLITZ" | "FLASHCARD" | "ULTIMATE";
 
 export interface CategoryStats {
   seen: string[];

@@ -31,6 +31,24 @@ export default function PracticePage() {
           </h2>
           <div className="space-y-3">
             <Link
+              href="/practice/ultimate/"
+              className="card flex items-center gap-4 p-4 transition hover:border-accent-blue border-2 border-amber-400 bg-amber-50/50 dark:bg-amber-900/10"
+            >
+              <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-amber-100 text-amber-600">
+                <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
+              </div>
+              <div className="flex-1">
+                <h3 className="font-semibold">Ultimate Review</h3>
+                <p className="text-xs text-muted">Non-stop adaptive training • Wrong answers come back fast</p>
+              </div>
+              <svg className="h-5 w-5 text-muted" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+              </svg>
+            </Link>
+
+            <Link
               href="/practice/training/"
               className="card flex items-center gap-4 p-4 transition hover:border-accent-blue"
             >

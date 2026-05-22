@@ -60,7 +60,7 @@ export default function QuestionCard({
     <div className="animate-fade-in space-y-2.5">
       <div className="flex items-center justify-between text-[10px] uppercase tracking-wider text-muted">
         <span className="font-medium">
-          {questionNumber} / {totalQuestions}
+          {totalQuestions > 0 ? `${questionNumber} / ${totalQuestions}` : `Q${questionNumber}`}
         </span>
         <span>{question.category.replace("_", " ")}</span>
       </div>
