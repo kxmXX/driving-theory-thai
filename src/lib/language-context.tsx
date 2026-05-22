@@ -13,7 +13,7 @@ interface LanguageContextType {
 const translations: Record<Language, Record<string, string>> = {
   en: {
     title: "Thai Driving Theory Test",
-    subtitle: "190 official questions • 90% pass rate",
+    subtitle: "176 official questions • 90% pass rate",
     examMode: "Exam Mode",
     examDesc: "50 questions • 50 minutes • Results at the end",
     practice: "Practice",
@@ -77,7 +77,7 @@ const translations: Record<Language, Record<string, string>> = {
   },
   th: {
     title: "ข้อสอบใบขับขี่ไทย",
-    subtitle: "190 คำถามอย่างเป็นทางการ • ผ่าน 90%",
+    subtitle: "176 คำถามอย่างเป็นทางการ • ผ่าน 90%",
     examMode: "โหมดสอบ",
     examDesc: "50 คำถาม • 50 นาที • ดูผลลัพธ์ตอนจบ",
     practice: "ฝึกฝน",
@@ -141,7 +141,7 @@ const translations: Record<Language, Record<string, string>> = {
   },
   fr: {
     title: "Code de la Route Thaïlande",
-    subtitle: "190 questions officielles • Réussite à 90%",
+    subtitle: "176 questions officielles • Réussite à 90%",
     examMode: "Mode Examen",
     examDesc: "50 questions • 50 min • Résultats à la fin",
     practice: "Entraînement",

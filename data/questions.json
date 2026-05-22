@@ -836,29 +836,6 @@
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'หยุดเพื่อให้การจราจรที่ตัดผ่านหรือการจราจรบนถนนสายหลักผ่านไปก่อนจึงจะขับต่อไป' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
   },
   {
-    "id": "Q035",
-    "category": "traffic_rules",
-    "difficulty": 1,
-    "question_en": "Where is it prohibited to make a U-turn?",
-    "question_th": "ที่ใดที่ห้ามกลับรถ?",
-    "options": [
-      "In the spaces between traffic islands",
-      "Where another vehicle is following at a distance of less than 150 meters",
-      "Within 150 meters of the base of a bridge",
-      "In an intersection"
-    ],
-    "correct": 3,
-    "explanation_en": "D) In an intersection is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
-    "image": null,
-    "options_th": [
-      "ในช่องว่างระหว่างเกาะกลางจราจร",
-      "ที่มียานพาหนะอื่นขับตามมาในระยะห่างน้อยกว่า 150 เมตร",
-      "ในระยะ 150 เมตรจากฐานสะพาน",
-      "ในทางแยก"
-    ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ ในทางแยก ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
-  },
-  {
     "id": "Q036",
     "category": "traffic_rules",
     "difficulty": 1,
@@ -908,32 +885,6 @@
       "ที่จอดรถสำหรับรถยนต์เท่านั้น"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'รถยนต์อาจไม่เข้าสู่ถนนข้างหน้า' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q038",
-    "category": "traffic_rules",
-    "difficulty": 1,
-    "question_en": "When is it prohibited to pass?",
-    "question_th": "ห้ามแซงในกรณีใด?",
-    "options": [
-      "When you are passing on the left on a road with two or more lanes moving in the same direction.",
-      "When you are passing on the left and the vehicle being passed is waiting to turn right.",
-      "Within 30 meters of a crossroad.",
-      "Where the road is divided by a broken line."
-    ],
-    "correct": 2,
-    "explanation_en": "C) Within 30 meters of a crossroad. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
-    "image": null,
-    "options_th": [
-      "เมื่อคุณแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
-      "เมื่อคุณแซงทางซ้ายและรถที่ถูกแซงกำลังรอเลี้ยวขวา",
-      "ในระยะ 30 เมตรจากทางแยก",
-      "เมื่อถนนถูกแบ่งด้วยเส้นประ"
-    ],
-    "explanation_th": "ในระยะ 30 เมตรจากทางแยก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
-    "wrong_explanations_en": {
-      "1": "Overtaking on the right is illegal on single-lane roads in Thailand."
-    }
   },
   {
     "id": "Q039",
@@ -1056,29 +1007,6 @@
     "explanation_th": "คำตอบที่ถูกต้องคือ เมื่อหมอกหนาจำกัดทัศนวิสัยน้อยกว่า 150 เมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
   },
   {
-    "id": "Q044",
-    "category": "traffic_rules",
-    "difficulty": 1,
-    "question_en": "As a driver, you must not:",
-    "question_th": "ในฐานะผู้ขับขี่ คุณต้องไม่:",
-    "options": [
-      "Enter halfway into the next lane when an obstruction blocks the left side of the lane you are driving in.",
-      "Make a turn into the bus lane.",
-      "Drive a racing car on a public road with the permission of the relevant traffic authorities.",
-      "Carry loads that obstruct your vision behind and to the sides of your vehicle."
-    ],
-    "correct": 3,
-    "explanation_en": "D) Carry loads that obstruct your vision behind and to the sides of your vehicle. is correct. This action is prohibited because it endangers road users. Thai traffic law explicitly forbids it to maintain safety.",
-    "image": null,
-    "options_th": [
-      "เข้าไปครึ่งช่องทางถัดไปเมื่อมีสิ่งกีดขวางกั้นด้านซ้ายของช่องทางที่คุณกำลังขับอยู่",
-      "เลี้ยวเข้าไปในช่องทางเดินรถประจำทาง",
-      "ขับรถแข่งบนถนนสาธารณะโดยได้รับอนุญาตจากหน่วยงานจราจรที่เกี่ยวข้อง",
-      "บรรทุกสิ่งของที่บดบังทัศนวิสัยด้านหลังและด้านข้างของยานพาหนะของคุณ"
-    ],
-    "explanation_th": "บรรทุกสิ่งของที่บดบังทัศนวิสัยด้านหลังและด้านข้างของยานพาหนะของคุณ คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย"
-  },
-  {
     "id": "Q045",
     "category": "road_signs",
     "difficulty": 2,
@@ -1102,34 +1030,6 @@
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ลดความเร็วของคุณและตรวจสอบรถที่สวนมาก่อนข้าม สะพานช่องทางเดียวข้างหน้า' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
   },
   {
-    "id": "Q046",
-    "category": "traffic_rules",
-    "difficulty": 1,
-    "question_en": "When you see a flashing red light, you should:",
-    "question_th": "เมื่อคุณเห็นไฟกระพริบสีแดง คุณควร:",
-    "options": [
-      "Stop, then proceed only when it is safe to do so.",
-      "Not enter the road ahead.",
-      "Proceed with caution.",
-      "Reduce your speed. Then proceed with caution when it is safe to do so."
-    ],
-    "correct": 0,
-    "explanation_en": "A) Stop, then proceed only when it is safe to do so. is correct. A flashing red light functions exactly like a stop sign. You must come to a complete stop, check all directions, and only proceed when it is safe. Unlike a flashing yellow light which only requires caution, a flashing red demands a full stop.",
-    "image": null,
-    "options_th": [
-      "หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น",
-      "ไม่เข้าไปในถนนข้างหน้า",
-      "ขับต่อไปด้วยความระมัดระวัง",
-      "ลดความเร็วลง จากนั้นขับต่อไปด้วยความระมัดระวังเมื่อปลอดภัยที่จะทำได้"
-    ],
-    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย",
-    "wrong_explanations_en": {
-      "1": "You do not need to avoid the road entirely. Stop first, then proceed when safe.",
-      "2": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely.",
-      "3": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely."
-    }
-  },
-  {
     "id": "Q047",
     "category": "traffic_rules",
     "difficulty": 2,
@@ -1151,34 +1051,6 @@
       "ไม่มีทางข้างหน้า"
     ],
     "explanation_th": "ป้ายจราจรนี้แสดงว่า 'ช่องทางขวาปิดข้างหน้า' การทำความเข้าใจป้ายจราจรเป็นสิ่งจำเป็นสำหรับการขับขี่อย่างปลอดภัยและการสอบผ่านข้อสอบทฤษฎี"
-  },
-  {
-    "id": "Q048",
-    "category": "traffic_rules",
-    "difficulty": 1,
-    "question_en": "When you see a flashing red light, you should:",
-    "question_th": "เมื่อคุณเห็นไฟกระพริบสีแดง คุณควร:",
-    "options": [
-      "Reduce your speed. Then proceed with caution when it is safe to do so.",
-      "Proceed with caution",
-      "Stop, then proceed only when it is safe to do so.",
-      "Not enter the road ahead"
-    ],
-    "correct": 2,
-    "explanation_en": "C) Stop, then proceed only when it is safe to do so. is correct. A flashing red light functions exactly like a stop sign. You must come to a complete stop, check all directions, and only proceed when it is safe. Unlike a flashing yellow light which only requires caution, a flashing red demands a full stop.",
-    "image": null,
-    "options_th": [
-      "ลดความเร็วลง จากนั้นขับต่อไปด้วยความระมัดระวังเมื่อปลอดภัยที่จะทำได้",
-      "ขับต่อไปด้วยความระมัดระวัง",
-      "หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น",
-      "ไม่เข้าไปในถนนข้างหน้า"
-    ],
-    "explanation_th": "กฎข้อบังคับเกี่ยวกับความเร็วที่ถูกต้องคือ: หยุด จากนั้นขับต่อไปเมื่อปลอดภัยที่จะทำได้เท่านั้น ขีดจำกัดความเร็วกำหนดขึ้นตามสภาพถนน ความหนาแน่นของการจราจร และข้อกำหนดด้านความปลอดภัย",
-    "wrong_explanations_en": {
-      "0": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely.",
-      "1": "A flashing yellow light means proceed with caution. A flashing red light means you must stop completely.",
-      "3": "You do not need to avoid the road entirely. Stop first, then proceed when safe."
-    }
   },
   {
     "id": "Q049",
@@ -1465,55 +1337,6 @@
     }
   },
   {
-    "id": "Q061",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "This sign means:",
-    "question_th": "ป้ายนี้หมายความว่า:",
-    "options": [
-      "Vehicles weighing more than 30 tons are prohibited.",
-      "The maximum speed limit is 30 kilometers per hour.",
-      "Vehicles carrying loads weighing more than 30 tons are prohibited.",
-      "The minimum speed limit is 30 kilometers per hour."
-    ],
-    "correct": 3,
-    "explanation_en": "D) The minimum speed limit is 30 kilometers per hour. is correct. This sign sets the minimum speed. You must drive at least this fast. Do not confuse it with a maximum speed limit sign.",
-    "image": "61.jpg",
-    "options_th": [
-      "ห้ามยานพาหนะที่มีน้ำหนักเกิน 30 ตัน",
-      "ขีดจำกัดความเร็วสูงสุดคือ 30 กิโลเมตรต่อชั่วโมง",
-      "ห้ามยานพาหนะที่บรรทุกสินค้าหนักเกิน 30 ตัน",
-      "ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง"
-    ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ขีดจำกัดความเร็วขั้นต่ำคือ 30 กิโลเมตรต่อชั่วโมง' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ",
-    "wrong_explanations_en": {
-      "1": "This is a minimum speed, not a maximum."
-    }
-  },
-  {
-    "id": "Q062",
-    "category": "road_signs",
-    "difficulty": 3,
-    "question_en": "This sign means:",
-    "question_th": "ป้ายนี้หมายความว่า:",
-    "options": [
-      "Pedestrian bridge ahead",
-      "No outlet",
-      "Pedestrian crossing",
-      "School zone. Watch for children"
-    ],
-    "correct": 3,
-    "explanation_en": "D) School zone. Watch for children is correct. A school zone sign warns that children may cross unexpectedly. Reduce speed and stay alert even if no children are visible.",
-    "image": "62.jpg",
-    "options_th": [
-      "สะพานลอยคนเดินข้างหน้า",
-      "ทางออกไม่มี",
-      "ทางม้าลาย",
-      "เขตโรงเรียน ระวังเด็ก"
-    ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'เขตโรงเรียน ระวังเด็ก' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
     "id": "Q063",
     "category": "safety_distances",
     "difficulty": 1,
@@ -1639,32 +1462,6 @@
       "1": "A private car with proper registration and insurance is legal.",
       "2": "A vehicle used for agriculture with proper permits is legal.",
       "3": "A rental car with proper documentation is legal."
-    }
-  },
-  {
-    "id": "Q068",
-    "category": "traffic_rules",
-    "difficulty": 1,
-    "question_en": "When is it prohibited to pass?",
-    "question_th": "ห้ามแซงในกรณีใด?",
-    "options": [
-      "Within 30 meters of a crossroad.",
-      "Where the road is divided by a broken line.",
-      "When you are passing on the left on a road with two or more lanes moving in the same direction.",
-      "When you are passing on the left and the vehicle being passed is waiting to turn right."
-    ],
-    "correct": 0,
-    "explanation_en": "A) Within 30 meters of a crossroad. is correct. In Thailand, overtaking on the right is prohibited on single-lane roads. You may only overtake on the left when the vehicle ahead is turning right and it is completely safe to do so.",
-    "image": null,
-    "options_th": [
-      "ในระยะ 30 เมตรจากทางแยก",
-      "เมื่อถนนถูกแบ่งด้วยเส้นประ",
-      "เมื่อคุณแซงทางซ้ายบนถนนที่มีสองช่องทางขึ้นไปในทิศทางเดียวกัน",
-      "เมื่อคุณแซงทางซ้ายและรถที่ถูกแซงกำลังรอเลี้ยวขวา"
-    ],
-    "explanation_th": "ในระยะ 30 เมตรจากทางแยก คือคำตอบที่ถูกต้อง การรักษาระยะห่างที่ปลอดภัยอย่างเหมาะสมทำให้คุณมีเวลาพอที่จะตอบสนองต่อการหยุดกะทันหันหรืออันตรายข้างหน้า",
-    "wrong_explanations_en": {
-      "3": "Overtaking on the right is illegal on single-lane roads in Thailand."
     }
   },
   {
@@ -1811,34 +1608,6 @@
     "explanation_th": "ขับขี่ทันทีหลังจากดื่มแอลกอฮอล์ คือคำตอบที่ถูกต้อง ประเทศไทยมีกฎหมายที่เข้มงวดเกี่ยวกับแอลกอฮอล์และยาเสพติดขณะขับขี่ โดยมีบทลงโทษที่รุนแรงรวมถึงการพักใช้ใบอนุญาต"
   },
   {
-    "id": "Q075",
-    "category": "traffic_rules",
-    "difficulty": 1,
-    "question_en": "You must not park:",
-    "question_th": "คุณต้องไม่จอดรถ:",
-    "options": [
-      "In front of a school",
-      "On a grade",
-      "In front of a police station",
-      "On the right-hand side of a two-way street"
-    ],
-    "correct": 3,
-    "explanation_en": "D) On the right-hand side of a two-way street is correct. In Thailand, you must park on the left side of the road, facing the direction of traffic. Parking on the right side forces you to cross oncoming traffic when leaving and creates a collision risk.",
-    "image": null,
-    "options_th": [
-      "หน้าโรงเรียน",
-      "บนทางลาดชัน",
-      "หน้าสถานีตำรวจ",
-      "ด้านขวาของถนนสองทิศทาง"
-    ],
-    "explanation_th": "ด้านขวาของถนนสองทิศทาง คือคำตอบที่ถูกต้อง กฎข้อนี้ช่วยให้การจราจรเป็นระเบียบและปลอดภัยสำหรับผู้ใช้ถนนทุกคนในประเทศไทย",
-    "wrong_explanations_en": {
-      "0": "Parking on the sidewalk is prohibited.",
-      "1": "Parking within 3 meters of a fire hydrant is prohibited.",
-      "2": "Parking on the left side of a one-way street is legal."
-    }
-  },
-  {
     "id": "Q076",
     "category": "traffic_rules",
     "difficulty": 2,
@@ -1862,29 +1631,6 @@
     "explanation_th": "คำตอบที่ถูกต้องคือ หยุดและรอให้รถสีน้ำเงินผ่านไปก่อนจึงจะขับต่อไป การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
   },
   {
-    "id": "Q077",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "This sign means:",
-    "question_th": "ป้ายนี้หมายความว่า:",
-    "options": [
-      "Left turn permitted",
-      "No right turn",
-      "Right turn permitted",
-      "Sharp curve ahead"
-    ],
-    "correct": 1,
-    "explanation_en": "B) No right turn is correct. This is a prohibition sign. You must not make the indicated maneuver. It is placed where the turn would be dangerous or would disrupt traffic flow.",
-    "image": "77.jpg",
-    "options_th": [
-      "เลี้ยวซ้ายได้",
-      "ห้ามเลี้ยวขวา",
-      "เลี้ยวขวาได้",
-      "ทางโค้งหักศอกข้างหน้า"
-    ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ห้ามเลี้ยวขวา' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
     "id": "Q078",
     "category": "road_signs",
     "difficulty": 3,
@@ -1906,29 +1652,6 @@
       "อาจไม่ขับตรง"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'ควรลดความเร็วและเข้าสู่โค้งไปทางขวาอย่างระมัดระวัง' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q079",
-    "category": "road_signs",
-    "difficulty": 2,
-    "question_en": "This sign means:",
-    "question_th": "ป้ายนี้หมายความว่า:",
-    "options": [
-      "Stop. Give smaller vehicles the right of way.",
-      "Stop. Give larger vehicles the right of way.",
-      "Reduce your speed and give other vehicles the right of way.",
-      "Stop to allow cross traffic or traffic on the main road to pass before proceeding."
-    ],
-    "correct": 3,
-    "explanation_en": "D) Stop to allow cross traffic or traffic on the main road to pass before proceeding. is correct. \"Stop\" requires a complete halt. Do not confuse it with \"Give way\" which only requires slowing down and yielding if there is traffic.",
-    "image": "79.jpg",
-    "options_th": [
-      "หยุด ให้ยานพาหนะขนาดเล็กมีสิทธิ์ทาง优先",
-      "หยุด ให้ยานพาหนะขนาดใหญ่มีสิทธิ์ทาง优先",
-      "ลดความเร็วของคุณและให้ยานพาหนะอื่นมีสิทธิ์ทาง优先",
-      "หยุดเพื่อให้การจราจรที่ตัดผ่านหรือการจราจรบนถนนสายหลักผ่านไปก่อนจึงจะขับต่อไป"
-    ],
-    "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'หยุดเพื่อให้การจราจรที่ตัดผ่านหรือการจราจรบนถนนสายหลักผ่านไปก่อนจึงจะขับต่อไป' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
   },
   {
     "id": "Q080",
@@ -2028,57 +1751,6 @@
     "explanation_th": "คำตอบที่ถูกต้องคือ หยุดและรอให้รถสีเหลืองผ่านไปแล้วจึงค่อยเลี้ยวตาม การทำความเข้าใจและปฏิบัติตามกฎจราจรเป็นพื้นฐานสำคัญของการขับขี่อย่างปลอดภัย"
   },
   {
-    "id": "Q084",
-    "category": "safety_distances",
-    "difficulty": 2,
-    "question_en": "Which of the following statements is true?",
-    "question_th": "ข้อใดต่อไปนี้เป็นจริง?",
-    "options": [
-      "You may allow unlicensed drivers to user your vehicle.",
-      "It is prohibited to drive a vehicle for which the annual tax has not been paid.",
-      "You may allow someone else to use your driver license.",
-      "You may display license plates that you have had made yourself."
-    ],
-    "correct": 1,
-    "explanation_en": "B) It is prohibited to drive a vehicle for which the annual tax has not been paid. is correct. In Thailand, motorcycles must be inspected at 5 years of age for tax renewal. Cars must be inspected starting at 7 years. These inspections ensure vehicles are roadworthy and safe.",
-    "image": null,
-    "options_th": [
-      "คุณอาจอนุญาตให้ผู้ขับขี่ที่ไม่มีใบอนุญาตใช้ยานพาหนะของคุณได้",
-      "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี",
-      "คุณอาจอนุญาตให้ผู้อื่นใช้ใบขับขี่ของคุณ",
-      "คุณอาจแสดงป้ายทะเบียนที่คุณทำขึ้นเองได้"
-    ],
-    "explanation_th": "ห้ามขับขี่ยานพาหนะที่ยังไม่ได้ชำระภาษีประจำปี เป็นข้อกำหนดทางกฎหมายที่ถูกต้อง เอกสารที่ถูกต้องช่วยให้เกิดความรับผิดชอบและการปฏิบัติตามกฎหมายจราจรของไทย",
-    "wrong_explanations_en": {
-      "1": "\"It is prohibited to drive a vehicle for which the annual tax has not been paid.\" is wrong because cars are inspected from 7 years, not 5.",
-      "2": "\"You may allow someone else to use your driver license.\" is wrong because motorcycles are inspected from 5 years, not 7.",
-      "3": "\"You may display license plates that you have had made yourself.\" is wrong because cars are inspected from 7 years, not 10."
-    }
-  },
-  {
-    "id": "Q085",
-    "category": "traffic_rules",
-    "difficulty": 2,
-    "question_en": "You are required to turn on your headlights:",
-    "question_th": "คุณจำเป็นต้องเปิดไฟหน้าเมื่อ:",
-    "options": [
-      "To request right of way in an emergency.",
-      "To request right of way in an emergency.",
-      "When heavy fog restricts visibility to less than 150 meters.",
-      "When it is raining."
-    ],
-    "correct": 2,
-    "explanation_en": "C) When heavy fog restricts visibility to less than 150 meters. is correct. When turning, always signal early, check mirrors and blind spots, and yield to oncoming traffic and pedestrians. Never cut corners or force your way through.",
-    "image": null,
-    "options_th": [
-      "เพื่อขอทาง优先ในกรณีฉุกเฉิน",
-      "เพื่อขอทาง优先ในกรณีฉุกเฉิน",
-      "เมื่อหมอกหนาจำกัดทัศนวิสัยน้อยกว่า 150 เมตร",
-      "เมื่อฝนตก"
-    ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ เมื่อหมอกหนาจำกัดทัศนวิสัยน้อยกว่า 150 เมตร ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้"
-  },
-  {
     "id": "Q086",
     "category": "road_signs",
     "difficulty": 3,
@@ -2100,34 +1772,6 @@
       "ไม่เข้าไปในถนนข้างหน้า"
     ],
     "explanation_th": "ความหมายที่ถูกต้องของป้ายนี้คือ 'หยุดและให้รถที่สวนมาผ่านไปก่อนจึงจะขับต่อไป' ป้ายจราจรสื่อสารข้อมูลสำคัญเกี่ยวกับสภาพถนนและกฎระเบียบให้ผู้ขับขี่ทราบ"
-  },
-  {
-    "id": "Q087",
-    "category": "traffic_rules",
-    "difficulty": 2,
-    "question_en": "When descending a steep grade or hill, you should:",
-    "question_th": "เมื่อลงทางลาดชันหรือเนินเขา คุณควร:",
-    "options": [
-      "Turn off your engine",
-      "Shift to neutral",
-      "Keep your foot on the brake",
-      "Use a low gear"
-    ],
-    "correct": 3,
-    "explanation_en": "D) Use a low gear is correct. Descending in low gear uses engine braking, which is more reliable than friction brakes alone. Overheating brakes can fade or fail completely on long descents, leading to total loss of control.",
-    "image": null,
-    "options_th": [
-      "ปิดเครื่องยนต์",
-      "เปลี่ยนเป็นเกียร์ว่าง",
-      "เหยียบเบรกค้างไว้",
-      "ใช้เกียร์ต่ำ"
-    ],
-    "explanation_th": "คำตอบที่ถูกต้องคือ ใช้เกียร์ต่ำ ระยะห่างที่ปลอดภัยในการขับตามช่วยป้องกันการชนท้ายและช่วยให้สามารถเบรกฉุกเฉินได้",
-    "wrong_explanations_en": {
-      "0": "Turning off the engine disables power steering and servo-assisted brakes.",
-      "1": "Neutral removes engine braking — you would rely only on brakes, which is extremely dangerous.",
-      "2": "Riding the brake pedal generates excessive heat, causing brake fade."
-    }
   },
   {
     "id": "Q088",
@@ -3812,10 +3456,10 @@
     "question_en": "Lane reduction on the left",
     "question_th": "เครื่องหมายนี้หมายความว่าอะไร",
     "options": [
-      "ช่องจราจรปิดทั้งสองด้าน",
-      "ช่องจราจรปิดด้านซ้าย",
-      "ช่องจราจรปิดด้านขวา",
-      "ช่องจราจรลดลงด้านซ้าย"
+      "Lane closed on both sides",
+      "Lane closed on the left",
+      "Lane closed on the right",
+      "Lane reduction on the left"
     ],
     "options_th": [
       "ช่องจราจรปิดทั้งสองด้าน",
@@ -4003,10 +3647,10 @@
     "question_en": "Warning sign for low-flying aircraft near an airport.",
     "question_th": "เครื่องหมายนี้หมายความว่าอะไร",
     "options": [
-      "จุดนัดพบบริเวณสนามบิน",
-      "จุดรับส่งสัมภาระเครื่องบิน",
-      "ระวังเครื่องบิน บินต่ำ",
-      "ลานจอดรถภายในสนามบิน"
+      "Airport meeting point",
+      "Baggage claim area",
+      "Caution: low-flying aircraft",
+      "Airport parking area"
     ],
     "options_th": [
       "จุดนัดพบบริเวณสนามบิน",
@@ -4026,10 +3670,10 @@
     "question_en": "Warning sign for construction machinery operating ahead",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "ให้ขับรถช้าลง และระมัดระวัง ข้างหน้ามีงานสำรวจทาง",
-      "ให้ขับรถช้าลง และระมัดระวังคนงานกำลัง สำรวจสิ่งก่อสร้าง",
-      "ให้ขับรถช้าลง และระมัดระวัง เครื่องจักรกำลังทำงาน",
-      "ให้ขับรถช้าลง และระมัดระวัง คนงานกำลังทำงาน"
+      "Slow down and watch out — road survey work ahead",
+      "Slow down and watch out — workers surveying structures",
+      "Slow down and watch out — machinery operating ahead",
+      "Slow down and watch out — workers ahead"
     ],
     "options_th": [
       "ให้ขับรถช้าลง และระมัดระวัง ข้างหน้ามีงานสำรวจทาง",
@@ -4049,10 +3693,10 @@
     "question_en": "Lane direction arrows indicating two-way traffic with a dashed line, allowing lane changes and overtaking.",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "เพิ่มความระมัดระวัง และห้ามแซง",
-      "ขับรถให้ช้าลง ขับรถคร่อมเส้นได้",
-      "ขับรถในช่องการจราจร ห้ามคร่อมเส้น แต่แซงได้",
-      "เพิ่มความระมัดระวัง ห้ามเปลี่ยนช่องการจราจร"
+      "Exercise caution — no overtaking",
+      "Slow down — you may straddle the lane line",
+      "Stay in your lane, do not straddle the line — but overtaking is allowed",
+      "Exercise caution — no lane changing"
     ],
     "options_th": [
       "เพิ่มความระมัดระวัง และห้ามแซง",
@@ -4156,10 +3800,10 @@
     "question_en": "Warning sign for a T-junction where the main road is intersected by a side road from the left.",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที",
-      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ามีทางโทแยกไปทางซ้าย",
-      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัววาย",
-      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางโทตัดกับทางโทรูปตัวที"
+      "Drive with caution — T-junction ahead (major roads intersect)",
+      "Slow down and be extra careful — side road joins from the left ahead",
+      "Drive with caution — Y-junction ahead (major roads intersect)",
+      "Drive with caution — T-junction ahead (minor roads intersect)"
     ],
     "options_th": [
       "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที",
@@ -4179,10 +3823,10 @@
     "question_en": "Warning sign for a T-junction ahead, indicating that the main road (ทางเอก) intersects with another road (ทางโท) forming a T-shape.",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "ทางเอกตัดกันรูปตัวที",
-      "ทางเอกตัดทางโทรูปตัววาย",
-      "ทางเอกตัดกันรูปตัววาย",
-      "ทางโทแยกทางเอกเยื้องกัน เริ่มซ้าย"
+      "T-junction (major road intersection)",
+      "Y-junction (major road meets minor road)",
+      "Y-junction (major road intersection)",
+      "Staggered intersection — minor road joins major road, starting from the left"
     ],
     "options_th": [
       "ทางเอกตัดกันรูปตัวที",
@@ -4202,10 +3846,10 @@
     "question_en": "Warning sign for a staggered intersection where a minor road joins a major road from the left and then from the right.",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางโทแยกทางเอกเยื้องกัน เริ่มขวา",
-      "ทางเอกตัดทางโทรูปตัววาย",
-      "ทางเอกตัดกันรูปตัววาย",
-      "ทางเอกตัดกันรูปตัวที"
+      "Staggered intersection — minor road joins major road, starting from the right",
+      "Y-junction (major road meets minor road)",
+      "Y-junction (major road intersection)",
+      "T-junction (major road intersection)"
     ],
     "options_th": [
       "ทางโทแยกทางเอกเยื้องกัน เริ่มขวา",
@@ -4225,10 +3869,10 @@
     "question_en": "Traffic sign indicating a side road joining from the left.",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางโทเชื่อมทางเอกจากซ้าย",
-      "ทางเอกตัดทางโทรูปตัวที",
-      "ทางเอกตัดกันรูปตัวที",
-      "ทางเอกตัดกันรูปตัววาย"
+      "Side road joining from the left",
+      "T-junction (major road meets minor road)",
+      "T-junction (major road intersection)",
+      "Y-junction (major road intersection)"
     ],
     "options_th": [
       "ทางโทเชื่อมทางเอกจากซ้าย",
@@ -4248,10 +3892,10 @@
     "question_en": "Traffic sign indicating a side road joining from the right, with the main road being the one that continues straight.",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางโทเชื่อมทางเอกจากซ้าย",
-      "ทางโทเชื่อมทางโทจากซ้าย",
-      "ทางโทเชื่อมทางเอกจากขวา",
-      "ทางเอกเชื่อมทางเอกจากซ้าย"
+      "Side road joining from the left",
+      "Minor road connecting to minor road from the left",
+      "Side road joining from the right",
+      "Major road connecting to major road from the left"
     ],
     "options_th": [
       "ทางโทเชื่อมทางเอกจากซ้าย",
@@ -4271,10 +3915,10 @@
     "question_en": "Y-junction ahead, with the main road (ทางเอก) continuing straight and a secondary road (ทางโท) merging from the left.",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย",
-      "ทางโทแยกทางเอกจากขวา รูปตัววาย",
-      "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
-      "ทางโทแยกทางโทจากซ้าย รูปตัววาย"
+      "Y-junction — major road splits from the left",
+      "Y-junction — side road branches off to the right",
+      "Y-junction — side road branches off to the left",
+      "Y-junction — minor road branches off minor road to the left"
     ],
     "options_th": [
       "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย",
@@ -4294,10 +3938,10 @@
     "question_en": "Y-junction ahead, secondary road merging from the right",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางโทแยกทางเอกจากขวา รูปตัววาย",
-      "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
-      "ทางโทแยกทางโทจากซ้าย รูปตัววาย",
-      "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย"
+      "Y-junction — side road branches off to the right",
+      "Y-junction — side road branches off to the left",
+      "Y-junction — minor road branches off minor road to the left",
+      "Y-junction — major road splits from the left"
     ],
     "options_th": [
       "ทางโทแยกทางเอกจากขวา รูปตัววาย",

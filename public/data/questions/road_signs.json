@@ -1304,10 +1304,10 @@
     "question_en": "Lane reduction on the left",
     "question_th": "เครื่องหมายนี้หมายความว่าอะไร",
     "options": [
-      "ช่องจราจรปิดทั้งสองด้าน",
-      "ช่องจราจรปิดด้านซ้าย",
-      "ช่องจราจรปิดด้านขวา",
-      "ช่องจราจรลดลงด้านซ้าย"
+      "Lane closed on both sides",
+      "Lane closed on the left",
+      "Lane closed on the right",
+      "Lane reduction on the left"
     ],
     "options_th": [
       "ช่องจราจรปิดทั้งสองด้าน",
@@ -1495,10 +1495,10 @@
     "question_en": "Warning sign for low-flying aircraft near an airport.",
     "question_th": "เครื่องหมายนี้หมายความว่าอะไร",
     "options": [
-      "จุดนัดพบบริเวณสนามบิน",
-      "จุดรับส่งสัมภาระเครื่องบิน",
-      "ระวังเครื่องบิน บินต่ำ",
-      "ลานจอดรถภายในสนามบิน"
+      "Airport meeting point",
+      "Baggage claim area",
+      "Caution: low-flying aircraft",
+      "Airport parking area"
     ],
     "options_th": [
       "จุดนัดพบบริเวณสนามบิน",
@@ -1518,10 +1518,10 @@
     "question_en": "Warning sign for construction machinery operating ahead",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "ให้ขับรถช้าลง และระมัดระวัง ข้างหน้ามีงานสำรวจทาง",
-      "ให้ขับรถช้าลง และระมัดระวังคนงานกำลัง สำรวจสิ่งก่อสร้าง",
-      "ให้ขับรถช้าลง และระมัดระวัง เครื่องจักรกำลังทำงาน",
-      "ให้ขับรถช้าลง และระมัดระวัง คนงานกำลังทำงาน"
+      "Slow down and watch out — road survey work ahead",
+      "Slow down and watch out — workers surveying structures",
+      "Slow down and watch out — machinery operating ahead",
+      "Slow down and watch out — workers ahead"
     ],
     "options_th": [
       "ให้ขับรถช้าลง และระมัดระวัง ข้างหน้ามีงานสำรวจทาง",
@@ -1541,10 +1541,10 @@
     "question_en": "Lane direction arrows indicating two-way traffic with a dashed line, allowing lane changes and overtaking.",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "เพิ่มความระมัดระวัง และห้ามแซง",
-      "ขับรถให้ช้าลง ขับรถคร่อมเส้นได้",
-      "ขับรถในช่องการจราจร ห้ามคร่อมเส้น แต่แซงได้",
-      "เพิ่มความระมัดระวัง ห้ามเปลี่ยนช่องการจราจร"
+      "Exercise caution — no overtaking",
+      "Slow down — you may straddle the lane line",
+      "Stay in your lane, do not straddle the line — but overtaking is allowed",
+      "Exercise caution — no lane changing"
     ],
     "options_th": [
       "เพิ่มความระมัดระวัง และห้ามแซง",
@@ -1648,10 +1648,10 @@
     "question_en": "Warning sign for a T-junction where the main road is intersected by a side road from the left.",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที",
-      "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ามีทางโทแยกไปทางซ้าย",
-      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัววาย",
-      "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางโทตัดกับทางโทรูปตัวที"
+      "Drive with caution — T-junction ahead (major roads intersect)",
+      "Slow down and be extra careful — side road joins from the left ahead",
+      "Drive with caution — Y-junction ahead (major roads intersect)",
+      "Drive with caution — T-junction ahead (minor roads intersect)"
     ],
     "options_th": [
       "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที",
@@ -1671,10 +1671,10 @@
     "question_en": "Warning sign for a T-junction ahead, indicating that the main road (ทางเอก) intersects with another road (ทางโท) forming a T-shape.",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "ทางเอกตัดกันรูปตัวที",
-      "ทางเอกตัดทางโทรูปตัววาย",
-      "ทางเอกตัดกันรูปตัววาย",
-      "ทางโทแยกทางเอกเยื้องกัน เริ่มซ้าย"
+      "T-junction (major road intersection)",
+      "Y-junction (major road meets minor road)",
+      "Y-junction (major road intersection)",
+      "Staggered intersection — minor road joins major road, starting from the left"
     ],
     "options_th": [
       "ทางเอกตัดกันรูปตัวที",
@@ -1694,10 +1694,10 @@
     "question_en": "Warning sign for a staggered intersection where a minor road joins a major road from the left and then from the right.",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางโทแยกทางเอกเยื้องกัน เริ่มขวา",
-      "ทางเอกตัดทางโทรูปตัววาย",
-      "ทางเอกตัดกันรูปตัววาย",
-      "ทางเอกตัดกันรูปตัวที"
+      "Staggered intersection — minor road joins major road, starting from the right",
+      "Y-junction (major road meets minor road)",
+      "Y-junction (major road intersection)",
+      "T-junction (major road intersection)"
     ],
     "options_th": [
       "ทางโทแยกทางเอกเยื้องกัน เริ่มขวา",
@@ -1717,10 +1717,10 @@
     "question_en": "Traffic sign indicating a side road joining from the left.",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางโทเชื่อมทางเอกจากซ้าย",
-      "ทางเอกตัดทางโทรูปตัวที",
-      "ทางเอกตัดกันรูปตัวที",
-      "ทางเอกตัดกันรูปตัววาย"
+      "Side road joining from the left",
+      "T-junction (major road meets minor road)",
+      "T-junction (major road intersection)",
+      "Y-junction (major road intersection)"
     ],
     "options_th": [
       "ทางโทเชื่อมทางเอกจากซ้าย",
@@ -1740,10 +1740,10 @@
     "question_en": "Traffic sign indicating a side road joining from the right, with the main road being the one that continues straight.",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางโทเชื่อมทางเอกจากซ้าย",
-      "ทางโทเชื่อมทางโทจากซ้าย",
-      "ทางโทเชื่อมทางเอกจากขวา",
-      "ทางเอกเชื่อมทางเอกจากซ้าย"
+      "Side road joining from the left",
+      "Minor road connecting to minor road from the left",
+      "Side road joining from the right",
+      "Major road connecting to major road from the left"
     ],
     "options_th": [
       "ทางโทเชื่อมทางเอกจากซ้าย",
@@ -1763,10 +1763,10 @@
     "question_en": "Y-junction ahead, with the main road (ทางเอก) continuing straight and a secondary road (ทางโท) merging from the left.",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย",
-      "ทางโทแยกทางเอกจากขวา รูปตัววาย",
-      "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
-      "ทางโทแยกทางโทจากซ้าย รูปตัววาย"
+      "Y-junction — major road splits from the left",
+      "Y-junction — side road branches off to the right",
+      "Y-junction — side road branches off to the left",
+      "Y-junction — minor road branches off minor road to the left"
     ],
     "options_th": [
       "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย",
@@ -1786,10 +1786,10 @@
     "question_en": "Y-junction ahead, secondary road merging from the right",
     "question_th": "เครื่องหมายนี้ หมายความอย่างไร",
     "options": [
-      "ทางโทแยกทางเอกจากขวา รูปตัววาย",
-      "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
-      "ทางโทแยกทางโทจากซ้าย รูปตัววาย",
-      "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย"
+      "Y-junction — side road branches off to the right",
+      "Y-junction — side road branches off to the left",
+      "Y-junction — minor road branches off minor road to the left",
+      "Y-junction — major road splits from the left"
     ],
     "options_th": [
       "ทางโทแยกทางเอกจากขวา รูปตัววาย",
