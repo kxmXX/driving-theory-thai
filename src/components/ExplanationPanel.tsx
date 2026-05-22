@@ -6,7 +6,7 @@ import { useLanguage } from "@/lib/language-context";
 interface ExplanationPanelProps {
   question: Question;
   isCorrect: boolean;
-  userAnswer: number;
+  userAnswer?: number;
 }
 
 export default function ExplanationPanel({
@@ -23,8 +23,9 @@ export default function ExplanationPanel({
 
   if (!isCorrect) {
     const wrongMap = lang === "th" ? question.wrong_explanations_th : question.wrong_explanations_en;
-    if (wrongMap && wrongMap[userAnswer]) {
-      whyWrong = wrongMap[userAnswer];
+    const ua = userAnswer ?? 0;
+    if (wrongMap && wrongMap[ua]) {
+      whyWrong = wrongMap[ua];
     }
   }
 
@@ -33,6 +34,8 @@ export default function ExplanationPanel({
   } else {
     explanation = question.explanation_en;
   }
+
+  const ua = userAnswer ?? 0;
 
   return (
     <div className="animate-slide-up mt-3 rounded-md border p-3 text-xs">
@@ -60,7 +63,7 @@ export default function ExplanationPanel({
 
       {!isCorrect && (
         <p className="mb-2 text-neutral-700 dark:text-neutral-300">
-          {t("youChose")} <strong>{letters[userAnswer]}</strong>. {t("correct")}: <strong>{letters[question.correct]}</strong>.
+          {t("youChose")} <strong>{letters[ua]}</strong>. {t("correct")}: <strong>{letters[question.correct]}</strong>.
         </p>
       )}
 
