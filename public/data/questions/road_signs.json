@@ -1301,8 +1301,8 @@
     "id": "Q156",
     "category": "road_signs",
     "difficulty": 2,
-    "question_en": "Lane reduction on the left",
-    "question_th": "เครื่องหมายนี้หมายความว่าอะไร",
+    "question_en": "Traffic lane closed on the left",
+    "question_th": "ช่องจราจรปิดด้านซ้าย",
     "options": [
       "Lane closed on both sides",
       "Lane closed on the left",
@@ -1315,8 +1315,8 @@
       "ช่องจราจรปิดด้านขวา",
       "ช่องจราจรลดลงด้านซ้าย"
     ],
-    "correct": 3,
-    "explanation_en": "The sign depicts two lanes of traffic indicated by arrows. The left lane is shown as ending or being reduced, with a red bar indicating the closure or reduction. The right lane continues straight. This signifies that the left lane is closing or merging.",
+    "correct": 1,
+    "explanation_en": "This sign indicates that the left traffic lane is closed ahead. The red bar across the left arrow signifies lane closure. Vehicles in the left lane must merge into the right lane.",
     "explanation_th": "The sign depicts two lanes of traffic indicated by arrows. The left lane is shown as ending or being reduced, with a red bar indicating the closure or reduction. The right lane continues straight. This signifies that the left lane is closing or merging.",
     "image": "1000000000054.webp"
   },
@@ -1775,7 +1775,7 @@
       "ทางโทแยกทางโทจากซ้าย รูปตัววาย"
     ],
     "correct": 2,
-    "explanation_en": "The sign depicts a Y-junction. The thicker vertical line represents the main road (ทางเอก), and the thinner line branching off from the left represents a secondary road (ทางโท) merging into the main road. Therefore, it indicates a secondary road merging from the left into the main road.",
+    "explanation_en": "This sign shows a Y-junction where a secondary road (ทางโท) intersects with the main road (ทางเอก) from the left. The thicker line represents the main road, and the thinner oblique line represents the secondary road.",
     "explanation_th": "The sign depicts a Y-junction. The thicker vertical line represents the main road (ทางเอก), and the thinner line branching off from the left represents a secondary road (ทางโท) merging into the main road. Therefore, it indicates a secondary road merging from the left into the main road.",
     "image": "1000000000196.webp"
   },
@@ -1820,8 +1820,8 @@
       "ช่องจราจรปิดด้านขวา",
       "ช่องจราจรปิดด้านซ้าย"
     ],
-    "correct": 1,
-    "explanation_en": "This sign indicates that the right lane is ending or reducing, meaning traffic in that lane should merge into the left lane.",
+    "correct": 2,
+    "explanation_en": "This sign indicates that the right traffic lane is closed ahead. The red bar across the right arrow signifies lane closure. Vehicles in the right lane must merge into the left lane.",
     "explanation_th": "The sign shows two lanes of traffic indicated by arrows. The left lane continues straight, while the right lane is shown to be ending, indicated by the shorter lane with a red barrier at the top. This signifies that the right lane is closing or reducing.",
     "image": "1000000000200.webp",
     "wrong_explanations_en": {
@@ -2005,10 +2005,10 @@
     "question_en": "When you encounter this sign, what should you do?",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "Slow down, keep left, and be extra cautious — merge from the right ahead.",
-      "Slow down, keep left, and be extra cautious — merge from the left ahead.",
-      "Slow down, keep left, and be extra cautious — the road ahead merges without a median island.",
-      "Slow down, keep left, and be extra cautious — dual carriageway ahead."
+      "Slow down — the road ahead becomes a one-way street.",
+      "Slow down — the road is narrowing from the left.",
+      "Slow down — single carriageway with no median ahead.",
+      "Slow down — divided highway (dual carriageway) with central median begins ahead."
     ],
     "options_th": [
       "ระวังทางข้างหน้าเป็นถนนเดินรถทางเดียว",
@@ -2016,8 +2016,8 @@
       "ระวังทางข้างหน้าเป็นทางร่วมไม่มีเกาะกลาง",
       "ขับรถให้ช้าลง และระวังทางข้างหน้าเป็นทางคู่ที่มีเกาะกลาง"
     ],
-    "correct": 2,
-    "explanation_en": "This sign indicates that the road ahead becomes a merged roadway without a central median or island. Drivers should slow down, keep left, and exercise extra caution as traffic from both directions shares the same road surface.",
+    "correct": 3,
+    "explanation_en": "This sign shows two arrows diverging around a central median island. It warns that a divided highway (dual carriageway) begins ahead. Traffic will be separated by a physical median.",
     "explanation_th": "ป้ายนี้หมายถึงจุดเริ่มต้นของทางคู่ ซึ่งเป็นถนนที่แบ่งช่องจราจรด้วยเกาะกลาง แยกทิศทางการจราจรออกจากกัน ผู้ขับขี่ควรระมัดระวังการเปลี่ยนรูปแบบถนนและขับรถในช่องทางที่ถูกต้อง",
     "image": "1000000000212.webp",
     "wrong_explanations_en": {
