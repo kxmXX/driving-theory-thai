@@ -4157,20 +4157,20 @@
     "question_en": "When you encounter this sign, what should you do?",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "Slow down, keep left, and be cautious of an intersection on the right.",
-      "Slow down, keep left, and be cautious of an intersection on the left.",
-      "Slow down, keep left, and be cautious of an upcoming intersection without a median.",
-      "Slow down, keep left, and be cautious of dual carriageways ahead."
+      "Be aware that the road ahead becomes a one-way street.",
+      "Slow down, the road ahead is narrowing from the left.",
+      "Be aware that the road ahead is a single carriageway with no median.",
+      "Slow down and be aware that the road ahead becomes a dual carriageway with a central median."
     ],
     "options_th": [
-      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางร่วมด้านขวา",
-      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางร่วมด้านซ้าย",
-      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวังทางข้างหน้าเป็นทางร่วมไม่มีเกาะ",
-      "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางคู่ข้างหน้า"
+      "ระวังทางข้างหน้าเป็นถนนเดินรถทางเดียว",
+      "ขับรถให้ช้าลง ทางข้างหน้าจะแคบลงจากด้านซ้าย",
+      "ระวังทางข้างหน้าเป็นทางร่วมไม่มีเกาะกลาง",
+      "ขับรถให้ช้าลง และระวังทางข้างหน้าเป็นทางคู่ที่มีเกาะกลาง"
     ],
-    "correct": 1,
-    "explanation_en": "This sign indicates that traffic from the left will be merging into your lane. You should slow down, keep to the left, and be prepared for vehicles entering from the left.",
-    "explanation_th": "The sign depicts two lanes merging into one, with traffic from the right needing to merge into the left lane. The instruction to slow down, keep left, and be cautious is appropriate for this situation. Option 1 correctly identifies the merge from the left side, which is what the sign indicates. Options 0 and 2 describe different scenarios (right-side merge or intersection without a median). Option 3 refers to dual carriageways, which is not represented by this sign.",
+    "correct": 3,
+    "explanation_en": "This sign indicates the start of a divided highway (dual carriageway). The road ahead splits into two separate carriageways with a central median, separating traffic by direction. Drivers should be aware of the change in road layout and keep to the appropriate side.",
+    "explanation_th": "ป้ายนี้หมายถึงจุดเริ่มต้นของทางคู่ ซึ่งเป็นถนนที่แบ่งช่องจราจรด้วยเกาะกลาง แยกทิศทางการจราจรออกจากกัน ผู้ขับขี่ควรระมัดระวังการเปลี่ยนรูปแบบถนนและขับรถในช่องทางที่ถูกต้อง",
     "image": "1000000000212.webp",
     "wrong_explanations_en": {
       "0": "This sign indicates a merge from the left, not the right.",
