@@ -3439,7 +3439,7 @@
       "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ามีทางโทแยกไปทางขวา",
       "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางเอกแยกทางเอกทางขวา"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation_en": "This sign indicates a secondary road (ทางโท) joining the main road (ทางเอก) ahead from the right. Drivers should slow down and increase their caution because vehicles might be entering or exiting the main road from this junction.",
     "explanation_th": "The sign depicts a T-junction where a side road joins from the right. Drivers should slow down and be extra cautious as vehicles may be entering or exiting the main road from this junction.",
     "image": "1000000000053.webp",
@@ -3811,9 +3811,9 @@
       "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัววาย",
       "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางโทตัดกับทางโทรูปตัวที"
     ],
-    "correct": 0,
-    "explanation_en": "The sign is a yellow diamond warning sign, indicating a hazard ahead. The symbol depicts a T-junction where a road from the left joins the main road. In Thai traffic law, this sign signifies that the road ahead is a major road (ทางเอก) that is intersected by another road from the left, forming a T-junction. Drivers should exercise caution. Option [0] accurately describes this situation: 'ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที' (Drive with caution, ahead is a major road intersecting in a T-shape). Option [1] is incorrect because the sign doesn't specify a minor road (ทางโท) or a turn to the left. Option [2] is incorrect because the symbol does not represent a Y-junction. Option [3] is incorrect because it describes two minor roads intersecting, which is not what the sign depicts.",
-    "explanation_th": "The sign is a yellow diamond warning sign, indicating a hazard ahead. The symbol depicts a T-junction where a road from the left joins the main road. In Thai traffic law, this sign signifies that the road ahead is a major road (ทางเอก) that is intersected by another road from the left, forming a T-junction. Drivers should exercise caution. Option [0] accurately describes this situation: 'ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที' (Drive with caution, ahead is a major road intersecting in a T-shape). Option [1] is incorrect because the sign doesn't specify a minor road (ทางโท) or a turn to the left. Option [2] is incorrect because the symbol does not represent a Y-junction. Option [3] is incorrect because it describes two minor roads intersecting, which is not what the sign depicts.",
+    "correct": 1,
+    "explanation_en": "This yellow diamond warning sign depicts a T-junction where a minor road (ทางโท) joins a major road (ทางเอก) from the left. The thinner line on the left indicates a secondary road. Drivers on the main road should exercise caution as vehicles may enter from the left.",
+    "explanation_th": "ป้ายเตือนนี้แสดงทางแยกรูปตัวที โดยมีทางโทเชื่อมต่อกับทางเอกจากด้านซ้าย เส้นที่บางกว่าด้านซ้ายแสดงถึงทางรอง ผู้ขับขี่บนทางเอกควรใช้ความระมัดระวัง เนื่องจากอาจมีรถจากทางโทเข้าสู่ทางเอก",
     "image": "1000000000191.webp"
   },
   {
@@ -4084,8 +4084,8 @@
       "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางโค้งซ้าย",
       "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางโค้งขวา"
     ],
-    "correct": 0,
-    "explanation_en": "This sign indicates a junction where the main road has an exit to a parallel road (frontage road). Drivers on the main road who wish to exit should prepare to move to the parallel road. Drivers continuing on the main road should be aware of vehicles slowing down to exit.",
+    "correct": 1,
+    "explanation_en": "This sign indicates a junction where a parallel road (frontage road) merges into the main road. Vehicles on the parallel road should prepare to enter the main road ahead.",
     "explanation_th": "ป้ายนี้แสดงจุดที่ทางเอกมีทางออกไปยังทางคู่ขนาน ผู้ขับขี่บนทางเอกที่ต้องการออกควรเตรียมไปยังทางคู่ขนาน ผู้ขับขี่ที่ขับตรงไปบนทางเอกควรระมัดระวังรถที่กำลังชะลอเพื่อออก",
     "image": "1000000000209.webp",
     "wrong_explanations_en": {
@@ -4101,10 +4101,10 @@
     "question_en": "When you see this traffic sign, what should you do?",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
+      "Drivers on the main road should prepare for a winding road starting on the left.",
       "Drivers on the main road should prepare to exit to the parallel road.",
-      "Drivers on the parallel road should prepare to enter the main road.",
-      "Drivers on the main road should be cautious and prepare to exit a left curve.",
-      "Drivers on the main road should be cautious and prepare to exit a right curve."
+      "Drivers on the main road should prepare for a winding road starting on the right.",
+      "Drivers on the main road should prepare to enter a winding road starting on the left."
     ],
     "options_th": [
       "ผู้ขับขี่บนทางเอกควรเตรียมออกไปยังทางคู่ขนาน",
@@ -4113,7 +4113,7 @@
       "ผู้ขับขี่บนทางเอกควรระมัดระวังและเตรียมออกโค้งขวา"
     ],
     "correct": 1,
-    "explanation_en": "This sign indicates a junction where a parallel road (frontage road) connects to the main road. Vehicles on the parallel road must prepare to merge into or cross the main road, while drivers on the main road should be aware of traffic entering from the parallel road.",
+    "explanation_en": "This sign indicates that the main road has an exit to a parallel road (frontage road) ahead. Drivers on the main road who wish to exit should prepare to move onto the parallel road.",
     "explanation_th": "ป้ายนี้แสดงจุดเชื่อมต่อระหว่างทางคู่ขนานกับทางเอก ผู้ขับขี่บนทางคู่ขนานต้องเตรียมเข้าสู่ทางเอก ขณะที่ผู้ขับขี่บนทางเอกควรระมัดระวังรถที่กำลังเข้าสู่ทางหลักจากทางคู่ขนาน",
     "image": "1000000000210.webp",
     "wrong_explanations_en": {
@@ -4131,8 +4131,8 @@
     "options": [
       "Slow down and be cautious of a major road intersecting ahead.",
       "Slow down and be cautious of a dual carriageway ahead.",
-      "Slow down and be cautious of an intersection on the left ahead.",
-      "Slow down and be cautious that a vehicle may merge from the right ahead."
+      "Slow down and be cautious of a road merging from the left ahead.",
+      "Slow down and be cautious that a vehicle may merge from the left ahead."
     ],
     "options_th": [
       "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางเอกตัดกัน",
@@ -4140,9 +4140,9 @@
       "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางร่วมด้านซ้าย",
       "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้าอาจมีรถเข้ามาร่วมจากทางขวา"
     ],
-    "correct": 3,
-    "explanation_en": "This sign indicates that a lane is merging from the right. Drivers should reduce speed and be prepared for vehicles entering their lane from the right side.",
-    "explanation_th": "The sign depicts a lane merging from the right into the current lane. This means drivers should slow down and be aware that vehicles may be entering the road from the right side.",
+    "correct": 2,
+    "explanation_en": "This sign warns of a road merging from the left ahead. Slow down and watch for vehicles entering the main road from the left side.",
+    "explanation_th": "ป้ายนี้แสดงว่ามีช่องจราจรจากด้านซ้ายกำลังรวมเข้ากับช่องทางหลักข้างหน้า ผู้ขับขี่ควรชะลอความเร็วและระมัดระวังรถที่กำลังเข้ามาจากด้านซ้าย",
     "image": "1000000000211.webp",
     "wrong_explanations_en": {
       "0": "This sign does not indicate a major road intersection.",
@@ -4157,10 +4157,10 @@
     "question_en": "When you encounter this sign, what should you do?",
     "question_th": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
     "options": [
-      "Be aware that the road ahead becomes a one-way street.",
-      "Slow down, the road ahead is narrowing from the left.",
-      "Be aware that the road ahead is a single carriageway with no median.",
-      "Slow down and be aware that the road ahead becomes a dual carriageway with a central median."
+      "Slow down, keep left, and be extra cautious — merge from the right ahead.",
+      "Slow down, keep left, and be extra cautious — merge from the left ahead.",
+      "Slow down, keep left, and be extra cautious — the road ahead merges without a median island.",
+      "Slow down, keep left, and be extra cautious — dual carriageway ahead."
     ],
     "options_th": [
       "ระวังทางข้างหน้าเป็นถนนเดินรถทางเดียว",
@@ -4168,8 +4168,8 @@
       "ระวังทางข้างหน้าเป็นทางร่วมไม่มีเกาะกลาง",
       "ขับรถให้ช้าลง และระวังทางข้างหน้าเป็นทางคู่ที่มีเกาะกลาง"
     ],
-    "correct": 3,
-    "explanation_en": "This sign indicates the start of a divided highway (dual carriageway). The road ahead splits into two separate carriageways with a central median, separating traffic by direction. Drivers should be aware of the change in road layout and keep to the appropriate side.",
+    "correct": 2,
+    "explanation_en": "This sign indicates that the road ahead becomes a merged roadway without a central median or island. Drivers should slow down, keep left, and exercise extra caution as traffic from both directions shares the same road surface.",
     "explanation_th": "ป้ายนี้หมายถึงจุดเริ่มต้นของทางคู่ ซึ่งเป็นถนนที่แบ่งช่องจราจรด้วยเกาะกลาง แยกทิศทางการจราจรออกจากกัน ผู้ขับขี่ควรระมัดระวังการเปลี่ยนรูปแบบถนนและขับรถในช่องทางที่ถูกต้อง",
     "image": "1000000000212.webp",
     "wrong_explanations_en": {
